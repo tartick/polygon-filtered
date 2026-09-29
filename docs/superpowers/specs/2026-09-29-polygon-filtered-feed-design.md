@@ -150,6 +150,7 @@ KEEP
 - Blizzard Promises 'Diablo 4' Support Even After 'Diablo 5' Launches
 - 'The Witcher 3 Remastered' Pirates Are Encouraging Each Other To Buy It Instead
 - The Mummy 4 Set Photos Reveal Brendan Fraser’s Official New Look
+- The Mummy 4 Set Photos Show First Look at Rachel Weisz's Return (relabeled keep for consistency with the Fraser photos)
 - Fortnite’s Halloween Event Is Officially Jam-Packed With Horror Franchises
 - The Witcher 3’s Next Big Expansion Just Released a Glimpse Into Its World
 - The Next Monster Hunter Game Officially Gets a Release Date
@@ -200,7 +201,6 @@ TOSS
 - 'Get Jiro' Review: Adult Swim’s Anthony Bourdain’s Adaptation Is Best When it Focuses on the Food
 - Why Star Wars Fans Are Furious Over the Next Skywalker Saga Movie
 - New Target 'Pokémon' Card System Will Make Collectors Very Happy
-- The Mummy 4 Set Photos Show First Look at Rachel Weisz's Return
 - Star Wars' Most Cunning Villain Officially Returns in New Release | Exclusive Preview
 - 'Futurama' Showrunner Officially Confirms the Sci-Fi Series' Surprising 2027 Plans
 - Pokémon's 30th Anniversary Happy Meal Toy Will Unleash Scalper Hell
