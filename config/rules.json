@@ -1,0 +1,12 @@
+{
+  "dropCategories": ["Guides"],
+  "dropTitlePatterns": [
+    "\\b\\d{2,3}-Minute\\b",
+    "\\b(back|returns?)\\b.{0,20}\\b(on|onto) streaming\\b",
+    "\\bstreaming for free\\b",
+    "\\bfree (to watch )?on YouTube\\b",
+    "\\bNo\\. ?1 on (Netflix|Prime Video|HBO Max|Hulu|Disney\\+|Peacock|Paramount\\+|Apple TV)",
+    "\\bleav(e|es|ing) (streaming|Netflix|Prime Video|HBO Max|Hulu|Disney\\+|Peacock|Paramount\\+)"
+  ],
+  "keepCategories": ["Magic: The Gathering"]
+}
