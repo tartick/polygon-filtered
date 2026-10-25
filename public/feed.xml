@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Polygon (filtered)</title>
+    <link>https://www.polygon.com</link>
+    <description>Polygon.com minus the shovelware.</description>
+    <atom:link href="https://tartick.github.io/polygon-filtered/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 25 Oct 2026 12:05:18 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[Nintendo Legend Reveals Super Mario Bros.' Most Surprising Innovation]]></title>
+      <link>https://www.polygon.com/nintendo-super-mario-japan-award-biggest-series-innovation/</link>
+      <guid isPermaLink="true">https://www.polygon.com/nintendo-super-mario-japan-award-biggest-series-innovation/</guid>
+      <dc:creator><![CDATA[Patricia Hernandez]]></dc:creator>
+      <pubDate>Sun, 25 Oct 2026 12:05:18 GMT</pubDate>
+      <category><![CDATA[News]]></category>
+      <category><![CDATA[Nintendo]]></category>
+      <category><![CDATA[Super Mario Bros.]]></category>
+      <enclosure url="https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/09/mario-artwork-from-the-original-super-mario-bros-nes-box-art.jpg" length="509146" type="image/jpeg"/>
+      <description><![CDATA[Nintendo designer Shigeru Miyamoto pinpoints the NES game's most notable invention, which remains unique 41 years after the original Super Mario Bros.]]></description>
+      <content:encoded><![CDATA[<p>The original side-scrolling <a href="https://www.polygon.com/features/2017/11/8/16621744/the-best-mario-games/" target="_blank"><em>Super Mario Bros.</em></a> is widely considered to be one of the best games of all time, and the list of reasons justifying that assertion is long. The NES game made <a href="https://www.polygon.com/nintendo/" target="_blank">Nintendo</a> into a household name, and <a href="https://www.polygon.com/tag/super-mario/" target="_blank">Mario</a> into a media icon as recognizable as Mickey Mouse. The 1985 video game helped bring games into the mainstream, and it defined platforming as a video game genre. <em>Super Mario Bros.</em> remains one of the best-selling games of all time. Yet if you ask series creator Shigeru Miyamoto, none of these things truly capture <em>SMB</em>'s biggest contribution to the world of video games.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title><![CDATA[BioWare's Closure Is Just the Tip of the Iceberg]]></title>
+      <link>https://www.polygon.com/patch-notes-bioware-closure/</link>
+      <guid isPermaLink="true">https://www.polygon.com/patch-notes-bioware-closure/</guid>
+      <dc:creator><![CDATA[Oli Welsh]]></dc:creator>
+      <pubDate>Sun, 25 Oct 2026 12:00:18 GMT</pubDate>
+      <category><![CDATA[Patch Notes]]></category>
+      <category><![CDATA[Mass Effect]]></category>
+      <category><![CDATA[Dragon Age]]></category>
+      <enclosure url="https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/08/morrigan-from-dragon-age-origins.png" length="3669" type="image/jpeg"/>
+      <description><![CDATA[The Mass Effect and Dragon Age studio being shuttered by EA is a sign of a slow-motion industry crash that hasn't peaked]]></description>
+      <content:encoded><![CDATA[<p>We're in the middle of an outpouring of mourning for the studio, and for the <a href="https://www.polygon.com/mass-effect-5-trailer-universe-what-is-bioware-leak-development/" target="_blank"><em>Mass Effect Universe </em>we never got</a>. BioWare's talented developers will hopefully all go on to great things elsewhere, and many already have. (Who's looking forward to <a href="https://www.polygon.com/exodus-preview-hands-on/" target="_blank"><em>Exodus</em></a>?) Maybe Mass Effect and Dragon Age will return; in this age of zombie IP, it seems a safe bet that they will. What's really lost at a moment like this, though, is institutional knowledge and culture, the malleable but enduring practices and principles that survive the departure of founders and team leads and are nurtured by new hands. It's a terrible loss.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title><![CDATA[Vincent Price Is the Weirdest Serial Killer Ever in this '70s Cult Classic]]></title>
+      <link>https://www.polygon.com/halloween-horror-what-to-watch-vincent-price-abominable-dr-phibes/</link>
+      <guid isPermaLink="true">https://www.polygon.com/halloween-horror-what-to-watch-vincent-price-abominable-dr-phibes/</guid>
+      <dc:creator><![CDATA[Oli Welsh]]></dc:creator>
+      <pubDate>Sun, 25 Oct 2026 10:00:18 GMT</pubDate>
+      <category><![CDATA[Halloween Countdown]]></category>
+      <category><![CDATA[Horror]]></category>
+      <category><![CDATA[Movies]]></category>
+      <enclosure url="https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/mcdabdr_ec010_h.JPG" length="1601" type="image/jpeg"/>
+      <description><![CDATA[The Abominable Dr. Phibes is a campy horror movie about an organist who murders surgeons]]></description>
+      <content:encoded><![CDATA[<p>We are 10 minutes into <em>The Abominable Dr. Phibes</em>, and nobody has spoken a word. Robert Fuest’s 1971 horror film is a surreal, kitsch, and intentionally funny murder-museum of a movie. But it's also dreamlike and deeply strange in a way that lingers after you've watched it.</p>]]></content:encoded>
+    </item>
+  </channel>
+</rss>
