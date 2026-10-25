@@ -1,5 +1,97 @@
 [
   {
+    "guid": "https://www.polygon.com/gundam-movie-sydney-sweeney-netflix-story-details/",
+    "title": "Sydney Sweeney's New Netflix Sci-Fi Space Epic Gets First Details",
+    "link": "https://www.polygon.com/gundam-movie-sydney-sweeney-netflix-story-details/",
+    "creator": "",
+    "pubDate": "Sun, 25 Oct 2026 21:52:18 GMT",
+    "categories": [
+      "News",
+      "Gundam"
+    ],
+    "description": "Netflix's live-action Gundam adaptation stars Sydney Sweeney and Noah Centineo in a Shakespearian action romance space movie epic.",
+    "contentEncoded": "<p>The <a href=\"https://www.polygon.com/22380143/netflix-gundam-movie-jordan-vogt-roberts-brian-k-vaughn/\" target=\"_blank\">live-action Gundam film</a> has been in the works in some form or another since 2018. A director and cast have been announced, including high-profile names like <a href=\"https://www.polygon.com/sydney-sweenys-gundam-needs-to-be-political-to-actually-be-faithful-to-the-anime/\" target=\"_blank\">Sydney Sweeney</a> joining the project. Still, hard details on exactly what Netflix's live-action adaptation of the legendary mech <a href=\"http://polygon.com/anime\" target=\"_blank\">anime</a> series will look like have been almost non-existent.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/the-voyeurs-sydney-sweeney.jpg",
+      "type": "image/jpeg",
+      "length": "150"
+    },
+    "decision": "toss",
+    "reason": "Big-franchise churn: Gundam anime adaptation casting gossip.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-25T22:00:15.510Z"
+  },
+  {
+    "guid": "https://www.polygon.com/tomb-raider-remake-legacy-of-atlantis-new-trailer-30th-anniversary/",
+    "title": "Tomb Raider's 2027's Return Looks Stunning in New Official Footage",
+    "link": "https://www.polygon.com/tomb-raider-remake-legacy-of-atlantis-new-trailer-30th-anniversary/",
+    "creator": "Michael McWhertor",
+    "pubDate": "Sun, 25 Oct 2026 20:58:54 GMT",
+    "categories": [
+      "Gaming",
+      "Tomb Raider",
+      "Tomb Raider: Legacy of Atlantis"
+    ],
+    "description": "Tomb Raider: Legacy of Atlantis' new 30th anniversary trailer reveals classic moments from 1996's Tomb Raider in dazzling remake footage.",
+    "contentEncoded": "<p>The original <a href=\"https://www.polygon.com/tag/tomb-raider/\" target=\"_blank\"><em>Tomb Raider</em></a> game celebrated its 30th anniversary this weekend, marking the 3D platforming adventure's release on Sega Saturn — yes, it came to Sega's doomed 3D console before its PlayStation and PC release a month later. To mark the occasion, developers Crystal Dynamics and Flying Wild Hog, and publisher Amazon Game Studios, revealed a new look at the game originally meant to celebrate that milestone: <a href=\"https://www.polygon.com/tomb-raider-legacy-of-atlantis/\" target=\"_blank\"><em>Tomb Raider: Legacy of Atlantis</em></a>.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/tomb-raider_-legacy-of-atlantis-30th-anniversary-teaser-video-_-tomb-raider-0-55-screenshot.jpeg",
+      "type": "image/jpeg",
+      "length": "244"
+    },
+    "decision": "keep",
+    "reason": "Video game remake with new trailer; genuine sequel/remake announcement.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-25T22:00:15.510Z"
+  },
+  {
+    "guid": "https://www.polygon.com/batman-arkham-city-retrospective-best-superhero-video-game/",
+    "title": "15 Years Later, Batman: Arkham City Remains Batman's Last Gaming Masterpiece",
+    "link": "https://www.polygon.com/batman-arkham-city-retrospective-best-superhero-video-game/",
+    "creator": "Austin Manchester",
+    "pubDate": "Sun, 25 Oct 2026 20:00:18 GMT",
+    "categories": [
+      "Gaming",
+      "Batman: Arkham City",
+      "Batman: Arkham Asylum",
+      "Batman: Arkham Knight",
+      "LEGO Batman: Legacy of the Dark Knight"
+    ],
+    "description": "Batman: Arkham City set a new highwater mark for superhero games and has influenced their design and mechanics in the 15 years since its release.",
+    "contentEncoded": "<p><em>Batman: Arkham Asylum</em> was released in 2009 at a time when <a href=\"https://www.polygon.com/comics/600993/superhero-video-games-we-need/\" target=\"_blank\">superhero video games</a> were usually relegated to being uninspired movie tie-ins. Some of them were good, like <em>X-Men Origins: Wolverine</em>, but most of them were either forgettable or downright bad. <em>Arkham Asylum</em> was something different — a superhero game based on an original idea from a renowned Batman writer, Paul Dini (<a href=\"https://www.polygon.com/23328910/batman-the-animated-series-btas-cartoon-essay/\" target=\"_blank\"><em>Batman: The Animated Series</em></a>). It was great, and set the foundation for its even greater 2011 follow-up.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/9759137/City.jpg",
+      "type": "image/jpeg",
+      "length": "255595"
+    },
+    "decision": "toss",
+    "reason": "Nostalgia retrospective about old game from 15 years ago.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-25T22:00:15.510Z"
+  },
+  {
+    "guid": "https://www.polygon.com/calvin-hobbes-vocabulary/",
+    "title": "6 Hilarious 'Calvin and Hobbes' Comics Where Calvin is a Weird Little Genius",
+    "link": "https://www.polygon.com/calvin-hobbes-vocabulary/",
+    "creator": "Thomas Hindmarch",
+    "pubDate": "Sun, 25 Oct 2026 20:00:18 GMT",
+    "categories": [
+      "Comics",
+      "comic strip"
+    ],
+    "description": "Words and verbs and adjectives, painted up like a picture in these iconic Calvin and Hobbes comic strips",
+    "contentEncoded": "<p><em>Calvin and Hobbes</em> came along at just the right time to influence a generation of creators, many of whom would go on to create comic strips of their own. Alongside a couple of other seminal '90s newspaper comics like <em>Bloom County/Outland</em>, <em>C&H</em>'s linework, flexibility, and imagination visibly inspired many of the artists who worked in the 2000s webcomics boom.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/calvin-and-hobbes-revenge-of-the-babysat.jpg",
+      "type": "image/jpeg",
+      "length": "394"
+    },
+    "decision": "toss",
+    "reason": "Generic comics/graphic novel excerpt; not gaming or horror.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-25T22:00:15.510Z"
+  },
+  {
     "guid": "https://www.polygon.com/raya-and-the-last-dragon-perfect-disney-movie-for-avatar-seven-havens-fans/",
     "title": "'Avatar: Seven Havens' Fans Need to Watch Disney’s Overlooked Apocalyptic Fantasy Adventure",
     "link": "https://www.polygon.com/raya-and-the-last-dragon-perfect-disney-movie-for-avatar-seven-havens-fans/",
