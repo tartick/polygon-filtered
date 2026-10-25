@@ -29,6 +29,36 @@ test('channel metadata and self link are present', () => {
   assert.match(xml, /<lastBuildDate>Tue, 29 Sep 2026 20:00:00 GMT<\/lastBuildDate>/);
 });
 
+test('lastBuildDate is the newest item pubDate, so output is stable across runs', () => {
+  const mk = (n, pubDate) => ({ guid: `g${n}`, link: `https://x/${n}`, title: `t${n}`, creator: '', categories: [], pubDate, description: '', contentEncoded: '', enclosure: null, decision: 'keep', reason: '' });
+  const items = [mk(1, 'Tue, 29 Sep 2026 10:00:00 GMT'), mk(2, 'Tue, 29 Sep 2026 12:30:00 GMT')];
+  const a = buildFeed(items, { ...opts, now: new Date('2026-09-29T20:00:00Z') });
+  const b = buildFeed(items, { ...opts, now: new Date('2026-09-30T05:00:00Z') });
+  assert.match(a, /<lastBuildDate>Tue, 29 Sep 2026 12:30:00 GMT<\/lastBuildDate>/);
+  assert.equal(a, b);
+});
+
+test('XML-illegal control characters are stripped everywhere', () => {
+  const item = {
+    guid: 'g', link: 'https://x/g', title: 'ti\u0007tle\u000B', creator: 'c\u0007', pubDate: 'Tue, 29 Sep 2026 10:00:00 GMT',
+    categories: ['ca\u000Bt'], description: 'de\u0007sc\u000B', contentEncoded: '<p>co\u0007n\u000Bt</p>',
+    enclosure: null, decision: 'toss', reason: 're\u0007as\u000Bon',
+  };
+  const xml = buildFeed([item], { ...opts, showReason: true });
+  assert.doesNotMatch(xml, /[\u0000-\u0008\u000B\u000C\u000E-\u001F\uFFFE\uFFFF]/);
+  const [back] = parseFeed(xml);
+  assert.equal(back.title, 'title');
+  assert.equal(back.description, '[Filtered: reason] desc');
+});
+
+test('reason is HTML-escaped and capped at 200 chars', () => {
+  const base = { guid: 'g', link: 'https://x/g', title: 't', creator: '', categories: [], pubDate: 'Tue, 29 Sep 2026 10:00:00 GMT', description: 'orig', contentEncoded: '', enclosure: null, decision: 'toss' };
+  const [a] = parseFeed(buildFeed([{ ...base, reason: '<img src=x>' }], { ...opts, showReason: true }));
+  assert.equal(a.description, '[Filtered: &lt;img src=x&gt;] orig');
+  const [b] = parseFeed(buildFeed([{ ...base, reason: 'x'.repeat(500) }], { ...opts, showReason: true }));
+  assert.equal(b.description, `[Filtered: ${'x'.repeat(200)}] orig`);
+});
+
 test('hostile characters survive: & < quotes in title, ]]> in content', () => {
   const item = {
     guid: 'https://www.polygon.com/a?x=1&y=2', link: 'https://www.polygon.com/a?x=1&y=2',

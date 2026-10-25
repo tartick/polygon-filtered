@@ -41,6 +41,7 @@ jobs:
             echo "No changes"
           else
             git commit -m "Update filtered feed"
+            git pull --rebase
             git push
           fi
       - uses: actions/configure-pages@v5

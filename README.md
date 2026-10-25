@@ -18,6 +18,14 @@ ever holds the 10 newest articles), and for each article it hasn't seen before:
 Decisions are stored in `data/items.json` (30 days), and the kept / tossed
 articles are published to GitHub Pages.
 
+## Setup
+
+1. Create an Anthropic API key at https://console.anthropic.com.
+2. Store it as a repo secret: `gh secret set ANTHROPIC_API_KEY --repo tartick/polygon-filtered`
+3. Run the workflow once: `gh workflow run feed.yml --repo tartick/polygon-filtered`
+
+Without the key, only rule-decided items are published.
+
 ## Tuning
 
 - Wrong call? Add the headline to `config/examples.json` with the right
