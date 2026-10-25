@@ -126,3 +126,25 @@ test('large backlog is classified in chunks of at most 20', async () => {
   assert.ok(state.filter(i => i.title.startsWith('Some Game News')).every(i => i.decision === 'keep'));
   assert.ok(state.every(i => i.decision !== null));
 });
+
+test('nightly digest: added once after 11:30 PM ET, not before, not twice', async () => {
+  const root = tmp();
+  const night = new Date('2026-09-30T03:40:00Z'); // 11:40 PM EDT Sep 29
+  const s1 = await run({ fetchImpl: okFetch, client: keepAllClient(), now: night, root });
+  assert.equal(s1.digest, 'Polygon Slop, Tuesday 9/29');
+  const digests = JSON.parse(readFileSync(join(root, 'data/digests.json'), 'utf8'));
+  assert.equal(digests.length, 1);
+  const feed = parseFeed(readFileSync(join(root, 'public/feed.xml'), 'utf8'));
+  const entry = feed.find(i => i.title === 'Polygon Slop, Tuesday 9/29');
+  assert.ok(entry);
+  assert.match(entry.description, /fire-emblem-fortunes-weave-paralogues/);
+  const s2 = await run({ fetchImpl: okFetch, client: keepAllClient(), now: new Date(night.getTime() + 20 * 60000), root });
+  assert.equal(s2.digest, null);
+  assert.equal(JSON.parse(readFileSync(join(root, 'data/digests.json'), 'utf8')).length, 1);
+});
+
+test('no digest at 4 PM ET', async () => {
+  const root = tmp();
+  const s = await run({ fetchImpl: okFetch, client: keepAllClient(), now: new Date('2026-09-29T20:00:00Z'), root });
+  assert.equal(s.digest, null);
+});

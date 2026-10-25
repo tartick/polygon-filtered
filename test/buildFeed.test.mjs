@@ -92,3 +92,13 @@ test('showReason prefixes description with the filter reason', () => {
   const [back] = parseFeed(buildFeed([item], { ...opts, showReason: true }));
   assert.equal(back.description, '[Filtered: Marvel churn] orig');
 });
+
+test('guid isPermaLink only when guid equals link', () => {
+  const base = { title: 't', creator: '', pubDate: 'Tue, 29 Sep 2026 20:00:00 GMT', categories: [], description: 'd', contentEncoded: '', enclosure: null };
+  const xml = buildFeed([
+    { ...base, guid: 'https://x.test/a', link: 'https://x.test/a' },
+    { ...base, guid: 'https://x.test/digest/1', link: 'https://x.test/' },
+  ], opts);
+  assert.match(xml, /<guid isPermaLink="true">https:\/\/x\.test\/a<\/guid>/);
+  assert.match(xml, /<guid isPermaLink="false">https:\/\/x\.test\/digest\/1<\/guid>/);
+});

@@ -18,6 +18,11 @@ ever holds the 10 newest articles), and for each article it hasn't seen before:
 Decisions are stored in `data/items.json` (30 days), and the kept / tossed
 articles are published to GitHub Pages.
 
+Once a day, the first run at or after 11:30 PM New York time adds a single
+"Polygon Slop, <Weekday> <M>/<D>" entry to `feed.xml` listing every article
+tossed since the previous digest, each linked with its one-line reason (no
+entry on days with nothing new). Digests are stored in `data/digests.json`.
+
 ## Setup
 
 1. Create an Anthropic API key at https://console.anthropic.com.

@@ -8,7 +8,7 @@ const esc = s => stripIllegal(s)
 
 const cdata = s => `<![CDATA[${stripIllegal(s).replaceAll(']]>', ']]]]><![CDATA[>')}]]>`;
 
-const escHtml = s => String(s ?? '')
+export const escHtml = s => String(s ?? '')
   .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
   .replace(/"/g, '&quot;').replace(/'/g, '&#39;');
 
@@ -17,7 +17,7 @@ function itemXml(item, showReason) {
   const parts = [
     `<title>${cdata(item.title)}</title>`,
     `<link>${esc(item.link)}</link>`,
-    `<guid isPermaLink="true">${esc(item.guid)}</guid>`,
+    `<guid isPermaLink="${item.guid === item.link}">${esc(item.guid)}</guid>`,
   ];
   if (item.creator) parts.push(`<dc:creator>${cdata(item.creator)}</dc:creator>`);
   if (item.pubDate) parts.push(`<pubDate>${esc(item.pubDate)}</pubDate>`);

@@ -6,6 +6,7 @@ import { parseFeed } from './parseFeed.mjs';
 import { applyRules, loadRules } from './rules.mjs';
 import { loadStore, saveStore, mergeNew, prune } from './store.mjs';
 import { classify, loadTaste, loadExamples } from './classify.mjs';
+import { maybeAddDigest, pruneDigests, loadDigests, saveDigests } from './digest.mjs';
 import { buildFeed } from './buildFeed.mjs';
 
 const REPO_ROOT = fileURLToPath(new URL('..', import.meta.url));
@@ -41,15 +42,20 @@ export async function run({ fetchImpl = fetch, client = null, now = new Date(), 
 
   const kept = items.filter(i => i.decision === 'keep');
   const tossed = items.filter(i => i.decision === 'toss');
-  const summary = { added: added.length, pending: items.filter(i => i.decision === null).length, kept: kept.length, tossed: tossed.length };
+  const digestPath = join(root, 'data', 'digests.json');
+  const { digests, added: digest } = maybeAddDigest({ items, digests: pruneDigests(loadDigests(digestPath), now), now, site: SITE });
+  if (digest) console.log(`DIGEST  ${digest.title} (${digest.guids.length} item(s))`);
+
+  const summary = { added: added.length, pending: items.filter(i => i.decision === null).length, kept: kept.length, tossed: tossed.length, digest: digest ? digest.title : null };
 
   for (const i of added) console.log(`${(i.decision ?? 'PENDING').toUpperCase().padEnd(7)} ${i.title}  — ${i.reason}`);
   console.log(JSON.stringify(summary));
   if (dryRun) return summary;
 
   saveStore(statePath, items);
+  saveDigests(digestPath, digests);
   mkdirSync(join(root, 'public'), { recursive: true });
-  writeFileSync(join(root, 'public', 'feed.xml'), buildFeed(kept, {
+  writeFileSync(join(root, 'public', 'feed.xml'), buildFeed([...kept, ...digests], {
     title: 'Polygon (filtered)', description: 'Polygon.com minus the shovelware.', selfUrl: `${SITE}/feed.xml`, now,
   }));
   writeFileSync(join(root, 'public', 'rejected.xml'), buildFeed(tossed, {
