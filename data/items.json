@@ -1,5 +1,29 @@
 [
   {
+    "guid": "https://www.polygon.com/raya-and-the-last-dragon-perfect-disney-movie-for-avatar-seven-havens-fans/",
+    "title": "'Avatar: Seven Havens' Fans Need to Watch Disney’s Overlooked Apocalyptic Fantasy Adventure",
+    "link": "https://www.polygon.com/raya-and-the-last-dragon-perfect-disney-movie-for-avatar-seven-havens-fans/",
+    "creator": "Corey Plante",
+    "pubDate": "Sun, 25 Oct 2026 17:00:18 GMT",
+    "categories": [
+      "What to Watch",
+      "Disney",
+      "Raya and the Last Dragon",
+      "Avatar: Seven Havens"
+    ],
+    "description": "Raya and the Last Dragon has similar settings, characters, and dynamics as Avatar: Seven Havens, so it's a must-watch for fans.",
+    "contentEncoded": "<p>A young girl rides atop her trusted animal companion through the apocalyptic desert of her shattered world. What is she looking for? What happened to this world? Will she be the one to save it?</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/22369238/RAYA_ONLINE_USE_First_Look_CG_Final_RGB.jpg",
+      "type": "image/jpeg",
+      "length": "2469139"
+    },
+    "decision": "toss",
+    "reason": "Generic animated-series recommendation, not substantial film/TV news.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-25T19:31:27.824Z"
+  },
+  {
     "guid": "https://www.polygon.com/clayface-opening-weekend-box-office/",
     "title": "Clayface Gives Skydance Its Second Box Office Weekend Win In A Row",
     "link": "https://www.polygon.com/clayface-opening-weekend-box-office/",
