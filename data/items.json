@@ -1,5 +1,72 @@
 [
   {
+    "guid": "https://www.polygon.com/phantom-blade-zero-review/",
+    "title": "Phantom Blade Zero Is the Perfect Martial Arts Game, For Better or Worse",
+    "link": "https://www.polygon.com/phantom-blade-zero-review/",
+    "creator": "Paulo Kawanishi",
+    "pubDate": "Mon, 26 Oct 2026 00:00:18 GMT",
+    "categories": [
+      "Reviews",
+      "Phantom Blade Zero"
+    ],
+    "description": "Phantom Blade Zero, developed by S-Game, prioritizes the visual spectacle it brings from Wuxia movies to create a great action game.",
+    "contentEncoded": "<p>With games like <em>Pragmata</em>, <em>007 First Light, Beast of Reincarnation</em>, and <em>Onimusha: Way of the Sword</em>, I’ve spent much of 2026 thinking about what makes a good action game. Is it about the challenge of performing extraordinary feats on the screen? Is it about fighting, and winning, excruciating battles against enemies that feel mathematically impossible to beat? Is it just about power fantasy?</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/phantombladezero_review_lead.jpg",
+      "type": "image/jpeg",
+      "length": "472"
+    },
+    "decision": "keep",
+    "reason": "Video game review analyzing gameplay and design merit.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-26T00:07:18.462Z"
+  },
+  {
+    "guid": "https://www.polygon.com/stephen-king-it-welcome-to-derry-season-2-renewal-hbo-max/",
+    "title": "Stephen King's Hit Horror TV Series Officially Returning to HBO Max",
+    "link": "https://www.polygon.com/stephen-king-it-welcome-to-derry-season-2-renewal-hbo-max/",
+    "creator": "",
+    "pubDate": "Sun, 25 Oct 2026 23:15:18 GMT",
+    "categories": [
+      "Horror",
+      "It: Welcome to Derry"
+    ],
+    "description": "It: Welcome to Derry is getting a season 2 renewal, HBO Max confirmed, with Pennywise returning to terrorize the kids of Derry.",
+    "contentEncoded": "<p>It’s been a pretty great year to be a horror fan. <a href=\"https://www.polygon.com/obsession-review-curry-barker/\" target=\"_blank\"><em>Obsession</em></a> became one of 2026’s biggest surprise hits, <a href=\"https://www.polygon.com/backrooms-review-how-scary-is-it-horror-movie/\" target=\"_blank\"><em>Backrooms</em></a> turned an internet nightmare into a box-office smash, and even smaller releases like <a href=\"https://www.polygon.com/hokum-director-interview-damian-mccarthy/\" target=\"_blank\"><em>Hokum</em></a> found an audience. And now, one of the most iconic stories from horror legend Stephen King is getting another chapter. HBO has officially renewed <em>It: Welcome to Derry</em> for a second season, sending Pennywise and the cursed Maine town even further into the past.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/11/bill-skarsgard-welcome-to-derry.jpeg",
+      "type": "image/jpeg",
+      "length": "970"
+    },
+    "decision": "keep",
+    "reason": "Horror TV series renewal; horror content is always kept.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-26T00:07:18.462Z"
+  },
+  {
+    "guid": "https://www.polygon.com/the-mummy-free-on-youtube/",
+    "title": "27 Years Later, the Best Action Adventure Movie of 1999 Is Officially Free on Youtube",
+    "link": "https://www.polygon.com/the-mummy-free-on-youtube/",
+    "creator": "Maria Loreto",
+    "pubDate": "Sun, 25 Oct 2026 23:00:18 GMT",
+    "categories": [
+      "What to Watch",
+      "The Mummy",
+      "Movies"
+    ],
+    "description": "Brendan Fraser’s best ‘90s blockbuster had a secret ingredient two reboots couldn’t copy",
+    "contentEncoded": "<p>No one <em>really</em> knows why a <a href=\"https://www.polygon.com/movies/\" target=\"_blank\">movie</a> works. After a century of Hollywood, the industry is still trying to understand and adapt to an ever-evolving audience. As we enter an era of peak remake and IP-grab filmmaking, stories from decades ago have become the studios’ easiest bets to make money. It’s not fertile ground for creativity, but we movie fans have to take our wins where we can.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/msdmumm_uv006.jpg",
+      "type": "image/jpeg",
+      "length": "924"
+    },
+    "decision": "toss",
+    "reason": "Rule: streaming clickbait headline",
+    "decidedBy": "rule",
+    "firstSeen": "2026-10-26T00:07:18.462Z"
+  },
+  {
     "guid": "https://www.polygon.com/gundam-movie-sydney-sweeney-netflix-story-details/",
     "title": "Sydney Sweeney's New Netflix Sci-Fi Space Epic Gets First Details",
     "link": "https://www.polygon.com/gundam-movie-sydney-sweeney-netflix-story-details/",
