@@ -1,5 +1,49 @@
 [
   {
+    "guid": "https://www.polygon.com/best-snes-games-nintendo-switch-online-classics/",
+    "title": "The 10 Best SNES Games to Play on Nintendo Switch Online",
+    "link": "https://www.polygon.com/best-snes-games-nintendo-switch-online-classics/",
+    "creator": "Oli Welsh",
+    "pubDate": "Mon, 26 Oct 2026 02:44:34 GMT",
+    "categories": [
+      "What to Play",
+      "Nintendo"
+    ],
+    "description": "From Super Mario World to The Legend of Zelda: A Link to the Past, these are the best games on the Super Nintendo collection on Nintendo Classics.",
+    "contentEncoded": "<p>The Super Nintendo Entertainment System has one of the finest game catalogs of any console ever released, and there's a strong selection of 77 games available on Nintendo Classics as part of Nintendo Switch Online. Sadly, most of the console's great third-party games aren't represented; you won't find <em>Chrono Trigger</em>, <em>Final Fantasy 6</em>, or <em>Street Fighter 2 Turbo </em>on the service.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/snes-classics-2.jpg",
+      "type": "image/jpeg",
+      "length": "347"
+    },
+    "decision": "keep",
+    "reason": "Game recommendations and analysis; what to play piece.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-26T05:12:41.458Z"
+  },
+  {
+    "guid": "https://www.polygon.com/phantom-blade-zero-review-roundup-score/",
+    "title": "Phantom Blade Zero Reviews Just Beat Every Soulslike In 2026",
+    "link": "https://www.polygon.com/phantom-blade-zero-review-roundup-score/",
+    "creator": "Ari Notis",
+    "pubDate": "Mon, 26 Oct 2026 00:56:40 GMT",
+    "categories": [
+      "Analysis",
+      "Phantom Blade Zero"
+    ],
+    "description": "Phantom Blade Zero reviews put the Wuxia-inspired action game from S-Game in pole position as one of Metacritic's best-rated 2026 games.",
+    "contentEncoded": "<p>2026 officially has a new highest-rated game of the year. Reviews are in for <a href=\"https://www.polygon.com/phantom-blade-zero/\" target=\"_blank\"><em>Phantom Blade Zero</em></a>, the Wuxia-inspired action game from S-Game, and they've solidified it as one of the best-reviewed games of 2026 — a feat that could help its chances at scoring a nomination for the 2026 Game Awards in December.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/phantom-blade-zero-slow-motion-walk.jpg",
+      "type": "image/jpeg",
+      "length": "525"
+    },
+    "decision": "keep",
+    "reason": "Game review and analysis; 2026 release coverage.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-26T05:12:41.458Z"
+  },
+  {
     "guid": "https://www.polygon.com/phantom-blade-zero-review/",
     "title": "Phantom Blade Zero Is the Perfect Martial Arts Game, For Better or Worse",
     "link": "https://www.polygon.com/phantom-blade-zero-review/",
