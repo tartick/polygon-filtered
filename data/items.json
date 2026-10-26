@@ -1,5 +1,235 @@
 [
   {
+    "guid": "https://www.polygon.com/visionquest-tnia-miller-motion-capture-interview/",
+    "title": "T'Nia Miller Shares What Motion Capture for 'VisionQuest's Jocasta Was Really Like",
+    "link": "https://www.polygon.com/visionquest-tnia-miller-motion-capture-interview/",
+    "creator": "Brian VanHooker",
+    "pubDate": "Mon, 26 Oct 2026 17:31:25 GMT",
+    "categories": [
+      "Interview",
+      "VisionQuest"
+    ],
+    "description": "VisionQuest actor T'Nia Miller speaks with Polygon about playing the AI villain Jocasta, including performing the motion capture scenes",
+    "contentEncoded": "<p>During the <a href=\"https://www.polygon.com/visionquest-jocasta-explained-marvel-comics/\" target=\"_blank\">fourth episode</a> of <a href=\"https://www.polygon.com/visionquest/\" target=\"_blank\"><em>VisionQuest</em></a>, titled “Malware,” the identity of the Butcherbird Killer is revealed. First mentioned in a news report Ultron (James Spader) was watching during <a href=\"https://www.polygon.com/visionquest-jarvis-death/\" target=\"_blank\">episode 2</a> (“Theseus”), the Butcherbird is a serial killer who has been targeting the board members of Markridge Biotech, an AI technology company that was sold to Stark Industries in 2008, back when Stark was still developing weapons. Markridge Biotech would supply <a href=\"https://www.polygon.com/visionquest-episode-3-explained-friday-avengers-endgame-tony-stark-death/\" target=\"_blank\">Tony Stark</a> (Robert Downey Jr.) with the necessary technology to create his AI system J.A.R.V.I.S. and would also be used in the creation of Ultron (which, of course, would backfire).</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/screen-shot-2026-10-26-at-12-36-23-pm.jpg",
+      "type": "image/jpeg",
+      "length": "127"
+    },
+    "decision": "keep",
+    "reason": "VisionQuest game news with actor interview about motion capture work.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-26T17:36:24.743Z"
+  },
+  {
+    "guid": "https://www.polygon.com/fire-emblem-fortunes-weave-fabio-jimmie-yamaguchi/",
+    "title": "Fire Emblem: Fortune’s Weave Actor Based Fabio On an Iconic Disney Villain",
+    "link": "https://www.polygon.com/fire-emblem-fortunes-weave-fabio-jimmie-yamaguchi/",
+    "creator": "Jen Glennon",
+    "pubDate": "Mon, 26 Oct 2026 17:18:16 GMT",
+    "categories": [
+      "Interview",
+      "Fire Emblem: Fortune's Weave"
+    ],
+    "description": "Actor Jimmy Yamaguchi's performance is a major factor in Fabio's popularity, and he revealed the unexpected inspiration for the voice to Polygon",
+    "contentEncoded": "<p>It's been several weeks since the launch of <em><a href=\"https://www.polygon.com/fire-emblem-fortunes-weave/\" target=\"_blank\">Fire Emblem: Fortune's Weave</a>,</em> and fans around the world are still sinking their teeth into the massive strategy RPG. With a sprawling cast featuring dozens of unique characters, it's no small feat for one to emerge as a clear fan favorite.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/fire-emblem-fortunes-weave-weird-little-guys.jpg",
+      "type": "image/jpeg",
+      "length": "1183"
+    },
+    "decision": "keep",
+    "reason": "Fire Emblem game feature; past KEEP decisions show interest in this game.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-26T17:36:24.743Z"
+  },
+  {
+    "guid": "https://www.polygon.com/avatar-seven-havens-korra-voice-actor-revealed/",
+    "title": "Avatar: Seven Havens Officially Recasts Korra’s Voice",
+    "link": "https://www.polygon.com/avatar-seven-havens-korra-voice-actor-revealed/",
+    "creator": "Willa Rowe",
+    "pubDate": "Mon, 26 Oct 2026 17:15:59 GMT",
+    "categories": [
+      "News",
+      "Avatar: The Last Airbender",
+      "The Legend of Korra",
+      "Avatar: Seven Havens"
+    ],
+    "description": "Avatar: Seven Havens' latest episodes revealed who will be voicing Korra in the series",
+    "contentEncoded": "<p>One of the most important characters in<em><a href=\"https://www.polygon.com/avatar-seven-havens-review/\" target=\"_blank\">Avatar: Seven Havens</a></em> is Korra, even if she's long dead by the time the show starts. The post-apocalyptic world of <em>Seven Havens</em> is directly caused by <a href=\"https://www.polygon.com/avatar-seven-havens-korra-and-the-cataclysm/\" target=\"_blank\">Korra's actions</a>; at least that is what the show has indicated so far, resulting in widespread hatred toward the Avatar. This is causing a lot of problems for Nisha and Pavi, our new Avatar twins. The most recent batch of episodes brought us even closer to Korra once again and also revealed who provides her voice in <em>Seven Havens</em>.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/21824113/1221.jpg",
+      "type": "image/jpeg",
+      "length": "616497"
+    },
+    "decision": "toss",
+    "reason": "Generic TV/animated series casting news; matches past TOSS pattern.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-26T17:36:24.743Z"
+  },
+  {
+    "guid": "https://www.polygon.com/walter-koenig-star-trek-dies/",
+    "title": "Star Trek's Walter Koenig Dies At 90",
+    "link": "https://www.polygon.com/walter-koenig-star-trek-dies/",
+    "creator": "Michael McWhertor",
+    "pubDate": "Mon, 26 Oct 2026 16:59:26 GMT",
+    "categories": [
+      "News",
+      "Star Trek"
+    ],
+    "description": "Walter Koenig, the actor behind Star Trek crew member Pavel Chekov, has died at age 90, his representatives have confirmed.",
+    "contentEncoded": "<p>Walter Koenig, the actor best known for his role in the <a href=\"http://polygon.com/star-trek\" target=\"_blank\">Star Trek</a> franchise as Russian crew member Pavel Chekov, has died. He was 90. </p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/msdsttr_ec222.jpg",
+      "type": "image/jpeg",
+      "length": "484"
+    },
+    "decision": "toss",
+    "reason": "Celebrity death news; not game/horror/prestige film/TV with substance.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-26T17:36:24.743Z"
+  },
+  {
+    "guid": "https://www.polygon.com/arkane-lyon-shutdown-delayed-dishonored-blade/",
+    "title": "Xbox Studio On Brink of Closure Gets More Time To Find a Home and Finish Marvel's Blade",
+    "link": "https://www.polygon.com/arkane-lyon-shutdown-delayed-dishonored-blade/",
+    "creator": "Elijah Gonzalez",
+    "pubDate": "Mon, 26 Oct 2026 16:46:50 GMT",
+    "categories": [
+      "Xbox",
+      "Marvel's Blade",
+      "Dishonored",
+      "Dishonored 2"
+    ],
+    "description": "Dishonored developer Arkane Lyon is getting an additional month to find a buyer that could prevent the studio's closure.",
+    "contentEncoded": "<p>The last few months at <a href=\"https://www.polygon.com/xbox/\" target=\"_blank\">Xbox</a> Studios have been a bloodbath. Microsoft announced in July that it would be cutting <a href=\"https://www.polygon.com/xbox-july-2026-layoffs-compulsion-games-ninja-theory-undead-labs/\" target=\"_blank\">3,200 jobs from its Xbox division</a> in the coming year and has since made over 1,800 cuts. As part of those layoffs, Xbox also announced it would cut several beloved game studios. While Double Fine, Compulsion Games, and Undead Labs <a href=\"https://www.polygon.com/xbox-studio-status-september-2026/\" target=\"_blank\">managed to buy back their independence</a> from Xbox, it seems that Hellblade developer <a href=\"https://www.polygon.com/xbox-layoffs-halo-studios-ninja-theory/\" target=\"_blank\">Ninja Theory will be shutting down</a>.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/marvels-blade-16-9.jpg",
+      "type": "image/jpeg",
+      "length": "138"
+    },
+    "decision": "keep",
+    "reason": "Video game studio news about game development; Marvel's Blade game coverage.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-26T17:36:24.743Z"
+  },
+  {
+    "guid": "https://www.polygon.com/public-access-afterworld-book-review/",
+    "title": "'Public Access Afterworld' Is a Brilliant Mess That 'Camp Miasma' Fans Need to Read ASAP",
+    "link": "https://www.polygon.com/public-access-afterworld-book-review/",
+    "creator": "Maria Loreto",
+    "pubDate": "Mon, 26 Oct 2026 16:30:19 GMT",
+    "categories": [
+      "Reviews",
+      "Teenage Sex and Death at Camp Miasma",
+      "I Saw the TV Glow",
+      "We're All Going to the World's Fair",
+      "Books"
+    ],
+    "description": "The I Saw the TV Glow filmmaker trades the camera for unlimited scale in a sprawling, first novel about obsession and escape.",
+    "contentEncoded": "<p>As a follower of Schoenbrun’s work, I can’t help but know so much about them. I know that they used to work as a film critic before directing and writing movies. I know that they’re trans, and that their work is in constant conversation with that identity. It has propelled them to become one of the most notable voices in indie cinema.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/mcdtese_k3001.jpg",
+      "type": "image/jpeg",
+      "length": "1166"
+    },
+    "decision": "toss",
+    "reason": "Book/graphic novel review and promotion; matches toss profile.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-26T17:36:24.743Z"
+  },
+  {
+    "guid": "https://www.polygon.com/pokemon-pokopia-dlc-2-new-lineup-leaked/",
+    "title": "Pokémon Pokopia DLC 2 Leaks Reveal New Pokémon and More",
+    "link": "https://www.polygon.com/pokemon-pokopia-dlc-2-new-lineup-leaked/",
+    "creator": "Austin Manchester",
+    "pubDate": "Mon, 26 Oct 2026 16:00:10 GMT",
+    "categories": [
+      "News",
+      "Pokemon",
+      "Pokemon Pokopia",
+      "Pokemon Pokopia Expansion Pass - Part 1: Bubbly Basin"
+    ],
+    "description": "Pokémon Pokopia's next DLC is due out by the end of 2026. New leaks claim it will include over two dozen new Pokémon, events, and more.",
+    "contentEncoded": "<p><a href=\"https://www.polygon.com/pokemon-pokopia/\" target=\"_blank\"><em>Pokémon Pokopia</em></a> offers new ways for players to interact with their favorite Pocket Monsters. Instead of capturing and battling <a href=\"https://www.polygon.com/pokemon/\" target=\"_blank\">Pokémon</a>, players talk with them and build them homes. It's an early Nintendo Switch 2 hit, and, unsurprisingly, <em>Pokémon Pokopia</em> received a <a href=\"https://www.polygon.com/pokemon-pokopia-bubbly-basin-review/\" target=\"_blank\">new DLC expansion</a> over the summer. More <a href=\"https://www.polygon.com/pokemon-pokopia-bubbly-basin-dlc-new-details/\" target=\"_blank\">DLC</a> is on the way in 2026, and new leaks hint at what's to come.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/pok-mon-pokopia-halloween-habitat.jpg",
+      "type": "image/jpeg",
+      "length": "393"
+    },
+    "decision": "keep",
+    "reason": "Pokémon video game DLC news; game content, not TCG retail story.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-26T17:36:24.743Z"
+  },
+  {
+    "guid": "https://www.polygon.com/pokemon-tcg-psa-card-grading-theft-fbi-fedex-truck-value/",
+    "title": "FBI Is Officially Investigating An Unprecedented Pokémon Card Heist",
+    "link": "https://www.polygon.com/pokemon-tcg-psa-card-grading-theft-fbi-fedex-truck-value/",
+    "creator": "Patricia Hernandez",
+    "pubDate": "Mon, 26 Oct 2026 15:46:54 GMT",
+    "categories": [
+      "News",
+      "Pokemon",
+      "Pokemon Trading Card Game"
+    ],
+    "description": "The disappearance of over 6,450 cards on a FedEx truck might make this the biggest Pokémon TCG theft of all time",
+    "contentEncoded": "<p>Earlier in October, <a href=\"https://www.nytimes.com/athletic/7705932/2026/10/19/psa-cards-fedex-robbery-sports-pokemon/\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">authorities revealed that a FedEx truck</a> reportedly containing nearly $1 million in cards graded by the Professional Sports Authenticator had suddenly gone missing. A couple of weeks later, the apparent theft of 6,451 slabs — many of which contained <a href=\"https://www.polygon.com/pokemon/\" target=\"_blank\">Pokémon</a> cards — is being scrutinized by the Federal Bureau of Investigation.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/charizard-tcg-art.jpg",
+      "type": "image/jpeg",
+      "length": "195"
+    },
+    "decision": "toss",
+    "reason": "Pokémon TCG retail/heist story; matches past TOSS profile.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-26T17:36:24.743Z"
+  },
+  {
+    "guid": "https://www.polygon.com/final-fantasy-40th-anniversary-vinyl-cd-soundtrack-announced-track-list/",
+    "title": "Square Enix Reveals Stunning New Final Fantasy 40th Anniversary Release",
+    "link": "https://www.polygon.com/final-fantasy-40th-anniversary-vinyl-cd-soundtrack-announced-track-list/",
+    "creator": "Willa Rowe",
+    "pubDate": "Mon, 26 Oct 2026 15:31:14 GMT",
+    "categories": [
+      "News",
+      "Final Fantasy"
+    ],
+    "description": "Square Enix announces Final Fantasy 40th Anniversary: The Crysal Vinyl Edition soundtrack that celebrates the series' amazing music",
+    "contentEncoded": "<p>Since the series' inception in 1987, music has always been an integral part of <a href=\"https://www.polygon.com/final-fantasy/\" target=\"_blank\">Final Fantasy</a>. Across sixteen mainline entries and countless spin-offs, the iconic RPG franchise has <a href=\"https://www.polygon.com/24212297/final-fantasy-7-rebirth-theme-diegetic-songs/\" target=\"_blank\">used music to amplify emotional moments</a> and stories. As part of ongoing 40th anniversary celebrations, Square Enix has announced a series-spanning soundtrack that already looks like a must-buy.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/yuna-ff10-promo-art.jpg",
+      "type": "image/jpeg",
+      "length": "2398"
+    },
+    "decision": "keep",
+    "reason": "Video game series anniversary news and soundtrack release announcement.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-26T17:36:24.743Z"
+  },
+  {
+    "guid": "https://www.polygon.com/nintendo-switch-2-hackers-jailbreak-dumping-files-modding/",
+    "title": "Nintendo Switch 2 Hackers Made a Huge Breakthrough",
+    "link": "https://www.polygon.com/nintendo-switch-2-hackers-jailbreak-dumping-files-modding/",
+    "creator": "Elijah Gonzalez",
+    "pubDate": "Mon, 26 Oct 2026 15:26:44 GMT",
+    "categories": [
+      "News",
+      "Nintendo Switch 2"
+    ],
+    "description": "Nintendo Switch 2 hackers have discovered how to dump Switch 2 files onto PC, paving the way for modding and piracy.",
+    "contentEncoded": "<p>With recent advances in generative AI, video game hacking and piracy are advancing faster than ever, much to the chagrin of the game industry. As Sony scrambles to release new firmware updates in response to <a href=\"https://www.polygon.com/ps5-jailbreak-hack-homebrew-gta-6-firmware-update/\" target=\"_blank\">PS5 jailbreaking efforts</a>, Nintendo hackers are finding similar success.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/02/switch-2-third-party-partner-games-february-direct.jpg",
+      "type": "image/jpeg",
+      "length": "306"
+    },
+    "decision": "keep",
+    "reason": "Gaming hardware/platform news with developer implications.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-26T17:36:24.743Z"
+  },
+  {
     "guid": "https://www.polygon.com/buffy-season-3-best-season-mayor-faith/",
     "title": "27 Years Ago, 'Buffy the Vampire' Unleashed an Impossibly Good Season, and Broke the Fandom",
     "link": "https://www.polygon.com/buffy-season-3-best-season-mayor-faith/",
