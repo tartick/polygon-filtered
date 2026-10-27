@@ -1,5 +1,235 @@
 [
   {
+    "guid": "https://www.polygon.com/nocturne-review-apple-tv/",
+    "title": "'Nocturne' Review: Apple’s Answer to 'The Silence of the Lambs' Is a Massive Failure",
+    "link": "https://www.polygon.com/nocturne-review-apple-tv/",
+    "creator": "Aimee Hart",
+    "pubDate": "Tue, 27 Oct 2026 13:00:18 GMT",
+    "categories": [
+      "Reviews",
+      "Nocturne"
+    ],
+    "description": "Apple's adaptation of 'Nocturne' fundamentally misunderstands what made Lars Kepler's thriller 'The Sandman' so gripping.",
+    "contentEncoded": "<p>What adds to the chill is the city of Stockholm, Sweden. In another genre, Kepler’s description of the city would have been picturesque and romantic. In the wake of Walter’s crimes, there is only despair.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/nocturne-hero-post.webp",
+      "type": "image/jpeg",
+      "length": "211"
+    },
+    "decision": "keep",
+    "reason": "Film review with substance about prestige thriller adaptation.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-27T13:07:59.356Z"
+  },
+  {
+    "guid": "https://www.polygon.com/lost-house-of-the-rising-sun-retrospective/",
+    "title": "22 Years Ago, TV’s Best Sci-Fi Show Proved It Was About More Than the Mystery",
+    "link": "https://www.polygon.com/lost-house-of-the-rising-sun-retrospective/",
+    "creator": "Terry Terrones",
+    "pubDate": "Tue, 27 Oct 2026 13:00:18 GMT",
+    "categories": [
+      "TV",
+      "Lost"
+    ],
+    "description": "Lost's \"House of the Rising Sun\" captures the emotional revelations and tantalizing mysteries that made the series so addictive in 2004.",
+    "contentEncoded": "<p>There was a time when <a href=\"https://www.polygon.com/lost-walkabout-locke-twist-22-anniversary/\" target=\"_blank\"><em>Lost</em></a> was more than just a television show. It was an obsession. Every episode introduced new mysteries, every character seemed to be hiding something, and every Wednesday night left viewers with <a href=\"https://www.polygon.com/lanterns-damon-lindelof-lost-interview/\" target=\"_blank\">more questions than answers</a>. In the fall of 2004, nobody knew what was happening on the Island, and that was a huge part of the fun.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/lost.jpeg",
+      "type": "image/jpeg",
+      "length": "512"
+    },
+    "decision": "toss",
+    "reason": "Nostalgia retrospective about old TV show from 22 years ago.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-27T13:07:59.356Z"
+  },
+  {
+    "guid": "https://www.polygon.com/final-fantasy-7-revelation-hamaguchi-projects-narrative-exploration-combat-system/",
+    "title": "Final Fantasy 7 Revelation Director Talks Deeper Narrative, Exploration, Combat, and Next Projects",
+    "link": "https://www.polygon.com/final-fantasy-7-revelation-hamaguchi-projects-narrative-exploration-combat-system/",
+    "creator": "Ashely Claudino",
+    "pubDate": "Tue, 27 Oct 2026 12:13:22 GMT",
+    "categories": [
+      "News",
+      "Final Fantasy 7 Remake"
+    ],
+    "description": "From narrative details to a complex combat system, there's a lot to unpack in Hamaguchi's latest interview about Final Fantasy 7 Revelation.",
+    "contentEncoded": "<p><a href=\"https://www.polygon.com/final-fantasy-7-revelation/\" target=\"_blank\"><em>Final Fantasy 7 Revelation</em></a> won't come out until April 2027, but the developers have been gradually pulling back the curtain, revealing more details about the trilogy's final entry. In a recent interview held during the 2026 Paris Game Week, whose contents have been <a href=\"https://x.com/Cammy_Dalamud/status/2113857264541147329\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">shared online by fans</a>, Naoki Hamaguchi, director of the <em>Final Fantasy 7</em> remake trilogy, dove deeper into <em>Revelation</em>'s narrative, world map, and combat system, giving players an even better feel for what the game will be like.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/final-fantasy-7-revelation-tifa-mage.png",
+      "type": "image/jpeg",
+      "length": "14241"
+    },
+    "decision": "keep",
+    "reason": "Video game news and development details about major RPG.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-27T13:07:59.356Z"
+  },
+  {
+    "guid": "https://www.polygon.com/jojo-bizarre-adventure-villain-diamond-is-unbreakable/",
+    "title": "10 Years Ago, Anime's Most Bonkers Series Introduced a Disturbing Villain Who Changed Everything",
+    "link": "https://www.polygon.com/jojo-bizarre-adventure-villain-diamond-is-unbreakable/",
+    "creator": "Debopriyaa Dutta",
+    "pubDate": "Tue, 27 Oct 2026 11:00:18 GMT",
+    "categories": [
+      "Halloween Countdown",
+      "Jojo's Bizarre Adventure",
+      "Anime",
+      "JoJo Bizarre Adventure"
+    ],
+    "description": "This man has been single-handedly terrorizing Morioh for more than a decade.",
+    "contentEncoded": "<p>Part 4 of <a href=\"https://www.polygon.com/netflix-steel-ball-run-anime-yasuhiro-kimura-interview/\" target=\"_blank\"><em>JoJo’s Bizarre Adventure</em></a>, called Diamond Is Unbreakable, also features an idyllic town with a rotten core. Author Hirohiko Araki changes things up after a globe-trotting adventure in Stardust Crusaders (Part 3), shifting the scene to the beautiful town of Morioh. Part 3 protagonist Jotaro Kujo seeks out Morioh resident Josuke Higashikata seeking to learn more about his true parentage, which triggers a string of bizarre events in this seemingly peaceful small town.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/thumb-1920-795193.png",
+      "type": "image/jpeg",
+      "length": "3526"
+    },
+    "decision": "toss",
+    "reason": "Anime nostalgia retrospective, not video game content.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-27T13:07:59.356Z"
+  },
+  {
+    "guid": "https://www.polygon.com/pokemon-unite-end-service-announcement/",
+    "title": "Free-to-Play Pokémon Game Is Shutting Down After 5 Years",
+    "link": "https://www.polygon.com/pokemon-unite-end-service-announcement/",
+    "creator": "Ashely Claudino",
+    "pubDate": "Tue, 27 Oct 2026 10:05:01 GMT",
+    "categories": [
+      "News",
+      "Pokemon Unite"
+    ],
+    "description": "The Pokémon Company has announced that Pokémon Unite will end its service in the spring of 2027.",
+    "contentEncoded": "<p>Pokémon games come in all shapes and forms. There are the mainline Pokémon games, where players must collect 'em all and engage in battle with other trainers. But these pocket monsters have appeared in other video game genres as part of several series spin-offs. For example, <a href=\"https://www.polygon.com/game/pokemon-unite/40681/\" target=\"_blank\"><em>Pokémon Unite</em></a> is a <a href=\"https://www.polygon.com/spellcasters-chronicles-preview-quantic-dream-moba/\" target=\"_blank\">MOBA similar to <em>League of Legends</em></a> but with Pokémon. The concept is fun, and the fact that it's free-to-play caught the attention of many. Unfortunately, its servers will soon shut down permanently.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/pok-mon-pikachu-knock-out.jpg",
+      "type": "image/jpeg",
+      "length": "344"
+    },
+    "decision": "keep",
+    "reason": "Video game news about Pokémon game service shutdown.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-27T13:07:59.356Z"
+  },
+  {
+    "guid": "https://www.polygon.com/happily-never-after-adult-fairy-tales-week/",
+    "title": "Adult Fairy Tales: The Best of the Best",
+    "link": "https://www.polygon.com/happily-never-after-adult-fairy-tales-week/",
+    "creator": "Polygon Staff",
+    "pubDate": "Tue, 27 Oct 2026 10:01:19 GMT",
+    "categories": [
+      "Special Issues"
+    ],
+    "description": "Inspired by Wolf Among Us Remastered, we're flipping through the pages of dark fantasy history",
+    "contentEncoded": "<p>𝔒𝔫𝔠𝔢 𝔲𝔭𝔬𝔫 𝔞 𝔱𝔦𝔪𝔢, 𝔴𝔢 𝔴𝔢𝔯𝔢 𝔞𝔩𝔩 𝔠𝔥𝔦𝔩𝔡𝔯𝔢𝔫 𝔱𝔲𝔠𝔨𝔢𝔡 𝔟𝔢𝔫𝔢𝔞𝔱𝔥 𝔱𝔥𝔢 𝔠𝔬𝔳𝔢𝔯𝔰, 𝔩𝔬𝔰𝔦𝔫𝔤 𝔬𝔲𝔯𝔰𝔢𝔩𝔳𝔢𝔰 𝔦𝔫 𝔱𝔞𝔩𝔢𝔰 𝔬𝔣 𝔢𝔫𝔠𝔥𝔞𝔫𝔱𝔢𝔡 𝔣𝔬𝔯𝔢𝔰𝔱𝔰. 𝔒𝔯 𝔪𝔞𝔶𝔟𝔢 𝔴𝔢 𝔧𝔲𝔰𝔱 𝔴𝔞𝔱𝔠𝔥𝔢𝔡 𝔱𝔥𝔢 𝔇𝔦𝔰𝔫𝔢𝔶 𝔞𝔫𝔦𝔪𝔞𝔱𝔢𝔡 𝔳𝔢𝔯𝔰𝔦𝔬𝔫𝔰? 𝔈𝔦𝔱𝔥𝔢𝔯 𝔴𝔞𝔶, 𝔫𝔢𝔞𝔯𝔩𝔶 𝔢𝔳𝔢𝔯𝔶𝔬𝔫𝔢 𝔦𝔫 𝔱𝔥𝔦𝔰 𝔯𝔢𝔞𝔩𝔪 𝔬𝔣 𝔯𝔢𝔞𝔩𝔦𝔱𝔶 𝔥𝔞𝔰 𝔞 𝔪𝔢𝔪𝔬𝔯𝔶 𝔬𝔣 𝔣𝔞𝔩𝔩𝔦𝔫𝔤 𝔲𝔫𝔡𝔢𝔯 𝔞 𝔣𝔞𝔦𝔯𝔶 𝔱𝔞𝔩𝔢’𝔰 𝔰𝔭𝔢𝔩𝔩. 𝔈𝔳𝔢𝔫 𝔦𝔣 𝔶𝔬𝔲’𝔳𝔢 𝔫𝔢𝔳𝔢𝔯 𝔠𝔯𝔞𝔠𝔨𝔢𝔡 𝔬𝔭𝔢𝔫 𝔱𝔥𝔢 𝔅𝔯𝔬𝔱𝔥𝔢𝔯𝔰 𝔊𝔯𝔦𝔪𝔪 𝔬𝔯 ℌ𝔞𝔫𝔰 ℭ𝔥𝔯𝔦𝔰𝔱𝔦𝔞𝔫 𝔄𝔫𝔡𝔢𝔯𝔰𝔢𝔫, 𝔱𝔥𝔢𝔦𝔯 𝔰𝔱𝔬𝔯𝔦𝔢𝔰 𝔞𝔯𝔢 𝔴𝔬𝔳𝔢𝔫 𝔦𝔫𝔱𝔬 𝔱𝔥𝔢 𝔣𝔞𝔟𝔯𝔦𝔠 𝔬𝔣 𝔬𝔲𝔯 𝔦𝔪𝔞𝔤𝔦𝔫𝔞𝔱𝔦𝔬𝔫𝔰.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/polygon-adult-fairy-tales-week-package-art.jpg",
+      "type": "image/jpeg",
+      "length": "10420"
+    },
+    "decision": "toss",
+    "reason": "Generic feature about book/media retrospective, minimal substance.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-27T13:07:59.356Z"
+  },
+  {
+    "guid": "https://www.polygon.com/ff7-final-fantasy-7-fairy-tale/",
+    "title": "7 Reasons FF7 Is the Ultimate Video Game Fairy Tale",
+    "link": "https://www.polygon.com/ff7-final-fantasy-7-fairy-tale/",
+    "creator": "Jen Glennon",
+    "pubDate": "Tue, 27 Oct 2026 10:00:18 GMT",
+    "categories": [
+      "Gaming",
+      "Final Fantasy 7",
+      "Final Fantasy 7 Remake",
+      "Final Fantasy 7 Rebirth",
+      "Final Fantasy VII Revelation",
+      "Adult Fairy Tale Week"
+    ],
+    "description": "Final Fantasy 7 has tons of narrative elements plucked directly from fairy tales, and it’s probably part of the reason players still love it so much",
+    "contentEncoded": "<p>When you think of a fairy tale, what comes to mind? A medieval European setting, with soaring castle spires, imposing forests, brave knights, and fair maidens?</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/ff7_fairy_tale.jpg",
+      "type": "image/jpeg",
+      "length": "158"
+    },
+    "decision": "keep",
+    "reason": "Video game analysis essay about Final Fantasy 7 narrative.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-27T13:07:59.356Z"
+  },
+  {
+    "guid": "https://www.polygon.com/american-mcgee-alice-madness-returns-console-retrospective/",
+    "title": "These Two Dark Fairytales Need to Unravel on Modern Consoles",
+    "link": "https://www.polygon.com/american-mcgee-alice-madness-returns-console-retrospective/",
+    "creator": "Jason Venter",
+    "pubDate": "Tue, 27 Oct 2026 10:00:18 GMT",
+    "categories": [
+      "Gaming",
+      "American McGee's Alice",
+      "Alice: Madness Returns",
+      "Adult Fairy Tale Week"
+    ],
+    "description": "It's unfair that some of the darkest and most creative games the industry has ever produced are locked away on old consoles.",
+    "contentEncoded": "<p>The world can be a cold and dangerous place. We think about its darkest parts as we wrap ourselves in blankets and find a comfy armchair near a roaring fireplace, much like our ancestors did. Also like our ancestors, we turn to stories to understand how to survive the darkness: Don’t trust tricksters with magical powers, avoid suspicious fruit, and never venture into the woods alone.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/aliceeye.jpg",
+      "type": "image/jpeg",
+      "length": "88"
+    },
+    "decision": "keep",
+    "reason": "Video game feature about porting beloved dark fantasy games.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-27T13:07:59.356Z"
+  },
+  {
+    "guid": "https://www.polygon.com/wildwood-decemberists-folk-fairytale-legacy/",
+    "title": "Wildwood channels The Decemberists' folk fairytale legacy",
+    "link": "https://www.polygon.com/wildwood-decemberists-folk-fairytale-legacy/",
+    "creator": "Matt Patches",
+    "pubDate": "Tue, 27 Oct 2026 10:00:18 GMT",
+    "categories": [
+      "Feature",
+      "Wildwood",
+      "Fantasy",
+      "Animation",
+      "Adult Fairy Tale Week"
+    ],
+    "description": "Colin Meloy and Carson Ellis talk about Laika's movie, the original book, sequels, and Portland.",
+    "contentEncoded": "<p>“I feel like when we were first coming up with the story, we were trying to really go for the early stuff — pull from folktale and fair ytale tropes,” Meloy tells Polygon. “I think there’s so many things in the movie that, because that was really the intent from the outset, was to create a fairy tale. Inevitably, it ends up like fantasy in the context of 2026, but that’s what we were shooting for.”</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/wildwood_fairytale.jpg",
+      "type": "image/jpeg",
+      "length": "342"
+    },
+    "decision": "toss",
+    "reason": "Animation film feature without game connection or real substance.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-27T13:07:59.356Z"
+  },
+  {
+    "guid": "https://www.polygon.com/grandgear-yamazaki-cast-announcement-paul-giamatti-godzilla/",
+    "title": "Godzilla Minus Zero Director's Upcoming Giant Robot Movie First Cast Members Revealed",
+    "link": "https://www.polygon.com/grandgear-yamazaki-cast-announcement-paul-giamatti-godzilla/",
+    "creator": "Francesco Cacciatore",
+    "pubDate": "Tue, 27 Oct 2026 09:59:30 GMT",
+    "categories": [
+      "News",
+      "Grandgear"
+    ],
+    "description": "The first cast members for Takashi Yamazaki's giant robot movie, Grandgear, have just been revealed.",
+    "contentEncoded": "<p>Takashi Yamazaki's <a href=\"https://www.polygon.com/godzilla-minus-zero-review/\" target=\"_blank\"><em>Godzilla Minus Zero</em></a> is not out in cinemas yet, but fans of the Japanese director already have another movie to look forward to. <em>Grandgear</em>, a mech action movie and the director's first English-language production, was announced in 2024, and the first cast members have just been revealed.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/godzilla-minus-one.jpg",
+      "type": "image/jpeg",
+      "length": "939"
+    },
+    "decision": "keep",
+    "reason": "Notable film project with prestige director casting announcement.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-27T13:07:59.356Z"
+  },
+  {
     "guid": "https://www.polygon.com/most-fun-sci-fi-books-21st-century-so-far/",
     "title": "8 Most Entertaining Sci-Fi Books of the 21st Century That Are Impossible to Put Down",
     "link": "https://www.polygon.com/most-fun-sci-fi-books-21st-century-so-far/",
