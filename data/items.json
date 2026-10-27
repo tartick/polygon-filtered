@@ -1,5 +1,169 @@
 [
   {
+    "guid": "https://www.polygon.com/return-of-the-king-trick-taking-game-interview/",
+    "title": "The Lord of the Rings: Return of the King Is Officially Getting a New Version Next Year",
+    "link": "https://www.polygon.com/return-of-the-king-trick-taking-game-interview/",
+    "creator": "Sam Nelson",
+    "pubDate": "Tue, 27 Oct 2026 22:00:17 GMT",
+    "categories": [
+      "Interview",
+      "The Lord of the Rings: The Return of the King",
+      "Board Games",
+      "Fantasy"
+    ],
+    "description": "The upcoming game will have just as many endings as Peter Jackson’s movie",
+    "contentEncoded": "<p>There have been an enormous number of tabletop adaptations of J.R.R. Tolkien’s <a href=\"https://www.polygon.com/lord-of-the-rings/\" target=\"_blank\">The Lord of the Rings</a>, but few capture the story so well and in such an accessible fashion as Bryan Bornmueller’s <em>The Lord of the Rings Trick-Taking Game</em>. A version based on <em>The Fellowship of the Ring </em>was<em></em>published in 2024, and it sees players work together with limited information to fulfill missions based on the book’s biggest moments. Bornmueller continued the series by releasing the equally excellent <em>The Two Towers Trick-Taking Game </em>in January, and the trilogy will conclude with <em>The Return of the King </em>in February 2027.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/22820549/4k_returnofking_movie_screencaps.com_1532.jpg",
+      "type": "image/jpeg",
+      "length": "615750"
+    },
+    "decision": "keep",
+    "reason": "Board game adaptation of prestige franchise with notable news announcement.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-27T22:55:07.629Z"
+  },
+  {
+    "guid": "https://www.polygon.com/magic-gathering-mtg-star-trek-commander-reprint/",
+    "title": "Magic Is Reprinting a $20 Commander Powerhouse as a Star Trek Fan Favorite",
+    "link": "https://www.polygon.com/magic-gathering-mtg-star-trek-commander-reprint/",
+    "creator": "Corey Plante",
+    "pubDate": "Tue, 27 Oct 2026 20:32:08 GMT",
+    "categories": [
+      "Analysis",
+      "Magic: The Gathering",
+      "Star Trek",
+      "Star Trek: Lower Decks",
+      "Tabletop Games",
+      "Trading Card Game"
+    ],
+    "description": "Magic: The Gathering’s new Star Trek Secret Lair reprints Thrasios, Triton Hero as Lower Decks’ Tendi. Here’s every Drop revealed so far.",
+    "contentEncoded": "<p><em>Magic: The Gathering</em>’s <a href=\"https://magic.wizards.com/en/news/announcements/secret-lair-set-phasers-to-superdrop\" target=\"_blank\"><em>Star Trek</em> crossover</a> set is only weeks away, and on Tuesday, Wizards of the Coast revealed five new <em>Star Trek</em> Secret Lair Drops featuring reprints inspired by everything from <a href=\"https://www.polygon.com/23342481/star-trek-the-wrath-of-khan-podcast-prequel/\" target=\"_blank\"><em>The Wrath of Khan</em></a> to run-of-the-mill Klingon warriors. A sixth Drop will be revealed later.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/kirk-orion-star-trek.png",
+      "type": "image/jpeg",
+      "length": "221"
+    },
+    "decision": "keep",
+    "reason": "Rule: category \"Magic: The Gathering\"",
+    "decidedBy": "rule",
+    "firstSeen": "2026-10-27T22:55:07.629Z"
+  },
+  {
+    "guid": "https://www.polygon.com/mcdonalds-pokemon-happy-meal-toy-card-leak-start-date-tcg-promo/",
+    "title": "McDonald's New 'Pokémon' Happy Meal Surprise Leaks Ahead Of Launch",
+    "link": "https://www.polygon.com/mcdonalds-pokemon-happy-meal-toy-card-leak-start-date-tcg-promo/",
+    "creator": "Patricia Hernandez",
+    "pubDate": "Tue, 27 Oct 2026 20:17:18 GMT",
+    "categories": [
+      "News",
+      "Pokemon",
+      "Pokemon Trading Card Game"
+    ],
+    "description": "The upcoming Pokémon promo brings back a McDonald's product that's been MIA from Happy Meals for nearly a decade",
+    "contentEncoded": "<p><a href=\"https://www.polygon.com/pokemon-tcg-anniversary-mcdonalds-happy-meal-toys-trading-cards-scalpers/\" target=\"_blank\">Fast food chain McDonald's</a> is expected to announce a new partnership with <a href=\"https://www.polygon.com/pokemon/\" target=\"_blank\">Pokémon</a> in the coming weeks, and the worldwide promo will mark the return of a Happy Meal essential that's been missing in action for (shockingly!) eight years.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/pikachu-happy-meal.jpg",
+      "type": "image/jpeg",
+      "length": "2122"
+    },
+    "decision": "toss",
+    "reason": "Pokémon TCG retail/Happy Meal story; matches toss pattern.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-27T22:55:07.629Z"
+  },
+  {
+    "guid": "https://www.polygon.com/magic-phyrexian-dreadnought-stiflenought-premodern/",
+    "title": "30 Years Later, Magic’s Most Ridiculous 1-Mana Creature Is Still a Competitive Powerhouse",
+    "link": "https://www.polygon.com/magic-phyrexian-dreadnought-stiflenought-premodern/",
+    "creator": "Chris Guest",
+    "pubDate": "Tue, 27 Oct 2026 20:00:19 GMT",
+    "categories": [
+      "Feature",
+      "Magic: The Gathering",
+      "Tabletop Games"
+    ],
+    "description": "Who would win: An entire Magic: The Gathering eternal format, or one Shrimp?",
+    "contentEncoded": "<p><a href=\"https://www.polygon.com/mtg-magic-the-gathering/\" target=\"_blank\"><em>Magic: The Gathering</em></a>’s <em>Mirage</em> turned 30 in October 2026, and perhaps no card from the landmark expansion has enjoyed a stranger afterlife than Phyrexian Dreadnought. The one-mana 12/12 artifact creature has gone from an oddball relic of early <em>Magic</em> design to one of the defining threats of Premodern, the fan-created eternal format built around cards from the game’s first decade.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/phyrexian-dreadnought-art-judge-gift-cards-2010-3-699a6663-cc48-4c1d-aaa2-a423169b7783-art.jpg",
+      "type": "image/jpeg",
+      "length": "114"
+    },
+    "decision": "keep",
+    "reason": "Rule: category \"Magic: The Gathering\"",
+    "decidedBy": "rule",
+    "firstSeen": "2026-10-27T22:55:07.629Z"
+  },
+  {
+    "guid": "https://www.polygon.com/final-fantasy-resonance-lid-second-limit-burst-how-to-unlock/",
+    "title": "How to unlock Lid's second limit burst in Final Fantasy Resonance",
+    "link": "https://www.polygon.com/final-fantasy-resonance-lid-second-limit-burst-how-to-unlock/",
+    "creator": "Josh Broadwell",
+    "pubDate": "Tue, 27 Oct 2026 19:34:43 GMT",
+    "categories": [
+      "Guides",
+      "Final Fantasy Resonance"
+    ],
+    "description": "Unlocking Lid's second limit burst in Final Fantasy Resonance works differently than the others. Here's how to get Lid's second limit burst",
+    "contentEncoded": "<p>Getting <strong>Lid's second limit burst </strong>in <a href=\"https://www.polygon.com/final-fantasy-resonance/\" target=\"_blank\"><em>Final Fantasy Resonance</em></a> works a bit differently than the process of acquiring other characters' bursts. With most of the party, you just level them up, and they unlock once you hit the right milestone. You can guess when that is just from a quick scan of their skill list, as a new skill usually accompanies their new limit burst at the same level. But Lid's skill list is shorter, and since the game doesn't tell you how to unlock her second burst, you might wonder whether you've missed something.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/final-fantasy-resonance-lid-second-limit-burst.jpg",
+      "type": "image/jpeg",
+      "length": "396"
+    },
+    "decision": "toss",
+    "reason": "Rule: category \"Guides\"",
+    "decidedBy": "rule",
+    "firstSeen": "2026-10-27T22:55:07.629Z"
+  },
+  {
+    "guid": "https://www.polygon.com/elden-ring-movie-script-secrecy-a24-amazon-streaming/",
+    "title": "Elden Ring Movie Shrouded in Secrecy as New Streaming Deal Confirmed",
+    "link": "https://www.polygon.com/elden-ring-movie-script-secrecy-a24-amazon-streaming/",
+    "creator": "Michael McWhertor",
+    "pubDate": "Tue, 27 Oct 2026 19:05:11 GMT",
+    "categories": [
+      "Movies",
+      "Elden Ring",
+      "Elden Ring"
+    ],
+    "description": "A24 and Alex Garland's Elden Ring movie is keeping its script under lock and key, as Amazon MGM locks in streaming rights to the 2028 release.",
+    "contentEncoded": "<p>A24's <a href=\"https://www.polygon.com/elden-ring/\" target=\"_blank\"><em>Elden Ring</em></a><a href=\"http://polygon.com/movies\" target=\"_blank\">movie</a> is being shrouded in secrecy in ways typically reserved for a new Marvel Studios project. While we're still more than a year away from seeing director <a href=\"https://www.polygon.com/movies/598330/elden-ring-movie-alex-garland-a24/\" target=\"_blank\">Alex Garland's live-action adaptation of <em>Elden Ring</em></a>, there have been some important updates on the film, which <a href=\"https://www.polygon.com/elden-ring-movie-filming-wraps-release-date-alex-garland/\" target=\"_blank\">wrapped a few months ago</a>. But it sounds like distributor A24 is keeping many details about the film tightly under wraps as the <em>Elden Ring</em> movie is sent to market to strike major deals.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/elden-ring_vyke.jpg",
+      "type": "image/jpeg",
+      "length": "340"
+    },
+    "decision": "keep",
+    "reason": "Game-to-film adaptation news with prestige director Alex Garland.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-27T22:55:07.629Z"
+  },
+  {
+    "guid": "https://www.polygon.com/superman-man-of-tomorrow-dc-matthew-lillard-mystery-role/",
+    "title": "Matthew Lillard Officially Teases Mystery Superman Man of Tomorrow Role",
+    "link": "https://www.polygon.com/superman-man-of-tomorrow-dc-matthew-lillard-mystery-role/",
+    "creator": "Willa Rowe",
+    "pubDate": "Tue, 27 Oct 2026 18:59:39 GMT",
+    "categories": [
+      "News",
+      "DC Universe",
+      "Man of Tomorrow"
+    ],
+    "description": "Man of Tomorrow actor Mathew Lillard reveals an unexpected hint about his secret role in the new DCU",
+    "contentEncoded": "<p>Of all the new actors joining the cinematic DC Universe in next year's <a href=\"https://www.polygon.com/james-gunn-superman-man-of-tomorrow-wrapped-up-filming/\" target=\"_blank\"><em>Man of Tomorrow</em></a>, fans seem most invested in finding out which character Matthew Lillard will portray. Lillard (<em>Carrie</em>, <em>Scream</em>, Polygon's Shelf Quest) is set to appear in James Gunn's <em><a href=\"https://www.polygon.com/review/611560/superman-james-gunn-dcu-reboot-review/\" target=\"_blank\">Superman</a></em>sequel in an as-yet undisclosed role. There's already been <a href=\"https://www.polygon.com/superman-man-of-tomorrow-james-gunn-denies-matthew-lillard-flash-theory/\" target=\"_blank\">one major fan theory that Gunn has shot down</a>.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/otk-201-02041_r.jpg",
+      "type": "image/jpeg",
+      "length": "7168"
+    },
+    "decision": "toss",
+    "reason": "DC/Superman casting gossip; big-franchise churn toss pattern.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-27T22:55:07.629Z"
+  },
+  {
     "guid": "https://www.polygon.com/dimension-20-starstruck-odyssey-season-2-announced/",
     "title": "New Dimension 20 Season Officially Announced",
     "link": "https://www.polygon.com/dimension-20-starstruck-odyssey-season-2-announced/",
