@@ -1,5 +1,237 @@
 [
   {
+    "guid": "https://www.polygon.com/witchbrook-release-date-announcement/",
+    "title": "'Harry Potter Meets Stardew Valley' Game Sets Official Release Date",
+    "link": "https://www.polygon.com/witchbrook-release-date-announcement/",
+    "creator": "Willa Rowe",
+    "pubDate": "Wed, 28 Oct 2026 15:15:53 GMT",
+    "categories": [
+      "News",
+      "Witchbrook",
+      "Cozy Gaming"
+    ],
+    "description": "Witchbrook, a magical Stardew Valley-esque life sim, is finally being released in early 2027 on Switch, PC, PS5, and Xbox",
+    "contentEncoded": "<p><em><a href=\"https://www.polygon.com/game/witchbrook/548288/\" target=\"_blank\">Witchbrook</a></em>has been one of my most anticipated games since it was first teased just about a decade ago. The magical take on <a href=\"https://www.polygon.com/game/stardew-valley/38933/\" target=\"_blank\"><em>Stardew Valley</em></a> looks to be a new entry in the cozy life-sim genre that keeps getting more enticing with every preview developer Chucklefish gives. Now, after years of patient waiting and at least one delay, <em>Witchbrook </em>finally has a release date.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/witchbrook-1.jpg",
+      "type": "image/jpeg",
+      "length": "719"
+    },
+    "decision": "keep",
+    "reason": "Video game release date announcement for cozy life sim game.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-28T15:55:25.390Z"
+  },
+  {
+    "guid": "https://www.polygon.com/sony-ps5-dualsense-prism-collection-release-date-price/",
+    "title": "PlayStation Officially Reveals Gorgeous New ‘Prism’ PS5 Hardware",
+    "link": "https://www.polygon.com/sony-ps5-dualsense-prism-collection-release-date-price/",
+    "creator": "Sam Hill",
+    "pubDate": "Wed, 28 Oct 2026 15:00:20 GMT",
+    "categories": [
+      "Gaming",
+      "PlayStation",
+      "PlayStation 5",
+      "PlayStation 5 Pro"
+    ],
+    "description": "PlayStation is bringing back '90s-style transparent designs with the PS5 Prism Collection. Here's what the new DualSense controllers and console cover",
+    "contentEncoded": "<p>Sony Interactive Entertainment unveiled its new Prism Collection on Wednesday, a new line of <a href=\"http://polygon.com/playstation\" target=\"_blank\">PlayStation 5</a> accessories featuring transparent designs for DualSense controllers and matching console covers. The collection includes three color options: Flare Orange, Emerald Green, and Graphite Gray.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/prism-collection_dscc_6up_19x6.jpg",
+      "type": "image/jpeg",
+      "length": "233"
+    },
+    "decision": "keep",
+    "reason": "PlayStation hardware news and announcements.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-28T15:55:25.390Z"
+  },
+  {
+    "guid": "https://www.polygon.com/bioware-baldurs-gate-2-best-game-rpg-legacy/",
+    "title": "26 Years Later, BioWare’s Most Influential RPG Is Still Shaping My Life",
+    "link": "https://www.polygon.com/bioware-baldurs-gate-2-best-game-rpg-legacy/",
+    "creator": "Francesco Cacciatore",
+    "pubDate": "Wed, 28 Oct 2026 15:00:18 GMT",
+    "categories": [
+      "Opinion",
+      "Baldur's Gate",
+      "Baldur's Gate II: Shadows of Amn"
+    ],
+    "description": "BioWare may be gone, but the studio's best RPG, Baldur's Gate 2, built a legacy that is still shaping lives today.",
+    "contentEncoded": "<p>The game was <a href=\"https://www.polygon.com/game/baldur-s-gate-2-shadows-of-amn/11889/\" target=\"_blank\"><em>Baldur’s Gate 2: Shadows of Amn</em></a>. The T-shirt, which came with the collector’s edition, sported the game’s logo: two mirrored heads, one in light, one in darkness (the exact meaning of the image has been debated for the past 26 years, with no conclusive answer). I was the kid, of course. Soon after, I bought the game and, for the first time, immersed myself in the world of the Forgotten Realms, brought to life in digital form by BioWare. Almost three decades later, <a href=\"https://www.polygon.com/patch-notes-bioware-closure/\" target=\"_blank\">BioWare is gone</a>. The sad news made me reflect on how <em>Baldur’s Gate 2</em> and the other computer RPGs they developed between the 1990s and the early 2000s marked the trajectory of my life.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/baldurs-gate-2.jpg",
+      "type": "image/jpeg",
+      "length": "523"
+    },
+    "decision": "toss",
+    "reason": "Nostalgic retrospective about old game, not a new announcement.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-28T15:55:25.390Z"
+  },
+  {
+    "guid": "https://www.polygon.com/tnia-miller-next-team-up-mike-flanagan/",
+    "title": "Forget 'Carrie,' Mike Flanagan Series Actor Teases Her Return in a \"Future\" Project",
+    "link": "https://www.polygon.com/tnia-miller-next-team-up-mike-flanagan/",
+    "creator": "Brian VanHooker",
+    "pubDate": "Wed, 28 Oct 2026 14:55:26 GMT",
+    "categories": [
+      "Interview",
+      "VisionQuest",
+      "The Fall of the House of Usher",
+      "The Haunting of Bly Manor"
+    ],
+    "description": "The VisionQuest star is known for her work with Mike Flanagan, like The Fall of the House of Usher. Here, she talks about when they'll re-team",
+    "contentEncoded": "<p>T'Nia Miller is one of the stars of Disney Plus' new Marvel Studios series <em><a href=\"https://www.polygon.com/visionquest/\" target=\"_blank\">VisionQuest</a></em>, where she plays the AI villain <a href=\"https://www.polygon.com/visionquest-jocasta-explained-marvel-comics/\" target=\"_blank\">Jocasta</a>. Over the course of the series so far, Jocasta has revealed herself as a deadly entity, murdering several people as the so-called \"Butcherbird Killer.\" But while playing a Marvel villain may be a new experience for Miller, the darker elements of her character hark back to some of her previous work in the horror genre, where she is known for her collaborations with writer and producer <a href=\"https://www.polygon.com/carrie-interview-mike-flanagan-samantha-sloyan/\" target=\"_blank\">Mike Flanagan</a>.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/tcdhaof_zx016.jpg",
+      "type": "image/jpeg",
+      "length": "1015"
+    },
+    "decision": "keep",
+    "reason": "Mike Flanagan horror project news with real substance.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-28T15:55:25.390Z"
+  },
+  {
+    "guid": "https://www.polygon.com/mass-effect-5-ultimate-open-world-game-bioware/",
+    "title": "Mass Effect 5 Would Have Been The 'Ultimate Open-World Game'",
+    "link": "https://www.polygon.com/mass-effect-5-ultimate-open-world-game-bioware/",
+    "creator": "Aimee Hart",
+    "pubDate": "Wed, 28 Oct 2026 14:54:55 GMT",
+    "categories": [
+      "News",
+      "Mass Effect: Universe",
+      "Mass Effect: Andromeda"
+    ],
+    "description": "BioWare's ambitious plans for Mass Effect 5 faced very few hiccups or drawbacks, right up until the studio's closure by EA.",
+    "contentEncoded": "<p><section>Electronic Arts' <a href=\"https://www.polygon.com/ea-bioware-closure-mass-efffect-5-canceled/\" target=\"_blank\">closure</a> of its legendary RPG studio BioWare has shaken the <a href=\"http://www.polygon.com/bioware-shut-down-reactions-mass-effect-baldurs-gate-ea-games/\" target=\"_blank\">video game world</a>. Since the announcement, gamers, fans, and developers alike have mourned the studio’s unrealized potential, especially following the recent reveal of its final project: <em>Mass Effect Universe</em>.</section></p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/malequarian.JPG",
+      "type": "image/jpeg",
+      "length": "102"
+    },
+    "decision": "keep",
+    "reason": "Video game development news and industry analysis.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-28T15:55:25.390Z"
+  },
+  {
+    "guid": "https://www.polygon.com/no-man-sky-new-forsaken-update-halloween-october-2026/",
+    "title": "No Man’s Sky Goes Full Horror in New 'Forsaken' Update",
+    "link": "https://www.polygon.com/no-man-sky-new-forsaken-update-halloween-october-2026/",
+    "creator": "Elijah Gonzalez",
+    "pubDate": "Wed, 28 Oct 2026 14:00:18 GMT",
+    "categories": [
+      "Gaming",
+      "No Man's Sky"
+    ],
+    "description": "No Man's Sky's Forsaken update adds horror-themed missions and creepy cosmetics as the sci-fi survival-exploration game lands on iOS.",
+    "contentEncoded": "<p><a href=\"https://www.polygon.com/game/no-mans-sky/35726/\" target=\"_blank\"><em>No Man’s Sky</em></a> is still going strong <a href=\"https://www.polygon.com/no-mans-sky-cosmos-update-space-overhaul/\" target=\"_blank\">more than a decade</a> after its original release, and the game’s latest big update, <em>Forsaken</em>, is a seasonally appropriate horror show. Hello Games just dropped the <a href=\"https://www.nomanssky.com/forsaken-update\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">full patch notes</a> and a trailer for the 7.10 update, which is available today.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/no-man-s-sky-forsaken-sceen-1.jpeg",
+      "type": "image/jpeg",
+      "length": "1518"
+    },
+    "decision": "keep",
+    "reason": "Game update news with horror elements mentioned.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-28T15:55:25.390Z"
+  },
+  {
+    "guid": "https://www.polygon.com/titan-quest-2-tq2-brings-back-to-the-roots-arpg-goodness/",
+    "title": "Titan Quest 2 Is Everything The ARPG Genre Needs & More",
+    "link": "https://www.polygon.com/titan-quest-2-tq2-brings-back-to-the-roots-arpg-goodness/",
+    "creator": "Polygon Advertiser Content",
+    "pubDate": "Wed, 28 Oct 2026 14:00:18 GMT",
+    "categories": [
+      "Advertiser Content",
+      "Titan Quest 2"
+    ],
+    "description": "With the 1.0 release ahead, there's no better time than now to check it out.",
+    "contentEncoded": "<p><strong><em>This article was produced in collaboration with our sponsor, THQ Nordic.</em></strong></p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/titan-quest-2.jpg",
+      "type": "image/jpeg",
+      "length": "670"
+    },
+    "decision": "toss",
+    "reason": "Advertiser content; promotional material.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-28T15:55:25.390Z"
+  },
+  {
+    "guid": "https://www.polygon.com/marvel-ghost-rider-ryan-gosling-heated-rivalry-connor-storrie-villain/",
+    "title": "Marvel’s Ghost Rider Summons Heated Rivalry Star for Mystery Role",
+    "link": "https://www.polygon.com/marvel-ghost-rider-ryan-gosling-heated-rivalry-connor-storrie-villain/",
+    "creator": "Willa Rowe",
+    "pubDate": "Wed, 28 Oct 2026 13:56:19 GMT",
+    "categories": [
+      "News",
+      "Marvel",
+      "Disney",
+      "Ghost Rider"
+    ],
+    "description": "Marvel's Ghost Rider movie with Ryan Gosling reportedly taps Heated Rivalry actor for villain role",
+    "contentEncoded": "<p>Connor Storrie has reportedly found the only role after <em>Heated Rivalry</em> that could possibly give him a chance to be even hotter, just in a different way. One half of the breakout leading duo from 2025's hockey romance show, Storrie may now be trading in the ice rink for the fires of hell in <a href=\"https://www.polygon.com/marvel-ghost-rider-movie-ryan-gosling-comic-con/\" target=\"_blank\">Marvel's upcoming <em>Ghost Rider</em> film</a>.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/connor-storrie-hed-image.jpg",
+      "type": "image/jpeg",
+      "length": "52"
+    },
+    "decision": "toss",
+    "reason": "Marvel casting gossip; falls under big-franchise churn.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-28T15:55:25.390Z"
+  },
+  {
+    "guid": "https://www.polygon.com/wow-forever-early-last-name-reservation-rules/",
+    "title": "WoW: Lets You Have a Last Name for the First Time in 22 Years, and It's Stressing Me Out",
+    "link": "https://www.polygon.com/wow-forever-early-last-name-reservation-rules/",
+    "creator": "Oli Welsh",
+    "pubDate": "Wed, 28 Oct 2026 13:41:12 GMT",
+    "categories": [
+      "Opinion",
+      "World of Warcraft: Forever",
+      "World of Warcraft",
+      "PC"
+    ],
+    "description": "Early name reservation is live for World of Warcraft: Forever, but Blizzard's introduction of surnames has thrown me for a loop",
+    "contentEncoded": "<p><a href=\"https://www.polygon.com/world-of-warcraft-forever-wow-approachable-casual-new-players/\" target=\"_blank\"><em>World of Warcraft: Forever</em></a> is a little more than a week away from launch, and <a href=\"https://news.blizzard.com/en-gb/article/24303866/world-of-warcraft-forever-early-name-reservations-are-now-live\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">early name reservation</a> is now live. That's right, the chance to reserve character names early — just three per account — has been monetized by Blizzard as a pre-order bonus.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/wow_forever_scenic_announce_race_class_newcombos_055.png",
+      "type": "image/jpeg",
+      "length": "11638"
+    },
+    "decision": "keep",
+    "reason": "World of Warcraft news and feature updates.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-28T15:55:25.390Z"
+  },
+  {
+    "guid": "https://www.polygon.com/star-wars-zero-company-dee-bradley-baker-trick-interview/",
+    "title": "Veteran Star Wars Actor Reveals the Trick to Making Each Clone Feel Unique",
+    "link": "https://www.polygon.com/star-wars-zero-company-dee-bradley-baker-trick-interview/",
+    "creator": "Austin Manchester",
+    "pubDate": "Wed, 28 Oct 2026 13:19:38 GMT",
+    "categories": [
+      "Gaming",
+      "Star Wars",
+      "Star Wars Zero Company"
+    ],
+    "description": "Dee Bradley Baker is the longtime voice of clone troopers throughout Star Wars. He plays Trick in Star Wars Zero Company.",
+    "contentEncoded": "<p>He doesn’t keep track of how many he’s voiced in total, instead leaving that to the fans. “The fans do that very well,” he says with a laugh.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/star-wars-zero-company-trick-shooting.jpg",
+      "type": "image/jpeg",
+      "length": "541323"
+    },
+    "decision": "toss",
+    "reason": "Star Wars casting/actor interview; falls under big-franchise churn.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-28T15:55:25.390Z"
+  },
+  {
     "guid": "https://www.polygon.com/starship-troopers-leaving-netflix-november-2026/",
     "title": "Legendary Sci-Fi Director's 129-Minute War-Action Masterpiece Is Being Cut From Netflix",
     "link": "https://www.polygon.com/starship-troopers-leaving-netflix-november-2026/",
