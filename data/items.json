@@ -1,5 +1,234 @@
 [
   {
+    "guid": "https://www.polygon.com/dragon-age-origins-baldurs-gate-3-underrated/",
+    "title": "BG3 Owes Everything to One Underrated 2009 BioWare RPG",
+    "link": "https://www.polygon.com/dragon-age-origins-baldurs-gate-3-underrated/",
+    "creator": "Rebecca Corgan",
+    "pubDate": "Wed, 28 Oct 2026 19:30:18 GMT",
+    "categories": [
+      "Gaming",
+      "Baldur's Gate 3",
+      "Dragon Age: Origins"
+    ],
+    "description": "Baldur’s Gate 3 fans, meet Dragon Age: Origins, the 2009 BioWare RPG with the same campfire confessions, disaster friends, and impossible choices.",
+    "contentEncoded": "<p>It’s late. The fire is burning low. The sardonic elven rogue who joined your party a few days ago pulls up a log, flashes a grin, and tells you (cheerfully) about his former employer, who would love to see him dead. The elf flirts with you like it’s a survival skill. Which, given said former employer, it might be. How nicely you take his jokes decides how much of the person underneath he lets you see, and whether he ever stops treating charm like armor.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/dragon-age-origins-dragon.jpg",
+      "type": "image/jpeg",
+      "length": "525"
+    },
+    "decision": "keep",
+    "reason": "Game analysis/feature comparing two major RPGs",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-28T20:57:06.932Z"
+  },
+  {
+    "guid": "https://www.polygon.com/backrooms-director-kane-parsons-portal-movie-valve-rumors/",
+    "title": "Backrooms Director Teases Next Dream Projects — Is Portal One of Them?",
+    "link": "https://www.polygon.com/backrooms-director-kane-parsons-portal-movie-valve-rumors/",
+    "creator": "Elijah Gonzalez",
+    "pubDate": "Wed, 28 Oct 2026 19:14:30 GMT",
+    "categories": [
+      "Gaming",
+      "Portal 2",
+      "Portal",
+      "Backrooms"
+    ],
+    "description": "Kane Parsons' comments in a recent interview have sparked speculation that he's working on a 'Portal' movie.",
+    "contentEncoded": "<p>Since the buzzy horror film <span style=\"box-sizing:border-box; margin:0px; padding:0px\"><a href=\"http://www.polygon.com/backrooms-review-how-scary-is-it-horror-movie/\" target=\"_blank\"><em>Backrooms</em></a><em></em>propelled <a href=\"https://www.polygon.com/backrooms-director-kane-parsons-answers-three-questions/\" target=\"_blank\">Kane Parsons</a> to instant fame, many are eager to know what the young director is working on next. Beyond a confirmed <span style=\"box-sizing:border-box; margin:0px; padding:0px\"><a href=\"http://www.polygon.com/will-there-be-backrooms-2-sequel-kane-parsons/\" target=\"_blank\"><em>Backrooms sequel</em></a>, many are convinced he will</span> bring another world of corporate drudgery to the screen: it seems quite possible he'll helm a <a href=\"https://www.polygon.com/game/portal/4323/\" target=\"_blank\">Portal</a> movie. The young director has made it very </span>clear that he’s a fan of Valve, previously citing the Portal games as a major inspiration for <em>Backrooms</em> and its sterile aesthetic.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/portal-2-screenshot.jpg",
+      "type": "image/jpeg",
+      "length": "1226"
+    },
+    "decision": "keep",
+    "reason": "Horror director news plus video game adaptation speculation",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-28T20:57:06.932Z"
+  },
+  {
+    "guid": "https://www.polygon.com/resident-evil-capcom-horror-could-end-soon/",
+    "title": "Resident Evil Lead Teases Series’ ‘Conclusion’ Coming In the Next 10 Years",
+    "link": "https://www.polygon.com/resident-evil-capcom-horror-could-end-soon/",
+    "creator": "Willa Rowe",
+    "pubDate": "Wed, 28 Oct 2026 18:34:23 GMT",
+    "categories": [
+      "News",
+      "Resident Evil",
+      "Resident Evil Requiem"
+    ],
+    "description": "Resident Evil's next ten years could bring change and even a conclusion to the series following Requiem's release.",
+    "contentEncoded": "<p><a href=\"https://www.polygon.com/tag/resident-evil/\" target=\"_blank\">Resident Evil</a> is celebrating its 30th anniversary this year. Capcom's iconic horror series has been a foundational part of the survival horro genre, and it's still delivering amazing entries, such as this year's <a href=\"https://www.polygon.com/resident-evil-requiem-review/\" target=\"_blank\"><em>Resident Evil Requiem</em></a>. Still, that doesn't mean it will be around forever. With remakes of past titles catching up to new mainline games, the series may be entering a new phase, which may bring about its conclusion.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/resident-evil-requiem-story.jpg",
+      "type": "image/jpeg",
+      "length": "792"
+    },
+    "decision": "keep",
+    "reason": "Horror game series news with major announcement",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-28T20:57:06.932Z"
+  },
+  {
+    "guid": "https://www.polygon.com/mw4-modern-warfare-4-multiplayer-review/",
+    "title": "Modern Warfare 4’s Multiplayer Is the Best Call of Duty Has Been in 7 Years",
+    "link": "https://www.polygon.com/mw4-modern-warfare-4-multiplayer-review/",
+    "creator": "Ford James",
+    "pubDate": "Wed, 28 Oct 2026 18:00:18 GMT",
+    "categories": [
+      "Reviews",
+      "Call of Duty: Modern Warfare 4"
+    ],
+    "description": "Modern Warfare 4's multiplayer innovates and impresses, but it isn't without problems, including some disappointing maps and broken spawns.",
+    "contentEncoded": "<p>After two years of back-to-back Black Ops games, <em><a href=\"https://www.polygon.com/call-of-duty-modern-warfare-4/\" target=\"_blank\">Modern Warfare 4</a></em>was always going to feel like a breath of fresh air. Even though the differences between the two series are subtle, the minor tweaks to movement, gunplay, and aesthetic are always noticeable to anyone who plays year in, year out. And I've always been a Modern Warfare kid at heart, from way back in 2007, when I lived and breathed <em>Call of Duty 4: Modern Warfare </em>for a year straight. The last Call of Duty that truly captivated me was 2019's <em>Modern Warfare</em>.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/modern-warfare-4-multiplayer-review-header.jpg",
+      "type": "image/jpeg",
+      "length": "191"
+    },
+    "decision": "keep",
+    "reason": "Game review of major franchise title",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-28T20:57:06.932Z"
+  },
+  {
+    "guid": "https://www.polygon.com/ffxiv-tifa-barret-outfit-glamour-how-to-get-ff7-remake-event/",
+    "title": "How to get Tifa and Barret's outfits in FFXIV",
+    "link": "https://www.polygon.com/ffxiv-tifa-barret-outfit-glamour-how-to-get-ff7-remake-event/",
+    "creator": "Paulo Kawanishi",
+    "pubDate": "Wed, 28 Oct 2026 17:50:11 GMT",
+    "categories": [
+      "Guides",
+      "Final Fantasy XIV: Dawntrail"
+    ],
+    "description": "Here's how to get Tifa and Barret's outfits in Final Fantasy 14, and how to participate in the Keybound Brawler event, the Final Fantasy 7 event.",
+    "contentEncoded": "<p><strong>Tifa and Barret's outfits</strong> are the real stars in <a href=\"https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/\" target=\"_blank\"><em>Final Fantasy 14</em>'</a>s event in the<strong> Keybound Brawlers</strong>, a new collaboration with <em>Final Fantasy 7</em>. Unlike Cloud's outfit, which is based on the <em>Final Fantasy 7: Advent Children</em> design and has been in the game for ages, these two are based on the <em>FF7</em> remake project. To get them and many other <em>FF7</em>-themed cosmetics and items, you must survive the typing brawls and earn a special currency.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/ffxiv_keyboundbrawler_lead.jpg",
+      "type": "image/jpeg",
+      "length": "422"
+    },
+    "decision": "toss",
+    "reason": "Rule: category \"Guides\"",
+    "decidedBy": "rule",
+    "firstSeen": "2026-10-28T20:57:06.932Z"
+  },
+  {
+    "guid": "https://www.polygon.com/best-avatar-game-legends-fighting-switch-2-aang-korra-october-update/",
+    "title": "Major 'Avatar: The Last Airbender' Game Finally Lives Up To The Hype",
+    "link": "https://www.polygon.com/best-avatar-game-legends-fighting-switch-2-aang-korra-october-update/",
+    "creator": "Patricia Hernandez",
+    "pubDate": "Wed, 28 Oct 2026 17:24:30 GMT",
+    "categories": [
+      "News",
+      "Avatar Legends: The Fighting Game",
+      "Avatar: The Last Airbender"
+    ],
+    "description": "The best Avatar: The Last Airbender game around just got even better ahead of a Switch 2 release",
+    "contentEncoded": "<p>With its fantastic animation and incredible attention to detail, <em><a href=\"https://www.polygon.com/avatar-legends-the-fighting-game-review/\" target=\"_blank\">Avatar Legends: The Fighting Game</a></em>felt like it was destined for greatness. And perhaps the fighting game <em>could </em>have gone down as the best <a href=\"https://www.polygon.com/avatar-last-airbender/\" target=\"_blank\">Avatar</a> interactive experience ever made had it not been released in July 2026 <a href=\"https://www.polygon.com/avatar-legends-launch-backlash-no-ranked-missing-dlc/\" target=\"_blank\">without some key components</a> promised in its marketing. But now, three months later, <em>Avatar Legends </em>looks like it might to live up to its original promise.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/avatar-legends-the-fighting-game-steam-screenshot.jpg",
+      "type": "image/jpeg",
+      "length": "340"
+    },
+    "decision": "keep",
+    "reason": "Game news with update and new platform release",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-28T20:57:06.932Z"
+  },
+  {
+    "guid": "https://www.polygon.com/discord-google-reddit-search-messages-how-opt-turn-off/",
+    "title": "Discord's Massive New Change Will Shake Up The Entire Internet",
+    "link": "https://www.polygon.com/discord-google-reddit-search-messages-how-opt-turn-off/",
+    "creator": "Patricia Hernandez",
+    "pubDate": "Wed, 28 Oct 2026 17:21:05 GMT",
+    "categories": [
+      "News"
+    ],
+    "description": "A shift in Discord's discoverability has massive implications for Google and Reddit and possibly ChatGPT and Claude",
+    "contentEncoded": "<p>The best <em>and </em>worst thing about <a href=\"https://www.polygon.com/discord-controversial-age-verification-starting/\" target=\"_blank\">Discord</a> is that messages sent on its chat servers are ephemeral. On the one hand, it's nice to know that things said in a casual setting won't necessarily be plastered on the internet forever. On the other hand, Discord's temporality is frustrating <a href=\"https://www.reddit.com/r/ihatethissmug/comments/1we3dtt/i_hate_discord_and_how_its_replaced_forums_and/\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">when you need to find a critical piece of information</a>. These defining characteristics for Discord are about to change — and the repercussions will be visible throughout the entire internet.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/25408820/discord_art.jpg",
+      "type": "image/jpeg",
+      "length": "470541"
+    },
+    "decision": "toss",
+    "reason": "Non-gaming industry news, not Polygon gaming focus",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-28T20:57:06.932Z"
+  },
+  {
+    "guid": "https://www.polygon.com/lord-of-the-rings-hunt-for-gollum-aragorn-jamie-dornan-viggo-mortensen/",
+    "title": "Lord of the Rings’ New Aragorn Actor Officially Opens up on Role’s Immense Pressure",
+    "link": "https://www.polygon.com/lord-of-the-rings-hunt-for-gollum-aragorn-jamie-dornan-viggo-mortensen/",
+    "creator": "Willa Rowe",
+    "pubDate": "Wed, 28 Oct 2026 17:05:14 GMT",
+    "categories": [
+      "News",
+      "The Lord of the Rings: The Hunt for Gollum",
+      "The Lord of the Rings: The Return of the King"
+    ],
+    "description": "The Lord of the Rings: The Hunt for Gollum's Aragorn actor Jamie Dornan admits it is hard to replace Viggo Mortensen.",
+    "contentEncoded": "<p>It can't be easy taking over a role from an actor who so perfectly portrayed the character before. Yet that is exactly what Jamie Dornan <em>(Fifty Shades of Grey</em>, <em>Once Upon a Time</em>) is preparing to do. <a href=\"https://www.polygon.com/lord-of-the-rings-hunt-for-gollum-aragorn-recasting/\" target=\"_blank\">He will play Aragorn</a> in <a href=\"https://www.polygon.com/lotr-hunt-for-gollum-first-footage-teaser-andy-serkis/\" target=\"_blank\"><em>The Lord of the Rings: The Hunt for Gollum</em></a>, replacing Viggo Mortensen. Dornan admitted he's feeling the pressure.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/22832721/4k_returnofking_movie_screencaps.com_31229.jpg",
+      "type": "image/jpeg",
+      "length": "554997"
+    },
+    "decision": "toss",
+    "reason": "Film casting gossip without real substance",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-28T20:57:06.932Z"
+  },
+  {
+    "guid": "https://www.polygon.com/final-fantasy-resonance-nameless-ruins-chest-how-to-open/",
+    "title": "How to open the Nameless Ruins chest in Final Fantasy Resonance",
+    "link": "https://www.polygon.com/final-fantasy-resonance-nameless-ruins-chest-how-to-open/",
+    "creator": "Josh Broadwell",
+    "pubDate": "Wed, 28 Oct 2026 16:48:32 GMT",
+    "categories": [
+      "Guides",
+      "Final Fantasy Resonance"
+    ],
+    "description": "Final Fantasy Resonance's Namless Ruins chest houses an excellent set of armor, but you have to solve a riddle to get it",
+    "contentEncoded": "<p>You're greeted with a <strong>sealed chest in <a href=\"https://www.polygon.com/final-fantasy-resonance/\" target=\"_blank\"><em>Final Fantasy Resonance</em></a>'s Nameless Ruins</strong>, and it's hard to miss, since there's a big statue right next to it. When you approach the chest, however, you get a riddle with little guidance as to what it means — and the statue next to you is of no use. Yet. You'll need to make some progress in this dungeon and complete a few steps in the right order to open the chest, but the prize inside is worth the hassle.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/final-fantasy-resonance-nameless-ruins-chest.jpg",
+      "type": "image/jpeg",
+      "length": "409"
+    },
+    "decision": "toss",
+    "reason": "Rule: category \"Guides\"",
+    "decidedBy": "rule",
+    "firstSeen": "2026-10-28T20:57:06.932Z"
+  },
+  {
+    "guid": "https://www.polygon.com/the-wolf-among-us-twau-deliciously-dark-twist-favorite-fairy-tales/",
+    "title": "The Wolf Among Us Puts a Deliciously Dark Twist on Our Favorite Fairy Tales",
+    "link": "https://www.polygon.com/the-wolf-among-us-twau-deliciously-dark-twist-favorite-fairy-tales/",
+    "creator": "Polygon Advertiser Content",
+    "pubDate": "Wed, 28 Oct 2026 16:45:06 GMT",
+    "categories": [
+      "Advertiser Content",
+      "The Wolf Among Us Remastered",
+      "The Wolf Among Us",
+      "Steam",
+      "PC",
+      "PlayStation 5"
+    ],
+    "description": "13 years after its release, the Telltale title is getting a remaster worth celebrating.",
+    "contentEncoded": "<p><strong><em>This article was produced in collaboration with our sponsor, Telltale.</em></strong></p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/the-wolf-among-us-remastered-4.jpg",
+      "type": "image/jpeg",
+      "length": "303"
+    },
+    "decision": "keep",
+    "reason": "Game remaster news with story/feature focus",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-28T20:57:06.932Z"
+  },
+  {
     "guid": "https://www.polygon.com/witchbrook-release-date-announcement/",
     "title": "'Harry Potter Meets Stardew Valley' Game Sets Official Release Date",
     "link": "https://www.polygon.com/witchbrook-release-date-announcement/",
