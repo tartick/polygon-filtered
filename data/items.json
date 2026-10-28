@@ -1,5 +1,53 @@
 [
   {
+    "guid": "https://www.polygon.com/upcoming-games-like-mass-effect/",
+    "title": "3 Upcoming Sci-Fi RPGs Better Than Waiting for a New Mass Effect",
+    "link": "https://www.polygon.com/upcoming-games-like-mass-effect/",
+    "creator": "Rebecca Corgan",
+    "pubDate": "Wed, 28 Oct 2026 01:00:17 GMT",
+    "categories": [
+      "Polygon Lists",
+      "Mass Effect: Legendary Edition",
+      "Exodus",
+      "The Expanse: Osiris Reborn"
+    ],
+    "description": "From Exodus to Star Wars: Fate of the Old Republic, these upcoming RPGs could be your next great Mass Effect replacement.",
+    "contentEncoded": "<p>When <a href=\"https://www.polygon.com/ea-bioware-closure-mass-efffect-5-canceled/\" target=\"_blank\">EA closed BioWare</a> and canceled the next Mass Effect game, it took away a future many of us had been looking forward to for a long, long time. Think: more squadmates to fall for, more ships that you slowly realize feel like home, more decisions that haunt you years later.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/exodus-space-ship.png",
+      "type": "image/jpeg",
+      "length": "8102"
+    },
+    "decision": "keep",
+    "reason": "Upcoming game recommendations and analysis for sci-fi RPGs.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-28T02:07:18.322Z"
+  },
+  {
+    "guid": "https://www.polygon.com/best-fantasy-books-like-adult-fairy-tales/",
+    "title": "5 Adult Fairy Tale Books That Are Magical From Start to Finish",
+    "link": "https://www.polygon.com/best-fantasy-books-like-adult-fairy-tales/",
+    "creator": "Sam Nelson",
+    "pubDate": "Wed, 28 Oct 2026 00:00:17 GMT",
+    "categories": [
+      "Polygon Lists",
+      "Fantasy",
+      "Books",
+      "Brandon Sanderson"
+    ],
+    "description": "Dive into fantastical worlds filled with wizards, fae, and dangerous quests",
+    "contentEncoded": "<p>Fairy tales are often the first stories kids learn from picture books, and the works of Hanna Diyab, the Brothers Grimm, and Hans Christian Andersen can help inspire a lifelong passion for reading. But just because you grow up, doesn’t mean you have to abandon the genre. Modern <a href=\"https://www.polygon.com/fantasy/\" target=\"_blank\">fantasy</a> books often strive for epic scale and complex political scheming, but it can be just as satisfying to explore a wondrous world where brave heroes fall in love and find the courage to do what’s right. If you want to bring some more magic to your reading list, check out these five fairy tale novels for adults.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/tress-1.jpg",
+      "type": "image/jpeg",
+      "length": "82"
+    },
+    "decision": "toss",
+    "reason": "Book promotion and graphic novel content outside gaming focus.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-28T02:07:18.322Z"
+  },
+  {
     "guid": "https://www.polygon.com/return-of-the-king-trick-taking-game-interview/",
     "title": "The Lord of the Rings: Return of the King Is Officially Getting a New Version Next Year",
     "link": "https://www.polygon.com/return-of-the-king-trick-taking-game-interview/",
