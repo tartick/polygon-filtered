@@ -6,7 +6,19 @@
     <description>Polygon.com minus the shovelware.</description>
     <atom:link href="https://tartick.github.io/polygon-filtered/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-US</language>
-    <lastBuildDate>Wed, 28 Oct 2026 19:30:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 21:27:38 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[The Case Against Larian Saving Dragon Age, No Matter How Tempting It Sounds]]></title>
+      <link>https://www.polygon.com/larian-dragon-age-takeover-bad-idea/</link>
+      <guid isPermaLink="true">https://www.polygon.com/larian-dragon-age-takeover-bad-idea/</guid>
+      <dc:creator><![CDATA[Rebecca Corgan]]></dc:creator>
+      <pubDate>Wed, 28 Oct 2026 21:27:38 GMT</pubDate>
+      <category><![CDATA[Opinion]]></category>
+      <category><![CDATA[Dragon Age]]></category>
+      <enclosure url="https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/2339608/Dragon-Age-Inquisition-Game-Wallpaper-1409354347233.0.jpg" length="386032" type="image/jpeg"/>
+      <description><![CDATA[Fans want Larian to take over Dragon Age after BioWare’s closure. Here’s why Larian’s own plans, Dragon Age’s DNA, and EA all say no]]></description>
+      <content:encoded><![CDATA[<p>The possible takeover is hardly a new idea. Fans have been asking Larian to move into Thedas — Dragon Age’s world, a continent of grudging nations and grim cathedrals and a god nobody can quite prove is real — since <a href="https://www.polygon.com/game/baldurs-gate-3/40577/" target="_blank"><em>Baldur’s Gate 3</em></a> came out in 2023 and completely rewrote the rules of fantasy RPG storytelling. For the last three years, posts have regularly surfaced on various <a href="https://www.reddit.com/r/BaldursGate3/comments/16igbu1/i_wish_larian_could_acquire_dragon_age_ip/" target="_blank"><em>BG3</em></a> or <a href="https://www.reddit.com/r/dragonage/comments/1noz9qf/larian_should_own_the_rights_to_dragon_age/" target="_blank">Dragon Age</a> subreddits <a href="https://www.reddit.com/r/larianstudios/comments/1uwjkbj/what_if_larian_makes_the_next_dragon_age/" target="_blank">asking for this precise</a> handover to unfold.</p>]]></content:encoded>
+    </item>
     <item>
       <title><![CDATA[BG3 Owes Everything to One Underrated 2009 BioWare RPG]]></title>
       <link>https://www.polygon.com/dragon-age-origins-baldurs-gate-3-underrated/</link>
@@ -643,19 +655,6 @@
       <enclosure url="https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/assets_2026_01_1769110938_fh6_screenshots_11-city-car-meet.jpg" length="4546" type="image/jpeg"/>
       <description><![CDATA[Forza Horizon 6 faces a stiff challenge in the Sports/Racing category from Star Wars: Galactic Racer]]></description>
       <content:encoded><![CDATA[<p>The Sports/Racing category has a number of almost inviolate rules, which are as follows:</p>]]></content:encoded>
-    </item>
-    <item>
-      <title><![CDATA[Mass Effect Universe Director Reveals Canceled Game's Multiverse System]]></title>
-      <link>https://www.polygon.com/mass-effect-universe-parallel-universe-timeline-system/</link>
-      <guid isPermaLink="true">https://www.polygon.com/mass-effect-universe-parallel-universe-timeline-system/</guid>
-      <dc:creator><![CDATA[Ashely Claudino]]></dc:creator>
-      <pubDate>Sun, 25 Oct 2026 15:38:08 GMT</pubDate>
-      <category><![CDATA[Gaming]]></category>
-      <category><![CDATA[Mass Effect Trilogy]]></category>
-      <category><![CDATA[Mass Effect]]></category>
-      <enclosure url="https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/mass-effect-multiverse.jpg" length="301" type="image/jpeg"/>
-      <description><![CDATA[BioWare's technical director reveals that Mass Effect Universe was set to feature a complex parallel-universe system with multiple timelines.]]></description>
-      <content:encoded><![CDATA[<p>BioWare's <a href="https://www.polygon.com/ea-bioware-closure-mass-efffect-5-canceled/" target="_blank">canceled Mass Effect</a><a href="http://polygon.com/gaming" target="_blank">game</a> would have been more than just one "universe."</p>]]></content:encoded>
     </item>
   </channel>
 </rss>
