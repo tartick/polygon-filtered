@@ -1,5 +1,230 @@
 [
   {
+    "guid": "https://www.polygon.com/fast-furious-five-leaving-netflix-november-2026/",
+    "title": "15 Years Later, the Most Near-Perfect Fast and Furious Movie Is Getting From Netflix",
+    "link": "https://www.polygon.com/fast-furious-five-leaving-netflix-november-2026/",
+    "creator": "Brian VanHooker",
+    "pubDate": "Thu, 29 Oct 2026 04:24:17 GMT",
+    "categories": [
+      "What to Watch",
+      "Movies",
+      "Action",
+      "The Fast And The Furious",
+      "Fast Five"
+    ],
+    "description": "Even after 11 movies, Fast Five is still the best by a mile. Watch it now, while you still can.",
+    "contentEncoded": "<p>For a long time, I assumed the <a href=\"https://www.polygon.com/entertainment/23720463/fast-furious-watch-order-movies-timeline-streaming/\" target=\"_blank\">Fast & Furious</a> franchise were beneath me. The movies appeared to be nothing more than a series of vapid car commercials and, not being much of a car guy, I wasn't interested. But during the pandemic, I got pressured into watching the first one and really enjoyed it. Before I knew it, I’d watched every installment and couldn’t wait for the next one. That's the power of family.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/mcdfafi_ec040.jpg",
+      "type": "image/jpeg",
+      "length": "1793237"
+    },
+    "decision": "toss",
+    "reason": "Streaming-leaving clickbait; nostalgia retrospective framing (\"15 years later\").",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-29T06:57:12.465Z"
+  },
+  {
+    "guid": "https://www.polygon.com/9-years-ago-season-2-of-this-sci-fi-series-proved-the-first-season-wasnt-a-fluke/",
+    "title": "9 Years Ago, Netflix Released a Rare Sci-Fi Sequel Even Better Than the Original",
+    "link": "https://www.polygon.com/9-years-ago-season-2-of-this-sci-fi-series-proved-the-first-season-wasnt-a-fluke/",
+    "creator": "Brian VanHooker",
+    "pubDate": "Thu, 29 Oct 2026 04:00:18 GMT",
+    "categories": [
+      "What to Watch",
+      "Stranger Things",
+      "Sci-Fi",
+      "TV"
+    ],
+    "description": "Season 2 of Stranger Things premiered nine years ago, which proved to be nearly as good as season 1 thanks to some great new characters",
+    "contentEncoded": "<p>The “sophomore slump” or the “difficult second album” has generally been an expression that’s applied to music. After a band or a solo artist launches their career with a hit record, it can be challenging to recapture that same energy and excitement. After all, it's one thing to work on your best idea in solitude for years. It's another to suddenly feel immense pressure to follow-up that first hit with something even better. The same can hold true for TV. Many of the greatest television shows fail to deliver on their second outing — like <em>Heroes</em> and <em>True Detective</em>, to name just a couple.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/aaaaqybuvbspm0usrnmzelpdizqminuzokjmqivtluzb0b6p0nbo5smgxrtpzzkfruwrrfgpbhksnqelnt_jhf-e7kiynhqpdgrk7yefvzr9mqzde_z9xy37x-gx8nlk2teftzsyf3ya0j5q6n8xedpcofap.jpg",
+      "type": "image/jpeg",
+      "length": "227"
+    },
+    "decision": "toss",
+    "reason": "Nostalgia retrospective; generic TV series renewal/season news.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-29T06:57:12.465Z"
+  },
+  {
+    "guid": "https://www.polygon.com/game-of-the-year-goty-game-awards-2026-frontrunners/",
+    "title": "Game Awards 2026: All Game of the Year Front-Runners and Predictions",
+    "link": "https://www.polygon.com/game-of-the-year-goty-game-awards-2026-frontrunners/",
+    "creator": "Oli Welsh",
+    "pubDate": "Thu, 29 Oct 2026 03:40:06 GMT",
+    "categories": [
+      "GOTY Watch"
+    ],
+    "description": "We rank the contenders for GOTY 2026 at TGAs, including Resident Evil Requiem and Grand Theft Auto 6",
+    "contentEncoded": "<p>At this point, we have <a href=\"http://www.polygon.com/awards/450688/what-makes-game-of-the-year-tgas/\" target=\"_blank\">a clear idea of what games will be favored</a> by <a href=\"https://www.polygon.com/explained/492637/how-the-game-awards-voting-works/\" target=\"_blank\">The Game Awards' voting body</a>: A high Metacritic rating (preferably over 90) is a must; role-playing games and action-adventures are strongly favored, as are games with strong narrative elements; indie and multiplayer games struggle harder for recognition than AAA single-player adventures. We used these metrics to correctly predict last year's winner, <em>Clair Obscur: Expedition 33</em>, and the 2024 winner, <em>Astro Bot</em>. In 2025, we also predicted all six GOTY nominees and correctly called 20 other categories.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/phantom-blade-zero.jpg",
+      "type": "image/jpeg",
+      "length": "330"
+    },
+    "decision": "keep",
+    "reason": "Game industry/awards news with game announcements and coverage.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-29T06:57:12.465Z"
+  },
+  {
+    "guid": "https://www.polygon.com/slow-horses-season-7-release-date-plot/",
+    "title": "'Slow Horses' Season 7 Confirmed? Release Date, Plot, and Everything You Need to Know",
+    "link": "https://www.polygon.com/slow-horses-season-7-release-date-plot/",
+    "creator": "Sam Nelson",
+    "pubDate": "Thu, 29 Oct 2026 02:09:17 GMT",
+    "categories": [
+      "FYI",
+      "Slow Horses",
+      "TV"
+    ],
+    "description": "Here’s when you’ll find out what happens next after that brutal cliffhanger",
+    "contentEncoded": "<p>Apple’s tight spy thriller <a href=\"https://www.polygon.com/slow-horses-season-6-gaby-chiappe-interview/\" target=\"_blank\"><em>Slow Horses</em></a><em></em>usually ties up each season-long mystery in six episodes, but the season 6 finale ended with a shocking cliffhanger. If you haven’t read Mick Herron’s Slough House books and are desperate to know what happens next, including which characters will be returning, we’ve got some answers. Here’s everything we know about <em>Slow Horses </em>season 7, including the potential release date and plot details.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/sid-baker-olivia-cooke-and-river-cartwright-jack-lowden-in-slow-horses-season-6.jpg",
+      "type": "image/jpeg",
+      "length": "1357"
+    },
+    "decision": "toss",
+    "reason": "Generic TV series renewal news; non-horror, non-prestige series.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-29T06:57:12.465Z"
+  },
+  {
+    "guid": "https://www.polygon.com/phantom-blade-zero-ribbon-location-where-to-find-rewards/",
+    "title": "All ribbon locations in Phantom Blade Zero",
+    "link": "https://www.polygon.com/phantom-blade-zero-ribbon-location-where-to-find-rewards/",
+    "creator": "Paulo Kawanishi",
+    "pubDate": "Thu, 29 Oct 2026 02:01:21 GMT",
+    "categories": [
+      "Guides",
+      "Phantom Blade Zero"
+    ],
+    "description": "In this guide, you find all ribbon locations in Phantom Blade Zero, and how to get there, so you can complete the \"Young Mistress\" side quest.",
+    "contentEncoded": "<p>If you find <strong>all the ribbons in the Village of Lu</strong> you will complete an important <a href=\"https://www.polygon.com/phantom-blade-zero/\" target=\"_blank\"><em>Phantom Blade Zero</em></a> side quest: <strong>\"Young Mistress.\"</strong> They were left by Mu Xiaokui, daughter of Soul's master. He has known her since she was a child, and they have established a bond that you can only truly understand by hearing the short dialogues that play whenever you collect a ribbon. In addition, completing this side quest also makes the final boss fight in the area more challenging.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/phantombladezero_guide_ribbons_lead.jpg",
+      "type": "image/jpeg",
+      "length": "231"
+    },
+    "decision": "toss",
+    "reason": "Rule: category \"Guides\"",
+    "decidedBy": "rule",
+    "firstSeen": "2026-10-29T06:57:12.465Z"
+  },
+  {
+    "guid": "https://www.polygon.com/phantom-blade-zero-flesh-lily-location-where-to-find/",
+    "title": "Where to find the Flesh Lily in Phantom Blade Zero",
+    "link": "https://www.polygon.com/phantom-blade-zero-flesh-lily-location-where-to-find/",
+    "creator": "Paulo Kawanishi",
+    "pubDate": "Thu, 29 Oct 2026 02:01:21 GMT",
+    "categories": [
+      "Guides",
+      "Phantom Blade Zero"
+    ],
+    "description": "In this guide, we explain where you can find the Flesh Lily in Phantom Blade Zero to complete Yu'er's side quest.",
+    "contentEncoded": "<p>Locating the <strong>Flesh Lily</strong> in <a href=\"https://www.polygon.com/phantom-blade-zero/\" target=\"_blank\"><em>Phantom Blade Zero</em></a> is part of one of the first secondary missions in the game. The \"Flesh Lily\" is a long quest that you only complete after reaching the fourth area in the game, Pangzhen. Although it takes a while for you to see the conclusion of this tale, completing the first step is worthwhile, as it involves obtaining one of the strongest weapons in the early game.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/phantombladezero_guide_fleshlily_lead.jpg",
+      "type": "image/jpeg",
+      "length": "444"
+    },
+    "decision": "toss",
+    "reason": "Rule: category \"Guides\"",
+    "decidedBy": "rule",
+    "firstSeen": "2026-10-29T06:57:12.465Z"
+  },
+  {
+    "guid": "https://www.polygon.com/phantom-blade-zero-cell-key-location-where-to-find-outpost-courtyard/",
+    "title": "Where to find the Outpost cell key in Phantom Blade Zero",
+    "link": "https://www.polygon.com/phantom-blade-zero-cell-key-location-where-to-find-outpost-courtyard/",
+    "creator": "Paulo Kawanishi",
+    "pubDate": "Thu, 29 Oct 2026 02:01:21 GMT",
+    "categories": [
+      "Guides",
+      "Phantom Blade Zero"
+    ],
+    "description": "Here's where to find the cell key in Phantom Blade Zero to open the locked door in the Outpost Courtyard, and the reward from opening it.",
+    "contentEncoded": "<p>The <strong>Outpost cell key</strong> is a secondary objective in <a href=\"https://www.polygon.com/phantom-blade-zero/\" target=\"_blank\"><em>Phantom Blade Zero</em></a> that teaches you that exploring the maps thoroughly is worthwhile. As you progress in the story, you will come across plenty of locked doors, and it might take some time before you can obtain the means to open them, as some are connected to the main story.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/phantombladezero_guide_outpostkey_lead.jpg",
+      "type": "image/jpeg",
+      "length": "419"
+    },
+    "decision": "toss",
+    "reason": "Rule: category \"Guides\"",
+    "decidedBy": "rule",
+    "firstSeen": "2026-10-29T06:57:12.465Z"
+  },
+  {
+    "guid": "https://www.polygon.com/phantom-blade-zero-a-healers-mercy-quest-walkthrough-wounded-thieves/",
+    "title": "'A Healer's Mercy' quest walkthrough in Phantom Blade Zero",
+    "link": "https://www.polygon.com/phantom-blade-zero-a-healers-mercy-quest-walkthrough-wounded-thieves/",
+    "creator": "Marloes Valentina Stella",
+    "pubDate": "Thu, 29 Oct 2026 02:01:21 GMT",
+    "categories": [
+      "Guides",
+      "Phantom Blade Zero"
+    ],
+    "description": "Here's where to find the wounded thieves' locations needed to complete 'A Healer's Mercy' in Phantom Blade Zero",
+    "contentEncoded": "<p>To complete<strong> \"A Healer's Mercy\"</strong> in <a href=\"https://www.polygon.com/phantom-blade-zero/\" target=\"_blank\"><em>Phantom Blade Zero</em></a>, you must find four lost thieves in the Crimson Forest, the second region. As none of them are waiting on the main path, it's quite a hassle to distribute Yu'er's medicine and get the thieves back to thieving.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/phantom-blade-zero-a-healers-mercy-1.jpg",
+      "type": "image/jpeg",
+      "length": "3822"
+    },
+    "decision": "toss",
+    "reason": "Rule: category \"Guides\"",
+    "decidedBy": "rule",
+    "firstSeen": "2026-10-29T06:57:12.465Z"
+  },
+  {
+    "guid": "https://www.polygon.com/phantom-blade-zero-medicine-herb-locations-apprentice-healer/",
+    "title": "All medicine locations for 'Apprentice Healer' in Phantom Blade Zero",
+    "link": "https://www.polygon.com/phantom-blade-zero-medicine-herb-locations-apprentice-healer/",
+    "creator": "Marloes Valentina Stella",
+    "pubDate": "Thu, 29 Oct 2026 02:01:21 GMT",
+    "categories": [
+      "Guides",
+      "Phantom Blade Zero"
+    ],
+    "description": "Here's where to find the medicinal herb locations needed to complete the \"Apprentice Healer\" quest in Phantom Blade Zero",
+    "contentEncoded": "<p>To complete the<strong> \"Apprentice Healer\" </strong>quest in <a href=\"https://www.polygon.com/phantom-blade-zero/\" target=\"_blank\"><em>Phantom Blade Zero</em></a>, you must find three medicinal herbs for Yu'er. It's easier said than done, as two of these herbs are found in a hidden valley, and entering this mysterious location is quite the challenge on its own.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/phantom-blade-zero-apprentice-healer-1.jpg",
+      "type": "image/jpeg",
+      "length": "4999"
+    },
+    "decision": "toss",
+    "reason": "Rule: category \"Guides\"",
+    "decidedBy": "rule",
+    "firstSeen": "2026-10-29T06:57:12.465Z"
+  },
+  {
+    "guid": "https://www.polygon.com/phantom-blade-zero-primal-stone-location-severed-mindseal/",
+    "title": "Where to find the primal stone for 'A Severed Mindseal' in Phantom Blade Zero",
+    "link": "https://www.polygon.com/phantom-blade-zero-primal-stone-location-severed-mindseal/",
+    "creator": "Marloes Valentina Stella",
+    "pubDate": "Thu, 29 Oct 2026 02:01:21 GMT",
+    "categories": [
+      "Guides",
+      "Phantom Blade Zero"
+    ],
+    "description": "Here's the primal stone location needed to complete 'A Severed Mindseal' in Phantom Blade Zero.",
+    "contentEncoded": "<p>To <strong>find the Primal Stone </strong>during the <strong>\"A Severed Mindseal\" quest</strong> in <a href=\"https://www.polygon.com/phantom-blade-zero/\" target=\"_blank\"><em>Phantom Blade Zero</em></a>, you must search a mysterious tower imbued with primal energy. It's easier said than done, but you'll make the Friendly Shadow Warden (that odd fellow you met on the roof of the Sha-Chi Tower) very happy.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/phantom-blade-zero-primal-stone-location-1.jpg",
+      "type": "image/jpeg",
+      "length": "4855"
+    },
+    "decision": "toss",
+    "reason": "Rule: category \"Guides\"",
+    "decidedBy": "rule",
+    "firstSeen": "2026-10-29T06:57:12.465Z"
+  },
+  {
     "guid": "https://www.polygon.com/scarlett-johansson-under-the-skin-sci-fi-movie-leaving-netflix-november-2026/",
     "title": "Scarlett Johansson’s Most Unsettling Sci-Fi Movie Is Officially Getting Cut From Netflix",
     "link": "https://www.polygon.com/scarlett-johansson-under-the-skin-sci-fi-movie-leaving-netflix-november-2026/",

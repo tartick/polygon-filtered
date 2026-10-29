@@ -6,7 +6,18 @@
     <description>Polygon.com minus the shovelware.</description>
     <atom:link href="https://tartick.github.io/polygon-filtered/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-US</language>
-    <lastBuildDate>Wed, 28 Oct 2026 21:27:38 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 03:40:06 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[Game Awards 2026: All Game of the Year Front-Runners and Predictions]]></title>
+      <link>https://www.polygon.com/game-of-the-year-goty-game-awards-2026-frontrunners/</link>
+      <guid isPermaLink="true">https://www.polygon.com/game-of-the-year-goty-game-awards-2026-frontrunners/</guid>
+      <dc:creator><![CDATA[Oli Welsh]]></dc:creator>
+      <pubDate>Thu, 29 Oct 2026 03:40:06 GMT</pubDate>
+      <category><![CDATA[GOTY Watch]]></category>
+      <enclosure url="https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/phantom-blade-zero.jpg" length="330" type="image/jpeg"/>
+      <description><![CDATA[We rank the contenders for GOTY 2026 at TGAs, including Resident Evil Requiem and Grand Theft Auto 6]]></description>
+      <content:encoded><![CDATA[<p>At this point, we have <a href="http://www.polygon.com/awards/450688/what-makes-game-of-the-year-tgas/" target="_blank">a clear idea of what games will be favored</a> by <a href="https://www.polygon.com/explained/492637/how-the-game-awards-voting-works/" target="_blank">The Game Awards' voting body</a>: A high Metacritic rating (preferably over 90) is a must; role-playing games and action-adventures are strongly favored, as are games with strong narrative elements; indie and multiplayer games struggle harder for recognition than AAA single-player adventures. We used these metrics to correctly predict last year's winner, <em>Clair Obscur: Expedition 33</em>, and the 2024 winner, <em>Astro Bot</em>. In 2025, we also predicted all six GOTY nominees and correctly called 20 other categories.</p>]]></content:encoded>
+    </item>
     <item>
       <title><![CDATA[The Case Against Larian Saving Dragon Age, No Matter How Tempting It Sounds]]></title>
       <link>https://www.polygon.com/larian-dragon-age-takeover-bad-idea/</link>
@@ -642,19 +653,6 @@
       <enclosure url="https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/tomb-raider_-legacy-of-atlantis-30th-anniversary-teaser-video-_-tomb-raider-0-55-screenshot.jpeg" length="244" type="image/jpeg"/>
       <description><![CDATA[Tomb Raider: Legacy of Atlantis' new 30th anniversary trailer reveals classic moments from 1996's Tomb Raider in dazzling remake footage.]]></description>
       <content:encoded><![CDATA[<p>The original <a href="https://www.polygon.com/tag/tomb-raider/" target="_blank"><em>Tomb Raider</em></a> game celebrated its 30th anniversary this weekend, marking the 3D platforming adventure's release on Sega Saturn — yes, it came to Sega's doomed 3D console before its PlayStation and PC release a month later. To mark the occasion, developers Crystal Dynamics and Flying Wild Hog, and publisher Amazon Game Studios, revealed a new look at the game originally meant to celebrate that milestone: <a href="https://www.polygon.com/tomb-raider-legacy-of-atlantis/" target="_blank"><em>Tomb Raider: Legacy of Atlantis</em></a>.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title><![CDATA[Forza Might Actually Lose at The Game Awards for the First Time in a Decade]]></title>
-      <link>https://www.polygon.com/game-awards-sports-racing-forza-star-wars-galactic-racer/</link>
-      <guid isPermaLink="true">https://www.polygon.com/game-awards-sports-racing-forza-star-wars-galactic-racer/</guid>
-      <dc:creator><![CDATA[Oli Welsh]]></dc:creator>
-      <pubDate>Sun, 25 Oct 2026 16:00:18 GMT</pubDate>
-      <category><![CDATA[GOTY Watch]]></category>
-      <category><![CDATA[Forza Horizon 6]]></category>
-      <category><![CDATA[Star Wars: Galactic Racer]]></category>
-      <enclosure url="https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/assets_2026_01_1769110938_fh6_screenshots_11-city-car-meet.jpg" length="4546" type="image/jpeg"/>
-      <description><![CDATA[Forza Horizon 6 faces a stiff challenge in the Sports/Racing category from Star Wars: Galactic Racer]]></description>
-      <content:encoded><![CDATA[<p>The Sports/Racing category has a number of almost inviolate rules, which are as follows:</p>]]></content:encoded>
     </item>
   </channel>
 </rss>
