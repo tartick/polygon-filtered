@@ -1,5 +1,140 @@
 [
   {
+    "guid": "https://www.polygon.com/my-chemical-romance-mcr-lauren-tsai-short-film-kojima-cameo/",
+    "title": "My Chemical Romance and Lauren Tsai Team Up for Short Movie Featuring Hideo Kojima",
+    "link": "https://www.polygon.com/my-chemical-romance-mcr-lauren-tsai-short-film-kojima-cameo/",
+    "creator": "Ashely Claudino",
+    "pubDate": "Fri, 30 Oct 2026 11:20:38 GMT",
+    "categories": [
+      "News",
+      "My Chemical Romance: Life on the Murder Scene"
+    ],
+    "description": "Lauren Tsai has made a short film for New Jersey band My Chemical Romance, featuring Billie Eilish, Phoebe Bridgers, and Kojima.",
+    "contentEncoded": "<p>Artist Lauren Tsai, creator of the stop-motion series The Dying World, has collaborated with New Jersey band My Chemical Romance. Drawing on The Dying World and its characters, she created a short film based on \"The End,\" the first song on My Chemical Romance's 2006 album <em>The Black Parade</em>.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/astrid-lauren-tsai.jpg",
+      "type": "image/jpeg",
+      "length": "247"
+    },
+    "decision": "toss",
+    "reason": "Music news with film cameo; not game/horror/prestige film focused.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-30T11:34:55.881Z"
+  },
+  {
+    "guid": "https://www.polygon.com/the-exorcist-3-best-villain/",
+    "title": "Forget 'Carrie,' Mike Flanagan's Next Movie Could Fix A Misunderstood Cult Classic",
+    "link": "https://www.polygon.com/the-exorcist-3-best-villain/",
+    "creator": "Maria Loreto",
+    "pubDate": "Fri, 30 Oct 2026 11:00:18 GMT",
+    "categories": [
+      "Halloween Countdown",
+      "Movies",
+      "The Exorcist III",
+      "The Exorcist"
+    ],
+    "description": "Butchered by its studio and misunderstood on release, this ’90s horror sequel hides one of the genre’s most chilling villains. It's now streaming.",
+    "contentEncoded": "<p>My relationship to <a href=\"https://www.polygon.com/horror/\" target=\"_blank\">horror</a> started like a lot of people’s: I was a ridiculously scared child. The thought of Freddy Krueger’s claws was enough to drive me to tears. But then, I grew up, and I became obsessed with the genre and its controlled fears. I have a soft spot for exorcism storylines, featuring the kind of horror that lingers and makes its way into your home. Blame it on my Catholic upbringing, but few things are more disturbing to me than watching Regan MacNeil (Linda Blair) spider walk down the stairs.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24975030/Scream.png",
+      "type": "image/jpeg",
+      "length": "4686399"
+    },
+    "decision": "keep",
+    "reason": "Horror movie analysis; Mike Flanagan project discussed.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-30T11:34:55.881Z"
+  },
+  {
+    "guid": "https://www.polygon.com/10-queer-retellings-of-classic-fairy-tales/",
+    "title": "10 Queer Fairy Tale Retellings Better Than the Originals",
+    "link": "https://www.polygon.com/10-queer-retellings-of-classic-fairy-tales/",
+    "creator": "Aimee Hart",
+    "pubDate": "Fri, 30 Oct 2026 10:00:18 GMT",
+    "categories": [
+      "Polygon Lists",
+      "Books"
+    ],
+    "description": "What makes a great queer fairy-tale retelling? Explore our top 10 picks for the best creative spins on classic tales.",
+    "contentEncoded": "<p>As a queer woman growing up, it was pretty easy to neg on all things fairy-tale. Perhaps I had reason to, as <a href=\"https://www.polygon.com/shrek-disney-fairy-tale-parody/\" target=\"_blank\">mockery of all things Disney</a> has grown popular in recent years.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/queer-fairy-tale-retellings.jpg",
+      "type": "image/jpeg",
+      "length": "2148"
+    },
+    "decision": "toss",
+    "reason": "Generic book list; not games, horror, or prestige content.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-30T11:34:55.881Z"
+  },
+  {
+    "guid": "https://www.polygon.com/hideo-kojima-death-stranding-isolations-anime-first-trailer/",
+    "title": "Hideo Kojima's Death Stranding Anime Looks Impressive in First Official Trailer",
+    "link": "https://www.polygon.com/hideo-kojima-death-stranding-isolations-anime-first-trailer/",
+    "creator": "Francesco Cacciatore",
+    "pubDate": "Fri, 30 Oct 2026 10:00:11 GMT",
+    "categories": [
+      "News",
+      "Death Stranding"
+    ],
+    "description": "Death Stranding Isolations released a first teaser trailer ahead of the anime's 2027 scheduled release.",
+    "contentEncoded": "<p>Hideo Kojima's <a href=\"https://www.polygon.com/game/death-stranding/39186/\" target=\"_blank\">Death Stranding</a> series brought the Metal Gear Solid creator's trademark arthouse approach to video games to full fruition. With no plans for <em>Death Stranding 3</em>, besides a concept draft, fans are instead looking forward to the game's universe expanding into different media, including anime.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/death-stranding-isolations-header-cropped.jpg",
+      "type": "image/jpeg",
+      "length": "1422"
+    },
+    "decision": "keep",
+    "reason": "Game adaptation news; Kojima project announcement.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-30T11:34:55.881Z"
+  },
+  {
+    "guid": "https://www.polygon.com/jrpgs-best-battle-systems/",
+    "title": "5 Classic JRPGs with Virtually Perfect Battle Systems",
+    "link": "https://www.polygon.com/jrpgs-best-battle-systems/",
+    "creator": "Jen Glennon",
+    "pubDate": "Fri, 30 Oct 2026 09:00:17 GMT",
+    "categories": [
+      "Polygon Lists",
+      "Final Fantasy",
+      "Persona"
+    ],
+    "description": "Classic JRPGs have some of the best time-tested battle systems in all of gaming. Here are five classic JRPGs with the best combat.",
+    "contentEncoded": "<p>Many role-playing games have a familiar, turn-based combat system. Your options are usually riffs on one of four actions: attack, defend, use magic, or use an item. Even with that very basic template, you’re usually in for a pretty fun time saving the world with a group of pals. But if it’s not snappy and satisfying, or if battles drag on too long, you’re probably bouncing off that game.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/10308859/chrono_trigger_art.jpg",
+      "type": "image/jpeg",
+      "length": "488810"
+    },
+    "decision": "keep",
+    "reason": "Video game feature; classic JRPG analysis.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-30T11:34:55.881Z"
+  },
+  {
+    "guid": "https://www.polygon.com/wisdom-hobbes-watterson/",
+    "title": "34 Years Later, Hobbes' Wisest 'Calvin and Hobbes' Line Is Still a Perfect Comic Strip Quote",
+    "link": "https://www.polygon.com/wisdom-hobbes-watterson/",
+    "creator": "Thomas Hindmarch",
+    "pubDate": "Fri, 30 Oct 2026 08:00:17 GMT",
+    "categories": [
+      "Analysis",
+      "comic strip"
+    ],
+    "description": "And if I laugh at any mortal thing, 'tis that I may not weep",
+    "contentEncoded": "<p>Here's something that might win you some points in a trivia game someday: Bill Watterson named the protagonists of <em>Calvin and Hobbes</em> after two European philosophers. John Calvin (1509-1564) was a controversial theologian whose ideas gave rise to the predestination-oriented Calvinist branch of Protestantism (thus mucking everything up for everyone for centuries to come). Thomas Hobbes (1588-1679) wrote <em>Leviathan</em>, one of the foundational works of social contract theory.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/calvin-and-hobbes-snow-goons.jpg",
+      "type": "image/jpeg",
+      "length": "321"
+    },
+    "decision": "toss",
+    "reason": "Nostalgia retrospective; generic \"years later\" piece.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-30T11:34:55.881Z"
+  },
+  {
     "guid": "https://www.polygon.com/fantasy-books-you-need-to-read-at-least-once-in-your-life/",
     "title": "10 Essential Fantasy Books You Need to Read at Least Once in Your Life",
     "link": "https://www.polygon.com/fantasy-books-you-need-to-read-at-least-once-in-your-life/",
