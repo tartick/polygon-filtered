@@ -1,5 +1,232 @@
 [
   {
+    "guid": "https://www.polygon.com/gta-advance-worst-grand-theft-auto-game/",
+    "title": "The Worst GTA Game Is One Rockstar Could Never Make Today",
+    "link": "https://www.polygon.com/gta-advance-worst-grand-theft-auto-game/",
+    "creator": "Josh Broadwell",
+    "pubDate": "Fri, 30 Oct 2026 21:01:18 GMT",
+    "categories": [
+      "Opinion",
+      "Grand Theft Auto Advance"
+    ],
+    "description": "GTA Advance might be one of the worst GTA games, but it was still an essential stepping stone for what makes GTA great today",
+    "contentEncoded": "<p><em>GTA Advance</em> is an odd game. It's terrible in some ways, yet also not as bad as its reputation suggests. It's also an essential part of Rockstar history. This was Rockstar at a stage of uncertainty. The essence of the Grand Theft Auto franchise was still in flux, and the studio had yet to firmly decide on what, exactly, made a <a href=\"https://www.polygon.com/gta-grand-theft-auto/\" target=\"_blank\">GTA game</a>. <em>GTA Advance</em> has its strong points, but the most important thing about it is how it gave Rockstar (via developer Digital Eclipse) a chance to see where the series could fall short. It's a necessary bad game that paved the way for better ones — and the kind of essential failure the games industry can't tolerate anymore.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/gta-advance.jpg",
+      "type": "image/jpeg",
+      "length": "489"
+    },
+    "decision": "keep",
+    "reason": "Video game opinion/analysis about GTA series history and design.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-30T21:40:55.945Z"
+  },
+  {
+    "guid": "https://www.polygon.com/new-movies-streaming-this-weekend-prime-video-october-30-november-1/",
+    "title": "10 New Movies to Watch This Weekend on Prime Video, Prime Video, Paramount, and Peacock (October 30 - November 1)",
+    "link": "https://www.polygon.com/new-movies-streaming-this-weekend-prime-video-october-30-november-1/",
+    "creator": "Maria Loreto",
+    "pubDate": "Fri, 30 Oct 2026 21:01:18 GMT",
+    "categories": [
+      "Polygon Lists",
+      "Movies",
+      "Ep. #9964",
+      "Verity"
+    ],
+    "description": "On this weekend's streaming and VOD movie column, there's a post-apocalyptic blockbuster, an erotic thriller, and much more.",
+    "contentEncoded": "<p>It’s Halloween weekend! To celebrate, <a href=\"https://www.polygon.com/movies/\" target=\"_blank\">movie</a> theaters across the country are hosting<em> Scream</em>’s 30th anniversary screenings and <em>V for Vendetta</em>, which is celebrating its 20th anniversary. If you’re planning on staying home, check out our <a href=\"https://www.polygon.com/best-halloween-horror-movies-tv-watch-2026/\" target=\"_blank\">Halloween Countdown</a>, filled with spooky recommendations.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/mcdveri_zu019.jpg",
+      "type": "image/jpeg",
+      "length": "613"
+    },
+    "decision": "toss",
+    "reason": "Generic streaming clickbait without specific prestige/anticipated projects.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-30T21:40:55.945Z"
+  },
+  {
+    "guid": "https://www.polygon.com/modern-warfare-4-activision-apologizes-itaewon-tragedy/",
+    "title": "Activision Apologizes for 'Modern Warfare 4' Footage After Backlash",
+    "link": "https://www.polygon.com/modern-warfare-4-activision-apologizes-itaewon-tragedy/",
+    "creator": "Sam Hill",
+    "pubDate": "Fri, 30 Oct 2026 20:56:45 GMT",
+    "categories": [
+      "Gaming",
+      "Call of Duty: Modern Warfare 4"
+    ],
+    "description": "Activision apologizes for using footage of the 2022 Itaewon crowd crush in Call of Duty: Modern Warfare 4 and will remove it in November.",
+    "contentEncoded": "<p>Activision has apologized after including real footage of a deadly 2022 incident in <em><a href=\"https://www.polygon.com/call-of-duty-modern-warfare-4/\" target=\"_blank\">Call of Duty: Modern Warfare 4</a></em>, confirming that the footage will be completely removed in a forthcoming update following backlash from victims' families. The latest Call of Duty game included snippets of footage from the Seoul Halloween crowd crush, during which more than 150 people were killed in the Itaewon neighborhood of Seoul, South Korea.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/modern-warfare-4-mw4-best-guns-header.jpg",
+      "type": "image/jpeg",
+      "length": "162"
+    },
+    "decision": "keep",
+    "reason": "Video game news involving Activision business/editorial issue.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-30T21:40:55.945Z"
+  },
+  {
+    "guid": "https://www.polygon.com/final-fantasy-resonance-esper-locations/",
+    "title": "All Esper locations in Final Fantasy Resonance",
+    "link": "https://www.polygon.com/final-fantasy-resonance-esper-locations/",
+    "creator": "Josh Broadwell",
+    "pubDate": "Fri, 30 Oct 2026 20:15:18 GMT",
+    "categories": [
+      "Guides",
+      "Final Fantasy Resonance"
+    ],
+    "description": "Here's where to find each Esper location in Final Fantasy Resonance and how to recruit them",
+    "contentEncoded": "<p><a href=\"https://www.polygon.com/final-fantasy-resonance/\" target=\"_blank\"><em>Final Fantasy Resonance</em></a>'s Espers give Fina an extra edge in combat, or sometimes they're just convenient decoys to bait the enemy into attacking them and not your party. However you use them, Espers are definitely worth the MP it costs to summon them. You have to put in some extra work to obtain them, though. Espers are tucked away in different spots around <em>Resonance</em>'s world, and you have to find and often fight them before Fina can use their powers.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/final-fantasy-resonance-espers.jpg",
+      "type": "image/jpeg",
+      "length": "467"
+    },
+    "decision": "toss",
+    "reason": "Rule: category \"Guides\"",
+    "decidedBy": "rule",
+    "firstSeen": "2026-10-30T21:40:55.945Z"
+  },
+  {
+    "guid": "https://www.polygon.com/dead-like-me-bryan-fuller-streaming-free-tubi/",
+    "title": "Before 'Crystal Lake', Bryan Fuller Created an Overlooked Fantasy Series You Can Watch for Free",
+    "link": "https://www.polygon.com/dead-like-me-bryan-fuller-streaming-free-tubi/",
+    "creator": "Aimee Hart",
+    "pubDate": "Fri, 30 Oct 2026 20:04:17 GMT",
+    "categories": [
+      "What to Watch",
+      "dead like me",
+      "Dust Bunny",
+      "Hannibal"
+    ],
+    "description": "Before Crystal Lake and Hannibal, Bryan Fuller created Dead Like Me, a dark fantasy comedy about grim reapers. Both seasons stream free on Tubi.",
+    "contentEncoded": "<p>Bryan Fuller is a master of mixing horror, fantasy, and black comedy. Before <a href=\"https://www.polygon.com/crystal-lake-review-friday-the-13th-peacock/\" target=\"_blank\"><em>Crystal Lake</em></a>, the <a href=\"https://www.polygon.com/friday-the-13th-2-anniversary/\" target=\"_blank\"><em>Friday the 13th</em></a> prequel whose premiere shares a story credit between Fuller and showrunner Brad Caleb Kane, Fuller became best known for bringing another iconic killer to television in <a href=\"https://www.polygon.com/best-hannibal-episode-sakizuke/\" target=\"_blank\"><em>Hannibal</em></a>. But his fascination with death has also produced stories that are more quirky than terrifying.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/george-dead-like-me-21804397-1024-768.jpg",
+      "type": "image/jpeg",
+      "length": "452"
+    },
+    "decision": "toss",
+    "reason": "Streaming clickbait promoting free content, not substantive TV news.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-30T21:40:55.945Z"
+  },
+  {
+    "guid": "https://www.polygon.com/new-tv-shows-streaming-this-weekend-netflix-october-30-november-1/",
+    "title": "8 New TV Shows to Watch This Weekend on Netflix, HBO, and Apple TV (October 30 - November 1)",
+    "link": "https://www.polygon.com/new-tv-shows-streaming-this-weekend-netflix-october-30-november-1/",
+    "creator": "Maria Loreto",
+    "pubDate": "Fri, 30 Oct 2026 20:01:18 GMT",
+    "categories": [
+      "Polygon Lists"
+    ],
+    "description": "On this week's TV column, there's a new Apple TV thriller, the return of an HBO hit, a documentary series, and more.",
+    "contentEncoded": "<p>Happy weekend! As we prepare for the influx of <a href=\"https://www.polygon.com/tv/\" target=\"_blank\">TV shows</a> to come in November, including major releases like<em><a href=\"https://www.polygon.com/lotr-rings-of-power/\" target=\"_blank\">The Lord of the Rings: The Rings of Power</a>,</em> there are a few noteworthy entries this week to keep you occupied while you wait.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/a-couple-of-lies.jpg",
+      "type": "image/jpeg",
+      "length": "109034"
+    },
+    "decision": "toss",
+    "reason": "Generic TV streaming recommendations without prestige/anticipated projects.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-30T21:40:55.945Z"
+  },
+  {
+    "guid": "https://www.polygon.com/free-games-right-now-steam-epic-ps-plus-oct-30-nov-5/",
+    "title": "Every Free Game You Can Keep on Steam, Epic and PS Plus This Week (Oct 30–Nov 5)",
+    "link": "https://www.polygon.com/free-games-right-now-steam-epic-ps-plus-oct-30-nov-5/",
+    "creator": "Ashely Claudino",
+    "pubDate": "Fri, 30 Oct 2026 19:33:52 GMT",
+    "categories": [
+      "Gaming",
+      "Steam",
+      "Xbox Series X",
+      "PlayStation 5"
+    ],
+    "description": "What's free on Steam, Epic, PS5, and Xbox right now? Here's what's free to download and keep on PC, PlayStation Plus and Game Pass for Oct. 30-Nov. 5.",
+    "contentEncoded": "<p>The weekend is here, so it's time to unwind and do some gaming. <a href=\"https://www.polygon.com/phantom-blade-zero/\" target=\"_blank\"><em>Phantom Blade Zero</em></a> has taken the world by storm with its incredibly successful launch. It captured the interest of critics and gamers alike, racking up extraordinary reviews and quickly reaching the top of the charts on Steam. But hey, Wuxia soulslike RPGs aren't everyone's cup of tea. If you're looking for something to keep you busy while you wait for <a href=\"https://www.polygon.com/game/grand-theft-auto-6/40846/\" target=\"_blank\"><em>Grand Theft Auto 6</em></a> to come out or just want a game to keep you busy for the weekend, we've got you covered.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/sharedimages/2026/09/hunt-showdown-1896-press-image-3.jpg",
+      "type": "image/jpeg",
+      "length": "260"
+    },
+    "decision": "keep",
+    "reason": "Video game news/listings about free game availability.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-30T21:40:55.945Z"
+  },
+  {
+    "guid": "https://www.polygon.com/new-books-to-read-this-weekend-october-30-november-1/",
+    "title": "5 new books to read this weekend (October 30-November 1)",
+    "link": "https://www.polygon.com/new-books-to-read-this-weekend-october-30-november-1/",
+    "creator": "Rachel Meghan",
+    "pubDate": "Fri, 30 Oct 2026 19:30:18 GMT",
+    "categories": [
+      "Books",
+      "I Saw the TV Glow",
+      "Teenage Sex and Death at Camp Miasma",
+      "A Court of Thorns and Roses"
+    ],
+    "description": "From the new Sarah Maas to Jane Schoenbrun’s debut novel, this week has something for everyone",
+    "contentEncoded": "<p>As we move through an era where cinema is popping off, giving us great films that everyone is talking about like <em><a href=\"https://www.polygon.com/you-can-see-everything-trailer-reactions-nathan-fielder/\" target=\"_blank\">You Can See Everything</a></em>and <em>The Devils</em>, it can't be forgotten that this week is also a great one for new <a href=\"https://www.polygon.com/books/\" target=\"_blank\">book</a> releases from the past year. A new Sarah J. Maas book, a horror occult book by a Nebula-winning author, and the first novel from <em><a href=\"https://www.polygon.com/teenage-sex-and-death-at-camp-miasma-trailer/\" target=\"_blank\">Teenage Sex and Death at Camp Miasma</a></em>director Jane Schoenbrun. We would say it's a good week to pick up a book, but honestly, it's always a good time to read.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/img_1655.jpeg",
+      "type": "image/jpeg",
+      "length": "446"
+    },
+    "decision": "toss",
+    "reason": "Book recommendations outside Polygon's gaming/horror focus.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-30T21:40:55.945Z"
+  },
+  {
+    "guid": "https://www.polygon.com/fire-emblem-fortunes-weave-cai-zeno-robinson-interview/",
+    "title": "Fire Emblem: Fortune’s Weave Cai Actor Was ‘Deeply Afraid’ of the Audience’s Reaction",
+    "link": "https://www.polygon.com/fire-emblem-fortunes-weave-cai-zeno-robinson-interview/",
+    "creator": "Jen Glennon",
+    "pubDate": "Fri, 30 Oct 2026 19:01:17 GMT",
+    "categories": [
+      "Interview",
+      "Fire Emblem: Fortune's Weave"
+    ],
+    "description": "Fire Emblem: Fortune’s Weave actor Zeno Robinson unpacks the surprises, delights, and challenges of playing Cai",
+    "contentEncoded": "<p>Zeno Robinson didn’t know what he was getting into.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/cai-fortune-s-weave.avif",
+      "type": "image/jpeg",
+      "length": "80"
+    },
+    "decision": "keep",
+    "reason": "Video game feature interview about Fire Emblem actor/character.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-30T21:40:55.945Z"
+  },
+  {
+    "guid": "https://www.polygon.com/phantom-blade-zero-crimson-manor-how-to-open/",
+    "title": "How to open the Crimson Manor in Phantom Blade Zero",
+    "link": "https://www.polygon.com/phantom-blade-zero-crimson-manor-how-to-open/",
+    "creator": "Paulo Kawanishi",
+    "pubDate": "Fri, 30 Oct 2026 18:41:24 GMT",
+    "categories": [
+      "Guides",
+      "Phantom Blade Zero"
+    ],
+    "description": "Learn how to open the Crimson Manor in Phantom Blade Zero in this guide and what you find inside the mysterious place.",
+    "contentEncoded": "<p>The<strong> Crimson Manor</strong> is a mysterious location in <a href=\"https://www.polygon.com/phantom-blade-zero/\" target=\"_blank\"><em>Phantom Blade Zero</em></a> that you discover after riding a suspicious elevator in the <a href=\"https://www.polygon.com/phantom-blade-zero-how-to-unlock-the-full-weeping-creek-valley-map/\" target=\"_blank\">Weeping Creek Valley</a>. Although you can visit it in the first few hours of the game, the doors to the somber building won't budge until you have a unique key that fits the puppet-shaped lock. Unlocking the manor is a secondary mission, but one that helps you learn more about a central character and achieve the game's true ending.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/phantombladezero_guides_crimsonmanor_lead.jpg",
+      "type": "image/jpeg",
+      "length": "278"
+    },
+    "decision": "toss",
+    "reason": "Rule: category \"Guides\"",
+    "decidedBy": "rule",
+    "firstSeen": "2026-10-30T21:40:55.945Z"
+  },
+  {
     "guid": "https://www.polygon.com/zelda-switch-2-console-easter-egg-preorder-controller-case-pixel-art/",
     "title": "New Switch 2 Consoles Quietly Hide A Perfect 'Zelda' Homage",
     "link": "https://www.polygon.com/zelda-switch-2-console-easter-egg-preorder-controller-case-pixel-art/",
