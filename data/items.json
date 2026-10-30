@@ -1,5 +1,163 @@
 [
   {
+    "guid": "https://www.polygon.com/fantasy-books-you-need-to-read-at-least-once-in-your-life/",
+    "title": "10 Essential Fantasy Books You Need to Read at Least Once in Your Life",
+    "link": "https://www.polygon.com/fantasy-books-you-need-to-read-at-least-once-in-your-life/",
+    "creator": "Ryan Epps",
+    "pubDate": "Fri, 30 Oct 2026 04:00:17 GMT",
+    "categories": [
+      "Polygon Lists",
+      "Books",
+      "Fantasy"
+    ],
+    "description": "From Tolkien's Middle-earth to Lovecraft's dreamscapes, these 10 essential fantasy books deserve a place on your shelf.",
+    "contentEncoded": "<p><a href=\"https://www.polygon.com/fantasy/\" target=\"_blank\">Fantasy</a> has always offered a way to step beyond the boundaries of reality, inviting readers into worlds where the impossible becomes part of everyday life. The genre stretches back to ancient folklore, epic poetry, and fairy tales, existing long before the modern fantasy <a href=\"https://www.polygon.com/the-odyssey-2026/\" target=\"_blank\">novel</a> took shape, in which sorcery and magical worlds abound. From the mythological journeys of Homer to the dreamlike stories of George MacDonald, imaginative literature has continually found new ways to explore humanity through the extraordinary.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/10/alice-2010.jpg",
+      "type": "image/jpeg",
+      "length": "440"
+    },
+    "decision": "toss",
+    "reason": "Graphic novel/book promo retrospective, not game-related content",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-30T05:33:57.980Z"
+  },
+  {
+    "guid": "https://www.polygon.com/the-elder-scrolls-6-sentinel-news-tes6-skyrim-anniversary-bethesda/",
+    "title": "Official The Elder Scrolls 6 Announcement Imminent, Report Says",
+    "link": "https://www.polygon.com/the-elder-scrolls-6-sentinel-news-tes6-skyrim-anniversary-bethesda/",
+    "creator": "Patricia Hernandez",
+    "pubDate": "Thu, 29 Oct 2026 21:14:52 GMT",
+    "categories": [
+      "News",
+      "The Elder Scrolls 6"
+    ],
+    "description": "Skyrim's 15th anniversary will give fans a real reason to be excited about a new Bethesda RPG",
+    "contentEncoded": "<p>The Elder Scrolls fans know that Bethesda is hard at work on the next highly anticipated roleplaying game entry, <a href=\"https://www.polygon.com/game/the-elder-scrolls-6/40514/\" target=\"_blank\"><em>The Elder Scrolls 6</em></a>, but that's about it. The lack of concrete information is wild when you consider that the sequel to <em>The Elder Scrolls 5: Skyrim </em>was announced a whopping eight years ago.<em></em>Fans' patience may finally be about to pay off.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/elder-scrolls-online-skyrim-update-1.jpg",
+      "type": "image/jpeg",
+      "length": "583"
+    },
+    "decision": "keep",
+    "reason": "Video game announcement news for major RPG franchise",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-30T05:33:57.980Z"
+  },
+  {
+    "guid": "https://www.polygon.com/assassins-creed-remakes-development-update-fall-2026/",
+    "title": "Ubisoft Issues Official Update on Fate of Future Assassin's Creed Remakes",
+    "link": "https://www.polygon.com/assassins-creed-remakes-development-update-fall-2026/",
+    "creator": "Austin Manchester",
+    "pubDate": "Thu, 29 Oct 2026 20:48:18 GMT",
+    "categories": [
+      "Gaming",
+      "Assassin's Creed Black Flag Resynced"
+    ],
+    "description": "Ubisoft has confirmed no Assassin's Creed remakes are currently in development. It also shared updates on projects like Assassin's Creed Hexe.",
+    "contentEncoded": "<p>Ubisoft's latest <a href=\"https://www.polygon.com/assassins-creed/\" target=\"_blank\">Assassin's Creed</a> game was a blast from the past. <a href=\"https://www.polygon.com/assassins-creed-black-flag-resynced/\" target=\"_blank\"><em>Assassin's Creed Black Flag Resynced</em></a> is a remake of the 2013 pirate adventure. As <a href=\"https://www.polygon.com/the-legend-of-zelda-ocarina-of-time-remake/\" target=\"_blank\">remakes become more and more common</a> in the industry, fans have naturally wondered if more Assassin's Creed remakes are in the pipeline. In 2024, <a href=\"https://news.ubisoft.com/en-us/article/E1e8T9q8rjZ4arsPNT1Xd/ceo-yves-guillemot-on-ubisofts-upcoming-portfolio-the-future-of-assassins-creed\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">CEO Yves Guillemot hinted at such</a>, saying, \"Players can be excited about some remakes, which will allow us to revisit some of the games we've created in the past and modernize them.\"</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/ac-black-flag-resynced.jpeg",
+      "type": "image/jpeg",
+      "length": "888"
+    },
+    "decision": "keep",
+    "reason": "Video game business/development news for major franchise",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-30T05:33:57.980Z"
+  },
+  {
+    "guid": "https://www.polygon.com/hexologic-free-steam-game-october-2026/",
+    "title": "Steam Makes 96% Positive Puzzle Game Completely Free",
+    "link": "https://www.polygon.com/hexologic-free-steam-game-october-2026/",
+    "creator": "Sam Hill",
+    "pubDate": "Thu, 29 Oct 2026 20:45:03 GMT",
+    "categories": [
+      "Gaming",
+      "Steam"
+    ],
+    "description": "Hexologic is free to keep on Steam for a limited time. Claim this relaxing Sudoku-inspired puzzle game and solve more than 90 levels.",
+    "contentEncoded": "<p>Puzzle games have a special way of making you feel clever. Whether you’re solving elaborate environmental challenges in <a href=\"https://www.polygon.com/game/portal-2/1241/\" target=\"_blank\"><em>Portal 2</em></a>, untangling mind-bending mysteries in <a href=\"https://www.polygon.com/game/the-witness/10086/\" target=\"_blank\"><em>The Witness</em></a>, or figuring out the next move in <em>Baba Is You</em>, few things are as satisfying as finally cracking a puzzle that’s had you stumped.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/polygon-graphic-free-game-sale-banner-steam.jpg",
+      "type": "image/jpeg",
+      "length": "9186"
+    },
+    "decision": "toss",
+    "reason": "Streaming filler: free game availability announcement",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-30T05:33:57.980Z"
+  },
+  {
+    "guid": "https://www.polygon.com/patrick-stewart-best-star-trek-quote/",
+    "title": "Patrick Stewart's Greatest Captain Picard Quote Is Still a Defining Star Trek Moment",
+    "link": "https://www.polygon.com/patrick-stewart-best-star-trek-quote/",
+    "creator": "Terry Terrones",
+    "pubDate": "Thu, 29 Oct 2026 20:10:37 GMT",
+    "categories": [
+      "Opinion",
+      "Star Trek",
+      "Star Trek: Next Generation",
+      "Sci-Fi",
+      "TV"
+    ],
+    "description": "\"The Inner Light\" contains Jean-Luc Picard's greatest quote, a quiet line that reveals the humanity behind Star Trek's most beloved captain.",
+    "contentEncoded": "<p>Every <a href=\"https://www.polygon.com/best-star-trek-spock-quote/\" target=\"_blank\">Star Trek</a> fan has an opinion on the franchise's greatest captain. Some prefer the swagger of <a href=\"https://www.polygon.com/best-star-trek-quote/\" target=\"_blank\">James T. Kirk</a> (William Shatner). Others admire Benjamin Sisko (Avery Brooks) for his conviction, or Kathryn Janeway (Kate Mulgrew) for her resilience. But ultimately, Jean-Luc Picard (Patrick Stewart) usually wins those debates because he embodied the very best of Starfleet: intelligence, diplomacy, curiosity, and compassion.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/t2dsttr_pa001.jpg",
+      "type": "image/jpeg",
+      "length": "839"
+    },
+    "decision": "toss",
+    "reason": "Generic TV nostalgia retrospective without real substance",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-30T05:33:57.980Z"
+  },
+  {
+    "guid": "https://www.polygon.com/final-fantasy-resonance-blueprint-for-new-ff-games/",
+    "title": "Square Enix should never make a Final Fantasy game without turn-based combat again",
+    "link": "https://www.polygon.com/final-fantasy-resonance-blueprint-for-new-ff-games/",
+    "creator": "Josh Broadwell",
+    "pubDate": "Thu, 29 Oct 2026 20:00:18 GMT",
+    "categories": [
+      "Opinion",
+      "Final Fantasy Resonance",
+      "Final Fantasy"
+    ],
+    "description": "Final Fantasy Resonance is everything Square Enix's RPG series has struggled to achieve ove the last decade, and it should guide the series' future",
+    "contentEncoded": "<p>I had few expectations going into <a href=\"https://www.polygon.com/final-fantasy-resonance/\" target=\"_blank\"><em>Final Fantasy Resonance</em></a>, the premium game based on Square Enix's mobile gacha <em>Brave Exvius</em>. Those expectations lowered in the first 10 hours, thanks to its frankly atrocious writing. But after clearing most of the story and approaching the endgame, I find I've changed stances entirely. <em>Resonance</em> is everything Final Fantasy has struggled to achieve over the better part of two decades — confident, innovative, engaging, and, most importantly, completely and unashamedly itself. It's the blueprint Square Enix needs to follow for the series' future.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/final-fantasy-resonance-future-of-final-fantasy.jpg",
+      "type": "image/jpeg",
+      "length": "290"
+    },
+    "decision": "keep",
+    "reason": "Video game opinion essay analyzing RPG design and future direction",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-30T05:33:57.980Z"
+  },
+  {
+    "guid": "https://www.polygon.com/patrick-stewart-dies-star-trek-x-men/",
+    "title": "Star Trek and X-Men Icon Patrick Stewart Dies at 86",
+    "link": "https://www.polygon.com/patrick-stewart-dies-star-trek-x-men/",
+    "creator": "Michael McWhertor",
+    "pubDate": "Thu, 29 Oct 2026 19:57:19 GMT",
+    "categories": [
+      "News"
+    ],
+    "description": "Sir Patrick Stewart, the actor famous for roles in Star Trek: The Next Generation, X-Men films, and Dune, has died, his family announced.",
+    "contentEncoded": "<p>Patrick Stewart, the actor best known for his commanding roles as Jean-Luc Picard in <em>Star Trek: The Next Generation</em> and Professor Charles Xavier in the <a href=\"http://polygon.com/tag/x-men\" target=\"_blank\">X-Men</a> film franchise, has died, according to a statement from his family. Stewart was 86.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/msdsttr_pa117.jpg",
+      "type": "image/jpeg",
+      "length": "2038"
+    },
+    "decision": "toss",
+    "reason": "Celebrity news unrelated to games, film, TV, or horror",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-30T05:33:57.980Z"
+  },
+  {
     "guid": "https://www.polygon.com/phantom-blade-zero-whence-the-weeping-quest-walkthrough/",
     "title": "'Whence the Weeping' quest walkthrough in Phantom Blade Zero",
     "link": "https://www.polygon.com/phantom-blade-zero-whence-the-weeping-quest-walkthrough/",
