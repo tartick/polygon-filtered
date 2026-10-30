@@ -1,5 +1,230 @@
 [
   {
+    "guid": "https://www.polygon.com/petit-planet-release-date-trailer/",
+    "title": "Animal Crossing’s Biggest Competitor Officially Launches in December",
+    "link": "https://www.polygon.com/petit-planet-release-date-trailer/",
+    "creator": "Josh Broadwell",
+    "pubDate": "Fri, 30 Oct 2026 17:03:53 GMT",
+    "categories": [
+      "News",
+      "Petit Planet"
+    ],
+    "description": "HoYoverse announced the Petit Planet release date in a new trailer that highlights the life-sim's extensive customization options",
+    "contentEncoded": "<p>After months of silence about its upcoming cozy life-sim HoYoverse finally set a <a href=\"https://www.polygon.com/petit-planet-life-sim-farming-animal-crossing-hoyoverse/\" target=\"_blank\"><em>Petit Planet</em></a> release date. <em>Petit Planet</em> launches Dec. 4 for PC and mobile devices, with pre-load starting on Dec. 1; HoYoverse hasn't announced plans to launch <em>Petit Planet</em> on consoles yet.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/petit-planet-release-date-trailer.jpg",
+      "type": "image/jpeg",
+      "length": "853"
+    },
+    "decision": "keep",
+    "reason": "Video game release date announcement with gameplay details.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-30T17:08:37.835Z"
+  },
+  {
+    "guid": "https://www.polygon.com/robin-hood-movie-the-uprising-streaming-date-andrew-garfield/",
+    "title": "2026’s Secret 'Robin Hood' Movie Suddenly Drops on Streaming After Bombing in Theaters",
+    "link": "https://www.polygon.com/robin-hood-movie-the-uprising-streaming-date-andrew-garfield/",
+    "creator": "Elijah Gonzalez",
+    "pubDate": "Fri, 30 Oct 2026 16:31:42 GMT",
+    "categories": [
+      "Movies",
+      "The Uprising"
+    ],
+    "description": "'The Uprising' is headed for Peacock on Nov. 6, less than two months after hitting theaters.",
+    "contentEncoded": "<p>Another <a href=\"https://www.polygon.com/the-dog-stars-streaming-release-date-10-27-physical/\" target=\"_blank\">2026 box office flop</a> is heading to streaming after a short theatrical run. <span style=\"box-sizing:border-box; margin:0px; padding:0px\"><em>The Uprising</em>, which was briefly marketed in the U.S. as <em>The Uprising: The Rise of Robin Hood</em>, will stream exclusively on <a href=\"https://www.polygon.com/peacock-price-increase-august-2026/\" target=\"_blank\">Peacock</a> in early November.</span></p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/the-uprising.jpg",
+      "type": "image/jpeg",
+      "length": "748"
+    },
+    "decision": "toss",
+    "reason": "Streaming clickbait: movie bombing, dropping on streaming service.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-30T17:08:37.835Z"
+  },
+  {
+    "guid": "https://www.polygon.com/dc-my-adventures-with-green-lantern-episode-count-revealed/",
+    "title": "HBO’s New Green Lantern Series Officially Gets an Important Update",
+    "link": "https://www.polygon.com/dc-my-adventures-with-green-lantern-episode-count-revealed/",
+    "creator": "Willa Rowe",
+    "pubDate": "Fri, 30 Oct 2026 16:16:15 GMT",
+    "categories": [
+      "News",
+      "DC Universe",
+      "My Adventures With Superman"
+    ],
+    "description": "HBO's My Adventures with Green Lantern reveals official episode count and Superman season 4 update.",
+    "contentEncoded": "<p>DC and HBO first announced <em><a href=\"https://www.polygon.com/my-adventures-with-green-lantern-dc-annecy/\" target=\"_blank\">My Adventures with Green Lantern</a></em>back in 2025, and updates since then have been sparse. It was briefly shown off during this year's <a href=\"https://www.polygon.com/2026-annecy-animation-news-reviews/\" target=\"_blank\">Annecy International Animation Festival</a>, but nothing at the convention was released publicly. Now, DC Studios co-lead Peter Safran has finally given a small but much-needed update on the project.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/green-lantern-jessica-cruz.jpg",
+      "type": "image/jpeg",
+      "length": "410"
+    },
+    "decision": "toss",
+    "reason": "DC series update; generic animated series news falls under toss.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-30T17:08:37.835Z"
+  },
+  {
+    "guid": "https://www.polygon.com/wishlister-oct-30/",
+    "title": "6 Steam Games Coming Soon That Belong on Your Wishlist",
+    "link": "https://www.polygon.com/wishlister-oct-30/",
+    "creator": "Giovanni Colantonio",
+    "pubDate": "Fri, 30 Oct 2026 16:00:19 GMT",
+    "categories": [
+      "Wishlister",
+      "Steam"
+    ],
+    "description": "The best Steam games to wishlist this week include a shooter, some cozy gems, and a twee take on volleyball.",
+    "contentEncoded": "<p>Even though <a href=\"https://www.polygon.com/steam-next-fest-demos-best-october-2026/\" target=\"_blank\">Steam Next Fest</a> is over, we’re still sorting through all the games it put on our radar. While Steam’s recurring free demo event was invaded by generative AI games, it still featured plenty of human-made projects that cut through the slop. We’ve walked away from the event with a very long wishlist of upcoming PC games.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/community-tree.png",
+      "type": "image/jpeg",
+      "length": "4692"
+    },
+    "decision": "keep",
+    "reason": "Steam game recommendations; plausible clickable content for gamer.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-30T17:08:37.835Z"
+  },
+  {
+    "guid": "https://www.polygon.com/chatgpt-open-ai-sam-altman-youtube-interview-vram-supply-cost-data/",
+    "title": "OpenAI Billionaire: PCs Are 'Terrible' When Data Centers Need More Memory",
+    "link": "https://www.polygon.com/chatgpt-open-ai-sam-altman-youtube-interview-vram-supply-cost-data/",
+    "creator": "Patricia Hernandez",
+    "pubDate": "Fri, 30 Oct 2026 15:52:46 GMT",
+    "categories": [
+      "News",
+      "PlayStation 5"
+    ],
+    "description": "OpenAI's Sam Altman argues against hoarding computer chips versus giving it all to ChatGPT's data centers",
+    "contentEncoded": "<p>Here's a fun fact: from now until 2029, <a href=\"https://www.tomshardware.com/pc-components/dram/openais-stargate-project-to-consume-up-to-40-percent-of-global-dram-output-inks-deal-with-samsung-and-sk-hynix-to-the-tune-of-up-to-900-000-wafers-per-month\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">OpenAI owns 40%</a> of the world's supply of Dynamic Random Access Memory (DRAM), which powers cell phones, video game consoles, and artificial intelligence. The ChatGPT maker is thus one of the key reasons you have to pay $650 for <a href=\"https://www.polygon.com/tag/playstation/\" target=\"_blank\">a PS5</a> now, and why no one can affordably build a new gaming PC. Somehow, OpenAI CEO Sam Altman thinks that percentage isn't enough.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/altman2.JPG",
+      "type": "image/jpeg",
+      "length": "184"
+    },
+    "decision": "toss",
+    "reason": "AI/tech news unrelated to gaming or adjacent hobbies.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-30T17:08:37.835Z"
+  },
+  {
+    "guid": "https://www.polygon.com/star-wars-fan-game-fate-of-the-galaxy-free-space-2-mod/",
+    "title": "'Star Wars Fate of the Galaxy' Officially Released for Free",
+    "link": "https://www.polygon.com/star-wars-fan-game-fate-of-the-galaxy-free-space-2-mod/",
+    "creator": "Elijah Gonzalez",
+    "pubDate": "Fri, 30 Oct 2026 15:24:40 GMT",
+    "categories": [
+      "Star Wars",
+      "Star Wars",
+      "Freespace 2"
+    ],
+    "description": "The Star Wars space combat fan game 'Fate of the Galaxy' has finally been released after almost two decades of development.",
+    "contentEncoded": "<p>Never doubt the tenacity of <a href=\"https://www.polygon.com/star-wars/\" target=\"_blank\">Star Wars</a> fans. After close to 20 years of development, a group of volunteers is finally releasing <em>Fate of the Galaxy</em>, a Star Wars space combat game built on <em>FreeSpace 2</em>’s open-source engine. This total conversion mod was developed using FreeSpace Open and is <a href=\"https://www.fateofthegalaxy.net/\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">available for free on Linux, Mac, and PC</a>.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/star-wars-rogue-squadron-n64-cover-art-cropped.jpg",
+      "type": "image/jpeg",
+      "length": "143"
+    },
+    "decision": "toss",
+    "reason": "Star Wars fan game; big-franchise churn topic.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-30T17:08:37.835Z"
+  },
+  {
+    "guid": "https://www.polygon.com/mw4-modern-warfare-4-dmz-coin-mining-den-key-location/",
+    "title": "Where to use the coin mining den key in DMZ in Modern Warfare 4",
+    "link": "https://www.polygon.com/mw4-modern-warfare-4-dmz-coin-mining-den-key-location/",
+    "creator": "Ford James",
+    "pubDate": "Fri, 30 Oct 2026 15:12:34 GMT",
+    "categories": [
+      "Guides",
+      "Call of Duty: Modern Warfare 4"
+    ],
+    "description": "Our guide shows the exact location to use the coin mining den key in DMZ in Modern Warfare 4.",
+    "contentEncoded": "<p>The <strong>coin mining den key in DMZ in </strong><strong><em>Call of Duty: Modern Warfare 4 </em></strong>is one of many keys you can find in the extraction mode, used to unlock a locked door somewhere in the map that contains lots of loot behind it. Obtained by completing the \"Operation Shopping Hacks\" mission, the coin mining den key is described as opening the \"e-coin mining lab in NuriGO West, east of the westernmost gas station inside NuriGO Mall.\"</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/modern-warfare-4-coin-mining-den-key-header.jpg",
+      "type": "image/jpeg",
+      "length": "120648"
+    },
+    "decision": "toss",
+    "reason": "Rule: category \"Guides\"",
+    "decidedBy": "rule",
+    "firstSeen": "2026-10-30T17:08:37.835Z"
+  },
+  {
+    "guid": "https://www.polygon.com/batman-dcu-casting-james-gunn-comment/",
+    "title": "James Gunn Officially Comments on Casting the DCU's New Batman",
+    "link": "https://www.polygon.com/batman-dcu-casting-james-gunn-comment/",
+    "creator": "Willa Rowe",
+    "pubDate": "Fri, 30 Oct 2026 15:00:34 GMT",
+    "categories": [
+      "News",
+      "DC Universe",
+      "Batman"
+    ],
+    "description": "DC's new Batman hasn't been cast yet, but James Gunn says it 'won't be too long'",
+    "contentEncoded": "<p>It has been clear for a while now that Robert Pattinson won't be the <a href=\"https://www.polygon.com/tag/dc-universe/\" target=\"_blank\">DC Universe's</a> Batman, even with <a href=\"https://www.polygon.com/batman-part-2-pattinson-comments-soderbergh/\" target=\"_blank\"><em>The Batman Part II</em></a> still slated for release in 2028. Fans will be sad to see BatPat go, especially considering DC Studios co-head James Gunn has kept quiet on when we will see his successor. Thankfully, Gunn has finally given a small but meaningful update on the casting process for the next Bruce Wayne.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/absolute-batman-cover.jpg",
+      "type": "image/jpeg",
+      "length": "744"
+    },
+    "decision": "toss",
+    "reason": "DC casting gossip; big-franchise churn, not substantial news.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-30T17:08:37.835Z"
+  },
+  {
+    "guid": "https://www.polygon.com/final-fantasy-resonance-best-visions/",
+    "title": "Best Visions to use in Final Fantasy Resonance",
+    "link": "https://www.polygon.com/final-fantasy-resonance-best-visions/",
+    "creator": "Josh Broadwell",
+    "pubDate": "Fri, 30 Oct 2026 14:58:21 GMT",
+    "categories": [
+      "Guides",
+      "Final Fantasy Resonance"
+    ],
+    "description": "The best Visions in Final Fantasy Resonance combine excellent skills with universally useful mastery abilities",
+    "contentEncoded": "<p>There's so many to choose from that deciding on the <strong>best Visions in <a href=\"https://www.polygon.com/final-fantasy-resonance/\" target=\"_blank\"><em>Final Fantasy Resonance</em></a></strong> often feels more than a little overwhelming. While every Vision has something that makes them worth using in certain circumstances, there is a set of them that excels in practically every situation. And you can find most of them early in the game, too.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/final-fantasy-resonance-best-visions.jpg",
+      "type": "image/jpeg",
+      "length": "300"
+    },
+    "decision": "toss",
+    "reason": "Rule: category \"Guides\"",
+    "decidedBy": "rule",
+    "firstSeen": "2026-10-30T17:08:37.835Z"
+  },
+  {
+    "guid": "https://www.polygon.com/patrick-stewart-death-x-men-star-trek-actors/",
+    "title": "Marvel, Star Trek Stars Post Heartbreaking Tributes to Patrick Stewart",
+    "link": "https://www.polygon.com/patrick-stewart-death-x-men-star-trek-actors/",
+    "creator": "Michael McWhertor",
+    "pubDate": "Fri, 30 Oct 2026 14:50:52 GMT",
+    "categories": [
+      "News",
+      "Star Trek",
+      "X-Men",
+      "Dune"
+    ],
+    "description": "Patrick Stewart died at the age of 86 on Wednesday, and fellow actors from X-Men, Star Trek, and Dune are paying their respects in heartfelt tributes.",
+    "contentEncoded": "<p>Patrick Stewart's friends, colleagues, and fellow actors are paying tribute to the late thespian, <a href=\"https://www.polygon.com/patrick-stewart-dies-star-trek-x-men/\" target=\"_blank\">who died on Wednesday at the age of 86</a>. In the wake of Stewart's death, heartfelt tributes have poured in across social media, including a heartbreaking remembrance from the actor's longtime collaborator, friend, and fellow knight Ian McKellen.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/t2dsttr_pa001-1.jpg",
+      "type": "image/jpeg",
+      "length": "362"
+    },
+    "decision": "toss",
+    "reason": "Celebrity death tribute; lacks gaming/horror/film substance.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-30T17:08:37.835Z"
+  },
+  {
     "guid": "https://www.polygon.com/my-chemical-romance-mcr-lauren-tsai-short-film-kojima-cameo/",
     "title": "My Chemical Romance and Lauren Tsai Team Up for Short Movie Featuring Hideo Kojima",
     "link": "https://www.polygon.com/my-chemical-romance-mcr-lauren-tsai-short-film-kojima-cameo/",
