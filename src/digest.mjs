@@ -24,9 +24,19 @@ export function localParts(date) {
   };
 }
 
+const shiftYmd = (ymd, days) => {
+  const [y, m, d] = ymd.split('-').map(Number);
+  return new Date(Date.UTC(y, m - 1, d + days)).toISOString().slice(0, 10);
+};
+
+function titleForDay(ymd) {
+  const [y, m, d] = ymd.split('-').map(Number);
+  const weekday = new Date(Date.UTC(y, m - 1, d, 12)).toLocaleDateString('en-US', { weekday: 'long', timeZone: 'UTC' });
+  return `Polygon Slop, ${weekday} ${m}/${d}`;
+}
+
 export function slopTitle(date) {
-  const p = localParts(date);
-  return `Polygon Slop, ${p.weekday} ${p.month}/${p.day}`;
+  return titleForDay(localParts(date).ymd);
 }
 
 export function loadDigests(path) {
@@ -46,34 +56,47 @@ export function pruneDigests(digests, now, days = 30) {
   return digests.filter(d => time(d) >= cutoff);
 }
 
-export function maybeAddDigest({ items, digests, now, site }) {
-  const unchanged = { digests, added: null };
-  const p = localParts(now);
-  if (p.minutes < CUTOFF_MINUTES) return unchanged;
-  if (digests.some(d => d.localDate === p.ymd)) return unchanged;
-
-  const done = new Set(digests.flatMap(d => d.guids ?? []));
-  const candidates = items.filter(i => i.decision === 'toss' && !done.has(i.guid)).sort(newestFirst);
-  if (!candidates.length) return unchanged;
-
-  const n = candidates.length;
-  const lis = candidates.map(i =>
+function buildDigest(ymd, list, pubDate, site) {
+  const n = list.length;
+  const lis = list.map(i =>
     `<li><a href="${escHtml(i.link)}">${escHtml(i.title)}</a> — ${escHtml(String(i.reason ?? '').replace(/^Rule: /, ''))}</li>`).join('');
   const html = `<p>${n} ${n === 1 ? 'article' : 'articles'} hidden since the last digest:</p><ul>${lis}</ul>`;
-
-  const added = {
-    guid: `${site}/digest/${p.ymd}`,
+  return {
+    guid: `${site}/digest/${ymd}`,
     link: `${site}/`,
-    title: slopTitle(now),
+    title: titleForDay(ymd),
     creator: 'polygon-filtered',
-    pubDate: now.toUTCString(),
+    pubDate,
     categories: ['Digest'],
     description: html,
     contentEncoded: html,
     enclosure: null,
     decision: 'digest', reason: '', decidedBy: null,
-    localDate: p.ymd,
-    guids: candidates.map(i => i.guid),
+    localDate: ymd,
+    guids: list.map(i => i.guid),
   };
-  return { digests: [added, ...digests], added };
+}
+
+// Posts one digest per finished local day (a day finishes at 11:30 PM New York time) that has
+// undigested tossed items. GitHub's scheduler runs hours apart, so this catches up on any run.
+export function maybeAddDigest({ items, digests, now, site }) {
+  const p = localParts(now);
+  const lastDay = p.minutes >= CUTOFF_MINUTES ? p.ymd : shiftYmd(p.ymd, -1);
+  const digestedDays = new Set(digests.map(d => d.localDate));
+  const done = new Set(digests.flatMap(d => d.guids ?? []));
+
+  const byDay = new Map();
+  for (const i of items) {
+    if (i.decision !== 'toss' || done.has(i.guid)) continue;
+    let day = localParts(new Date(i.firstSeen || i.pubDate)).ymd;
+    while (digestedDays.has(day)) day = shiftYmd(day, 1); // seen after that day's digest went out
+    if (day > lastDay) continue;
+    if (!byDay.has(day)) byDay.set(day, []);
+    byDay.get(day).push(i);
+  }
+
+  const days = [...byDay.keys()].sort();
+  const added = days.map((day, idx) => buildDigest(
+    day, byDay.get(day).sort(newestFirst), new Date(now.getTime() - (days.length - 1 - idx) * 1000).toUTCString(), site));
+  return { digests: [...[...added].reverse(), ...digests], added };
 }

@@ -43,10 +43,10 @@ export async function run({ fetchImpl = fetch, client = null, now = new Date(), 
   const kept = items.filter(i => i.decision === 'keep');
   const tossed = items.filter(i => i.decision === 'toss');
   const digestPath = join(root, 'data', 'digests.json');
-  const { digests, added: digest } = maybeAddDigest({ items, digests: pruneDigests(loadDigests(digestPath), now), now, site: SITE });
-  if (digest) console.log(`DIGEST  ${digest.title} (${digest.guids.length} item(s))`);
+  const { digests, added: newDigests } = maybeAddDigest({ items, digests: pruneDigests(loadDigests(digestPath), now), now, site: SITE });
+  for (const d of newDigests) console.log(`DIGEST  ${d.title} (${d.guids.length} item(s))`);
 
-  const summary = { added: added.length, pending: items.filter(i => i.decision === null).length, kept: kept.length, tossed: tossed.length, digest: digest ? digest.title : null };
+  const summary = { added: added.length, pending: items.filter(i => i.decision === null).length, kept: kept.length, tossed: tossed.length, digest: newDigests.length ? newDigests.map(d => d.title).join(', ') : null };
 
   for (const i of added) console.log(`${(i.decision ?? 'PENDING').toUpperCase().padEnd(7)} ${i.title}  — ${i.reason}`);
   console.log(JSON.stringify(summary));
