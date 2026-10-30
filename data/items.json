@@ -1,5 +1,52 @@
 [
   {
+    "guid": "https://www.polygon.com/zelda-switch-2-console-easter-egg-preorder-controller-case-pixel-art/",
+    "title": "New Switch 2 Consoles Quietly Hide A Perfect 'Zelda' Homage",
+    "link": "https://www.polygon.com/zelda-switch-2-console-easter-egg-preorder-controller-case-pixel-art/",
+    "creator": "Patricia Hernandez",
+    "pubDate": "Fri, 30 Oct 2026 17:30:19 GMT",
+    "categories": [
+      "News",
+      "The Legend of Zelda",
+      "The Legend of Zelda: Ocarina of Time",
+      "Nintendo"
+    ],
+    "description": "A Nintendo hardware Easter egg gives Ocarina of Time fans one more reason to wish for a Zelda Switch 2 pre-order",
+    "contentEncoded": "<p>Lucky Nintendo fans who secured a <a href=\"https://www.polygon.com/preorder-zelda-ocarina-of-time-switch-2-console-foil-where-how-when/\" target=\"_blank\">pre-order</a> for <a href=\"https://www.polygon.com/zelda/\" target=\"_blank\"><em>The Legend of Zelda: Ocarina of Time</em></a>Switch 2 are starting to open the boxes containing their swanky new consoles — and are receiving a nice, unexpected surprise.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/the-legend-of-zelda-40th-anniversary-direct-9-8-2026-59-36-screenshot.jpg",
+      "type": "image/jpeg",
+      "length": "792"
+    },
+    "decision": "keep",
+    "reason": "Nintendo hardware news with Zelda connection interests readers.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-30T18:01:36.858Z"
+  },
+  {
+    "guid": "https://www.polygon.com/mass-effect-bioware-shutdown-ea-star-wars/",
+    "title": "We Finally Know What Killed Mass Effect",
+    "link": "https://www.polygon.com/mass-effect-bioware-shutdown-ea-star-wars/",
+    "creator": "Elijah Gonzalez",
+    "pubDate": "Fri, 30 Oct 2026 17:26:40 GMT",
+    "categories": [
+      "Gaming",
+      "Mass Effect",
+      "Mass Effect Trilogy"
+    ],
+    "description": "EA reportedly chose to kill the latest Mass Effect game so it could focus on Star Wars.",
+    "contentEncoded": "<p>On Oct. 21, EA announced that it was <a href=\"https://www.polygon.com/ea-bioware-closure-mass-efffect-5-canceled/\" target=\"_blank\">shutting down the beloved game studio BioWare</a> and canceling its new Mass Effect sequel. <span style=\"box-sizing:border-box; margin:0px; padding:0px\"><a href=\"https://www.polygon.com/bioware-shut-down-reactions-mass-effect-baldurs-gate-ea-games/\" target=\"_blank\">The news was quite a blow,</a> sparking theories that the studio was shut down because of pressure from Saudi Arabia’s Public Investment Fund,<a href=\"http://www.polygon.com/ea-owned-saudi-arabia-public-investment-fund-private-equity/\" target=\"_blank\"> which recently bought out EA</a>.</span> Based on reporting from <a href=\"https://www.bloomberg.com/news/newsletters/2026-10-30/why-electronic-arts-shut-down-bioware-and-cancelled-mass-effect?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MzM2ODg3OCwiZXhwIjoxNzkzOTczNjc4LCJhcnRpY2xlSWQiOiJUTlE0ODNLSUpIOTAwMCIsImJjb25uZWN0SWQiOiJCMUVBQkI5NjQ2QUM0REZFQTJBRkI4MjI1MzgyQTJFQSJ9.sgmBhq2XJovdJibklbppkKXJ1mWIrjMRyI1a3RV6uJM&leadSource=article-gifting\" target=\"_blank\">Bloomberg</a>, we now know the main reason the publisher shut down BioWare: Star Wars.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/mass-effect-dissapointment.jpg",
+      "type": "image/jpeg",
+      "length": "329"
+    },
+    "decision": "keep",
+    "reason": "Video game industry/business news about major franchise development.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-30T18:01:36.858Z"
+  },
+  {
     "guid": "https://www.polygon.com/petit-planet-release-date-trailer/",
     "title": "Animal Crossing’s Biggest Competitor Officially Launches in December",
     "link": "https://www.polygon.com/petit-planet-release-date-trailer/",
