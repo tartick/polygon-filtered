@@ -1,5 +1,229 @@
 [
   {
+    "guid": "https://www.polygon.com/soulframe-open-preludes-release-date/",
+    "title": "Anyone Can Play Soulframe For Free Starting Next Week",
+    "link": "https://www.polygon.com/soulframe-open-preludes-release-date/",
+    "creator": "Tomas Franzese",
+    "pubDate": "Sat, 31 Oct 2026 13:40:17 GMT",
+    "categories": [
+      "PC",
+      "Soulframe"
+    ],
+    "description": "Soulframe Open Preludes will let anyone try this fantasy Warframe spin-off starting in November",
+    "contentEncoded": "<p>While <a href=\"https://www.polygon.com/soulframe-free-access-tennocon/\" target=\"_blank\"><em>Soulframe's </em>pre-release playtesting</a> has historically been invite-only, that's changing soon. Starting next week, anyone on PC will be able to try the fantasy <em>Warframe </em>spin-off for free thanks to <em>Soulframe Open Preludes</em>, which is rolling out ahead of the game's Verse of the Veilands update.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/soulframe-open-preludes.jpg",
+      "type": "image/jpeg",
+      "length": "515"
+    },
+    "decision": "keep",
+    "reason": "Video game news: free-to-play release date announcement.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-31T13:49:22.505Z"
+  },
+  {
+    "guid": "https://www.polygon.com/final-fantasy-xiv-evercold-release-date-delayed/",
+    "title": "Final Fantasy XIV Evercold release date delayed until February",
+    "link": "https://www.polygon.com/final-fantasy-xiv-evercold-release-date-delayed/",
+    "creator": "Josh Broadwell",
+    "pubDate": "Sat, 31 Oct 2026 13:27:47 GMT",
+    "categories": [
+      "News",
+      "Final Fantasy XIV: Evercold"
+    ],
+    "description": "FFXIV Evercold's release date is delayed, but only by a few weeks as Square Enix works to ensure the MMO's new expansion meets quality expectations",
+    "contentEncoded": "<p>Square Enix has delayed <a href=\"https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/\" target=\"_blank\"><em>Final Fantasy XIV</em></a> Evercold's release date, producer Naoki Yoshida announced during the Fan Fest Tokyo event, but it's not a big delay. The MMO's expansion was <a href=\"https://www.polygon.com/ffxiv-8-0-release-date-evercold-trailer-ff14/\" target=\"_blank\">originally planned for a late January launch</a>, but Yoshida decided to delay the launch by three weeks. Evercold's early access launch is now set for Feb. 19, and the full launch is Feb. 23. Pre-orders begin on Nov. 4.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/final-fantasy-xiv-evercold-release-date.jpg",
+      "type": "image/jpeg",
+      "length": "567"
+    },
+    "decision": "keep",
+    "reason": "Video game news: MMO expansion release date update.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-31T13:49:22.505Z"
+  },
+  {
+    "guid": "https://www.polygon.com/ffxiv-evercold-new-job-ranged-dps-zephyr/",
+    "title": "FFXIV Evercold's second new job brings pets back at last with a magic bird",
+    "link": "https://www.polygon.com/ffxiv-evercold-new-job-ranged-dps-zephyr/",
+    "creator": "Josh Broadwell",
+    "pubDate": "Sat, 31 Oct 2026 13:27:02 GMT",
+    "categories": [
+      "News",
+      "Final Fantasy XIV: Evercold"
+    ],
+    "description": "FFXIV Evercold's second new job is the ranged physical DPS Zephyr, the first pet-based job since Stormblood's Summoner changes",
+    "contentEncoded": "<p>Square Enix revealed <a href=\"https://www.polygon.com/game/final-fantasy-14-a-realm-reborn/3702/\" target=\"_blank\"><em>Final Fantasy XIV </em>Evercold</a>'s second new job during the Tokyo Fan Fest, a physical ranged DPS job called Zephyr. It's a pretty big deal in more ways than one. The last physical ranged class was Dancer back in 2019's Shadowbringers, and Zephyr uses a pet, the first class to do so since Square Enix changed Summoner's kit back in 2017's Stormblood expansion. (<a href=\"https://www.polygon.com/ffxiv-beastmaster-bst-beast-bestiary-locations-list-skills/\" target=\"_blank\">Beastmaster</a> is a limited class, so it doesn't count.)</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/ffxiv-evercold-new-job-ranged-dps-zephyr.jpg",
+      "type": "image/jpeg",
+      "length": "903"
+    },
+    "decision": "keep",
+    "reason": "Video game news: FFXIV expansion job announcement.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-31T13:49:22.505Z"
+  },
+  {
+    "guid": "https://www.polygon.com/new-ps5-games-november-2026/",
+    "title": "5 PS5 Games Releasing in November 2026 You Cannot Miss",
+    "link": "https://www.polygon.com/new-ps5-games-november-2026/",
+    "creator": "Oli Welsh",
+    "pubDate": "Sat, 31 Oct 2026 13:00:17 GMT",
+    "categories": [
+      "What to Play",
+      "PlayStation 5"
+    ],
+    "description": "Sony PlayStation 5 November releases are dominated by GTA 6, but there are some other games too!",
+    "contentEncoded": "<p>I'm not sure PlayStation 5 has ever had a quieter month for new releases than <a href=\"https://www.polygon.com/november-2026-game-releases/\" target=\"_blank\">November 2026</a>. Quieter with one absolutely massive exception, that is, which explains the dearth of new releases otherwise. Scroll down to Nov. 19 to see what it is, but you know already.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/gta-6-couple-in-car.jpg",
+      "type": "image/jpeg",
+      "length": "219"
+    },
+    "decision": "keep",
+    "reason": "Video game news: PS5 releases including GTA 6.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-31T13:49:22.505Z"
+  },
+  {
+    "guid": "https://www.polygon.com/sofia-coppola-the-little-mermaid-story/",
+    "title": "12 Years Later, Sofia Coppola's Unmade Epic Fantasy Still Lives Rent Free in My Head",
+    "link": "https://www.polygon.com/sofia-coppola-the-little-mermaid-story/",
+    "creator": "Maria Loreto",
+    "pubDate": "Sat, 31 Oct 2026 12:00:17 GMT",
+    "categories": [
+      "Opinion",
+      "Movies",
+      "The Little Mermaid",
+      "The Little Mermaid"
+    ],
+    "description": "Sofia Coppola, it’s not too late to make your dark take on The Little Mermaid",
+    "contentEncoded": "<p>The year was 2014. The live-action Disney remake craze had already begun thanks to the success of Tim Burton's <em>Alice in Wonderland</em>, but it hadn’t reached its box office peak. Meanwhile, on the other side of Hollywood, Sofia Coppola was attached to a movie bursting at the seams with possibilities: a live-action <em>The Little Mermaid, </em>not based on the 1998 Disney animated classic, but on the original Hans Christian Andersen fairy tale, where (spoiler alert) the brokenhearted mermaid dies by flinging herself into the ocean and dissolving into sea foam. I can picture Coppola’s compositions clearly in my mind: the mermaid (Elle Fanning) shot in pastel colors, thoughtfully looking out at the horizon. A song by The Strokes or Phoenix plays in the background.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/sofia-coppola.jpg",
+      "type": "image/jpeg",
+      "length": "9420"
+    },
+    "decision": "toss",
+    "reason": "Nostalgia retrospective about unmade project, not substantive.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-31T13:49:22.505Z"
+  },
+  {
+    "guid": "https://www.polygon.com/werewolves-within-free/",
+    "title": "5 Years Later, a Dropout Star's Breakout Thriller Is Officially Free on Streaming",
+    "link": "https://www.polygon.com/werewolves-within-free/",
+    "creator": "Thomas Hindmarch",
+    "pubDate": "Sat, 31 Oct 2026 12:00:17 GMT",
+    "categories": [
+      "What to Watch",
+      "Werewolves Within",
+      "Movies",
+      "Horror"
+    ],
+    "description": "Can Josh Ruben make a funny movie about a murderous lycanthrope? No Problem",
+    "contentEncoded": "<p>It's possible that you might associate the name Josh Ruben with the streaming service Dropout, or with one of Dropout's viral videos. For the last few years, Ruben has been one of the more reliable improv performers on shows like <em>Make Some Noise</em> and <em>Game Changer</em>, with a gift for celebrity impersonations and coming up with strange characters on the fly.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/werewolves-withing.jpg",
+      "type": "image/jpeg",
+      "length": "3131"
+    },
+    "decision": "keep",
+    "reason": "Horror movie is free on streaming; horror content kept.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-31T13:49:22.505Z"
+  },
+  {
+    "guid": "https://www.polygon.com/logan-paul-pokemon-tcg-pikachu-illustrator-money-spent-youtube/",
+    "title": "Logan Paul Just Proved His 'Pokémon' Haters Wrong",
+    "link": "https://www.polygon.com/logan-paul-pokemon-tcg-pikachu-illustrator-money-spent-youtube/",
+    "creator": "Patricia Hernandez",
+    "pubDate": "Sat, 31 Oct 2026 11:38:17 GMT",
+    "categories": [
+      "Tabletop Games"
+    ],
+    "description": "The YouTube personality and his ongoing Pokémon money-making schemes is still flawed, but Logan Paul's actually into the trading card game.",
+    "contentEncoded": "<p>YouTuber <a href=\"https://www.polygon.com/logan-paul-pokemon-youtube-livestream-corocoro-sticker-sheet-grade-worth/\" target=\"_blank\">Logan Paul</a> has been accused of a lot of things: ruining the <a href=\"http://polygon.com/pokemon\" target=\"_blank\">Pokémon</a> trading card hobby, clickbait, greed, thoughtlessness. Maybe some of these condemnations are true. A recent revelation by the blonde provocateur has started to convince me that he may not, in fact, <a href=\"https://www.polygon.com/logan-paul-pokemon-gengar-tcg-prices-chatgpt-ai-accusation/\" target=\"_blank\">be a larper</a>. Actually, I'm starting to believe the boisterous influencer might legitimately <em>like </em>Pokémon.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/pokemonpaul.JPG",
+      "type": "image/jpeg",
+      "length": "83"
+    },
+    "decision": "toss",
+    "reason": "Pokémon TCG retail/personality story, not substantive news.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-31T13:49:22.505Z"
+  },
+  {
+    "guid": "https://www.polygon.com/bully-20-years-later-sequel-retrospective/",
+    "title": "20 Years Later, Rockstar’s Best Game Still Doesn’t Have the Sequel It Deserved",
+    "link": "https://www.polygon.com/bully-20-years-later-sequel-retrospective/",
+    "creator": "Ford James",
+    "pubDate": "Sat, 31 Oct 2026 11:00:19 GMT",
+    "categories": [
+      "Opinion",
+      "Grand Theft Auto",
+      "Bully"
+    ],
+    "description": "Bully, or Canis Canem Edit, was one of Rockstar's most innovative and unique games, and it's about time we got a sequel.",
+    "contentEncoded": "<p>These days, Rockstar Games is one of the most famous developers in the world. That’s primarily thanks to their magnum opus, the <a href=\"https://www.polygon.com/game/grand-theft-auto/8724/\" target=\"_blank\">Grand Theft Auto</a> series, but also the <a href=\"https://www.polygon.com/red-dead-redemption/\" target=\"_blank\">Red Dead Redemption</a> games, and to a lesser extent, <em><a href=\"https://www.polygon.com/game/l-a-noire/1301/\" target=\"_blank\">L.A. Noire</a></em>and the <a href=\"https://www.polygon.com/game/max-payne/5974/\" target=\"_blank\">Max Payne</a> series. In just a few short weeks, <em><a href=\"https://www.polygon.com/game/grand-theft-auto-6/40846/\" target=\"_blank\">Grand Theft Auto 6</a></em>will finally be here, a game that has felt like a distant dream for so long, after delays and a slow trickle of new information. But 20 years ago, Rockstar released one of its most unique games that has hints of the classic GTA formula, and it's a crying shame that there is still no sign of a sequel.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/bully-retrospective-1.jpg",
+      "type": "image/jpeg",
+      "length": "190605"
+    },
+    "decision": "toss",
+    "reason": "Nostalgia retrospective; not a new sequel announcement.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-31T13:49:22.505Z"
+  },
+  {
+    "guid": "https://www.polygon.com/messiah-of-evil/",
+    "title": "Star Wars' Secret Writers Quietly Made the Strangest, Scariest Zombie Movies of All Time",
+    "link": "https://www.polygon.com/messiah-of-evil/",
+    "creator": "Matt Patches",
+    "pubDate": "Sat, 31 Oct 2026 10:01:20 GMT",
+    "categories": [
+      "Horror",
+      "Horror"
+    ],
+    "description": "Messiah of Evil might be the ultimate Halloween horror movie",
+    "contentEncoded": "<p>Besides the occasional <a href=\"https://www.reddit.com/r/LucidDreaming/comments/13txkc/why_does_everyone_see_the_same_black_shadowy/\" target=\"_blank\">shadow person</a> who creeps into my room once a fortnight, nothing paralyzes me quite like deciding what to watch on Oct. 31. In my mind, Halloween is a horror movie marathon month where veering in and out of subgenres and quality metrics is highly encouraged. So how do you close it out on actual Halloween?</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/heroimage_messiahofevil.jpg",
+      "type": "image/jpeg",
+      "length": "190"
+    },
+    "decision": "keep",
+    "reason": "Horror movie recommendation/analysis; horror content kept.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-31T13:49:22.505Z"
+  },
+  {
+    "guid": "https://www.polygon.com/best-peanuts-quote-ever-charlie-brown-charles-schulz/",
+    "title": "60 Years Later, the Best 'Peanuts' Quote of All Time Still Doesn't Get the Credit it Deserves",
+    "link": "https://www.polygon.com/best-peanuts-quote-ever-charlie-brown-charles-schulz/",
+    "creator": "Corey Plante",
+    "pubDate": "Sat, 31 Oct 2026 08:04:17 GMT",
+    "categories": [
+      "Opinion",
+      "comic strip"
+    ],
+    "description": "In addition to being sweet and funny, Charles Schulz's Peanuts comic strip could be profound at time. The best example comes from 1966.",
+    "contentEncoded": "<p>One of the best examples comes from a Feb. 3, 1966, <a href=\"https://www.polygon.com/comics/\" target=\"_blank\">comic strip</a> in which Lucy mocks him for volunteering for a school spelling bee. Charlie Brown’s response contains some of the best advice Schulz ever put on the page. Sixty years later, it’s still something we can all stand to remember.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/peppermint-patty-charlie-brown-a-charlie-brown-valentine.jpg",
+      "type": "image/jpeg",
+      "length": "179"
+    },
+    "decision": "toss",
+    "reason": "Nostalgia retrospective about old comic strip quote.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-31T13:49:22.505Z"
+  },
+  {
     "guid": "https://www.polygon.com/new-xbox-games-november-2026/",
     "title": "5 Must-Play New Xbox Games Coming in November, Including GTA 6",
     "link": "https://www.polygon.com/new-xbox-games-november-2026/",
