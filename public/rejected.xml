@@ -6,7 +6,20 @@
     <description>Articles the Polygon filter tossed, with reasons.</description>
     <atom:link href="https://tartick.github.io/polygon-filtered/rejected.xml" rel="self" type="application/rss+xml"/>
     <language>en-US</language>
-    <lastBuildDate>Sat, 31 Oct 2026 18:00:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 21:00:17 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA['Adolescence' Creator Officially Confirms a Connection Between His Netflix and Apple Shows]]></title>
+      <link>https://www.polygon.com/adolescence-nocturne-stephen-graham-interview/</link>
+      <guid isPermaLink="true">https://www.polygon.com/adolescence-nocturne-stephen-graham-interview/</guid>
+      <dc:creator><![CDATA[Aimee Hart]]></dc:creator>
+      <pubDate>Sat, 31 Oct 2026 21:00:17 GMT</pubDate>
+      <category><![CDATA[Interview]]></category>
+      <category><![CDATA[Nocturne]]></category>
+      <category><![CDATA[Adolescence]]></category>
+      <enclosure url="https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/nocturne-stephen-graham.jpg" length="222" type="image/jpeg"/>
+      <description><![CDATA[[Filtered: Generic TV renewal/streaming news without substance or horror angle.] 'Adolescence' co-creator Stephen Graham speaks candidly about the thematic parallel between it and Apple's new crime thriller, 'Nocturne.']]></description>
+      <content:encoded><![CDATA[<p>Co-created by Stephen Graham and Jack Thorne, the 2025 British limited series <em>Adolescence</em> made waves worldwide when it debuted on Netflix. Adolescence explores the immediate fallout from a young boy, Jamie (Owen Cooper), stabbing a girl to death and the radicalization of men online. The series was so well received that a <a href="http://www.gov.uk/government/news/downing-street-opens-doors-to-adolescence-creators-for-vital-discussion-on-protecting-our-children" rel="noopener noreferrer nofollow" target="_blank">UK government–backed initiative</a> made it free to watch in high schools.</p>]]></content:encoded>
+    </item>
     <item>
       <title><![CDATA[Helen Mirren and Alden Ehrenreich on Playing Tom Ripley and His Creator Patricia Highsmith]]></title>
       <link>https://www.polygon.com/helen-mirren-alden-ehrenreich-interview-a-talent-for-murder/</link>
@@ -620,18 +633,6 @@
       <enclosure url="https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/phantombladezero_guide_fleshlily_lead.jpg" length="444" type="image/jpeg"/>
       <description><![CDATA[[Filtered: Rule: category &quot;Guides&quot;] In this guide, we explain where you can find the Flesh Lily in Phantom Blade Zero to complete Yu'er's side quest.]]></description>
       <content:encoded><![CDATA[<p>Locating the <strong>Flesh Lily</strong> in <a href="https://www.polygon.com/phantom-blade-zero/" target="_blank"><em>Phantom Blade Zero</em></a> is part of one of the first secondary missions in the game. The "Flesh Lily" is a long quest that you only complete after reaching the fourth area in the game, Pangzhen. Although it takes a while for you to see the conclusion of this tale, completing the first step is worthwhile, as it involves obtaining one of the strongest weapons in the early game.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title><![CDATA[Where to find the Outpost cell key in Phantom Blade Zero]]></title>
-      <link>https://www.polygon.com/phantom-blade-zero-cell-key-location-where-to-find-outpost-courtyard/</link>
-      <guid isPermaLink="true">https://www.polygon.com/phantom-blade-zero-cell-key-location-where-to-find-outpost-courtyard/</guid>
-      <dc:creator><![CDATA[Paulo Kawanishi]]></dc:creator>
-      <pubDate>Thu, 29 Oct 2026 02:01:21 GMT</pubDate>
-      <category><![CDATA[Guides]]></category>
-      <category><![CDATA[Phantom Blade Zero]]></category>
-      <enclosure url="https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/phantombladezero_guide_outpostkey_lead.jpg" length="419" type="image/jpeg"/>
-      <description><![CDATA[[Filtered: Rule: category &quot;Guides&quot;] Here's where to find the cell key in Phantom Blade Zero to open the locked door in the Outpost Courtyard, and the reward from opening it.]]></description>
-      <content:encoded><![CDATA[<p>The <strong>Outpost cell key</strong> is a secondary objective in <a href="https://www.polygon.com/phantom-blade-zero/" target="_blank"><em>Phantom Blade Zero</em></a> that teaches you that exploring the maps thoroughly is worthwhile. As you progress in the story, you will come across plenty of locked doors, and it might take some time before you can obtain the means to open them, as some are connected to the main story.</p>]]></content:encoded>
     </item>
   </channel>
 </rss>

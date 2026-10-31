@@ -1,5 +1,50 @@
 [
   {
+    "guid": "https://www.polygon.com/adolescence-nocturne-stephen-graham-interview/",
+    "title": "'Adolescence' Creator Officially Confirms a Connection Between His Netflix and Apple Shows",
+    "link": "https://www.polygon.com/adolescence-nocturne-stephen-graham-interview/",
+    "creator": "Aimee Hart",
+    "pubDate": "Sat, 31 Oct 2026 21:00:17 GMT",
+    "categories": [
+      "Interview",
+      "Nocturne",
+      "Adolescence"
+    ],
+    "description": "'Adolescence' co-creator Stephen Graham speaks candidly about the thematic parallel between it and Apple's new crime thriller, 'Nocturne.'",
+    "contentEncoded": "<p>Co-created by Stephen Graham and Jack Thorne, the 2025 British limited series <em>Adolescence</em> made waves worldwide when it debuted on Netflix. Adolescence explores the immediate fallout from a young boy, Jamie (Owen Cooper), stabbing a girl to death and the radicalization of men online. The series was so well received that a <a href=\"http://www.gov.uk/government/news/downing-street-opens-doors-to-adolescence-creators-for-vital-discussion-on-protecting-our-children\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">UK government–backed initiative</a> made it free to watch in high schools.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/nocturne-stephen-graham.jpg",
+      "type": "image/jpeg",
+      "length": "222"
+    },
+    "decision": "toss",
+    "reason": "Generic TV renewal/streaming news without substance or horror angle.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-31T21:49:27.665Z"
+  },
+  {
+    "guid": "https://www.polygon.com/gta-6-side-activities/",
+    "title": "6 Essential Activities GTA Needs to Let Players Experience in Vice City",
+    "link": "https://www.polygon.com/gta-6-side-activities/",
+    "creator": "Josh Broadwell",
+    "pubDate": "Sat, 31 Oct 2026 20:01:17 GMT",
+    "categories": [
+      "Polygon Lists",
+      "Grand Theft Auto 6"
+    ],
+    "description": "GTA 6's side activities seem expansive, but I hope Rockstar leaves room for these, too",
+    "contentEncoded": "<p><a href=\"https://www.polygon.com/game/grand-theft-auto-6/40846/\" target=\"_blank\"><em>GTA 6</em></a> is just around the corner, and despite Rockstar releasing quite a lot of footage over the last month, I still think there's very little to show what we'll actually be doing in the game. Crime, yes. The usual spate of side activities, yes. <a href=\"https://www.polygon.com/gta-6-launch-trailer-sex-scene-jason-lucia-shower-youtube-video/\" target=\"_blank\">Having sex, apparently</a>. But there's still a lot of room for speculation about what you can do in those in-between moments. I hope some of these activities make the cut.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/img_1128.webp",
+      "type": "image/jpeg",
+      "length": "126"
+    },
+    "decision": "keep",
+    "reason": "GTA 6 news and analysis; major anticipated game project.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-31T21:49:27.665Z"
+  },
+  {
     "guid": "https://www.polygon.com/helen-mirren-alden-ehrenreich-interview-a-talent-for-murder/",
     "title": "Helen Mirren and Alden Ehrenreich on Playing Tom Ripley and His Creator Patricia Highsmith",
     "link": "https://www.polygon.com/helen-mirren-alden-ehrenreich-interview-a-talent-for-murder/",
