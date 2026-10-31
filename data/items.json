@@ -1,5 +1,233 @@
 [
   {
+    "guid": "https://www.polygon.com/helen-mirren-alden-ehrenreich-interview-a-talent-for-murder/",
+    "title": "Helen Mirren and Alden Ehrenreich on Playing Tom Ripley and His Creator Patricia Highsmith",
+    "link": "https://www.polygon.com/helen-mirren-alden-ehrenreich-interview-a-talent-for-murder/",
+    "creator": "Brian VanHooker",
+    "pubDate": "Sat, 31 Oct 2026 18:00:17 GMT",
+    "categories": [
+      "Interview",
+      "A Talent for Murder"
+    ],
+    "description": "Helen Mirren and Alden Ehrenreich join Polygon for an interview about their new film A Talent for Murder",
+    "contentEncoded": "<p>That was my favorite takeaway when I recently spoke with the Academy Award winner for her new film <em>A Talent for Murder</em>, which she stars in alongside Alden Ehrenreich (<em>Weapons</em>, <em>Solo: A Star Wars Story</em>).</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/helen-mirren-and-alden-ehrenreich-in-a-talent-for-murder-courtesy-bleecker-and-ld-entertainment.jpg",
+      "type": "image/jpeg",
+      "length": "8817"
+    },
+    "decision": "toss",
+    "reason": "Generic film interview without prestige or substantial project credentials.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-31T18:27:50.098Z"
+  },
+  {
+    "guid": "https://www.polygon.com/the-hobbit-movies-lord-of-the-rings-fairy-tale-roots/",
+    "title": "Peter Jackson's Worst Lord of the Rings Sin Was Forgetting the Story's Fairy Tale Roots",
+    "link": "https://www.polygon.com/the-hobbit-movies-lord-of-the-rings-fairy-tale-roots/",
+    "creator": "Francesco Cacciatore",
+    "pubDate": "Sat, 31 Oct 2026 17:00:17 GMT",
+    "categories": [
+      "Opinion",
+      "The Hobbit: An Unexpected Journey",
+      "The Princess Bride"
+    ],
+    "description": "Peter Jackson's The Hobbit should have taken inspiration from The Princess Bride on how to adapt a fairy tale into a movie.",
+    "contentEncoded": "<p>I couldn’t have been more excited for a movie adaptation of J.R.R. Tolkien’s <a href=\"https://www.polygon.com/24009439/hobbit-extended-edition-blu-rays-extra-scenes/\" target=\"_blank\"><em>The Hobbit</em></a><em>. </em>The story of Bilbo Baggins is my favorite book — I even prefer it to <em>The Lord of the Rings</em> — and I try to read it again every year. By virtue of being less ambitious, <em>The Hobbit</em> lets Tolkien deliver a compact narrative that makes his talent as a worldbuilder and writer shine.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/sharedimages/2025/09/martin-freeman-as-bilbo-in-hobbit-unexpected-journey.jpg",
+      "type": "image/jpeg",
+      "length": "486"
+    },
+    "decision": "toss",
+    "reason": "Nostalgia retrospective analyzing old movies, not new news.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-31T18:27:50.098Z"
+  },
+  {
+    "guid": "https://www.polygon.com/phantom-blade-zero-crimson-desert-goty-chances/",
+    "title": "Phantom Blade Zero Just Killed Crimson Desert's Chances At a GOTY",
+    "link": "https://www.polygon.com/phantom-blade-zero-crimson-desert-goty-chances/",
+    "creator": "Oli Welsh",
+    "pubDate": "Sat, 31 Oct 2026 16:00:19 GMT",
+    "categories": [
+      "GOTY Watch",
+      "Phantom Blade Zero",
+      "Crimson Desert"
+    ],
+    "description": "Phantom Blade Zero has rave reviews, tons of buzz, and a preferential release date, effectively boxing Crimson Desert out of GOTY 2026.",
+    "contentEncoded": "<p><a href=\"https://www.polygon.com/phantom-blade-zero-review/\" target=\"_blank\"><em>Phantom Blade Zero</em></a><em></em>is off to a roaring start. The Wuxia action game by S-Game started the week with <a href=\"https://www.polygon.com/phantom-blade-zero-review-roundup-score/\" target=\"_blank\">strong reviews</a> and ended it with <a href=\"https://www.polygon.com/phantom-blade-zero-best-selling-top-single-player-game-steam-charts/\" target=\"_blank\">stratospheric player numbers on Steam</a>, where the Chinese audience can be relied upon to turn out for a big release from their native country.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/phantom-blade-zero.jpg",
+      "type": "image/jpeg",
+      "length": "330"
+    },
+    "decision": "keep",
+    "reason": "Game news about GOTY contenders and upcoming releases.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-31T18:27:50.098Z"
+  },
+  {
+    "guid": "https://www.polygon.com/skyblivion-legal-threats-former-volunteer/",
+    "title": "Skyblivion's Biggest Legal Challenge Yet Is Not Coming From Bethesda",
+    "link": "https://www.polygon.com/skyblivion-legal-threats-former-volunteer/",
+    "creator": "Tomas Franzese",
+    "pubDate": "Sat, 31 Oct 2026 15:57:49 GMT",
+    "categories": [
+      "News",
+      "The Elder Scrolls IV: Oblivion",
+      "The Elder Scrolls V: Skyrim"
+    ],
+    "description": "As Skyblivion nears release, a former volunteer  is trying to sue those working on the mod bringing The Elder Scrolls 4: Oblivion to Skyrim",
+    "contentEncoded": "<p><em>Skyblivion</em>, an ambitious mod aiming to recreate all of <a href=\"https://www.polygon.com/news/561375/skyblivion-elder-scrolls-oblivion-skyrim-fan-project-mod-remaster-besthesda/\" target=\"_blank\"><em>The Elder Scrolls 4: Oblivion</em> within <em>Skyrim's</em> game engine</a>, has run into a new legal challenge after over a decade of volunteer-driven development. Surprisingly, these legal troubles don't stem from Bethesda Game Studios or Microsoft, but a former volunteer.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/skyblivion.jpg",
+      "type": "image/jpeg",
+      "length": "786"
+    },
+    "decision": "keep",
+    "reason": "Video game news and development updates about Elder Scrolls mod.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-31T18:27:50.098Z"
+  },
+  {
+    "guid": "https://www.polygon.com/no-mans-sky-players-patrick-stewart-memorial-star-systems/",
+    "title": "'No Man's Sky' Players Pay Homage To Star Trek's Patrick Stewart",
+    "link": "https://www.polygon.com/no-mans-sky-players-patrick-stewart-memorial-star-systems/",
+    "creator": "Sam Hill",
+    "pubDate": "Sat, 31 Oct 2026 15:18:18 GMT",
+    "categories": [
+      "News",
+      "Star Trek: The Next Generation",
+      "No Man's Sky"
+    ],
+    "description": "No Man's Sky players are honoring late Star Trek actor Patrick Stewart by naming planets and star systems after him.",
+    "contentEncoded": "<p>Patrick Stewart was a celebrated actor whose career spanned decades of film, television, and theater. He became a household name playing Professor Charles Xavier in <a href=\"https://www.polygon.com/tag/x-men/\" target=\"_blank\">the X-Men films</a>, but his work also included decades of live performances with the Royal Shakespeare Company and memorable roles as Gurney Halleck in <em>Dune</em> (1984) and King Richard in <em>Robin Hood: Men in Tights</em> (1993). But, of course, for millions of fans, he'll always be Captain Jean-Luc Picard in <em>Star Trek: The Next Generation</em>.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/msdsttr_pa117.jpg",
+      "type": "image/jpeg",
+      "length": "2038"
+    },
+    "decision": "keep",
+    "reason": "Video game news about community activity in live game.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-31T18:27:50.098Z"
+  },
+  {
+    "guid": "https://www.polygon.com/whalefall-bts-interview/",
+    "title": "Austin Abrams Was Grabbed by Tentacles in a 35-Foot Whale Head for the Thriller ‘Whalefall’",
+    "link": "https://www.polygon.com/whalefall-bts-interview/",
+    "creator": "Sam Nelson",
+    "pubDate": "Sat, 31 Oct 2026 15:01:18 GMT",
+    "categories": [
+      "Interview",
+      "Whalefall"
+    ],
+    "description": "“Austin’s body is responding to real action in real time.”",
+    "contentEncoded": "<p>“It was super important that Austin felt like he was in these environments and his body had to respond to them,” Avery told Polygon in a virtual interview. “All that motion on camera is motion that we’re making. It’s not animated. That means Austin’s body is responding to real action in real time.”</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/copy-of-whf-03389.jpg",
+      "type": "image/jpeg",
+      "length": "4627"
+    },
+    "decision": "toss",
+    "reason": "Generic film interview without substantial or prestige credentials.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-31T18:27:50.098Z"
+  },
+  {
+    "guid": "https://www.polygon.com/warframe-tau-release-window/",
+    "title": "Warframe officially adds a whole new star system in December",
+    "link": "https://www.polygon.com/warframe-tau-release-window/",
+    "creator": "Tomas Franzese",
+    "pubDate": "Sat, 31 Oct 2026 14:58:43 GMT",
+    "categories": [
+      "News",
+      "Warframe"
+    ],
+    "description": "Warframe will leave the Origin System and head to Tau before the end of the year",
+    "contentEncoded": "<p>Before the end of the year, <a href=\"https://www.polygon.com/warframe-iceblade-narin-interview-rebecca-ford/\" target=\"_blank\"><em>Warframe </em>will get a whole lot bigger</a>. The <em>Warframe: Tau</em> expansion will be released for free in December and adds its namesake star system to the live service shooter alongside a lot of other new content.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/wf_bryskowarframebundle_minorkeyart_1080p_nologo.png",
+      "type": "image/jpeg",
+      "length": "3355"
+    },
+    "decision": "keep",
+    "reason": "Video game news about expansion and release window.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-31T18:27:50.098Z"
+  },
+  {
+    "guid": "https://www.polygon.com/nintendo-switch-2-zelda-ocarina-of-time-walmart-compensation/",
+    "title": "Walmart Gives Surprise Gift Cards Over Canceled Zelda Switch 2 Orders",
+    "link": "https://www.polygon.com/nintendo-switch-2-zelda-ocarina-of-time-walmart-compensation/",
+    "creator": "Ashely Claudino",
+    "pubDate": "Sat, 31 Oct 2026 14:30:49 GMT",
+    "categories": [
+      "News",
+      "Nintendo Switch 2",
+      "The Legend of Zelda: Ocarina of Time"
+    ],
+    "description": "Walmart was unable to fulfill every special Ocarina of Time Switch 2 order and is now trying to make up for it with $519 gift cards.",
+    "contentEncoded": "<p>On Thursday, Nintendo released a <a href=\"https://www.polygon.com/nintendo-switch-2-zelda-edition-release-date-pro-controller-price/\" target=\"_blank\">special edition of the Nintendo Switch 2</a> in anticipation of <a href=\"https://www.polygon.com/game/the-legend-of-zelda-ocarina-of-time/1399/\" target=\"_blank\"><em>The Legend of Zelda: Ocarina of Time</em></a>, which is set to launch Nov. 5. As with most special hardware releases, the <a href=\"https://www.polygon.com/zelda-switch-2-preorder-amazon-best-buy-target-ebay-in-stock-ocarina/\" target=\"_blank\">Legend of Zelda 40th Anniversary-themed Switch 2 sold out quickly</a>. Walmart oversold the consoles and found itself having to cancel orders a day before launch.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/ns2_thelegendofzeldaocarinaoftime_scrn_02.jpg",
+      "type": "image/jpeg",
+      "length": "1063"
+    },
+    "decision": "keep",
+    "reason": "Nintendo/Zelda news about special hardware and retail situation.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-31T18:27:50.098Z"
+  },
+  {
+    "guid": "https://www.polygon.com/it-welcome-to-derry-halloween-special/",
+    "title": "It: Welcome to Derry Drops News Episode To Celebrate Halloween",
+    "link": "https://www.polygon.com/it-welcome-to-derry-halloween-special/",
+    "creator": "Tomas Franzese",
+    "pubDate": "Sat, 31 Oct 2026 14:21:44 GMT",
+    "categories": [
+      "Horror",
+      "It: Welcome to Derry"
+    ],
+    "description": "There's a new special episode of It: Welcome to Derry for you to watch on HBO Max this Halloween",
+    "contentEncoded": "<p><em>It: Welcome to Derry</em> shocked and surprised fans to celebrate Halloween this year, as an unannounced 30-minute special episode was added to HBO Max at midnight.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/10/it-welcome-to-derry-pennywise.jpg",
+      "type": "image/jpeg",
+      "length": "70"
+    },
+    "decision": "keep",
+    "reason": "Horror TV series news about new content release.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-31T18:27:50.098Z"
+  },
+  {
+    "guid": "https://www.polygon.com/nintendo-hello-pikmin-direct-day-shigeru-miyamoto-switch-2/",
+    "title": "Nintendo Reveals Pikmin Day Surprise and New Project Hello! Pikmin",
+    "link": "https://www.polygon.com/nintendo-hello-pikmin-direct-day-shigeru-miyamoto-switch-2/",
+    "creator": "Michael McWhertor",
+    "pubDate": "Sat, 31 Oct 2026 14:15:51 GMT",
+    "categories": [
+      "Nintendo",
+      "Pikmin 4 - Nintendo Switch 2 Edition + Dandori Academy",
+      "Pikmin 4",
+      "Pikmin Bloom",
+      "Pikmin"
+    ],
+    "description": "A new Pikmin Day Direct is live, with series creator Shigeru Miyamoto announcing Hello! Pikmin and other Nintendo franchise news.",
+    "contentEncoded": "<p>Happy early Pikmin Day! Wait. Let's back up, since you don't appear to be aware that today's Pikmin Day Eve. <a href=\"http://polygon.com/nintendo\" target=\"_blank\">Nintendo</a> announced Saturday that, going forward, Nov. 1 will be known as <strong>Pikmin Day</strong>, a planned annual celebration of the now-25-year-old puzzle-strategy franchise. Nintendo designer Shigeru Miyamoto announced the news alongside a handful of updates for games like <a href=\"https://www.polygon.com/game/pikmin-4/40912/\" target=\"_blank\"><em>Pikmin 4</em></a> and <a href=\"https://www.polygon.com/game/pikmin-bloom/40827/\" target=\"_blank\"><em>Pikmin Bloom</em></a> during a brief video dedicated to the <a href=\"https://www.polygon.com/tag/pikmin/\" target=\"_blank\">Pikmin</a> franchise.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/pikmin-day-direct-0-8-screenshot.jpg",
+      "type": "image/jpeg",
+      "length": "171"
+    },
+    "decision": "keep",
+    "reason": "Nintendo game announcements and news from official Direct presentation.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-10-31T18:27:50.098Z"
+  },
+  {
     "guid": "https://www.polygon.com/soulframe-open-preludes-release-date/",
     "title": "Anyone Can Play Soulframe For Free Starting Next Week",
     "link": "https://www.polygon.com/soulframe-open-preludes-release-date/",
