@@ -1,5 +1,230 @@
 [
   {
+    "guid": "https://www.polygon.com/most-anticipated-sci-fi-fantasy-books-november-2026/",
+    "title": "The 10 Most Anticipated Sci-Fi and Fantasy Books of November 2026",
+    "link": "https://www.polygon.com/most-anticipated-sci-fi-fantasy-books-november-2026/",
+    "creator": "Sam Nelson",
+    "pubDate": "Sun, 01 Nov 2026 14:00:17 GMT",
+    "categories": [
+      "Polygon Lists",
+      "Books",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "description": "Get cozy with sky pirates, faerie princesses, and political schemes",
+    "contentEncoded": "<p>When fall brings cold, windy, and wet weather, it’s the perfect time to stay inside and curl up with a good book. November offers plenty of options, with fresh entries in long-running series, standalones by bestselling authors, and brand-new talent to check out. Whether you want to imagine sailing with sky pirates, exploring a haunted forest, or flirting with faeries, the 10 most anticipated <a href=\"https://www.polygon.com/sci-fi/\" target=\"_blank\">sci-fi</a> and <a href=\"https://www.polygon.com/fantasy/\" target=\"_blank\">fantasy</a> books of November offer plenty of ways to pass a rainy day.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/monsters-of-ohio-by-john-scalzi.jpg",
+      "type": "image/jpeg",
+      "length": "89"
+    },
+    "decision": "toss",
+    "reason": "Book promotion list; not games or core Polygon content.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-01T14:27:50.321Z"
+  },
+  {
+    "guid": "https://www.polygon.com/legend-zelda-skyward-sword-retrospective/",
+    "title": "15 Years Ago, Zelda Told its Most Memorable Story with its Worst Gameplay",
+    "link": "https://www.polygon.com/legend-zelda-skyward-sword-retrospective/",
+    "creator": "Rebecca Corgan",
+    "pubDate": "Sun, 01 Nov 2026 13:00:17 GMT",
+    "categories": [
+      "What to Play",
+      "The Legend of Zelda: Skyward Sword HD",
+      "The Legend of Zelda"
+    ],
+    "description": "Zelda’s most memorable story still shines, but the motion controls, Fi, and repeat fights often make it a tough replay",
+    "contentEncoded": "<p>Hold the controller over your head. The Master Sword glows. Point it at the screen, hit Y to recenter, and swing. On the screen, Link swings… kind of the right way. Then, your chatty companion, Fi, chimes in with a very long and earnest explanation of something you figured out several minutes ago. Rinse and repeat for about 40 hours, and that’s <a href=\"https://www.polygon.com/game/the-legend-of-zelda-skyward-sword/1825/\" target=\"_blank\"><em>Skyward Sword</em></a>, one of the most cinematic, heartrending, memorable stories Zelda has ever told — and the one saddled with the most finicky gameplay.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/22695444/Switch_ZeldaSSHD_ND_Feb_SCRN07.jpg",
+      "type": "image/jpeg",
+      "length": "232184"
+    },
+    "decision": "toss",
+    "reason": "Nostalgia retrospective (15 years ago); matches toss pattern.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-01T14:27:50.321Z"
+  },
+  {
+    "guid": "https://www.polygon.com/dragon-delves-hansel-gretel/",
+    "title": "Dungeons & Dragons Turned Hansel and Gretel Into a Near-Perfect Adventure",
+    "link": "https://www.polygon.com/dragon-delves-hansel-gretel/",
+    "creator": "Sam Nelson",
+    "pubDate": "Sun, 01 Nov 2026 12:31:50 GMT",
+    "categories": [
+      "Dungeons & Dragons",
+      "Dungeons & Dragons",
+      "Tabletop Games",
+      "Fantasy"
+    ],
+    "description": "A delicious one-shot sends players to a candy cottage",
+    "contentEncoded": "<p>Most of the published adventures for <a href=\"https://www.polygon.com/dnd-dungeons-dragons/\" target=\"_blank\">Dungeons & Dragons</a> focus on epic <a href=\"https://www.polygon.com/fantasy/\" target=\"_blank\">fantasy</a>, tasking players with fighting ancient necromancers, rampaging demons, or invading armies in order to prevent some great calamity. But the stakes don’t have to be so high to have a great session, and a bit of whimsy can prove just as memorable as a dramatic battle. That’s why one of my favorite adventures from Wizards of the Coast is a silly fairy tale inspired by Hansel and Gretel.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/dragon-delves-gingerbread-people.png",
+      "type": "image/jpeg",
+      "length": "582"
+    },
+    "decision": "keep",
+    "reason": "D&D adventure content; tabletop games within scope.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-01T14:27:50.321Z"
+  },
+  {
+    "guid": "https://www.polygon.com/best-dark-comedy-show-comic-book-adaptation/",
+    "title": "Netflix's Near-Perfect Thriller With 94% Rotten Tomatoes Score Is Getting Cut From Streaming",
+    "link": "https://www.polygon.com/best-dark-comedy-show-comic-book-adaptation/",
+    "creator": "Debopriyaa Dutta",
+    "pubDate": "Sun, 01 Nov 2026 12:00:17 GMT",
+    "categories": [
+      "TV"
+    ],
+    "description": "Two eccentric teenagers cross paths and embark on a road trip to remember.",
+    "contentEncoded": "<p><em>The End of the F***ing World </em>is among the best in this genre. Based on Charles Forsman’s minicomics, the eight-part miniseries follows James (Alex Lawther), a teen who thinks he is a psychopath, and Alyssa (Jessica Barden), who considers James a welcome distraction from her tumultuous home life.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/wp2398092.jpg",
+      "type": "image/jpeg",
+      "length": "350"
+    },
+    "decision": "toss",
+    "reason": "Streaming removal clickbait; generic TV news.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-01T14:27:50.321Z"
+  },
+  {
+    "guid": "https://www.polygon.com/prime-video-sci-fi-near-perfect-first-scene/",
+    "title": "7 Near-Perfect Prime Video Sci-Fi Shows that Hook You in the First Scene",
+    "link": "https://www.polygon.com/prime-video-sci-fi-near-perfect-first-scene/",
+    "creator": "Debopriyaa Dutta",
+    "pubDate": "Sun, 01 Nov 2026 12:00:17 GMT",
+    "categories": [
+      "Polygon Lists"
+    ],
+    "description": "Sci-fi comes in all flavors, including ones that are addictive.",
+    "contentEncoded": "<p>Prime Video is home to sci-fi shows of great variety, but some of the best ones capture our attention from the get-go. When a premise is solid and well-thought-out, the first episode often becomes a promising indicator for the rest of the story. With that in mind, here are seven near-perfect Prime Video sci-fi shows that hook you right from the first scene.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/the-end-of-the-world-is-going-to-be-weird-on-prime-videos-quirky-clever-adaptation-of-fallout-1.jpg",
+      "type": "image/jpeg",
+      "length": "150"
+    },
+    "decision": "toss",
+    "reason": "Generic TV list; not game or substantive film/TV content.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-01T14:27:50.321Z"
+  },
+  {
+    "guid": "https://www.polygon.com/best-peanuts-comics-1960s/",
+    "title": "6 Perfect 'Peanuts' Comics from the 1960s that Prove Charles Schulz is a Genius",
+    "link": "https://www.polygon.com/best-peanuts-comics-1960s/",
+    "creator": "Brian VanHooker",
+    "pubDate": "Sun, 01 Nov 2026 11:00:17 GMT",
+    "categories": [
+      "Polygon Lists",
+      "comic strip"
+    ],
+    "description": "The best decade for Charles Schulz's Peanuts comic strip was the 1960s — here are six perfect comics which prove it.",
+    "contentEncoded": "<p>By the 1960s, Schulz hit his sweet spot with well-defined characters and a freshness to the material which would <em>sometimes</em> flag in the decades to come. Don’t get me wrong, there are plenty of hilarious, heartwarming, and inspired <em>Peanuts</em> comics from the ‘70s, ‘80s, and ‘90s, but taken as a whole, nothing tops 1960s <em>Peanuts</em>.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/charlie-brown.jpg",
+      "type": "image/jpeg",
+      "length": "2498"
+    },
+    "decision": "toss",
+    "reason": "Graphic-novel/comic strip retrospective; not game-related.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-01T14:27:50.321Z"
+  },
+  {
+    "guid": "https://www.polygon.com/patch-notes-video-game-adaptations/",
+    "title": "Welcome to the New Era of Video Game Adaptations",
+    "link": "https://www.polygon.com/patch-notes-video-game-adaptations/",
+    "creator": "Giovanni Colantonio",
+    "pubDate": "Sun, 01 Nov 2026 10:00:17 GMT",
+    "categories": [
+      "Patch Notes"
+    ],
+    "description": "A week filled with updates on upcoming video game adaptations proves that Hollywood's latest trend is here to stay.",
+    "contentEncoded": "<p>Buckle up, because that trend is about to kick into full gear. This week, we got a flood of news stories confirming that Hollywood is in a full-on gold rush. The film rights to video games are currently getting snapped up at an alarming rate. While that’s not exactly new for an industry that has a long history of eyeing game movies that never pass the scripting phase, we’re actually seeing significant developments that signal an approaching tidal wave.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/16-street-fighter.jpg",
+      "type": "image/jpeg",
+      "length": "10715"
+    },
+    "decision": "keep",
+    "reason": "Game-to-film/TV adaptation news; core interest.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-01T14:27:50.321Z"
+  },
+  {
+    "guid": "https://www.polygon.com/best-quote-gangster-movie-the-departed/",
+    "title": "20 Years Later, The Departed's Best Line Is Still One Of The Greatest Quotes In Gangster Movie History",
+    "link": "https://www.polygon.com/best-quote-gangster-movie-the-departed/",
+    "creator": "Ryan Epps",
+    "pubDate": "Sun, 01 Nov 2026 09:09:17 GMT",
+    "categories": [
+      "Opinion",
+      "Movies",
+      "The Departed"
+    ],
+    "description": "Jack Nicholson delivered mob cinema's ultimate statement of power.",
+    "contentEncoded": "<p>In crime cinema, a lethal line of dialogue can carry just as much weight as a loaded gun. Martin Scorsese's <em>Goodfellas</em> hooks audiences with Henry Hill's seductive declaration, “As far back as I can remember, I always wanted to be a gangster,” framing a life of crime as the ultimate aspiration. <em>Miller's Crossing</em> features Tom Reagan's wonderfully blunt take on underworld survival, while <em>Casino</em>, <em>Scarface</em>, and <em>The Godfather</em> overflow with dialogue that has long since bled into the cultural lexicon. Immortal phrases like “keep your friends close, but your enemies closer” and “an offer you can’t refuse” remain cinematic icons right alongside the actors and directors who brought them to life.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/the-departed-1.jpg",
+      "type": "image/jpeg",
+      "length": "1109"
+    },
+    "decision": "toss",
+    "reason": "Old movie retrospective opinion; lacks substance.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-01T14:27:50.321Z"
+  },
+  {
+    "guid": "https://www.polygon.com/air-force-one-harrison-ford-netflix-november-2026/",
+    "title": "Forget Jason Statham, the Best Action Movie of the Last 30 Years Is Back on Netflix",
+    "link": "https://www.polygon.com/air-force-one-harrison-ford-netflix-november-2026/",
+    "creator": "Corey Plante",
+    "pubDate": "Sun, 01 Nov 2026 09:04:19 GMT",
+    "categories": [
+      "What to Watch",
+      "Air Force One"
+    ],
+    "description": "Get off his plane. Air Force One is streaming on Netflix.",
+    "contentEncoded": "<p>Harrison Ford spent decades making wildly implausible heroes feel like ordinary guys having a terrible day. An <a href=\"https://www.polygon.com/23349040/harrison-ford-indiana-jones-5-d23-ke-huy-quan/\" target=\"_blank\">archaeologist</a> outrunning a giant boulder? Sure. A <a href=\"https://www.polygon.com/2016/3/22/11283014/han-solo-star-wars-harrison-ford-jimmy-kimmel/\" target=\"_blank\">space smuggler</a> taking on an evil empire? Absolutely. In <em>Air Force One</em>, he pulls off something that now feels considerably more farfetched: an <a href=\"https://www.polygon.com/rick-and-morty-spinoff-president-curtis-review/\" target=\"_blank\">American president</a> you’d trust with your life.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/jason-statham-mutiny.jpg",
+      "type": "image/jpeg",
+      "length": "417"
+    },
+    "decision": "toss",
+    "reason": "Streaming clickbait; generic action movie promotion.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-01T14:27:50.321Z"
+  },
+  {
+    "guid": "https://www.polygon.com/funniest-lord-of-the-rings-quote-meats-back-on-the-menu-boys-histry/",
+    "title": "24 Years Later, the Funniest Lord of the Rings Movie Quote Is Still a Legendary Fantasy Line",
+    "link": "https://www.polygon.com/funniest-lord-of-the-rings-quote-meats-back-on-the-menu-boys-histry/",
+    "creator": "Corey Plante",
+    "pubDate": "Sun, 01 Nov 2026 09:00:17 GMT",
+    "categories": [
+      "Opinion",
+      "The Lord of the Rings: The Two Towers",
+      "Movies",
+      "Fantasy"
+    ],
+    "description": "The Two Towers’ “meat’s back on the menu” quote remains one of Lord of the Rings’ funniest moments — and raises absurd questions about orc dining.",
+    "contentEncoded": "<p>Somewhere in Middle-earth, is there a Chili’s that serves orcs? Does an Uruk-hai host greet hungry customers, tell them it’ll be a 20-minute wait, and hand them a menu? Does the kitchen run out of manflesh halfway through the dinner rush? Is halfling served as an appetizer? What precisely is in the Triple Dipper? These are unreasonable questions to ask of an otherwise perfect fantasy epic. Unfortunately, <a href=\"https://www.polygon.com/lord-of-the-rings/\" target=\"_blank\"><em>The Lord of the Rings</em></a><em>: <a href=\"https://www.polygon.com/game/the-lord-of-the-rings-the-two-towers/7825/\" target=\"_blank\">The Two Towers</a></em> invites every one of them with one line that feels deeply anachronistic.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/mcdloof_ec070-1.jpg",
+      "type": "image/jpeg",
+      "length": "664"
+    },
+    "decision": "toss",
+    "reason": "Old movie retrospective; nostalgia piece without substance.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-01T14:27:50.321Z"
+  },
+  {
     "guid": "https://www.polygon.com/jon-bernthal-punisher-action-masterpiece-marvel-disney-plus/",
     "title": "9 Years Later, Jon Bernthal’s Action Series Is a Masterpiece From Start to Finish",
     "link": "https://www.polygon.com/jon-bernthal-punisher-action-masterpiece-marvel-disney-plus/",
