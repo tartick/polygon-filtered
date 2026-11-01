@@ -1,5 +1,136 @@
 [
   {
+    "guid": "https://www.polygon.com/andy-weir-benjamin-percy-exoplanet-sci-fi-audiobook/",
+    "title": "Andy Weir's New Time-Travel Sci-fi Thriller Officially Arrives Nov. 5",
+    "link": "https://www.polygon.com/andy-weir-benjamin-percy-exoplanet-sci-fi-audiobook/",
+    "creator": "Sam Nelson",
+    "pubDate": "Sat, 31 Oct 2026 23:09:24 GMT",
+    "categories": [
+      "Books"
+    ],
+    "description": "The Andy Weir-produced Audible Original story Exoplanet stars Anthony Mackie, Ariana DeBose, and John Leguizamo.",
+    "contentEncoded": "<p>Andy Weir is known for combining humor, hard <a href=\"https://www.polygon.com/sci-fi/\" target=\"_blank\">science fiction</a>, and gripping survival stories in his bestselling novels <a href=\"https://www.polygon.com/the-martian-book-vs-film-matt-damon-andy-weir/\" target=\"_blank\"><em>The Martian</em></a><em></em>and <a href=\"https://www.polygon.com/project-hail-mary-book-vs-film-questions/\" target=\"_blank\"><em>Project Hail Mary</em></a>, which were both adapted into blockbuster films. He’s sticking to that formula for his next project, a time-travel thriller that will launch on Audible on Nov. 5.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/project-hail-mary.jpg",
+      "type": "image/jpeg",
+      "length": "1971"
+    },
+    "decision": "toss",
+    "reason": "Book/audiobook promo without game or horror connection.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-01T00:58:55.772Z"
+  },
+  {
+    "guid": "https://www.polygon.com/new-nintendo-switch-games-november-2026/",
+    "title": "5 Must-Play Nintendo Switch 2 Games Coming in November 2026",
+    "link": "https://www.polygon.com/new-nintendo-switch-games-november-2026/",
+    "creator": "Jen Glennon",
+    "pubDate": "Sat, 31 Oct 2026 23:01:17 GMT",
+    "categories": [
+      "What to Play",
+      "Nintendo Switch 2"
+    ],
+    "description": "The Legend of Zelda: Ocarina of Time remake and Metaphor: ReFantazio lead a strong month for Nintendo Switch 2 game releases",
+    "contentEncoded": "<p>November is typically a major month for video game releases, and 2026 is no exception. The biggest game of the month is undoubtedly <a href=\"https://www.polygon.com/game/grand-theft-auto-6/40846/\" target=\"_blank\"><em>Grand Theft Auto 6</em></a>, which is one of the most anticipated entertainment events of all time. But Rockstar’s magnum opus isn’t coming to <a href=\"https://www.polygon.com/nintendo-switch-2/\" target=\"_blank\">Switch 2</a> — not yet, anyway. That said, there are still plenty of intriguing new games coming out for Nintendo’s hybrid console in November. Here are five that we’re especially excited about.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/ns2_thelegendofzeldaocarinaoftime_scrn_15.png",
+      "type": "image/jpeg",
+      "length": "20527579"
+    },
+    "decision": "keep",
+    "reason": "Video game releases and recommendations for major platform.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-01T00:58:55.772Z"
+  },
+  {
+    "guid": "https://www.polygon.com/nintendo-switch-games-no-switch-2-edition/",
+    "title": "5 Best Nintendo Switch Games That Desperately Need Switch 2 Upgrades, Ranked",
+    "link": "https://www.polygon.com/nintendo-switch-games-no-switch-2-edition/",
+    "creator": "Giovanni Colantonio",
+    "pubDate": "Sat, 31 Oct 2026 22:14:33 GMT",
+    "categories": [
+      "Polygon Lists",
+      "Nintendo"
+    ],
+    "description": "Many Nintendo Switch games received upgrades for Switch 2, but here are five classic Nintendo Switch games that did not.",
+    "contentEncoded": "<p>The Nintendo Switch 2 has been on one heck of run through launch. Though it has yet to see new installments of some heavy-hitter franchises, Nintendo’s latest console has built up an impressive library of games over its first year and a half. A chunk of that list includes excellent Nintendo Switch 2 Editions of the Switch’s best games. <a href=\"https://www.polygon.com/super-mario-bros-wonder-meetup-bellabel-park-switch-2-review/\" target=\"_blank\"><em>Super Mario Bros. Wonder</em></a>, <a href=\"https://www.polygon.com/kirby-forgotten-land-star-crossed-world-review-switch-2/\" target=\"_blank\"><em>Kirby and the Forgotten Land</em></a>, and more have gotten substantial updates that have helped make great Nintendo games even better. That trend is continuing too, as evidenced by the upcoming <em>Pikmin 4 — Nintendo Switch 2 Edition + Dandori Academy</em>.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/9958985/Switch_SMO_ND0913_SCRN07.jpg",
+      "type": "image/jpeg",
+      "length": "599653"
+    },
+    "decision": "keep",
+    "reason": "Game ranking/analysis about classic Switch games.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-01T00:58:55.772Z"
+  },
+  {
+    "guid": "https://www.polygon.com/best-classic-90s-rpgs/",
+    "title": "10 Classic '90s RPGs That Have Aged Like Fine Wine, Ranked",
+    "link": "https://www.polygon.com/best-classic-90s-rpgs/",
+    "creator": "Ashley Potter",
+    "pubDate": "Sat, 31 Oct 2026 22:05:29 GMT",
+    "categories": [
+      "Polygon Lists",
+      "Chrono Trigger"
+    ],
+    "description": "RPGs from the 1990s were some of the most pivotal games in history. Here are 10 classic 1990s RPGs that are so good they don't need a remake.",
+    "contentEncoded": "<p>The 1990s proved a <a href=\"https://gamerant.com/most-important-90s-gaming-events/\" rel=\"noopener noreferrer\" target=\"_blank\">pivotal decade</a> for gaming, fueled by technological advancements and new businesses that would go on to leave a lasting impact on the industry. The '90s saw the release of both the original Sony <a href=\"https://www.polygon.com/playstation/\" target=\"_blank\">PlayStation</a> (1995) and the <a href=\"https://www.polygon.com/nintendo/\" target=\"_blank\">Nintendo</a> 64 (1996) which brought iconic titles such as <em>Super Mario 64,</em><em>Resident Evil, </em>and <em>The Legend of Zelda: Ocarina of Time.</em></p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/fire-emblem-genealogy-artwork.jpg",
+      "type": "image/jpeg",
+      "length": "813"
+    },
+    "decision": "keep",
+    "reason": "RPG retrospective featuring notable games worth playing.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-01T00:58:55.772Z"
+  },
+  {
+    "guid": "https://www.polygon.com/resident-evil-games-ranked-worst-best/",
+    "title": "Every Resident Evil Game, Ranked From Worst to Best",
+    "link": "https://www.polygon.com/resident-evil-games-ranked-worst-best/",
+    "creator": "Giovanni Colantonio",
+    "pubDate": "Sat, 31 Oct 2026 21:54:25 GMT",
+    "categories": [
+      "Polygon Lists",
+      "Resident Evil"
+    ],
+    "description": "We've ranked every mainline Resident Evil game, from the original all the way through 2026's Resident Evil Requiem.",
+    "contentEncoded": "<p>After decades of misses, 2026 gave us one of the best gaming adaptations of all time. Well, sort of. <a href=\"https://www.polygon.com/resident-evil-review-zach-cregger/\" target=\"_blank\">Zach Cregger’s take on Resident Evil</a> was a hit among critics who have praised the horror movie for its delightfully playful tone. The only catch is that it didn't have much to do with the established lore and characters of the actual <a href=\"https://www.polygon.com/tag/resident-evil/\" target=\"_blank\">Resident Evil games</a>. Instead, it told its own story in the universe, which is probably for the better, considering how complicated the game saga gets.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/13690297/capcom_resident_evil_2_more_remakes_leon_claire.jpg.optimal.jpg",
+      "type": "image/jpeg",
+      "length": "117094"
+    },
+    "decision": "keep",
+    "reason": "Horror game ranking with all mainline entries analyzed.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-01T00:58:55.772Z"
+  },
+  {
+    "guid": "https://www.polygon.com/kpop-demon-hunters-criterion-collection-4k-blu-ray-november-2026/",
+    "title": "KPop Demon Hunters Returns In November with Definitive New Release",
+    "link": "https://www.polygon.com/kpop-demon-hunters-criterion-collection-4k-blu-ray-november-2026/",
+    "creator": "Willa Rowe",
+    "pubDate": "Sat, 31 Oct 2026 21:54:17 GMT",
+    "categories": [
+      "Animation",
+      "KPop Demon Hunters"
+    ],
+    "description": "Netflix and The Criterion Collection are bringing 2025's animated K-pop hit musical KPop Demon Hunters home with a new 4K physical release.",
+    "contentEncoded": "<p>The Criterion Collection <a href=\"https://www.polygon.com/kpop-demon-hunter-criterion-collection-release-date/\" target=\"_blank\">announced back in February</a> that<em><a href=\"https://www.polygon.com/tamons-b-side-streaming-crunchyroll-jujutsu-kaisen-kpop-demon-hunter/\" target=\"_blank\">KPop Demon Hunters</a></em> would be getting a physical release in another victory for the Oscar-winning sensation. Now Criterion has shared new details about the cornucopia of goodies that will come with the physical disc release of Netflix's animated film.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/01/kpop-demon-hunters-huntrix.jpg",
+      "type": "image/jpeg",
+      "length": "100"
+    },
+    "decision": "toss",
+    "reason": "Anime/animation home media release announcement.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-01T00:58:55.772Z"
+  },
+  {
     "guid": "https://www.polygon.com/adolescence-nocturne-stephen-graham-interview/",
     "title": "'Adolescence' Creator Officially Confirms a Connection Between His Netflix and Apple Shows",
     "link": "https://www.polygon.com/adolescence-nocturne-stephen-graham-interview/",
