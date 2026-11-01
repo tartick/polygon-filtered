@@ -1,5 +1,93 @@
 [
   {
+    "guid": "https://www.polygon.com/classic-nintendo-games-no-remake-needed/",
+    "title": "5 Classic Nintendo Games That Are So Good They Never Need a Remake",
+    "link": "https://www.polygon.com/classic-nintendo-games-no-remake-needed/",
+    "creator": "Jason Venter",
+    "pubDate": "Sun, 01 Nov 2026 21:00:17 GMT",
+    "categories": [
+      "Polygon Lists",
+      "Nintendo"
+    ],
+    "description": "Remakes and remasters are all the rage, but five classics from Nintendo are good enough that no one ever needs to bother trying to improve them.",
+    "contentEncoded": "<p>Video games have been around for so many decades that the next time you sit down to play one, you’ll have tens of thousands of terrific options to choose from. A lot of us find ourselves playing newer releases when the time rolls around, because older titles have slipped from our minds. But they can also provide ample entertainment, if we give them a chance.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/02/mario-sports.jpg",
+      "type": "image/jpeg",
+      "length": "225"
+    },
+    "decision": "toss",
+    "reason": "Nostalgia retrospective about old games, not news or analysis.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-01T22:59:35.982Z"
+  },
+  {
+    "guid": "https://www.polygon.com/fortnite-chapter-7-mini-season-pirate-shop-access-token-free-how-to-get/",
+    "title": "How to get the Pirate Shop Access Token in Fortnite Chapter 7 mini season",
+    "link": "https://www.polygon.com/fortnite-chapter-7-mini-season-pirate-shop-access-token-free-how-to-get/",
+    "creator": "Johnny Yu",
+    "pubDate": "Sun, 01 Nov 2026 20:18:04 GMT",
+    "categories": [
+      "Guides",
+      "Fortnite"
+    ],
+    "description": "The Pirate Shop Access Token lets you get anything for free in Fortnite Chapter 7 mini season. Here's how to get it and what you can buy.",
+    "contentEncoded": "<p>The <strong>Pirate Shop Access Token</strong> is a new item introduced in the <em><a href=\"https://www.polygon.com/game/fortnite/2417/\" target=\"_blank\">Fortnite</a></em><a href=\"https://www.polygon.com/fortnite-chapter-7-mini-season-pirate-battle-pass-skins-outfits/\" target=\"_blank\">Chapter 7 mini season</a>, and it allows you to get anything from the Shop for free for a 14-day period.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/treasure-chest_fn.jpg",
+      "type": "image/jpeg",
+      "length": "384"
+    },
+    "decision": "toss",
+    "reason": "Rule: category \"Guides\"",
+    "decidedBy": "rule",
+    "firstSeen": "2026-11-01T22:59:35.982Z"
+  },
+  {
+    "guid": "https://www.polygon.com/fortnite-chapter-7-mini-season-c7ms-map-fragment-locations/",
+    "title": "All map fragment locations in the Fortnite Chapter 7 mini season",
+    "link": "https://www.polygon.com/fortnite-chapter-7-mini-season-c7ms-map-fragment-locations/",
+    "creator": "Julia Lee",
+    "pubDate": "Sun, 01 Nov 2026 20:11:49 GMT",
+    "categories": [
+      "Guides",
+      "Fortnite"
+    ],
+    "description": "Here's where to find all the currently available map fragments in Fortnite's Chapter 7 mini season.",
+    "contentEncoded": "<p><a href=\"https://www.polygon.com/game/fortnite/2417/\" target=\"_blank\"><em>Fortnite</em></a>'s <a href=\"https://www.polygon.com/fortnite-chapter-7-mini-season-pirate-battle-pass-skins-outfits/\" target=\"_blank\">Chapter 7 mini season</a>, \"Treasure Hunters,\" has added a new collectible to find throughout the season: <strong>map fragments</strong>. These map fragments will be added periodically during the season, and you'll get a special reward for finding them all.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/jlee_261101_1001_fn_mapfragment0.jpg",
+      "type": "image/jpeg",
+      "length": "271"
+    },
+    "decision": "toss",
+    "reason": "Rule: category \"Guides\"",
+    "decidedBy": "rule",
+    "firstSeen": "2026-11-01T22:59:35.982Z"
+  },
+  {
+    "guid": "https://www.polygon.com/pokemon-go-halloween-2026-part-2-event-shiny-greavard/",
+    "title": "Pokémon Go 'Halloween 2026 Part 2' event guide",
+    "link": "https://www.polygon.com/pokemon-go-halloween-2026-part-2-event-shiny-greavard/",
+    "creator": "Julia Lee",
+    "pubDate": "Sun, 01 Nov 2026 19:09:33 GMT",
+    "categories": [
+      "Guides",
+      "Pokemon GO"
+    ],
+    "description": "Here's all the bonuses and perks for Pokémon Go's \"Halloween 2026 Part 2\" event, which includes the debut of shiny Greavard.",
+    "contentEncoded": "<p><a href=\"https://www.polygon.com/game/pokemon-go/38713\" target=\"_blank\"><em>Pokémon Go</em></a>’s second half of their <strong>2026 Halloween event</strong> is rolling out (despite it being November now), and it runs from<strong> Nov. 1-5</strong>. This portion of the event brings back some more old costumed Pokémon and includes the debut of <strong>shiny Greavard</strong>.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/unnamed.png",
+      "type": "image/jpeg",
+      "length": "3628"
+    },
+    "decision": "toss",
+    "reason": "Rule: category \"Guides\"",
+    "decidedBy": "rule",
+    "firstSeen": "2026-11-01T22:59:35.982Z"
+  },
+  {
     "guid": "https://www.polygon.com/fortnite-chapter-7-mini-season-map-weapons-loot-pool-poi/",
     "title": "All map and weapon loot pool changes in the Fortnite Chapter 7 mini season",
     "link": "https://www.polygon.com/fortnite-chapter-7-mini-season-map-weapons-loot-pool-poi/",
