@@ -1,5 +1,140 @@
 [
   {
+    "guid": "https://www.polygon.com/best-quote-rosalyn-babysitter-calvin-and-hobbes/",
+    "title": "'Calvin and Hobbes' Best Babysitter Quote Is Still Among the Funniest in Comic Strip History",
+    "link": "https://www.polygon.com/best-quote-rosalyn-babysitter-calvin-and-hobbes/",
+    "creator": "Brian VanHooker",
+    "pubDate": "Mon, 02 Nov 2026 09:00:17 GMT",
+    "categories": [
+      "Analysis",
+      "comic strip"
+    ],
+    "description": "In Bill Watterson's comic strip Calvin and Hobbes, Calvin's arch-enemy was Rosalyn the babysitter. Here is her best quote ever.",
+    "contentEncoded": "<p>Batman has the Joker, Superman has Lex Luthor, Captain America has the Red Skull, and for six-year-old Calvin, his avowed arch-nemesis is Rosalyn, the diabolical babysitter who makes him go to bed at 6:30.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/screen-shot-2026-10-27-at-7-04-21-pm.jpg",
+      "type": "image/jpeg",
+      "length": "82"
+    },
+    "decision": "toss",
+    "reason": "Nostalgia retrospective about old comic strip, not game/horror/prestige content.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-02T09:53:56.191Z"
+  },
+  {
+    "guid": "https://www.polygon.com/crystal-lake-action-thriller-buffy/",
+    "title": "Forget ‘Crystal Lake,’ the Best Action Thriller in TV History Remains Unbeaten 29 Years Later",
+    "link": "https://www.polygon.com/crystal-lake-action-thriller-buffy/",
+    "creator": "Maria Loreto",
+    "pubDate": "Mon, 02 Nov 2026 08:00:17 GMT",
+    "categories": [
+      "Analysis",
+      "TV",
+      "Crystal Lake",
+      "Buffy The Vampire Slayer"
+    ],
+    "description": "Crystal Lake gives Linda Cardellini’s Pamela Voorhees a fun, bloody showcase, but a ’90s series still has TV’s best action.",
+    "contentEncoded": "<p><a href=\"https://www.polygon.com/crystal-lake-review-friday-the-13th-peacock/\" target=\"_blank\"><em>Crystal Lake</em></a> has been dominating the streaming charts. Over the past week, the series became Peacock’s fourth most-watched scripted original. It inspired hundreds of online videos analyzing its twists and turns, and reminded the world of the everlasting magic of Linda Cardellini.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/nup_207980_01941_rf.JPG",
+      "type": "image/jpeg",
+      "length": "26841"
+    },
+    "decision": "keep",
+    "reason": "Buffy analysis piece; Buffy qualifies as horror content Steven keeps.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-02T09:53:56.191Z"
+  },
+  {
+    "guid": "https://www.polygon.com/luke-skywalker-best-quote-has-nothing-to-do-with-darth-vader/",
+    "title": "Luke Skywalker's Single Greatest Star Wars Line Hits Harder Than Any Sci-Fi Quote Since",
+    "link": "https://www.polygon.com/luke-skywalker-best-quote-has-nothing-to-do-with-darth-vader/",
+    "creator": "Aimee Hart",
+    "pubDate": "Mon, 02 Nov 2026 05:00:17 GMT",
+    "categories": [
+      "Analysis",
+      "Star Wars: Episode VIII - The Last Jedi",
+      "Star Wars"
+    ],
+    "description": "Luke Skywalker is easily the greatest 'Star Wars' character of all time. But what was his best quote?",
+    "contentEncoded": "<p>Since its 2018 debut, Rian Johnson’s <em>The Last Jedi </em>has sparked heated debate over whether it was a fantastic or terrible <a href=\"http://polygon.com/star-wars\" target=\"_blank\">Star Wars</a> film for Luke Skywalker. Still, whatever your opinion, it’s hard to deny that Johnson’s take on the greatest Jedi ever came with some truly epic quotes. And no, we’re not talking about the zinger, “Amazing. Every word of what you just said was wrong.”</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/9857353/TheLastJedi59b8503e4ea1e.jpg",
+      "type": "image/jpeg",
+      "length": "6857847"
+    },
+    "decision": "toss",
+    "reason": "Star Wars franchise churn; fits 'fans furious' nostalgic analysis pattern.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-02T09:53:56.191Z"
+  },
+  {
+    "guid": "https://www.polygon.com/quentin-tarantino-the-further-mis-adventures-of-cliff-booth-release-date/",
+    "title": "Quentin Tarantino’s First New Movie in 7 Years Officially Arrives in Theaters Next Month",
+    "link": "https://www.polygon.com/quentin-tarantino-the-further-mis-adventures-of-cliff-booth-release-date/",
+    "creator": "Ryan Epps",
+    "pubDate": "Mon, 02 Nov 2026 04:00:17 GMT",
+    "categories": [
+      "FYI",
+      "The Further Mis-Adventures of Cliff Booth"
+    ],
+    "description": "The Once Upon a Time in Hollywood universe returns with a new crime thriller from David Fincher and Quentin Tarantino, arriving on Netflix next month.",
+    "contentEncoded": "<p>Quentin Tarantino fans have spent the better part of seven years waiting to see what one of the best filmmakers in the industry might do next. Since the Oscar-winning <a href=\"https://www.polygon.com/2019/7/25/8929081/once-upon-a-time-in-hollywood-review-quentin-tarantino/\" target=\"_blank\"><em>Once Upon a Time in Hollywood</em></a> hit theaters in 2019, Tarantino has kept himself busy with books, interviews, and plans for what he once described as his final film. That milestone was initially meant to arrive in 2024 with <em>The Movie Critic</em>, but Quentin Tarantino famously shelved the script before production could begin, leaving fans in the dark about what could come next. But that's about to change next month.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/the-further-mis-adventures-of-cliff-booth-6.jpg",
+      "type": "image/jpeg",
+      "length": "194"
+    },
+    "decision": "keep",
+    "reason": "Prestige director (Tarantino/Fincher) film announcement with substance.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-02T09:53:56.191Z"
+  },
+  {
+    "guid": "https://www.polygon.com/bg3-best-npcs/",
+    "title": "10 Best BG3 NPCs Fans Still Want To Join The Party All These Years Later",
+    "link": "https://www.polygon.com/bg3-best-npcs/",
+    "creator": "Rebecca Corgan",
+    "pubDate": "Mon, 02 Nov 2026 03:44:35 GMT",
+    "categories": [
+      "Polygon Lists",
+      "Baldur's Gate",
+      "Baldur's Gate 3"
+    ],
+    "description": "The best BG3 NPCs are still unable to join your Baldur's Gate 3 party, but fans have wanted them to be party members for years.",
+    "contentEncoded": "<p><a href=\"https://www.polygon.com/game/baldurs-gate-3/40577/\" target=\"_blank\"><em>Baldur’s Gate 3</em></a><em></em>is full of moments like this: A great character, an intriguing story, and then no reliable way to learn what happens next. For Mizora — Wyll's patron devil, the one who granted him his warlock powers — a new mod has delivered a way around that issue. While Mizora technically does hang out in camp, she does so only on her terms — and when you see her, generally, you want to shove her back into whatever pocket of the Nine Hells she's crawled out of. Unless, of course, you can recruit her hellish talents to support your aims. Now, thanks to the mod <a href=\"https://www.nexusmods.com/baldursgate3/mods/24675\" target=\"_blank\">Mizora Joins the Party</a> from modder<a href=\"https://www.nexusmods.com/profile/WorldWalker42\" target=\"_blank\"> WorldWalker42</a>, you can do exactly that. She's not the only NPC who deserves an upgrade to companion status. Here are 10 more.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/alfira-bg3.jpg",
+      "type": "image/jpeg",
+      "length": "872"
+    },
+    "decision": "toss",
+    "reason": "List article about game NPCs; fits 'how to/unlock' guide category.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-02T09:53:56.191Z"
+  },
+  {
+    "guid": "https://www.polygon.com/best-classic-shooters/",
+    "title": "10 Best Classic Shooters That Are So Good They Never Need A Remake",
+    "link": "https://www.polygon.com/best-classic-shooters/",
+    "creator": "Chris Guest",
+    "pubDate": "Mon, 02 Nov 2026 03:23:27 GMT",
+    "categories": [
+      "Polygon Lists"
+    ],
+    "description": "The best classic shooters of the 2000s were perfect two decades ago, and don't need a remake in 2026.",
+    "contentEncoded": "<p>The 2000s represented a golden age for shooter games. Both first-person and third-person shooters saw a plethora of all-time classics released across a number of platforms during the aughts, while the immense success of consoles such as the PlayStation 2 and 3 and Xbox 360 helped spearhead the genre's push into the mainstream. More than two decades later, many of those games remain standard-bearers for shooters as a whole.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/assets/4097377/bioshock-big-daddy-wallpaper-1024x768px-big-daddy-wallpaper-hd-games-images-bioshock-hd-wallpaper.jpg",
+      "type": "image/jpeg",
+      "length": "1736714"
+    },
+    "decision": "toss",
+    "reason": "Generic retrospective list of old games, not substantive news or analysis.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-02T09:53:56.191Z"
+  },
+  {
     "guid": "https://www.polygon.com/penguin-colony-interview-development/",
     "title": "Penguin Colony was made to 'put the games industry on notice'",
     "link": "https://www.polygon.com/penguin-colony-interview-development/",
