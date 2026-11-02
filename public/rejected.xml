@@ -6,7 +6,21 @@
     <description>Articles the Polygon filter tossed, with reasons.</description>
     <atom:link href="https://tartick.github.io/polygon-filtered/rejected.xml" rel="self" type="application/rss+xml"/>
     <language>en-US</language>
-    <lastBuildDate>Sun, 01 Nov 2026 21:00:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 01:00:17 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[8 Years Later, a Buffy Star's Obscure Thriller Is Waiting to Be Discovered on Free Streaming]]></title>
+      <link>https://www.polygon.com/you-might-be-the-killer-free/</link>
+      <guid isPermaLink="true">https://www.polygon.com/you-might-be-the-killer-free/</guid>
+      <dc:creator><![CDATA[Thomas Hindmarch]]></dc:creator>
+      <pubDate>Mon, 02 Nov 2026 01:00:17 GMT</pubDate>
+      <category><![CDATA[Horror]]></category>
+      <category><![CDATA[You Might Be the Killer]]></category>
+      <category><![CDATA[Movies]]></category>
+      <category><![CDATA[Horror]]></category>
+      <enclosure url="https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/mcdyomi_iz008.jpg" length="737" type="image/jpeg"/>
+      <description><![CDATA[[Filtered: Nostalgia retrospective + streaming clickbait, despite horror tag.] Remember, everyone, if you find a strange mask in the woods, don't put it on]]></description>
+      <content:encoded><![CDATA[<p>There was a time in the distant past when good things could occasionally come out of Twitter. Back in 2017, novelists Sam Sykes (the <em>Aeons’ Gate </em>series) and Chuck Wendig (<em>Blackbirds, Star Wars: Aftermath</em>) got on the website currently known as X to co-write an <a href="https://reactormag.com/chuck-wendig-sam-sykes-viral-horror-twitter-you-might-be-the-killer-trailer//" target="_blank">improvised horror satire</a>. The result was a firmly tongue-in-cheek deconstruction of slasher movies, concerning Sykes' unnamed character’s new job as a camp counselor and an unfolding massacre in the woods. The story quickly went viral. (While the tweets are still up, Wendig has since abandoned X and locked his account, so the original story can no longer be read outside of a handful of unofficial screenshot archives.)</p>]]></content:encoded>
+    </item>
     <item>
       <title><![CDATA[5 Classic Nintendo Games That Are So Good They Never Need a Remake]]></title>
       <link>https://www.polygon.com/classic-nintendo-games-no-remake-needed/</link>
@@ -618,20 +632,6 @@
       <enclosure url="https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/final-fantasy-resonance-best-visions.jpg" length="300" type="image/jpeg"/>
       <description><![CDATA[[Filtered: Rule: category &quot;Guides&quot;] The best Visions in Final Fantasy Resonance combine excellent skills with universally useful mastery abilities]]></description>
       <content:encoded><![CDATA[<p>There's so many to choose from that deciding on the <strong>best Visions in <a href="https://www.polygon.com/final-fantasy-resonance/" target="_blank"><em>Final Fantasy Resonance</em></a></strong> often feels more than a little overwhelming. While every Vision has something that makes them worth using in certain circumstances, there is a set of them that excels in practically every situation. And you can find most of them early in the game, too.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title><![CDATA[Marvel, Star Trek Stars Post Heartbreaking Tributes to Patrick Stewart]]></title>
-      <link>https://www.polygon.com/patrick-stewart-death-x-men-star-trek-actors/</link>
-      <guid isPermaLink="true">https://www.polygon.com/patrick-stewart-death-x-men-star-trek-actors/</guid>
-      <dc:creator><![CDATA[Michael McWhertor]]></dc:creator>
-      <pubDate>Fri, 30 Oct 2026 14:50:52 GMT</pubDate>
-      <category><![CDATA[News]]></category>
-      <category><![CDATA[Star Trek]]></category>
-      <category><![CDATA[X-Men]]></category>
-      <category><![CDATA[Dune]]></category>
-      <enclosure url="https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/t2dsttr_pa001-1.jpg" length="362" type="image/jpeg"/>
-      <description><![CDATA[[Filtered: Celebrity death tribute; lacks gaming/horror/film substance.] Patrick Stewart died at the age of 86 on Wednesday, and fellow actors from X-Men, Star Trek, and Dune are paying their respects in heartfelt tributes.]]></description>
-      <content:encoded><![CDATA[<p>Patrick Stewart's friends, colleagues, and fellow actors are paying tribute to the late thespian, <a href="https://www.polygon.com/patrick-stewart-dies-star-trek-x-men/" target="_blank">who died on Wednesday at the age of 86</a>. In the wake of Stewart's death, heartfelt tributes have poured in across social media, including a heartbreaking remembrance from the actor's longtime collaborator, friend, and fellow knight Ian McKellen.</p>]]></content:encoded>
     </item>
   </channel>
 </rss>

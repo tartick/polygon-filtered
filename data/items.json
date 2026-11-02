@@ -1,5 +1,51 @@
 [
   {
+    "guid": "https://www.polygon.com/penguin-colony-interview-development/",
+    "title": "Penguin Colony was made to 'put the games industry on notice'",
+    "link": "https://www.polygon.com/penguin-colony-interview-development/",
+    "creator": "Matt Patches",
+    "pubDate": "Mon, 02 Nov 2026 01:00:17 GMT",
+    "categories": [
+      "Interview",
+      "Penguin Colony"
+    ],
+    "description": "Why the Xbox boycott and Palestinian crisis fuel Penguin Colony, a penguin adventure game set among Lovecraft's horrors.",
+    "contentEncoded": "<p>The latest game from Origanme Digital (<em>Umurangi Generation)</em> reimagines H.P. Lovecraft's <em>At the Mountains of Madness through</em> the eyes of Antarctica's indigenous inhabitants, transforming a seemingly absurd premise into a deeply personal work of psychological horror. For Tali Faulkner, a Māori developer from New Zealand, the monsters of <em>Penguin Colony</em> aren't nearly as frightening as the real-world atrocities that inspired them.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/penguincolony.jpg",
+      "type": "image/jpeg",
+      "length": "204"
+    },
+    "decision": "keep",
+    "reason": "Game interview with indie horror game; Lovecraftian horror interest.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-02T02:21:31.935Z"
+  },
+  {
+    "guid": "https://www.polygon.com/you-might-be-the-killer-free/",
+    "title": "8 Years Later, a Buffy Star's Obscure Thriller Is Waiting to Be Discovered on Free Streaming",
+    "link": "https://www.polygon.com/you-might-be-the-killer-free/",
+    "creator": "Thomas Hindmarch",
+    "pubDate": "Mon, 02 Nov 2026 01:00:17 GMT",
+    "categories": [
+      "Horror",
+      "You Might Be the Killer",
+      "Movies",
+      "Horror"
+    ],
+    "description": "Remember, everyone, if you find a strange mask in the woods, don't put it on",
+    "contentEncoded": "<p>There was a time in the distant past when good things could occasionally come out of Twitter. Back in 2017, novelists Sam Sykes (the <em>Aeons’ Gate </em>series) and Chuck Wendig (<em>Blackbirds, Star Wars: Aftermath</em>) got on the website currently known as X to co-write an <a href=\"https://reactormag.com/chuck-wendig-sam-sykes-viral-horror-twitter-you-might-be-the-killer-trailer//\" target=\"_blank\">improvised horror satire</a>. The result was a firmly tongue-in-cheek deconstruction of slasher movies, concerning Sykes' unnamed character’s new job as a camp counselor and an unfolding massacre in the woods. The story quickly went viral. (While the tweets are still up, Wendig has since abandoned X and locked his account, so the original story can no longer be read outside of a handful of unofficial screenshot archives.)</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/mcdyomi_iz008.jpg",
+      "type": "image/jpeg",
+      "length": "737"
+    },
+    "decision": "toss",
+    "reason": "Nostalgia retrospective + streaming clickbait, despite horror tag.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-02T02:21:31.935Z"
+  },
+  {
     "guid": "https://www.polygon.com/classic-nintendo-games-no-remake-needed/",
     "title": "5 Classic Nintendo Games That Are So Good They Never Need a Remake",
     "link": "https://www.polygon.com/classic-nintendo-games-no-remake-needed/",

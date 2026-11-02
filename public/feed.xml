@@ -6,7 +6,19 @@
     <description>Polygon.com minus the shovelware.</description>
     <atom:link href="https://tartick.github.io/polygon-filtered/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-US</language>
-    <lastBuildDate>Sun, 01 Nov 2026 18:00:02 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 01:00:17 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[Penguin Colony was made to 'put the games industry on notice']]></title>
+      <link>https://www.polygon.com/penguin-colony-interview-development/</link>
+      <guid isPermaLink="true">https://www.polygon.com/penguin-colony-interview-development/</guid>
+      <dc:creator><![CDATA[Matt Patches]]></dc:creator>
+      <pubDate>Mon, 02 Nov 2026 01:00:17 GMT</pubDate>
+      <category><![CDATA[Interview]]></category>
+      <category><![CDATA[Penguin Colony]]></category>
+      <enclosure url="https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/penguincolony.jpg" length="204" type="image/jpeg"/>
+      <description><![CDATA[Why the Xbox boycott and Palestinian crisis fuel Penguin Colony, a penguin adventure game set among Lovecraft's horrors.]]></description>
+      <content:encoded><![CDATA[<p>The latest game from Origanme Digital (<em>Umurangi Generation)</em> reimagines H.P. Lovecraft's <em>At the Mountains of Madness through</em> the eyes of Antarctica's indigenous inhabitants, transforming a seemingly absurd premise into a deeply personal work of psychological horror. For Tali Faulkner, a Māori developer from New Zealand, the monsters of <em>Penguin Colony</em> aren't nearly as frightening as the real-world atrocities that inspired them.</p>]]></content:encoded>
+    </item>
     <item>
       <title><![CDATA[Fable Is Ditching the One Feature That Made Fable 3 An Instant Classic]]></title>
       <link>https://www.polygon.com/fable-reboot-no-co-op/</link>
@@ -611,18 +623,6 @@
       <enclosure url="https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24975030/Scream.png" length="4686399" type="image/jpeg"/>
       <description><![CDATA[Butchered by its studio and misunderstood on release, this ’90s horror sequel hides one of the genre’s most chilling villains. It's now streaming.]]></description>
       <content:encoded><![CDATA[<p>My relationship to <a href="https://www.polygon.com/horror/" target="_blank">horror</a> started like a lot of people’s: I was a ridiculously scared child. The thought of Freddy Krueger’s claws was enough to drive me to tears. But then, I grew up, and I became obsessed with the genre and its controlled fears. I have a soft spot for exorcism storylines, featuring the kind of horror that lingers and makes its way into your home. Blame it on my Catholic upbringing, but few things are more disturbing to me than watching Regan MacNeil (Linda Blair) spider walk down the stairs.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title><![CDATA[Hideo Kojima's Death Stranding Anime Looks Impressive in First Official Trailer]]></title>
-      <link>https://www.polygon.com/hideo-kojima-death-stranding-isolations-anime-first-trailer/</link>
-      <guid isPermaLink="true">https://www.polygon.com/hideo-kojima-death-stranding-isolations-anime-first-trailer/</guid>
-      <dc:creator><![CDATA[Francesco Cacciatore]]></dc:creator>
-      <pubDate>Fri, 30 Oct 2026 10:00:11 GMT</pubDate>
-      <category><![CDATA[News]]></category>
-      <category><![CDATA[Death Stranding]]></category>
-      <enclosure url="https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/death-stranding-isolations-header-cropped.jpg" length="1422" type="image/jpeg"/>
-      <description><![CDATA[Death Stranding Isolations released a first teaser trailer ahead of the anime's 2027 scheduled release.]]></description>
-      <content:encoded><![CDATA[<p>Hideo Kojima's <a href="https://www.polygon.com/game/death-stranding/39186/" target="_blank">Death Stranding</a> series brought the Metal Gear Solid creator's trademark arthouse approach to video games to full fruition. With no plans for <em>Death Stranding 3</em>, besides a concept draft, fans are instead looking forward to the game's universe expanding into different media, including anime.</p>]]></content:encoded>
     </item>
   </channel>
 </rss>
