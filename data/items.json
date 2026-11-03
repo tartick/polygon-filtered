@@ -1,5 +1,142 @@
 [
   {
+    "guid": "https://www.polygon.com/exclusive-look-the-art-of-the-mandalorian-and-grogu/",
+    "title": "New Star Wars Book Reveals the Surprising '90s Inspiration for an Iconic New Character",
+    "link": "https://www.polygon.com/exclusive-look-the-art-of-the-mandalorian-and-grogu/",
+    "creator": "Aimee Hart",
+    "pubDate": "Tue, 03 Nov 2026 00:47:17 GMT",
+    "categories": [
+      "Exclusive",
+      "The Mandalorian and Grogu",
+      "Star Wars"
+    ],
+    "description": "'The Art of Star Wars: The Mandalorian' by Phillip Szostak traces the film's evolution from beginning to end — with a shock reveal.",
+    "contentEncoded": "<p>After years on Disney Plus, Din Djarin (Pedro Pascal) and his surrogate Jedi son, Grogu, made their big-screen debut in <a href=\"https://www.polygon.com/star-wars-the-mandalorian-and-grogu/\" target=\"_blank\"><em>The Mandalorian and Grogu</em></a> earlier this year. Now, <a href=\"http://www.barnesandnoble.com/w/the-art-of-star-wars-phil-szostak/1148587710?ean=9781419787768\" rel=\"noopener noreferrer nofollow\" target=\"_blank\"><em>The Art of Star Wars: The Mandalorian and Grogu</em></a> by Phillip Szostak is set to hit shelves this week, offering a behind-the-scenes look at the film’s production from start to finish.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/mandalorian-grogu.jpg",
+      "type": "image/jpeg",
+      "length": "2901"
+    },
+    "decision": "toss",
+    "reason": "Star Wars big-franchise churn; art book behind-the-scenes content.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-03T02:36:15.547Z"
+  },
+  {
+    "guid": "https://www.polygon.com/world-of-warcraft-forever-wow-release-time-est-pst/",
+    "title": "World of Warcraft Forever release time in your time zone",
+    "link": "https://www.polygon.com/world-of-warcraft-forever-wow-release-time-est-pst/",
+    "creator": "Oli Welsh",
+    "pubDate": "Mon, 02 Nov 2026 23:01:17 GMT",
+    "categories": [
+      "Guides",
+      "World of Warcraft",
+      "World of Warcraft: Forever",
+      "PC"
+    ],
+    "description": "Here's what time World of Warcraft: Forever is set to launch in your time zone.",
+    "contentEncoded": "<p>The release of <a href=\"https://www.polygon.com/wow-forever-making-of-interview/\" target=\"_blank\"><strong><em>World of Warcraft: Forever</em></strong></a> brings a third — or, depending on how you count them, a sixth or seventh — way to play <em>World of Warcraft</em> to everyone with a <em>WoW </em>subscription. Joining the modern game and the Classic servers, <em>Forever</em> is based on <em>WoW</em> as it was at launch in 2004, but with new content, rebalanced classes, graphical enhancements, and lots of modernization.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/wow_forever_cinematic_still_10.jpeg",
+      "type": "image/jpeg",
+      "length": "1188"
+    },
+    "decision": "toss",
+    "reason": "Rule: category \"Guides\"",
+    "decidedBy": "rule",
+    "firstSeen": "2026-11-03T02:36:15.547Z"
+  },
+  {
+    "guid": "https://www.polygon.com/zelda-ocarina-of-time-art-style-link-zelda-puppets/",
+    "title": "Nintendo Officially Comments on Zelda Remake's Divisive Graphics",
+    "link": "https://www.polygon.com/zelda-ocarina-of-time-art-style-link-zelda-puppets/",
+    "creator": "Michael McWhertor",
+    "pubDate": "Mon, 02 Nov 2026 22:51:32 GMT",
+    "categories": [
+      "Nintendo",
+      "The Legend of Zelda: Ocarina of Time",
+      "The Legend of Zelda: Ocarina of Time"
+    ],
+    "description": "The Legend of Zelda: Ocarina of Time remake has a divisive graphical style. Nintendo explains the art direction behind the Switch 2 game.",
+    "contentEncoded": "<p><a href=\"http://polygon.com/nintendo\" target=\"_blank\">Nintendo</a>'s upcoming remake of <a href=\"https://www.polygon.com/game/the-legend-of-zelda-ocarina-of-time/1399/\" target=\"_blank\"><em>The Legend of Zelda: Ocarina of Time</em></a> looks drastically different from the Nintendo 64 original. That's understandable, given the nearly 28 years that have passed since the first 3D <a href=\"https://www.polygon.com/tag/the-legend-of-zelda/\" target=\"_blank\">Zelda</a> debuted. Beyond the graphical advancements, however, the Switch 2 remake of <em>Ocarina of Time</em> makes some bold character design choices, some of which have <a href=\"https://www.polygon.com/legend-zelda-ocarina-time-art-style-debate/\" target=\"_blank\">divided longtime Zelda fans</a>.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/link-oot-remake.jpg",
+      "type": "image/jpeg",
+      "length": "493"
+    },
+    "decision": "keep",
+    "reason": "Video game news about Zelda remake graphics and art direction.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-03T02:36:15.547Z"
+  },
+  {
+    "guid": "https://www.polygon.com/dead-by-daylight-theburntpeanut-controversy-explained/",
+    "title": "Dead by Daylight Fans Are Uninstalling the Game in Protest",
+    "link": "https://www.polygon.com/dead-by-daylight-theburntpeanut-controversy-explained/",
+    "creator": "Ashely Claudino",
+    "pubDate": "Mon, 02 Nov 2026 22:27:57 GMT",
+    "categories": [
+      "News",
+      "Dead by Daylight"
+    ],
+    "description": "Behavior Interactive gifted Vtuber TheBurntPeanut all Dead by Daylight DLC, a controversial decision the community didn't take lightly.",
+    "contentEncoded": "<p>Some <em>Dead by Daylight</em> players are expressing disappointment with developer Behaviour Interactive — and vowing to uninstall the game — after the studio appeared to show support for divisive streamer TheBurntPeanut.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/dead-by-daylight-jason.jpg",
+      "type": "image/jpeg",
+      "length": "265"
+    },
+    "decision": "keep",
+    "reason": "Video game news and community controversy about Dead by Daylight.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-03T02:36:15.547Z"
+  },
+  {
+    "guid": "https://www.polygon.com/stellar-blade-nintendo-switch-2-impressions/",
+    "title": "2024's Best Action Game Is (Mostly) Just as Good in Stunning Switch 2 Port",
+    "link": "https://www.polygon.com/stellar-blade-nintendo-switch-2-impressions/",
+    "creator": "Austin Manchester",
+    "pubDate": "Mon, 02 Nov 2026 22:00:17 GMT",
+    "categories": [
+      "Gaming",
+      "Stellar Blade",
+      "Stellar Blade Complete Edition"
+    ],
+    "description": "Stellar Blade and its top-notch action have been ported to Nintendo Switch 2. It plays great, though in handheld mode its visuals falter at times.",
+    "contentEncoded": "<p>Shift Up’s <a href=\"https://www.polygon.com/reviews/24137538/stellar-blade-review-shift-up-playstation-5/\" target=\"_blank\"><em>Stellar Blade</em></a> is one of the decade’s great action games, blending together quick-paced sword combat and powerful parries. <a href=\"https://www.polygon.com/stellar-blade-blood-rain-announced/\" target=\"_blank\">A sequel is on the way</a>, but before it arrives, Shift Up isn’t done with the first game. It arrives on <a href=\"https://www.polygon.com/nintendo-switch-2/\" target=\"_blank\">Nintendo Switch 2</a> later this week, the latest in a long line of satisfying Switch 2 ports, even if it shares the same issues as most of them.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/stellar-blade-nintendo-switch-2.jpg",
+      "type": "image/jpeg",
+      "length": "395"
+    },
+    "decision": "keep",
+    "reason": "Game review and impressions; port news for 2024 action game.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-03T02:36:15.547Z"
+  },
+  {
+    "guid": "https://www.polygon.com/daniel-craig-dream-house-streaming-success-hbo-max-november-2026/",
+    "title": "Daniel Craig's Taut 92-minute Thriller Is Blowing Up on Streaming",
+    "link": "https://www.polygon.com/daniel-craig-dream-house-streaming-success-hbo-max-november-2026/",
+    "creator": "Sam Hill",
+    "pubDate": "Mon, 02 Nov 2026 21:23:51 GMT",
+    "categories": [
+      "Movies",
+      "A Dream House"
+    ],
+    "description": "Daniel Craig's forgotten psychological thriller is climbing HBO Max's charts, despite earning one of the worst Rotten Tomatoes scores of his career.",
+    "contentEncoded": "<p>Daniel Craig has established himself as one of Hollywood's most reliable leading men, particularly when it comes to action <a href=\"http://polygon.com/movies\" target=\"_blank\">movies</a> and suspenseful thrillers. From his gritty breakout role in <em>Layer Cake</em> to the high-stakes mysteries of <a href=\"https://www.polygon.com/2019/11/27/20985373/knives-out-review-rian-johnson-daniel-craig-chris-evans-jamie-lee-curtis-don-johnson-ana-de-armas/\" target=\"_blank\"><em>Knives Out</em></a> and <em>The Girl With the Dragon Tattoo</em>, Craig has built an impressive filmography outside his best-known role as James Bond.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/dream-house-daniel-craig-1.jpg",
+      "type": "image/jpeg",
+      "length": "479"
+    },
+    "decision": "toss",
+    "reason": "Rule: streaming clickbait headline",
+    "decidedBy": "rule",
+    "firstSeen": "2026-11-03T02:36:15.547Z"
+  },
+  {
     "guid": "https://www.polygon.com/wilderdark-survival-horror-jurassic-park-steam-release/",
     "title": "A Terrifying Survival Take On Jurassic Park Is Coming to Steam Next Week",
     "link": "https://www.polygon.com/wilderdark-survival-horror-jurassic-park-steam-release/",
