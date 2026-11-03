@@ -6,7 +6,20 @@
     <description>Articles the Polygon filter tossed, with reasons.</description>
     <atom:link href="https://tartick.github.io/polygon-filtered/rejected.xml" rel="self" type="application/rss+xml"/>
     <language>en-US</language>
-    <lastBuildDate>Tue, 03 Nov 2026 17:19:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 21:13:45 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[DC Studios Has Officially Cast Its New Robin]]></title>
+      <link>https://www.polygon.com/dc-studios-cast-robin-dynamic-duo-movie/</link>
+      <guid isPermaLink="true">https://www.polygon.com/dc-studios-cast-robin-dynamic-duo-movie/</guid>
+      <dc:creator><![CDATA[Austin Manchester]]></dc:creator>
+      <pubDate>Tue, 03 Nov 2026 21:13:45 GMT</pubDate>
+      <category><![CDATA[News]]></category>
+      <category><![CDATA[DC Universe]]></category>
+      <category><![CDATA[Dynamic Duo]]></category>
+      <enclosure url="https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/batman-and-robin.jpg" length="510" type="image/jpeg"/>
+      <description><![CDATA[[Filtered: DC big-franchise casting news; repetitive superhero casting churn.] DC has cast Mason Thames (How to Train Your Dragon) as one of the Robins in its upcoming animated movie Dynamic Duo.]]></description>
+      <content:encoded><![CDATA[<p>DC Studios has multiple Batman and Batman-adjacent projects in the works, like its <a href="https://www.polygon.com/batman-movie-update-brave-and-the-bold-dcu/" target="_blank"><em>The Brave and the Bold</em></a> movie and a <a href="https://www.polygon.com/hbo-dc-poison-ivy-tv-series-penguin-batman-dcu/" target="_blank">Poison Ivy TV series</a>. On the docket for 2028 is <em>Dynamic</em><em> Duo</em>, an ambitious animated film about two Robins: Dick Grayson and Jason Todd. It will use a combination of miniatures, puppetry, animatronics, and CGI to bring its heroes to life.</p>]]></content:encoded>
+    </item>
     <item>
       <title><![CDATA['Spider-Man: Brand New Day' Director’s Next Movie Officially Picked up by Sony]]></title>
       <link>https://www.polygon.com/naruto-live-action-movie-sony-lionsgate-destin-daniel-cretton/</link>
@@ -629,18 +642,6 @@
       <enclosure url="https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/bully-retrospective-1.jpg" length="190605" type="image/jpeg"/>
       <description><![CDATA[[Filtered: Nostalgia retrospective; not a new sequel announcement.] Bully, or Canis Canem Edit, was one of Rockstar's most innovative and unique games, and it's about time we got a sequel.]]></description>
       <content:encoded><![CDATA[<p>These days, Rockstar Games is one of the most famous developers in the world. That’s primarily thanks to their magnum opus, the <a href="https://www.polygon.com/game/grand-theft-auto/8724/" target="_blank">Grand Theft Auto</a> series, but also the <a href="https://www.polygon.com/red-dead-redemption/" target="_blank">Red Dead Redemption</a> games, and to a lesser extent, <em><a href="https://www.polygon.com/game/l-a-noire/1301/" target="_blank">L.A. Noire</a></em>and the <a href="https://www.polygon.com/game/max-payne/5974/" target="_blank">Max Payne</a> series. In just a few short weeks, <em><a href="https://www.polygon.com/game/grand-theft-auto-6/40846/" target="_blank">Grand Theft Auto 6</a></em>will finally be here, a game that has felt like a distant dream for so long, after delays and a slow trickle of new information. But 20 years ago, Rockstar released one of its most unique games that has hints of the classic GTA formula, and it's a crying shame that there is still no sign of a sequel.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title><![CDATA[60 Years Later, the Best 'Peanuts' Quote of All Time Still Doesn't Get the Credit it Deserves]]></title>
-      <link>https://www.polygon.com/best-peanuts-quote-ever-charlie-brown-charles-schulz/</link>
-      <guid isPermaLink="true">https://www.polygon.com/best-peanuts-quote-ever-charlie-brown-charles-schulz/</guid>
-      <dc:creator><![CDATA[Corey Plante]]></dc:creator>
-      <pubDate>Sat, 31 Oct 2026 08:04:17 GMT</pubDate>
-      <category><![CDATA[Opinion]]></category>
-      <category><![CDATA[comic strip]]></category>
-      <enclosure url="https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/peppermint-patty-charlie-brown-a-charlie-brown-valentine.jpg" length="179" type="image/jpeg"/>
-      <description><![CDATA[[Filtered: Nostalgia retrospective about old comic strip quote.] In addition to being sweet and funny, Charles Schulz's Peanuts comic strip could be profound at time. The best example comes from 1966.]]></description>
-      <content:encoded><![CDATA[<p>One of the best examples comes from a Feb. 3, 1966, <a href="https://www.polygon.com/comics/" target="_blank">comic strip</a> in which Lucy mocks him for volunteering for a school spelling bee. Charlie Brown’s response contains some of the best advice Schulz ever put on the page. Sixty years later, it’s still something we can all stand to remember.</p>]]></content:encoded>
     </item>
   </channel>
 </rss>
