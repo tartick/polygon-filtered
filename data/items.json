@@ -1,5 +1,99 @@
 [
   {
+    "guid": "https://www.polygon.com/avatar-seven-havens-season-2-new-ba-sing-se-theory/",
+    "title": "'Avatar: Seven Havens' Season 2 Could Return to 'The Last Airbender’s Most Iconic Location",
+    "link": "https://www.polygon.com/avatar-seven-havens-season-2-new-ba-sing-se-theory/",
+    "creator": "Corey Plante",
+    "pubDate": "Tue, 03 Nov 2026 09:00:17 GMT",
+    "categories": [
+      "Analysis",
+      "Avatar: Seven Havens",
+      "Avatar: The Last Airbender",
+      "Animation"
+    ],
+    "description": "Avatar: Seven Havens’ creators confirmed a faster journey through the remaining Havens, suggesting Pavi could reach New Ba Sing Se in season 2.",
+    "contentEncoded": "<p>Ba Sing Se once survived a century-long war by pretending the war didn’t exist at all, only to get taken over by the Fire Nation during <a href=\"https://www.polygon.com/avatar-last-airbender/\" target=\"_blank\"><em>Avatar: The Last Airbender</em></a>. Despite ongoing political turmoil extending through <a href=\"https://www.polygon.com/game/the-legend-of-korra/37593/\" target=\"_blank\"><em>The Legend of Korra</em></a>’s era, the Earth Kingdom’s former capital persisted — and one version of it even survived the Cataclysm. <a href=\"https://www.polygon.com/avatar-seven-havens-finally-revealed-more-info-about-the-other-havens/\" target=\"_blank\"><em>Avatar: Seven Havens</em></a> revealed the existence of a Haven called New Ba Sing Se during season 1, offering a glimpse of a society still clinging to old traditions while its people go hungry. And based on one specific detail from the season finale, there’s a very good reason to suspect we'll get to see the city of New Ba Sing Se firsthand in season 2.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/joo-dee-ba-sing-se.webp",
+      "type": "image/jpeg",
+      "length": "72"
+    },
+    "decision": "toss",
+    "reason": "Generic TV series analysis/speculation; not horror or prestige.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-03T10:00:16.168Z"
+  },
+  {
+    "guid": "https://www.polygon.com/bass-x-machina-review-netflix/",
+    "title": "'The Mandalorian' Meets 'Avatar' in Netflix's New Sci-Fi Western Masterpiece",
+    "link": "https://www.polygon.com/bass-x-machina-review-netflix/",
+    "creator": "Sam Nelson",
+    "pubDate": "Tue, 03 Nov 2026 08:01:18 GMT",
+    "categories": [
+      "Reviews",
+      "Bass X Machina",
+      "Animation",
+      "Sci-Fi",
+      "Fantasy"
+    ],
+    "description": "Bass X Machina puts an anime spin on the story of a legendary lawman",
+    "contentEncoded": "<p>Created by LeSean Thomas and Studio Mir, who both worked on <a href=\"https://www.polygon.com/avatar-legend-of-korra-beginnings-origin-story/\" target=\"_blank\"><em>The Legend of Korra</em></a>, <em>Bass X Machina </em>is a reimagining of the story of Bass Reeves (Brian Tyree Henry), an escaped slave who worked in Indian Territory as a deputy U.S. Marshal. Reeves’ real life was extraordinary, and is said to have inspired the character of the Lone Ranger, but <em>Bass X Machina </em>also gives him a cybernetic arm that shoots magic bullets. The criminals he fights get even bigger upgrades, and the stakes can at times escalate to truly ludicrous levels. Henry does an especially great job expressing exasperation as Bass faces plenty of absurd foes, like an outlaw in a rampaging bull mech that requires complex cooperation to take down.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/bassxmachinanetflix.jpg",
+      "type": "image/jpeg",
+      "length": "1032"
+    },
+    "decision": "toss",
+    "reason": "Anime-adjacent sci-fi western; anime news falls under toss category.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-03T10:00:16.168Z"
+  },
+  {
+    "guid": "https://www.polygon.com/zelda-ocarina-of-time-release-time-est-pst-pre-orders/",
+    "title": "Zelda Ocarina of Time release time in your time zone",
+    "link": "https://www.polygon.com/zelda-ocarina-of-time-release-time-est-pst-pre-orders/",
+    "creator": "Josh Broadwell",
+    "pubDate": "Tue, 03 Nov 2026 05:01:17 GMT",
+    "categories": [
+      "Guides",
+      "The Legend of Zelda: Ocarina of Time"
+    ],
+    "description": "The Zelda Ocarina of Time release time is just around the corner. Here's when you can expect Ocarina of Time to launch in your time zone",
+    "contentEncoded": "<p>The <strong><a href=\"https://www.polygon.com/zelda/\" target=\"_blank\"><em>Zelda Ocarina of Time</em> remake</a> release time</strong> is just around the corner, as Nintendo introduces a new generation to one of its classic games. Unlike the 3DS port from 2011, <em>Ocarina of Time </em>on Switch 2 includes a massive visual overhaul, along with several quality-of-life features that weren't present in the original Nintendo 64 release. Pre-orders are still open at some retailers if you're hoping to snag a special bonus, though US-based folks only get one bonus to choose from.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/ocarina-of-time-remake-release-time.jpg",
+      "type": "image/jpeg",
+      "length": "472"
+    },
+    "decision": "toss",
+    "reason": "Rule: category \"Guides\"",
+    "decidedBy": "rule",
+    "firstSeen": "2026-11-03T10:00:16.168Z"
+  },
+  {
+    "guid": "https://www.polygon.com/avatar-the-last-airbenders-best-quote/",
+    "title": "20 Years Later, Uncle Iroh's Wisest 'Avatar: The Last Airbender Quote' Is Still Undefeated",
+    "link": "https://www.polygon.com/avatar-the-last-airbenders-best-quote/",
+    "creator": "Ryan Epps",
+    "pubDate": "Tue, 03 Nov 2026 05:00:17 GMT",
+    "categories": [
+      "Feature",
+      "Avatar The Last Airbender: The Quest for Balance",
+      "TV"
+    ],
+    "description": "Uncle Iroh's timeless advice helped shape Zuko's journey, and its message still resonates almost two decades later.",
+    "contentEncoded": "<p><a href=\"https://www.polygon.com/avatar-last-airbender/\" target=\"_blank\"><em>Avatar: The Last Airbender</em></a> has more than its fair share of heartfelt moments and poignant lines. Whether it’s Aang reassuring a downtrodden Toph in the vast loneliness of the desert, or Ursa’s parting words to her son Zuko before disappearing in the middle of the night, the series can be surprisingly deep for what some might (incorrectly) consider a mere children’s show. No character embodies that richness and depth more than Uncle Iroh, who begins as Zuko's wise mentor and becomes so much more. Time and again, Iroh sits at the center of <em>The Last Airbender</em>'s most moving moments, offering quiet wisdom just when it's needed most.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/25270110/avatar3x20_0593.jpg",
+      "type": "image/jpeg",
+      "length": "144915"
+    },
+    "decision": "toss",
+    "reason": "Nostalgia retrospective ('20 years later'); matches toss pattern.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-03T10:00:16.168Z"
+  },
+  {
     "guid": "https://www.polygon.com/exclusive-look-the-art-of-the-mandalorian-and-grogu/",
     "title": "New Star Wars Book Reveals the Surprising '90s Inspiration for an Iconic New Character",
     "link": "https://www.polygon.com/exclusive-look-the-art-of-the-mandalorian-and-grogu/",
