@@ -1,5 +1,142 @@
 [
   {
+    "guid": "https://www.polygon.com/netflix-assassins-creed-live-action-filming-complete/",
+    "title": "Netflix's Assassin's Creed Live-Action Series Officially Wraps Up Filming",
+    "link": "https://www.polygon.com/netflix-assassins-creed-live-action-filming-complete/",
+    "creator": "Ashely Claudino",
+    "pubDate": "Wed, 04 Nov 2026 11:13:13 GMT",
+    "categories": [
+      "News",
+      "Assassin's Creed"
+    ],
+    "description": "Filming is now complete, and Assassin's Creed will soon return to screens in this upcoming Netflix production.",
+    "contentEncoded": "<p>Netflix unveiled its plans to make a live-action <a href=\"https://www.polygon.com/2020/10/27/21536058/assassins-creed-show-netflix/\" target=\"_blank\"><em>Assassin's Creed</em> series in 2020</a>. Development only began in 2025 when <a href=\"https://www.polygon.com/news/613659/assassins-creed-netflix-show-ubisoft-halo-writer/\" target=\"_blank\"><em>Halo</em>'s screenwriter David Wiener and Roberto Patino came on board</a>. Six years after the announcement of this project, <a href=\"https://www.mattsinsideline.com/greys-anatomy-fall-finale-date-911-nashville/?ref=matts-inside-line-newsletter\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">as reported by Matt's Inside Line</a>, filming is complete. It's now time to get it ready for the TV screen as the series enters the post-production phase.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/ezio-auditore-rome.jpg",
+      "type": "image/jpeg",
+      "length": "676"
+    },
+    "decision": "keep",
+    "reason": "Game-to-TV adaptation news about Assassin's Creed filming completion.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-04T11:29:26.132Z"
+  },
+  {
+    "guid": "https://www.polygon.com/the-legend-of-zelda-ocarina-of-time-switch-2-review/",
+    "title": "The Legend of Zelda: Ocarina of Time Is Still Perfect on Switch 2 | Review",
+    "link": "https://www.polygon.com/the-legend-of-zelda-ocarina-of-time-switch-2-review/",
+    "creator": "Giovanni Colantonio",
+    "pubDate": "Wed, 04 Nov 2026 11:00:17 GMT",
+    "categories": [
+      "Reviews",
+      "The Legend of Zelda: Ocarina of Time"
+    ],
+    "description": "Nintendo's lovingly-crafted The Legend of Zelda: Ocarina of Time remake beautifully recaptures the magic of an all-time classic.",
+    "contentEncoded": "<p>As the time-afflicted Link comes to learn in the seminal Nintendo 64 classic, a lot can change in seven years. Shifting political struggles leave a neighborhood in total disrepair. That one local eccentric he came to love is nowhere to be seen. There’s a Starbucks — or an archery range, I mean — in town now. <em>Seriously? </em>But underneath the jarring changes that taunt your memory, you know that the place that you love is still there. You can feel its heart beat when you plant yourself in the shade of that tall tree you played around as a kid.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/ns2_thelegendofzeldaocarinaoftime_scrn_15.png",
+      "type": "image/jpeg",
+      "length": "20527579"
+    },
+    "decision": "keep",
+    "reason": "Game review of Zelda remake on new hardware; plausible click.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-04T11:29:26.132Z"
+  },
+  {
+    "guid": "https://www.polygon.com/pluribus-season-2-start-filming-apple-tv/",
+    "title": "Apple TV's Best Sci-Fi Show Begins Filming for Season 2, but the Wait Will Be Long",
+    "link": "https://www.polygon.com/pluribus-season-2-start-filming-apple-tv/",
+    "creator": "Francesco Cacciatore",
+    "pubDate": "Wed, 04 Nov 2026 10:19:27 GMT",
+    "categories": [
+      "News",
+      "Pluribus"
+    ],
+    "description": "According to a report, filming for Pluribus season 2 has begun in Albuquerque, New Mexico.",
+    "contentEncoded": "<p>Apple TV's hit 2025 sci-fi show, <a href=\"https://www.polygon.com/pluribus-review-apple-tv-severance/\" target=\"_blank\"><em>Pluribus</em></a>, has reportedly started filming for its season 2. On Oct. 1, <a href=\"https://www.productionlist.com/vince-gilligan-s-pluribus-season-2-heads-back-to-albuquerque-for-apple-tv-return\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">Production List reported</a> that <em>Pluribus</em> season 2 was in pre-production, with filming scheduled to begin on Oct. 31. While Apple has not released any official statements, <a href=\"https://www.forbes.com/sites/paultassi/2026/11/02/some-big-frustrating-news-about-the-pluribus-season-2-release-date/\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">Forbes reported</a> on Nov. 2 that shooting for season 2 of <em>Pluribus</em> has begun in Albuquerque, New Mexico.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/pluribusexodusthumb.jpg",
+      "type": "image/jpeg",
+      "length": "784"
+    },
+    "decision": "toss",
+    "reason": "Generic TV series renewal/production news, not prestige/anticipated.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-04T11:29:26.132Z"
+  },
+  {
+    "guid": "https://www.polygon.com/wonder-man-season-2-canceled-joey-pants/",
+    "title": "'Wonder Man' Actor Officially Breaks Silence on the Marvel Show's Sudden Cancellation",
+    "link": "https://www.polygon.com/wonder-man-season-2-canceled-joey-pants/",
+    "creator": "",
+    "pubDate": "Wed, 04 Nov 2026 09:30:17 GMT",
+    "categories": [
+      "Exclusive",
+      "Wonder Man",
+      "TV",
+      "Marvel"
+    ],
+    "description": "Joe Pantoliano sounds off on Wonder Man's season 2 cancellation: 'A lot of people were disappointed'",
+    "contentEncoded": "<p><a href=\"https://www.polygon.com/marvel/\" target=\"_blank\">Marvel Studios</a>' six-year experiment in streaming television seems to be winding down, at least for the moment. This has been clear for a while now (despite some vague promises of more new series in the future), but perhaps the biggest sign that the Marvel Cinematic Universe was retreating from live-action TV was the sudden cancellation of <a href=\"https://www.polygon.com/wonder-man-review-mcu-best-show-marvel-spotlight/\" target=\"_blank\"><em>Wonder Man</em></a>.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/wondermanwaaaaaaht.jpeg",
+      "type": "image/jpeg",
+      "length": "239"
+    },
+    "decision": "toss",
+    "reason": "Marvel big-franchise churn (cancellation gossip, not substance).",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-04T11:29:26.132Z"
+  },
+  {
+    "guid": "https://www.polygon.com/aragorn-lord-of-the-rings-best-quote/",
+    "title": "25 Years Later, Aragorn's Best Lord of the Rings Quote Still Defines the Entire Trilogy",
+    "link": "https://www.polygon.com/aragorn-lord-of-the-rings-best-quote/",
+    "creator": "Aimee Hart",
+    "pubDate": "Wed, 04 Nov 2026 09:00:17 GMT",
+    "categories": [
+      "Analysis",
+      "The Lord of the Rings",
+      "The Lord of the Rings: The Fellowship of the Ring"
+    ],
+    "description": "Aragorn's most memorable 'The Lord of the Rings' quote is one that perfectly encapsulates his loyalty and faith in Frodo.",
+    "contentEncoded": "<p>Peter Jackson’s adaptation of J.R.R. Tolkien’s <a href=\"https://www.polygon.com/lord-of-the-rings/\" target=\"_blank\">The Lord of the Rings</a> trilogy remains one of cinema’s most poignant and beautiful works. For better or worse, the trilogy also helped shape the visual style we now associate with fantasy. No matter how much time has passed, The Lord of the Rings has left a lasting mark on the genre.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/22308852/aragorn_army_dead_lotr.jpg",
+      "type": "image/jpeg",
+      "length": "658926"
+    },
+    "decision": "toss",
+    "reason": "Nostalgia retrospective (25 years later quote analysis).",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-04T11:29:26.132Z"
+  },
+  {
+    "guid": "https://www.polygon.com/gta-5-mount-chiliad-mystery-unsolvable-broke-fans/",
+    "title": "GTA 5’s Unsolvable Mystery Broke Fans for Over a Decade, and GTA 6 Should Do It Again",
+    "link": "https://www.polygon.com/gta-5-mount-chiliad-mystery-unsolvable-broke-fans/",
+    "creator": "Ford James",
+    "pubDate": "Wed, 04 Nov 2026 04:00:17 GMT",
+    "categories": [
+      "Opinion",
+      "Grand Theft Auto 5",
+      "Grand Theft Auto 6",
+      "Grand Theft Auto"
+    ],
+    "description": "GTA 5's Mount Chiliad holds a mystery that some fans think still hasn't been solved, and GTA 6 should include something similar.",
+    "contentEncoded": "<p>In <a href=\"https://www.polygon.com/game/grand-theft-auto-5/3667/\" target=\"_blank\"><em>Grand Theft Auto 5</em></a>, one landmark was visible practically no matter where you were in San Andreas: Mount Chiliad. \"Claimed by the Spanish in 1769, Mount Chiliad is the highest peak in San Andreas, sitting at a height of 2,744 meters,\" reads a sign at the nearby Silent Probe Mountain art installation. \"Taken under Mexican control in 1821, it was then, and remains in American hands since 1847.\"</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/8551343/gta5.jpg",
+      "type": "image/jpeg",
+      "length": "192467"
+    },
+    "decision": "keep",
+    "reason": "GTA game analysis and opinion; plausible for game content.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-04T11:29:26.132Z"
+  },
+  {
     "guid": "https://www.polygon.com/the-guest-2-maika-monroe-interview/",
     "title": "'It Follows' Star Officially Addresses Her Return to Another Iconic 2010s Thriller Franchise",
     "link": "https://www.polygon.com/the-guest-2-maika-monroe-interview/",
