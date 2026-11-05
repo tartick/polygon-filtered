@@ -6,7 +6,23 @@
     <description>Articles the Polygon filter tossed, with reasons.</description>
     <atom:link href="https://tartick.github.io/polygon-filtered/rejected.xml" rel="self" type="application/rss+xml"/>
     <language>en-US</language>
-    <lastBuildDate>Wed, 04 Nov 2026 17:37:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 19:01:06 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[Brandon Sanderson’s Mistborn TTRPG Lays the Groundwork for His Next Series]]></title>
+      <link>https://www.polygon.com/brandon-sanderson-mistborn-ttrpg-interview/</link>
+      <guid isPermaLink="true">https://www.polygon.com/brandon-sanderson-mistborn-ttrpg-interview/</guid>
+      <dc:creator><![CDATA[Sam Nelson]]></dc:creator>
+      <pubDate>Wed, 04 Nov 2026 19:01:06 GMT</pubDate>
+      <category><![CDATA[Interview]]></category>
+      <category><![CDATA[Mistborn]]></category>
+      <category><![CDATA[Books]]></category>
+      <category><![CDATA[Fantasy]]></category>
+      <category><![CDATA[Tabletop Games]]></category>
+      <category><![CDATA[Brandon Sanderson]]></category>
+      <enclosure url="https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/vin_ironpull_final.jpg" length="942" type="image/jpeg"/>
+      <description><![CDATA[[Filtered: Book/graphic novel promo content, not core gaming news.] Brotherwise Games is preparing to take the Cosmere, born out of Brandon Sanderson's creative brain, into the Space Age.]]></description>
+      <content:encoded><![CDATA[<p>Last year, Brotherwise Games published a set of three tabletop role-playing game books set in the world of <a href="https://www.polygon.com/brandon-sanderson-news/" target="_blank">Brandon Sanderson’s</a> epic fantasy series <a href="https://www.polygon.com/24204670/brandon-sanderson-stormlight-roleplaying-game-narrative-preview/" target="_blank">The Stormlight Archive</a>. The company quickly followed up the project by announcing an expansion to the Cosmere RPG based on Sanderson’s Mistborn setting, and the new books reveal the true scope of the company’s ambitions.</p>]]></content:encoded>
+    </item>
     <item>
       <title><![CDATA[Where to use the blackmarket weapons locker key in DMZ in Modern Warfare 4]]></title>
       <link>https://www.polygon.com/mw4-modern-warfare-4-dmz-blackmarket-weapons-locker-key-location/</link>
@@ -632,18 +648,6 @@
       <enclosure url="https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/project-hail-mary.jpg" length="1971" type="image/jpeg"/>
       <description><![CDATA[[Filtered: Book/audiobook promo without game or horror connection.] The Andy Weir-produced Audible Original story Exoplanet stars Anthony Mackie, Ariana DeBose, and John Leguizamo.]]></description>
       <content:encoded><![CDATA[<p>Andy Weir is known for combining humor, hard <a href="https://www.polygon.com/sci-fi/" target="_blank">science fiction</a>, and gripping survival stories in his bestselling novels <a href="https://www.polygon.com/the-martian-book-vs-film-matt-damon-andy-weir/" target="_blank"><em>The Martian</em></a><em></em>and <a href="https://www.polygon.com/project-hail-mary-book-vs-film-questions/" target="_blank"><em>Project Hail Mary</em></a>, which were both adapted into blockbuster films. He’s sticking to that formula for his next project, a time-travel thriller that will launch on Audible on Nov. 5.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title><![CDATA[KPop Demon Hunters Returns In November with Definitive New Release]]></title>
-      <link>https://www.polygon.com/kpop-demon-hunters-criterion-collection-4k-blu-ray-november-2026/</link>
-      <guid isPermaLink="true">https://www.polygon.com/kpop-demon-hunters-criterion-collection-4k-blu-ray-november-2026/</guid>
-      <dc:creator><![CDATA[Willa Rowe]]></dc:creator>
-      <pubDate>Sat, 31 Oct 2026 21:54:17 GMT</pubDate>
-      <category><![CDATA[Animation]]></category>
-      <category><![CDATA[KPop Demon Hunters]]></category>
-      <enclosure url="https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/01/kpop-demon-hunters-huntrix.jpg" length="100" type="image/jpeg"/>
-      <description><![CDATA[[Filtered: Anime/animation home media release announcement.] Netflix and The Criterion Collection are bringing 2025's animated K-pop hit musical KPop Demon Hunters home with a new 4K physical release.]]></description>
-      <content:encoded><![CDATA[<p>The Criterion Collection <a href="https://www.polygon.com/kpop-demon-hunter-criterion-collection-release-date/" target="_blank">announced back in February</a> that<em><a href="https://www.polygon.com/tamons-b-side-streaming-crunchyroll-jujutsu-kaisen-kpop-demon-hunter/" target="_blank">KPop Demon Hunters</a></em> would be getting a physical release in another victory for the Oscar-winning sensation. Now Criterion has shared new details about the cornucopia of goodies that will come with the physical disc release of Netflix's animated film.</p>]]></content:encoded>
     </item>
   </channel>
 </rss>

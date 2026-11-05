@@ -1,5 +1,122 @@
 [
   {
+    "guid": "https://www.polygon.com/fragmentary-order-escape-from-tarkov-creator-new-sci-fi-shooter/",
+    "title": "Escape From Tarkov Creator Reveals New Hardcore Sci-Fi Shooter",
+    "link": "https://www.polygon.com/fragmentary-order-escape-from-tarkov-creator-new-sci-fi-shooter/",
+    "creator": "Sam Hill",
+    "pubDate": "Wed, 04 Nov 2026 22:32:32 GMT",
+    "categories": [
+      "News",
+      "Escape from Tarkov"
+    ],
+    "description": "Escape from Tarkov creator Nikita Buyanov reveals Fragmentary Order, a hardcore sci-fi shooter with 14 minutes of gameplay footage.",
+    "contentEncoded": "<p>Fans of hardcore tactical shooters have a new game to keep an eye on, particularly if they've spent hundreds of hours navigating the brutal world of <a href=\"https://www.polygon.com/game/escape-from-tarkov/39129/\" target=\"_blank\"><em>Escape from Tarkov</em></a>. Nikita Buyanov, the game director behind the popular extraction shooter, has finally offered a proper look at his next project, and it takes the familiar formula somewhere very different.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/frago_banner_2560x1440.jpg",
+      "type": "image/jpeg",
+      "length": "321"
+    },
+    "decision": "keep",
+    "reason": "New game announcement from notable creator with gameplay footage.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-05T00:18:15.995Z"
+  },
+  {
+    "guid": "https://www.polygon.com/best-buy-zelda-switch-2-preorder-midnight-launch-store-locator/",
+    "title": "Best Buy's Midnight 'Zelda' Switch 2 Console Release Is Already Intense",
+    "link": "https://www.polygon.com/best-buy-zelda-switch-2-preorder-midnight-launch-store-locator/",
+    "creator": "Patricia Hernandez",
+    "pubDate": "Wed, 04 Nov 2026 22:07:09 GMT",
+    "categories": [
+      "News",
+      "The Legend of Zelda",
+      "The Legend of Zelda: Ocarina of Time"
+    ],
+    "description": "Zelda fans who haven't pre-ordered the game or its Switch 2 console and Pro Controller will find much competition at Best Buy stores",
+    "contentEncoded": "<p>Ever since Nintendo announced the official release of <a href=\"https://www.polygon.com/legend-of-zelda-ocarina-remake-new-nintendo-switch-2-hardware/\" target=\"_blank\">a Switch 2 console</a> for <a href=\"https://www.polygon.com/zelda/\" target=\"_blank\"><em>The Legend of Zelda: Ocarina of Time</em></a>, <a href=\"https://www.polygon.com/preorder-zelda-ocarina-of-time-switch-2-console-foil-where-how-when/\" target=\"_blank\">trying to get one has been a bloodbath</a>. Even with constant restocks, the Triforce-themed hardware keeps selling out within seconds. Fans who are desperate to score the special Switch 2 or any of its Zelda accessories thought Best Buy was about to provide a viable alternative that couldn't be ruined by bots with Best Buy. Instead, it's regular 'ol humans who might become the problem at some locations.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/the-legend-of-zelda-40th-anniversary-direct-9-8-2026-59-36-screenshot.jpg",
+      "type": "image/jpeg",
+      "length": "792"
+    },
+    "decision": "keep",
+    "reason": "Zelda Switch 2 release news and console launch coverage.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-05T00:18:15.995Z"
+  },
+  {
+    "guid": "https://www.polygon.com/magic-the-gathering-movie-cast-maya-hawke-hasbro/",
+    "title": "Magic: The Gathering Casts Stranger Things Star as Female Lead",
+    "link": "https://www.polygon.com/magic-the-gathering-movie-cast-maya-hawke-hasbro/",
+    "creator": "Michael McWhertor",
+    "pubDate": "Wed, 04 Nov 2026 21:22:34 GMT",
+    "categories": [
+      "Movies",
+      "Magic: The Gathering"
+    ],
+    "description": "Hasbro and Legendary's Magic: The Gathering movie will star Maya Hawke from Stranger things in a lead role, new reports reveal.",
+    "contentEncoded": "<p>Legendary Entertainment and Hasbro's live-action <a href=\"https://www.polygon.com/mtg-magic-the-gathering/\" target=\"_blank\"><em>Magic: The Gathering</em></a> movie is one step closer to reality. According to two new reports, <a href=\"https://www.polygon.com/stranger-things/\" target=\"_blank\"><em>Stranger Things</em></a> and <a href=\"https://www.polygon.com/reviews/24178014/inside-out-2-review/\" target=\"_blank\"><em>Inside Out 2</em></a> star Maya Hawke has been cast in a lead role in director Matt Johnson's adaptation of the 33-year-old trading card game. Hawke's role has not been announced, but one report says the actor is filling a \"key\" role in <em>Magic: The Gathering</em>.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/magic-the-gathering.jpg",
+      "type": "image/jpeg",
+      "length": "968"
+    },
+    "decision": "keep",
+    "reason": "Rule: category \"Magic: The Gathering\"",
+    "decidedBy": "rule",
+    "firstSeen": "2026-11-05T00:18:15.995Z"
+  },
+  {
+    "guid": "https://www.polygon.com/dnd-world-of-warcraft-npc-stat-blocks-powerful-bosses/",
+    "title": "New D&D Book Introduces Some of the Most Terrifying Boss Fights in the Game’s History",
+    "link": "https://www.polygon.com/dnd-world-of-warcraft-npc-stat-blocks-powerful-bosses/",
+    "creator": "Thomas Hindmarch",
+    "pubDate": "Wed, 04 Nov 2026 21:00:17 GMT",
+    "categories": [
+      "Analysis",
+      "Dungeons & Dragons",
+      "world of warcraft",
+      "Tabletop Games"
+    ],
+    "description": "Dungeons & Dragons’ new World of Warcraft book turns Azeroth’s iconic characters into brutal bosses that could teach Vecna a thing or two.",
+    "contentEncoded": "<p>Vecna is arguably the archetypical \"boss character\" in <a href=\"https://www.polygon.com/dnd-dungeons-dragons/\" target=\"_blank\">Dungeons & Dragons</a>. For almost 40 years now, Vecna's machinations have endangered D&D's multiverse, only to be opposed and defeated but never permanently destroyed by groups of outmatched adventurers. In his last outing, <a href=\"https://www.polygon.com/24148046/dnd-dungeons-dragons-vecna-eve-of-ruin-review/\" target=\"_blank\"><em>Vecna: Eve of Ruin</em></a>, Vecna is designed to be a unique threat who's capable of winning against a party of 20th-level adventurers. On Azeroth, however, he'd just be another face in the crowd.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/jaina-proudmoore-dungeons-and-dragons-world-of-warcraft.jpg",
+      "type": "image/jpeg",
+      "length": "1199"
+    },
+    "decision": "keep",
+    "reason": "D&D tabletop game content analysis with WoW crossover.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-05T00:18:15.995Z"
+  },
+  {
+    "guid": "https://www.polygon.com/brandon-sanderson-mistborn-ttrpg-interview/",
+    "title": "Brandon Sanderson’s Mistborn TTRPG Lays the Groundwork for His Next Series",
+    "link": "https://www.polygon.com/brandon-sanderson-mistborn-ttrpg-interview/",
+    "creator": "Sam Nelson",
+    "pubDate": "Wed, 04 Nov 2026 19:01:06 GMT",
+    "categories": [
+      "Interview",
+      "Mistborn",
+      "Books",
+      "Fantasy",
+      "Tabletop Games",
+      "Brandon Sanderson"
+    ],
+    "description": "Brotherwise Games is preparing to take the Cosmere, born out of Brandon Sanderson's creative brain, into the Space Age.",
+    "contentEncoded": "<p>Last year, Brotherwise Games published a set of three tabletop role-playing game books set in the world of <a href=\"https://www.polygon.com/brandon-sanderson-news/\" target=\"_blank\">Brandon Sanderson’s</a> epic fantasy series <a href=\"https://www.polygon.com/24204670/brandon-sanderson-stormlight-roleplaying-game-narrative-preview/\" target=\"_blank\">The Stormlight Archive</a>. The company quickly followed up the project by announcing an expansion to the Cosmere RPG based on Sanderson’s Mistborn setting, and the new books reveal the true scope of the company’s ambitions.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/vin_ironpull_final.jpg",
+      "type": "image/jpeg",
+      "length": "942"
+    },
+    "decision": "toss",
+    "reason": "Book/graphic novel promo content, not core gaming news.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-05T00:18:15.995Z"
+  },
+  {
     "guid": "https://www.polygon.com/007-first-light-one-hour-free-trial-ps-plus/",
     "title": "PS Plus Makes James Bond’s New Game Free for Just One Hour",
     "link": "https://www.polygon.com/007-first-light-one-hour-free-trial-ps-plus/",
