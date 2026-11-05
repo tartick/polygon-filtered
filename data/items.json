@@ -1,5 +1,237 @@
 [
   {
+    "guid": "https://www.polygon.com/hyper-light-drifter-studio-heart-machine-still-at-risk-after-layoffs/",
+    "title": "Hyper Light Drifter Creator Says Studio’s Fate Is Still Uncertain",
+    "link": "https://www.polygon.com/hyper-light-drifter-studio-heart-machine-still-at-risk-after-layoffs/",
+    "creator": "Austin Manchester",
+    "pubDate": "Thu, 05 Nov 2026 15:31:38 GMT",
+    "categories": [
+      "News",
+      "Hyper Light Drifter",
+      "Hyper Light Breaker",
+      "Possessor(s)",
+      "Solar Ash",
+      "PC"
+    ],
+    "description": "Hyper Light Drifter studio Heart Machine is staring down an uncertain future after a publisher pulled its funding and the studio laid off staff.",
+    "contentEncoded": "<p><a href=\"https://www.polygon.com/game/hyper-light-drifter/14957/\" target=\"_blank\"><em>Hyper Light Drifter</em></a> studio Heart Machine faces an uncertain future after a recent round of devastating layoffs. In September, <a href=\"https://www.linkedin.com/posts/alx-preston-a6729262_i-have-very-difficult-news-today-we-had-share-7506048784330674176-khi2/\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">founder Alx Preston announced</a> \"nearly everyone at the studio had to be laid off\" after an unnamed publisher decided not to move forward with the unannounced game Heart Machine had been developing.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/11/possessor-s-key-art.png",
+      "type": "image/jpeg",
+      "length": "6089"
+    },
+    "decision": "keep",
+    "reason": "Video game industry news about a notable studio's uncertain future.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-05T15:45:20.455Z"
+  },
+  {
+    "guid": "https://www.polygon.com/best-detective-mystery-books-page-turners/",
+    "title": "5 Gripping Detective Books That Are Page-Turners From Start to Finish",
+    "link": "https://www.polygon.com/best-detective-mystery-books-page-turners/",
+    "creator": "Debopriyaa Dutta",
+    "pubDate": "Thu, 05 Nov 2026 15:31:18 GMT",
+    "categories": [
+      "Polygon Lists",
+      "Books"
+    ],
+    "description": "A fast-paced detective story is often the antidote to a tiring day",
+    "contentEncoded": "<p>Everyone loves a great detective book. These stories satisfy our natural curiosity for solvable mysteries, allowing us to slip into the shoes of competent detectives like <a href=\"https://www.polygon.com/tag/sherlock-holmes/\" target=\"_blank\">Sherlock Holmes</a>, <a href=\"https://www.polygon.com/24009421/agatha-christie-hercule-poirot-mystery-books/\" target=\"_blank\">Hercule Poirot</a>, and <a href=\"https://www.polygon.com/wake-up-dead-man-knives-out-director-rian-johnson-interview/\" target=\"_blank\">Benoit Blanc</a>. There’s a sense of satisfaction to following a trail of clues, identifying red herrings, and theorizing before the answers are revealed. Good detective stories use grounded settings to heighten anxiety and embrace some amount of chaos before bringing about a neat resolution.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/opera-snapshot_2026-09-25_011905_www-imdb-com.png",
+      "type": "image/jpeg",
+      "length": "191"
+    },
+    "decision": "toss",
+    "reason": "Generic book list, not game or horror-related content.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-05T15:45:20.455Z"
+  },
+  {
+    "guid": "https://www.polygon.com/forza-horizon-6-fh6-tokyo-house-location/",
+    "title": "Where to find the Tokyo House in Forza Horizon 6",
+    "link": "https://www.polygon.com/forza-horizon-6-fh6-tokyo-house-location/",
+    "creator": "Johnny Yu",
+    "pubDate": "Thu, 05 Nov 2026 15:13:14 GMT",
+    "categories": [
+      "Guides",
+      "Forza Horizon 6"
+    ],
+    "description": "The Tokyo House is the most expensive player home in Forza Horizon 6. Here's where to find it and what perks it comes with.",
+    "contentEncoded": "<p>The <strong>Tokyo House</strong> is a <a href=\"https://www.polygon.com/forza-horizon-6-fh6-houses-locations-unlock-estate/\" target=\"_blank\">player home</a> located in Tokyo City in <a href=\"https://www.polygon.com/forza-horizon-6/\" target=\"_blank\"><em>Forza Horizon 6</em></a>. Each home in <em>Forza Horizon 6 </em>provides you with benefits, and the Tokyo House has one of the best overall. Unfortunately, the Tokyo House is also the most expensive house, unless you have a VIP membership, which makes the house free.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/cityliving-tokyo-house_fh6.jpg",
+      "type": "image/jpeg",
+      "length": "901"
+    },
+    "decision": "toss",
+    "reason": "Rule: category \"Guides\"",
+    "decidedBy": "rule",
+    "firstSeen": "2026-11-05T15:45:20.455Z"
+  },
+  {
+    "guid": "https://www.polygon.com/forza-horizon-6-fh6-treasure-hunt-location/",
+    "title": "Summer Tokyo City region treasure hunt location in Forza Horizon 6",
+    "link": "https://www.polygon.com/forza-horizon-6-fh6-treasure-hunt-location/",
+    "creator": "Paulo Kawanishi",
+    "pubDate": "Thu, 05 Nov 2026 15:09:40 GMT",
+    "categories": [
+      "Guides",
+      "Forza Horizon 6"
+    ],
+    "description": "The summer treasure hunt is located in the Tokyo City region of Forza Horizon 6. Here's its exact location and how to reach it.",
+    "contentEncoded": "<p><strong>The summer Tokyo City region treasure hunt</strong> is one of the weekly activities in <a href=\"https://www.polygon.com/forza-horizon-6/\" target=\"_blank\"><em>Forza Horizon 6</em></a><strong>Series 7, \"City Life.\"</strong> Whenever a new hunt begins, a box appears somewhere on the map and, to locate it, the only hints you have are the region's name and a picture. Completing this challenge helps you get closer to claiming the weekly and the Series cars.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/fh6_guide_series7_treasurehunt_summer_lead.jpg",
+      "type": "image/jpeg",
+      "length": "468"
+    },
+    "decision": "toss",
+    "reason": "Rule: category \"Guides\"",
+    "decidedBy": "rule",
+    "firstSeen": "2026-11-05T15:45:20.455Z"
+  },
+  {
+    "guid": "https://www.polygon.com/escape-from-tarkov-promo-codes-list-active-expired/",
+    "title": "All active Escape From Tarkov codes and rewards",
+    "link": "https://www.polygon.com/escape-from-tarkov-promo-codes-list-active-expired/",
+    "creator": "Ford James",
+    "pubDate": "Thu, 05 Nov 2026 15:04:30 GMT",
+    "categories": [
+      "Guides",
+      "Escape from Tarkov"
+    ],
+    "description": "A guide listing all currently active promo codes for Escape From Tarkov and how to redeem them.",
+    "contentEncoded": "<p><strong><em>Escape From Tarkov </em></strong><strong>promo codes </strong>are used in the classic extraction shooter for all sorts of rewards. From in-game gear and weapons to currency, cosmetics, and more, redeeming as many of these <em>Tarkov </em>codes as you can will set you up for your next raid. Especially since these goodies don't actually require a successful extraction to obtain them.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/escape-from-tarkov-codes-header.jpg",
+      "type": "image/jpeg",
+      "length": "768"
+    },
+    "decision": "toss",
+    "reason": "Rule: category \"Guides\"",
+    "decidedBy": "rule",
+    "firstSeen": "2026-11-05T15:45:20.455Z"
+  },
+  {
+    "guid": "https://www.polygon.com/exoplanet-andy-weir-exclusive-excerpt/",
+    "title": "Andy Weir's New Sci-Fi Epic is ‘The Martian’ Meets ‘The Twilight Zone’",
+    "link": "https://www.polygon.com/exoplanet-andy-weir-exclusive-excerpt/",
+    "creator": "Sam Nelson",
+    "pubDate": "Thu, 05 Nov 2026 15:00:18 GMT",
+    "categories": [
+      "Exclusive",
+      "Sci-Fi",
+      "Books"
+    ],
+    "description": "The time travel story Exoplanet launches on Audible on Nov. 5. Here's n exclusive preview",
+    "contentEncoded": "<p>Andy Weir is known for his dramatic <a href=\"https://www.polygon.com/sci-fi/\" target=\"_blank\">sci-fi</a> survival stories <a href=\"https://www.polygon.com/the-martian-book-vs-film-matt-damon-andy-weir/\" target=\"_blank\"><em>The Martian</em></a><em></em>and <a href=\"https://www.polygon.com/project-hail-mary-book-vs-film-questions/\" target=\"_blank\"><em>Project Hail Mary</em></a>, which were both adapted into blockbuster films. His latest project combines the same focus on action and ingenuity, but with a more surreal concept that feels straight out of <em>The Twilight Zone</em>. Weir is executive producing <em>Exoplanet</em>, a full-cast audio experience written by Benjamin Percy for Audible. It follows the crew of the starship Wild Blue Yonder as they are scattered across time, landing on the same planet in different eras. The thriller releases on Nov. 5, and Audible provided Polygon with an exclusive clip following Science Officer Logan Bowers (John Leguizamo of <em>The Odyssey</em>) as he wakes up injured and desperately tries to find help.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/the-martian.jpg",
+      "type": "image/jpeg",
+      "length": "5896"
+    },
+    "decision": "toss",
+    "reason": "Book promotion and excerpt, outside gaming/horror scope.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-05T15:45:20.455Z"
+  },
+  {
+    "guid": "https://www.polygon.com/phantom-blade-zero-true-ending-final-battle-how-to-unlock-requirements/",
+    "title": "How to unlock the true ending in Phantom Blade Zero",
+    "link": "https://www.polygon.com/phantom-blade-zero-true-ending-final-battle-how-to-unlock-requirements/",
+    "creator": "Paulo Kawanishi",
+    "pubDate": "Thu, 05 Nov 2026 14:45:10 GMT",
+    "categories": [
+      "Guides",
+      "Phantom Blade Zero"
+    ],
+    "description": "In this guide, you learn the prerequisites to unlock the true ending in Phantom Blade Zero.",
+    "contentEncoded": "<p><a href=\"https://www.polygon.com/phantom-blade-zero/\" target=\"_blank\"><em>Phantom Blade Zero</em></a>'s <strong>true ending</strong> is called \"Final Battle\". You can experience four different endings, but this is only one that will connect all the dots, allowing you to gain a better understanding of the story. You will need to complete a list of side quests before reaching the last boss fight if you want to see what the developers consider the perfect ending to Soul's journey.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/phantombladezero_guide_trueending_lead.jpg",
+      "type": "image/jpeg",
+      "length": "145"
+    },
+    "decision": "toss",
+    "reason": "Rule: category \"Guides\"",
+    "decidedBy": "rule",
+    "firstSeen": "2026-11-05T15:45:20.455Z"
+  },
+  {
+    "guid": "https://www.polygon.com/zelda-ocarina-of-time-switch-2-inventory-menu/",
+    "title": "Zelda: Ocarina of Time Unfortunately Borrows Breath of the Wild’s Worst Feature",
+    "link": "https://www.polygon.com/zelda-ocarina-of-time-switch-2-inventory-menu/",
+    "creator": "Giovanni Colantonio",
+    "pubDate": "Thu, 05 Nov 2026 14:00:18 GMT",
+    "categories": [
+      "Opinion",
+      "The Legend of Zelda: Ocarina of Time",
+      "Nintendo Switch 2",
+      "Nintendo",
+      "The Legend of Zelda",
+      "The Legend of Zelda: Breath of the Wild"
+    ],
+    "description": "The Switch 2's excellent Zelda: Ocarina of Time remake takes one bad cue from Breath of the Wild's complicated item management.",
+    "contentEncoded": "<p>The best thing about <em>The Legend of Zelda: Ocarina of Time</em>’s fantastic new Switch 2 remake is that Nintendo didn’t try to reinvent the wheel. Everything that made the original Nintendo 64 classic special is preserved in a focused game that fights the urge to modernize a timeless experience that still stands on its own today. You won’t find that Hyrule Field has turned into an enormous open world filled with busy work, thank God. You will, unfortunately, find that <em>Breath of the Wild</em>’s worst feature did manage to creep its way in.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/zelda-ocarina-of-time-remake-ganondorf.jpg",
+      "type": "image/jpeg",
+      "length": "162"
+    },
+    "decision": "keep",
+    "reason": "Zelda game analysis and opinion on Switch 2 remake feature.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-05T15:45:20.455Z"
+  },
+  {
+    "guid": "https://www.polygon.com/constantine-movie-reports-dc-studios/",
+    "title": "Constantine Movie Reportedly in the Works at DC Studios",
+    "link": "https://www.polygon.com/constantine-movie-reports-dc-studios/",
+    "creator": "Ashely Claudino",
+    "pubDate": "Thu, 05 Nov 2026 13:05:01 GMT",
+    "categories": [
+      "News",
+      "Constantine",
+      "Constantine 2",
+      "DC Universe"
+    ],
+    "description": "Reports indicate DC Studios is bringing Francis Galluppi on board to write a Constantine movie.",
+    "contentEncoded": "<p>Francis Galluppi, writer and director of <em>Evil Dead Wrath</em>, has reportedly been brought on board to write a Constantine movie for <a href=\"https://www.polygon.com/dc/\" target=\"_blank\">DC Studios</a>. It is currently unknown whether this film is a sequel to <em>Constantine</em> (2005) or a completely new adaptation of the comic, but the latter seems to be the likely case.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/constantine-animated-series.jpg",
+      "type": "image/jpeg",
+      "length": "304"
+    },
+    "decision": "toss",
+    "reason": "DC movie news without substance; franchise churn casting gossip.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-05T15:45:20.455Z"
+  },
+  {
+    "guid": "https://www.polygon.com/pokemon-tcg-delta-reign-review/",
+    "title": "Everything Is Dissapointing After Pokémon's Spectacular 30th Anniversary TCG Set",
+    "link": "https://www.polygon.com/pokemon-tcg-delta-reign-review/",
+    "creator": "Patricia Hernandez",
+    "pubDate": "Thu, 05 Nov 2026 13:00:18 GMT",
+    "categories": [
+      "Reviews",
+      "Pokemon",
+      "Pokemon Trading Card Game"
+    ],
+    "description": "The Rayquaza-centric Delta Reign TCG set, which releases on Nov. 6, set never stood a chance against Pokémon's remarkable 30th Anniversary set",
+    "contentEncoded": "<p>There's nothing<em> wrong </em>with the set. In any other scenario, Delta Reign would be a highlight of a busy TCG release year. Unfortunately, Pokémon's new TCG set is dropping after one of The Pokémon Company's best — if not the best — set releases ever.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/image-29-thumbnail.jpg",
+      "type": "image/jpeg",
+      "length": "3073"
+    },
+    "decision": "toss",
+    "reason": "Pokémon TCG set review; trading-card retail content not games.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-05T15:45:20.455Z"
+  },
+  {
     "guid": "https://www.polygon.com/green-room-free-tubi-streaming-november-2026/",
     "title": "11 Years Later, Patrick Stewart's Near-Perfect Siege Thriller Is Officially Free on Streaming",
     "link": "https://www.polygon.com/green-room-free-tubi-streaming-november-2026/",
