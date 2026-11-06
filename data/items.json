@@ -1,5 +1,145 @@
 [
   {
+    "guid": "https://www.polygon.com/halo-master-chief-omnibus-book-november-2026/",
+    "title": "Classic Halo Trilogy Gets Brand-New Release on Nov. 10",
+    "link": "https://www.polygon.com/halo-master-chief-omnibus-book-november-2026/",
+    "creator": "Sam Hill",
+    "pubDate": "Thu, 05 Nov 2026 22:50:57 GMT",
+    "categories": [
+      "Books",
+      "Halo",
+      "Part 3",
+      "Fly Me",
+      "Miller Drake",
+      "Wes Cole"
+    ],
+    "description": "Halo’s Master Chief Omnibus arrives November 10, 2026, collecting three bestselling novels that expand the franchise’s lore.",
+    "contentEncoded": "<p>It's been a busy year for <a href=\"https://www.polygon.com/halo/\" target=\"_blank\">Halo</a> fans, with plenty of new releases and surprises keeping the franchise alive. <a href=\"https://www.polygon.com/halo-campaign-evolved-2026/\" target=\"_blank\"><em>Halo: Campaign Evolved</em></a>, a remake of the original game, is bringing Master Chief's first adventure to a new generation, while <a href=\"https://www.polygon.com/halo-campaign-evolved-board-game-mantic-games/\" target=\"_blank\">a tabletop adaptation is also in development</a>. Even Halo Infinite isn't quite ready to call it quits, continuing to receive <a href=\"https://www.polygon.com/halo-infinite-update-firefight-gauntlet/\" target=\"_blank\">unexpected updates this year</a> despite its major content support coming to an end.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/halo-campaign-evolved-master-chief.jpg",
+      "type": "image/jpeg",
+      "length": "1394"
+    },
+    "decision": "toss",
+    "reason": "Graphic novel/book promo material, not video game news.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-06T02:14:51.012Z"
+  },
+  {
+    "guid": "https://www.polygon.com/video/the-brutal-reality-of-making-video-games-in-2026-point-it-out/",
+    "title": "The brutal reality of making video games in 2026 | Point It Out!",
+    "link": "https://www.polygon.com/video/the-brutal-reality-of-making-video-games-in-2026-point-it-out/",
+    "creator": "Matt Patches",
+    "pubDate": "Thu, 05 Nov 2026 22:34:23 GMT",
+    "categories": [
+      "Video",
+      "Point It Out"
+    ],
+    "description": "This week on Point It Out, Patches assembled an all star roundtable of indie gaming creators to discuss the state of the industry, its future and what it takes to make successful games like Shovel Knight, Hyper Light Drifter, Mina and more. Plus, WoW Forever is officially coming out, and Arkane Lyon may have a buyer. All this and more in the bouchon that is Point It Out!",
+    "contentEncoded": "<p>This week on Point It Out, Patches assembled an all star roundtable of indie gaming creators to discuss the state of the industry, its future and what it takes to make successful games like Shovel Knight, Hyper Light Drifter, Mina and more. Plus, WoW Forever is officially coming out, and Arkane Lyon may have a buyer. All this and more in the bouchon that is Point It Out!</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/screenshot-2026-11-05-at-5-32-22-pm.png",
+      "type": "image/jpeg",
+      "length": "3033"
+    },
+    "decision": "keep",
+    "reason": "Video game industry analysis and development discussion.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-06T02:14:51.012Z"
+  },
+  {
+    "guid": "https://www.polygon.com/zelda-ocarina-of-time-remake-oot-great-fairy-fountain-locations-rewards/",
+    "title": "All Great Fairy's Fountain locations in Ocarina of Time",
+    "link": "https://www.polygon.com/zelda-ocarina-of-time-remake-oot-great-fairy-fountain-locations-rewards/",
+    "creator": "Johnny Yu",
+    "pubDate": "Thu, 05 Nov 2026 22:11:41 GMT",
+    "categories": [
+      "Guides",
+      "The Legend of Zelda: Ocarina of Time"
+    ],
+    "description": "The Great Fairy's Fountains will provide you with magic and abilities in Ocarina of Time, as long as you have the funds. Here's where to find them.",
+    "contentEncoded": "<p><strong>Great Fairy's Fountains</strong> are home to, well, Great Fairies in <a href=\"https://www.polygon.com/the-legend-of-zelda-ocarina-of-time-remake/\" target=\"_blank\"><em>The Legend of Zelda: Ocarina of Time</em></a> remake. The Great Fairies are your gateway to magic and abilities. They'll give you spells that let you create fire, teleport in and out of dungeons, and grant yourself temporary invulnerability.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/great-fairy_oot.jpg",
+      "type": "image/jpeg",
+      "length": "522"
+    },
+    "decision": "toss",
+    "reason": "Rule: category \"Guides\"",
+    "decidedBy": "rule",
+    "firstSeen": "2026-11-06T02:14:51.012Z"
+  },
+  {
+    "guid": "https://www.polygon.com/zelda-ocarina-of-time-remake-oot-richard-dog-location-how-to-find/",
+    "title": "How to find Richard the dog in Ocarina of Time",
+    "link": "https://www.polygon.com/zelda-ocarina-of-time-remake-oot-richard-dog-location-how-to-find/",
+    "creator": "Paulo Kawanishi",
+    "pubDate": "Thu, 05 Nov 2026 22:10:14 GMT",
+    "categories": [
+      "Guides",
+      "The Legend of Zelda: Ocarina of Time"
+    ],
+    "description": "Here's how to find Richard in The Legend of Zelda: Ocarina of Time remake and how to identify the white dog to complete the mission.",
+    "contentEncoded": "<p><strong>Finding Richard</strong> is a side quest in <a href=\"https://www.polygon.com/the-legend-of-zelda-ocarina-of-time-remake/\" target=\"_blank\"><em>The Legend of Zelda: Ocarina of Time</em></a> remake. You might have seen Richard, the adorable dog, during your first visit to Hyrule Castle Town: a white energetic dog that you couldn’t pet because its owner would accuse you of trying to steal her dog. If you visit the town again later, you will learn that Richard has disappeared.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/zeldaootremake_guide_richard_lead.jpg",
+      "type": "image/jpeg",
+      "length": "335"
+    },
+    "decision": "toss",
+    "reason": "Rule: category \"Guides\"",
+    "decidedBy": "rule",
+    "firstSeen": "2026-11-06T02:14:51.012Z"
+  },
+  {
+    "guid": "https://www.polygon.com/nintendo-nate-bihldorff-ocarina-of-time-interview/",
+    "title": "Nintendo Hints the Switch 2 Will Keep Getting Classic Remakes",
+    "link": "https://www.polygon.com/nintendo-nate-bihldorff-ocarina-of-time-interview/",
+    "creator": "Giovanni Colantonio",
+    "pubDate": "Thu, 05 Nov 2026 22:00:18 GMT",
+    "categories": [
+      "Interview",
+      "The Legend of Zelda: Ocarina of Time",
+      "Nintendo Switch 2",
+      "Nintendo"
+    ],
+    "description": "Nintendo's Nate Bihldorff told Polygon how remakes fit into Nintendo's current Switch 2 game strategy.",
+    "contentEncoded": "<p>This time last year, Nintendo’s 2026 plans were a bit of a mystery. We knew that games like <em>Pokémon Pokopia </em>and<em> Mario Tennis Fever</em> would round out the Switch 2’s first year, but we still had few clues about what would be 2026’s big game for the platform. Now, we know that Nintendo was hiding a big secret during that time. <em><a href=\"https://www.polygon.com/the-legend-of-zelda-ocarina-of-time-switch-2-review/\" target=\"_blank\">The Legend of Zelda: Ocarina of Time</a></em>would be the Switch 2’s tentpole 2026 game, giving players (and Nintendo’ holiday sales) a blockbuster remake. Nate Bihldorff, Nintendo’s SVP of product development and publishing, knew that would be a very big deal.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/the-legend-of-zelda-ocarina-of-time-deku-tree.png",
+      "type": "image/jpeg",
+      "length": "24781"
+    },
+    "decision": "keep",
+    "reason": "Nintendo Switch 2 strategy and remake news relevant to gaming.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-06T02:14:51.012Z"
+  },
+  {
+    "guid": "https://www.polygon.com/sci-fi-films-streaming-free-november-5-2026/",
+    "title": "3 Near-Perfect Sci-Fi Movies You Can Stream For Free This Weekend (Novemeber 6 - 8)",
+    "link": "https://www.polygon.com/sci-fi-films-streaming-free-november-5-2026/",
+    "creator": "Rachel Leishman",
+    "pubDate": "Thu, 05 Nov 2026 22:00:18 GMT",
+    "categories": [
+      "Polygon Lists",
+      "Donnie Darko",
+      "Snowpiercer",
+      "Bill & Ted's Excellent Adventure"
+    ],
+    "description": "Looking for the best science fiction movie to watch? Here are three options to choose from!",
+    "contentEncoded": "<p>Science Fiction as a genre is one that fans get to explore in many different ways. Whether it is a horror movie or a comedy, elements of science fiction can turn a story into something so memorable for fans. And sometimes, you just want to watch a movie that has something a little more to it for you to unpack. The problem is trying to figure out what the best science fiction movie is to watch and with a large library of the genre online, picking the best of the best isn't easy. </p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/mcdsnow_ec020.jpg",
+      "type": "image/jpeg",
+      "length": "1199"
+    },
+    "decision": "toss",
+    "reason": "Generic streaming list; no substance or prestige projects.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-06T02:14:51.012Z"
+  },
+  {
     "guid": "https://www.polygon.com/avatar-fire-and-ash-collectors-edition-4k-blu-ray-december-release/",
     "title": "James Cameron’s Avatar Franchise Gets a Massive New December Release",
     "link": "https://www.polygon.com/avatar-fire-and-ash-collectors-edition-4k-blu-ray-december-release/",
