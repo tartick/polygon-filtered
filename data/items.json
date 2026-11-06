@@ -1,5 +1,53 @@
 [
   {
+    "guid": "https://www.polygon.com/tim-burton-big-fish-free-streaming-november-2026-tubi-youtube/",
+    "title": "Tim Burton's Forgotten 10/10 Fantasy Masterpiece is Officially Still Free on Streaming",
+    "link": "https://www.polygon.com/tim-burton-big-fish-free-streaming-november-2026-tubi-youtube/",
+    "creator": "Brian VanHooker",
+    "pubDate": "Fri, 06 Nov 2026 09:04:18 GMT",
+    "categories": [
+      "What to Watch",
+      "Big Fish",
+      "Fantasy",
+      "Movies"
+    ],
+    "description": "Perhaps it's underrated because it barely even feels like a Tim Burton movie, but Big Fish is one of the director's best",
+    "contentEncoded": "<p>When the conversation turns to <a href=\"https://www.polygon.com/frankenweenie-tim-burton-frankenstein-stop-motion-animation/\" target=\"_blank\">Tim Burton</a>’s best <a href=\"https://www.polygon.com/movies/\" target=\"_blank\">movies</a>, the same titles tend to surface: <a href=\"https://www.polygon.com/opinion/449228/beetlejuice-2-lydia-deetz-problem-winona-ryder/\" target=\"_blank\"><em>Beetlejuice</em></a>, his <a href=\"https://www.polygon.com/tim-burton-batman-revolution-riddler-book-excerpt/\" target=\"_blank\">Batman movies</a>, <a href=\"https://www.polygon.com/opinion/450444/tim-burton-autistic-neurodivergent-representation-beetlejuice/\" target=\"_blank\"><em>Edward Scissorhands</em></a>, <a href=\"https://www.polygon.com/35-years-ago-tim-burton-unleashed-his-most-personal-creation-with-edward-scissorhands/\" target=\"_blank\"><em>Ed Wood</em></a>, and <a href=\"https://www.polygon.com/tim-burton-criterion-collection-pee-wees-big-adventure/\" target=\"_blank\"><em>Pee-Wee’s Big Adventure</em></a>. Even <a href=\"https://www.polygon.com/deals/440535/nightmare-before-christmas-lego-release-date-price/\" target=\"_blank\"><em>The Nightmare Before Christmas</em></a> usually gets a mention, despite being directed by <a href=\"https://www.polygon.com/james-and-the-giant-peach-30-years/\" target=\"_blank\">Henry Selick</a>. Less likely to enter the discussion is <em>Big Fish</em>, Burton’s 2003 fantasy about a father whose life sounds too extraordinary to believe. That’s a shame, because it’s some of his very best work. It's also available to stream for free right now on YouTube and Tubi.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/mcdbifi_ec015.jpg",
+      "type": "image/jpeg",
+      "length": "675"
+    },
+    "decision": "toss",
+    "reason": "Streaming availability clickbait; not a prestige or anticipated project.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-06T09:46:35.770Z"
+  },
+  {
+    "guid": "https://www.polygon.com/steven-spielberg-clouse-encounters-directors-cut-streaming-free-youtube/",
+    "title": "49 Years Later, Steven Spielberg’s Sci-Fi Thriller Masterpiece Is Officially Free on YouTube",
+    "link": "https://www.polygon.com/steven-spielberg-clouse-encounters-directors-cut-streaming-free-youtube/",
+    "creator": "Thomas Hindmarch",
+    "pubDate": "Fri, 06 Nov 2026 05:00:18 GMT",
+    "categories": [
+      "What to Watch",
+      "Movies",
+      "Sci-Fi",
+      "Close Encounters of The Third Kind"
+    ],
+    "description": "The aliens are coming and they're driving Richard Dreyfuss insane",
+    "contentEncoded": "<p>Most creators are lucky if they ever make one truly revolutionary thing in their lives. <a href=\"https://www.polygon.com/23631001/best-steven-spielberg-movies/\" target=\"_blank\">Steven Spielberg</a> has made at least six.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/msdclen_ec024.jpg",
+      "type": "image/jpeg",
+      "length": "857"
+    },
+    "decision": "toss",
+    "reason": "Rule: streaming clickbait headline",
+    "decidedBy": "rule",
+    "firstSeen": "2026-11-06T09:46:35.770Z"
+  },
+  {
     "guid": "https://www.polygon.com/halo-master-chief-omnibus-book-november-2026/",
     "title": "Classic Halo Trilogy Gets Brand-New Release on Nov. 10",
     "link": "https://www.polygon.com/halo-master-chief-omnibus-book-november-2026/",
