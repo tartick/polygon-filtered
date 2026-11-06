@@ -6,7 +6,19 @@
     <description>Polygon.com minus the shovelware.</description>
     <atom:link href="https://tartick.github.io/polygon-filtered/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-US</language>
-    <lastBuildDate>Fri, 06 Nov 2026 17:00:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 21:07:41 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[Critical Role Officially Returns to Its Roots for New Campaign with Hololive]]></title>
+      <link>https://www.polygon.com/critical-role-new-campaign-shattered-legends-hololive/</link>
+      <guid isPermaLink="true">https://www.polygon.com/critical-role-new-campaign-shattered-legends-hololive/</guid>
+      <dc:creator><![CDATA[Francesco Cacciatore]]></dc:creator>
+      <pubDate>Fri, 06 Nov 2026 21:07:41 GMT</pubDate>
+      <category><![CDATA[News]]></category>
+      <category><![CDATA[Critical Role]]></category>
+      <enclosure url="https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/shattered-legends-critical-role-hololive.png" length="3221" type="image/jpeg"/>
+      <description><![CDATA[The details of Shattered Legends, Critical Role's new Exandria campaign featuring Hololive VTubers, have been revealed.]]></description>
+      <content:encoded><![CDATA[<p><a href="https://www.polygon.com/critical-role-shattered-legends-vtubers-hololive-daggerheart/" target="_blank">Announced in October</a>, <em>Shattered Legends</em> is an upcoming miniseries featuring <a href="https://www.polygon.com/critical-role/" target="_blank">Critical Role</a> and members of Hololive Production. Critical Role founders Matt Mercer and Marisha Ray will team up with Hololive’s Nerissa Ravencroft, Mori Calliope, Shiori Novella, and Gigi Murin for a new adventure set in <a href="https://www.polygon.com/critical-role-taldorei-interactive-map-exandria-vox-machina/" target="_blank">the world of Exandria</a>, where the Critical Role story began with <em>Campaign 1: Vox Machina</em>.</p>]]></content:encoded>
+    </item>
     <item>
       <title><![CDATA['Godzilla Minus Zero' Officially Fixes King Ghidorah Canon in 1 Brilliant Way]]></title>
       <link>https://www.polygon.com/its-almost-singing-how-godzilla-minus-zero-brought-king-ghidorah-to-life-like-never-before/</link>
@@ -638,18 +650,6 @@
       <enclosure url="https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/wilderdark-rec-header.jpg" length="314" type="image/jpeg"/>
       <description><![CDATA[Wilderdark, a survival horror game set on a dinosaur-infested island, is coming to Steam on Tuesday, Nov. 10.]]></description>
       <content:encoded><![CDATA[<p>For some reason, there haven't been that many truly great dinosaur video games throughout history. <em>Ark: Survival Evolved </em>had plenty of success despite the fact it was quite janky, and <em>The Isle </em>has spawned myriad viral videos thanks to its proximity chat. <em>Jurassic World Evolution 3 </em>is by far the best licensed dinosaur game, but it focuses on managing the theme park, as opposed to fighting and surviving.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title><![CDATA[One of the GameCube’s Great Cult Classics Gets the Remaster It Deserves]]></title>
-      <link>https://www.polygon.com/godzilla-destroy-all-monsters-melee-remastered-review/</link>
-      <guid isPermaLink="true">https://www.polygon.com/godzilla-destroy-all-monsters-melee-remastered-review/</guid>
-      <dc:creator><![CDATA[Giovanni Colantonio]]></dc:creator>
-      <pubDate>Mon, 02 Nov 2026 19:31:18 GMT</pubDate>
-      <category><![CDATA[Reviews]]></category>
-      <category><![CDATA[Godzilla: Destroy All Monsters Melee Remastered]]></category>
-      <enclosure url="https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/godzilla-destroy-all-monsters-melee-city-destruction.jpg" length="629" type="image/jpeg"/>
-      <description><![CDATA[Godzilla: Destroy All Monsters Remastered is a faithfully clumsy revival of a cult classic that's still a casual joy to play.]]></description>
-      <content:encoded><![CDATA[<p>When I was a kid, there were some games I only knew through magazines. I never played them, but they were all over the pages of Electronic Gaming Monthly and Nintendo Power, so I knew everything about them anyway. <a href="https://www.polygon.com/game/godzilla-destroy-all-monsters-melee/527443/" target="_blank"><em>Godzilla: Destroy All Monsters Melee</em></a> was firmly a “magazine game” when it was released for the GameCube in 2002. I even had a free poster of it on my wall as a kid, one I kept hung up even after a wave of middling reviews eventually dropped.</p>]]></content:encoded>
     </item>
   </channel>
 </rss>
