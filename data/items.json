@@ -1,5 +1,143 @@
 [
   {
+    "guid": "https://www.polygon.com/best-sci-fi-tv-shows-to-watch-if-you-love-hbos-lanterns/",
+    "title": "5 Sci-Fi Series To Watch If You Love HBO's 'Lanterns'",
+    "link": "https://www.polygon.com/best-sci-fi-tv-shows-to-watch-if-you-love-hbos-lanterns/",
+    "creator": "Collier Jennings",
+    "pubDate": "Sat, 07 Nov 2026 09:04:17 GMT",
+    "categories": [
+      "Polygon Lists",
+      "Lanterns",
+      "Watchmen",
+      "Andor",
+      "Heroes",
+      "Fringe",
+      "Westworld",
+      "Sci-Fi"
+    ],
+    "description": "In brightest day, in blackest night, find your next binge watch tonight",
+    "contentEncoded": "<p>HBO's <em><a href=\"https://www.polygon.com/lanterns-hbo/\" target=\"_blank\">Lanterns</a></em>more than delivered when it comes to being both a great comic book series and a great piece of television. Not only did the series thrive thanks to the dynamic between Hal Jordan (Kyle Chandler) and John Stewart (Aaron Pierre), but it also managed to revitalize interest in the Green Lantern franchise following the <a href=\"https://www.polygon.com/ryan-reynolds-green-lantern-streaming-success-hbo-max-august-2026/\" target=\"_blank\">less-than-stellar <em>Green Lantern </em>movie</a> from 2011. That's a superhuman feat in and of itself, and <em>Lanterns </em>creators Damon Lindelof, Chris Mundy, and Tom King deserve credit for pulling that off.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/john-stewart-aaron-pierre-looks-down-at-the-green-lantern-ring-he-is-wearing-in-lanterns.jpg",
+      "type": "image/jpeg",
+      "length": "151"
+    },
+    "decision": "toss",
+    "reason": "Big-franchise churn: DC/Green Lantern streaming recommendation list.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-07T09:10:29.000Z"
+  },
+  {
+    "guid": "https://www.polygon.com/uncle-max-calvin-hobbes/",
+    "title": "38 Years Later, Calvin and Hobbes' Lost Character Remains Bill Watterson's Biggest Failure",
+    "link": "https://www.polygon.com/uncle-max-calvin-hobbes/",
+    "creator": "Thomas Hindmarch",
+    "pubDate": "Sat, 07 Nov 2026 09:00:17 GMT",
+    "categories": [
+      "Comics",
+      "comic strip"
+    ],
+    "description": "Uncle Max died on his way back to his home planet",
+    "contentEncoded": "<p>The author Lois McMaster Bujold <a href=\"https://www.lightspeedmagazine.com/nonfiction/feature-interview-lois-mcmaster-bujold/\" target=\"_blank\">has said</a> that “the writer should always reserve the right to come up with a better idea.” That's a useful guideline for any reader to keep in mind. As any long-form story evolves, it usually picks up a few dead plot branches or <a href=\"https://www.polygon.com/forgotten-peanuts-characters/\" target=\"_blank\">abandoned characters</a>, because the author can exercise their option to drop what they're doing for any (or no) reason. Sometimes it's not a continuity error; it's a deliberate change in direction.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/calvin-and-hobbes-yukon-ho.jpg",
+      "type": "image/jpeg",
+      "length": "578"
+    },
+    "decision": "toss",
+    "reason": "Nostalgia retrospective about old comic strip character from decades ago.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-07T09:10:29.000Z"
+  },
+  {
+    "guid": "https://www.polygon.com/best-castlevania-games/",
+    "title": "The 8 Best Castlevania Games Of All Time, Ranked",
+    "link": "https://www.polygon.com/best-castlevania-games/",
+    "creator": "Jason Venter",
+    "pubDate": "Sat, 07 Nov 2026 03:52:17 GMT",
+    "categories": [
+      "Polygon Lists",
+      "Castlevania"
+    ],
+    "description": "The finest Castlevania games of all time come from multiple decades. Together, they built a franchise that is better than ever.",
+    "contentEncoded": "<p>Castlevania is one of the most beloved franchises in video game history, despite a period of 13 years when we didn’t see a new installment until the launch of <a href=\"https://www.polygon.com/castlevania-belmonts-curse/\" target=\"_blank\"><em>Castlevania: Belmont’s Curse</em></a> earlier this year.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/11/castlevania-dracula-adaptations-bram-stoker.jpg",
+      "type": "image/jpeg",
+      "length": "855"
+    },
+    "decision": "keep",
+    "reason": "Video game ranking/retrospective about notable horror game franchise.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-07T09:10:29.000Z"
+  },
+  {
+    "guid": "https://www.polygon.com/game-boy-advance-games-missing-nintendo-switch-online/",
+    "title": "10 Essential GBA Games Still Disappointingly Missing From Nintendo Switch Online",
+    "link": "https://www.polygon.com/game-boy-advance-games-missing-nintendo-switch-online/",
+    "creator": "Jason Venter",
+    "pubDate": "Sat, 07 Nov 2026 03:29:33 GMT",
+    "categories": [
+      "Polygon Lists",
+      "Nintendo"
+    ],
+    "description": "Loads of GBA classics are already available on Switch Online, but 10 more terrific games need to join the service.",
+    "contentEncoded": "<p>When the original Game Boy came out, games like the ones people enjoyed on their NES were finally playable on the go, and players loved <a href=\"https://www.polygon.com/nintendo/\" target=\"_blank\">Nintendo</a> for it. The green and black color palette was a bit of a bummer, but finally was rectified with the Game Boy Color. Even so, most of the games were still pretty basic. The next step was to make a handheld unit that could replicate the superior experience offered on the Super Nintendo, and the Game Boy Advance did precisely that.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/13148759/jbareham_180924_ply0802_0029.jpg",
+      "type": "image/jpeg",
+      "length": "525944"
+    },
+    "decision": "keep",
+    "reason": "Video game news and analysis about Switch Online service gaps.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-07T09:10:29.000Z"
+  },
+  {
+    "guid": "https://www.polygon.com/game-cancellations/",
+    "title": "10 Devastating Game Cancellations That Are Still Disappointing Years Later",
+    "link": "https://www.polygon.com/game-cancellations/",
+    "creator": "Jason Venter",
+    "pubDate": "Sat, 07 Nov 2026 03:03:27 GMT",
+    "categories": [
+      "Polygon Lists",
+      "Steam"
+    ],
+    "description": "Canceled games are nothing new, but 10 exciting games were taken out of action before they could deliver on their promise.",
+    "contentEncoded": "<p>Sometimes, it’s fun to think about the great games that might have been — until they were canceled without ever getting the chance to make their mark. Most of the time, we just shrug our shoulders and move on, because that’s life. But sometimes, we mourn the wasted potential.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/4339737/star_wars_1313.0.jpg",
+      "type": "image/jpeg",
+      "length": "203806"
+    },
+    "decision": "keep",
+    "reason": "Video game industry news about canceled projects and development.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-07T09:10:29.000Z"
+  },
+  {
+    "guid": "https://www.polygon.com/ananta-anime-gta-pc-ps5-release-date-2027-netease-games/",
+    "title": "GTA 6's Biggest Competition Officially Arrives on PC in 2027",
+    "link": "https://www.polygon.com/ananta-anime-gta-pc-ps5-release-date-2027-netease-games/",
+    "creator": "Willa Rowe",
+    "pubDate": "Sat, 07 Nov 2026 02:43:17 GMT",
+    "categories": [
+      "Gaming",
+      "Ananta"
+    ],
+    "description": "Ananta, the \"anime GTA\" game from NetEase, has an early 2027 release date, steering clear of Rockstar Games' Grand Theft Auto 6.",
+    "contentEncoded": "<p><a href=\"https://www.polygon.com/game/grand-theft-auto-6/40846/\" target=\"_blank\"><em>Grand Theft Auto 6</em></a> is set to dominate 2026 with its long-awaited release on PlayStation 5 and Xbox Series X, another game — one heavily inspired by GTA, <em>Marvel's Spider-Man</em>, and <em>Genshin Impact</em> — will give Rockstar Games a run for its money: <em>Ananta</em>. </p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/09/ananta-1.jpg",
+      "type": "image/jpeg",
+      "length": "3531"
+    },
+    "decision": "keep",
+    "reason": "Major game release date announcement competing with GTA 6.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-07T09:10:29.000Z"
+  },
+  {
     "guid": "https://www.polygon.com/ryan-gosling-flintstones-bamm-bamm-movie/",
     "title": "Ryan Gosling is Officially Reviving The Flintstones for New Project",
     "link": "https://www.polygon.com/ryan-gosling-flintstones-bamm-bamm-movie/",
