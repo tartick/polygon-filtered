@@ -6,7 +6,21 @@
     <description>Articles the Polygon filter tossed, with reasons.</description>
     <atom:link href="https://tartick.github.io/polygon-filtered/rejected.xml" rel="self" type="application/rss+xml"/>
     <language>en-US</language>
-    <lastBuildDate>Sat, 07 Nov 2026 15:31:59 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 19:00:18 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[Dropout’s Vic Michaelis Wants to Toss Their Star Wars Character Out a Window]]></title>
+      <link>https://www.polygon.com/dropout-vic-michaelis-interview-star-wars-zero-company/</link>
+      <guid isPermaLink="true">https://www.polygon.com/dropout-vic-michaelis-interview-star-wars-zero-company/</guid>
+      <dc:creator><![CDATA[Austin Manchester]]></dc:creator>
+      <pubDate>Sat, 07 Nov 2026 19:00:18 GMT</pubDate>
+      <category><![CDATA[Interview]]></category>
+      <category><![CDATA[Star Wars]]></category>
+      <category><![CDATA[Star Wars Zero Company]]></category>
+      <category><![CDATA[Dropout]]></category>
+      <enclosure url="https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/star-wars-zero-company-runa-close-up.jpeg" length="211" type="image/jpeg"/>
+      <description><![CDATA[[Filtered: Star Wars franchise churn; casting/set gossip interview.] Polygon spoke with Dropout's Vic Michaelis about their Star Wars Zero Company character Runa, one of the game's fan-favorite characters.]]></description>
+      <content:encoded><![CDATA[<p><a href="https://www.polygon.com/dropout/" target="_blank">Dropout</a> star <a href="https://www.polygon.com/dropout-dimension-20-very-important-people-vic-michaelis-interview/" target="_blank">Vic Michaelis</a> used to fall asleep to <a href="https://www.polygon.com/22875571/attack-of-the-clones-star-wars-obi-wan-2022/" target="_blank"><em>Attack of the Clones</em></a>. Not because they hated it, like so many Star Wars prequel detractors, but because it was their comfort watch. “I've seen the first 45 minutes of <em>Episode II</em>, I want to say, 300 times,” Michaelis told Polygon. “It's so comforting. The prequels hold a place in my heart where it is like nothing bad can happen when I'm watching them.”</p>]]></content:encoded>
+    </item>
     <item>
       <title><![CDATA[GI Joe and Paranormal Activity Get New Official Release Dates from Paramount]]></title>
       <link>https://www.polygon.com/paramount-gi-joe-release-date-paranormal-activity-delay/</link>
@@ -634,18 +648,6 @@
       <enclosure url="https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/ganondorfs-castle_oot.jpg" length="387" type="image/jpeg"/>
       <description><![CDATA[[Filtered: Rule: category &quot;Guides&quot;] Ganondorf's Castle is the final dungeon in Ocarina of Time. Here's how to break the barriers and defeat Ganon, so you can save Princess Zelda.]]></description>
       <content:encoded><![CDATA[<p><strong>Ganondorf's Castle </strong>is the final dungeon in <a href="https://www.polygon.com/the-legend-of-zelda-ocarina-of-time-remake/" target="_blank"><em>The Legend of Zelda: Ocarina of Time</em></a> remake, and you'll need to use everything you've learned from the previous dungeons to reach Ganondorf and save Princess Zelda.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title><![CDATA[Spirit Temple dungeon walkthrough in Ocarina of Time]]></title>
-      <link>https://www.polygon.com/zelda-ocarina-of-time-remake-oot-spirit-temple-dungeon-walkthrough/</link>
-      <guid isPermaLink="true">https://www.polygon.com/zelda-ocarina-of-time-remake-oot-spirit-temple-dungeon-walkthrough/</guid>
-      <dc:creator><![CDATA[Johnny Yu]]></dc:creator>
-      <pubDate>Thu, 05 Nov 2026 05:01:18 GMT</pubDate>
-      <category><![CDATA[Guides]]></category>
-      <category><![CDATA[The Legend of Zelda: Ocarina of Time]]></category>
-      <enclosure url="https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/spirit-temple_oot.jpg" length="516" type="image/jpeg"/>
-      <description><![CDATA[[Filtered: Rule: category &quot;Guides&quot;] The Spirit Temple will force you to travel through time in Ocarina of Time. Here's how to complete the dungeon.]]></description>
-      <content:encoded><![CDATA[<p>The <strong>Spirit Temple </strong>is another dungeon that you take on in the future in <a href="https://www.polygon.com/the-legend-of-zelda-ocarina-of-time-remake/" target="_blank"><em>The Legend of Zelda: Ocarina of Time</em></a> remake. You're sent to the Spirit Temple to find for Nabooru, the Gerudo's exalted leader.</p>]]></content:encoded>
     </item>
   </channel>
 </rss>
