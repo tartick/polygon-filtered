@@ -1,5 +1,188 @@
 [
   {
+    "guid": "https://www.polygon.com/paramount-gi-joe-release-date-paranormal-activity-delay/",
+    "title": "GI Joe and Paranormal Activity Get New Official Release Dates from Paramount",
+    "link": "https://www.polygon.com/paramount-gi-joe-release-date-paranormal-activity-delay/",
+    "creator": "Ashely Claudino",
+    "pubDate": "Sat, 07 Nov 2026 15:31:59 GMT",
+    "categories": [
+      "Entertainment",
+      "Paranormal Activity 8"
+    ],
+    "description": "Paramount reveals the release date for Danny McBride's GI Joe reboot and delays the next installment in the Paranormal Activity series.",
+    "contentEncoded": "<p>Paramount Pictures has announced that Danny McBride's <em>G.I. Joe</em> reboot is expected to premiere in movie theaters in late 2028. Unfortunately, not all news is good; Paramount has also pushed back the next installment in the Paranormal Activity <a href=\"http://polygon.com/horror\" target=\"_blank\">horror</a> series by six months.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/mcdpaac_ec023.jpg",
+      "type": "image/jpeg",
+      "length": "1281"
+    },
+    "decision": "toss",
+    "reason": "Big-franchise churn: GI Joe casting/news and streaming clickbait.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-07T15:53:00.360Z"
+  },
+  {
+    "guid": "https://www.polygon.com/world-of-warcraft-forever-record-breaking-launch/",
+    "title": "World of Warcraft Forever Officially Breaks Records For The 22-Year-Old MMO",
+    "link": "https://www.polygon.com/world-of-warcraft-forever-record-breaking-launch/",
+    "creator": "Tomas Franzese",
+    "pubDate": "Sat, 07 Nov 2026 15:25:08 GMT",
+    "categories": [
+      "World of Warcraft",
+      "World of Warcraft: Forever"
+    ],
+    "description": "World of Warcraft got a whole lot of people to come back and play the MMO together",
+    "contentEncoded": "<p>Blizzard Entertainment launched <a href=\"https://www.polygon.com/wow-world-of-warcraft-forever-starter-beginner-tips/\" target=\"_blank\"><em>World of Warcraft Forever</em></a> on Nov. 4, and it already seems very happy with the results. <a href=\"https://www.polygon.com/wow-world-of-warcraft-forever-launch-problems-horde-pvp/\" target=\"_blank\">The launch went much more smoothly</a> than some previous Blizzard game releases, and it even broke some records, an impressive feat for something building on a nearly 22-year-old MMO.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/wow_forever_scenic_announce_race_class_newcombos_054.png",
+      "type": "image/jpeg",
+      "length": "12211"
+    },
+    "decision": "keep",
+    "reason": "Video game news: MMO expansion launch and business/industry impact.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-07T15:53:00.360Z"
+  },
+  {
+    "guid": "https://www.polygon.com/james-bond-robert-pattinson/",
+    "title": "One Of Hollywood's Biggest Stars Just Auditioned For James Bond",
+    "link": "https://www.polygon.com/james-bond-robert-pattinson/",
+    "creator": "Tomas Franzese",
+    "pubDate": "Sat, 07 Nov 2026 14:51:43 GMT",
+    "categories": [
+      "Movies",
+      "James Bond"
+    ],
+    "description": "Robert Pattinson might be our next James Bond, according to new reports about the next James Bond film",
+    "contentEncoded": "<p>As auditions for the <a href=\"https://www.polygon.com/james-bond-casting-confirmed-auditions/\" target=\"_blank\">next James Bond</a> continue, new names are emerging and revealing which actors are up for the role. The latest on this from <a href=\"https://www.hollywoodreporter.com/movies/movie-news/robert-pattinson-tested-to-play-james-bond-1236749903/\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">The Hollywood Reporter</a> was particularly surprising, as it revealed some A-list Hollywood talent screen-tested for 007.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/19879751/bond_25_B25_25594_R_rgb.jpg",
+      "type": "image/jpeg",
+      "length": "1836767"
+    },
+    "decision": "toss",
+    "reason": "Big-franchise churn: James Bond casting gossip without substance.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-07T15:53:00.360Z"
+  },
+  {
+    "guid": "https://www.polygon.com/alien-ridley-scott-sci-fi-movie-streaming-december-2026/",
+    "title": "Ridley Scott’s R-Rated Sci-Fi Masterpiece is Officially Being Cut From Netflix",
+    "link": "https://www.polygon.com/alien-ridley-scott-sci-fi-movie-streaming-december-2026/",
+    "creator": "Sam Hill",
+    "pubDate": "Sat, 07 Nov 2026 13:16:18 GMT",
+    "categories": [
+      "Movies",
+      "Alien",
+      "Alien",
+      "Aliens"
+    ],
+    "description": "Alien and Aliens are leaving Netflix on Dec. 1, giving subscribers limited time to stream Ridley Scott’s sci-fi classics.",
+    "contentEncoded": "<p>Ridley Scott has directed some of the most iconic <a href=\"http://polygon.com/sci-fi\" target=\"_blank\">science fiction</a> movies of all time, from <a href=\"https://www.polygon.com/ridley-scott-blade-runner-final-cut-streaming-november-2026/\" target=\"_blank\"><em>Blade Runner</em></a> to <a href=\"https://www.polygon.com/appletv-streaming-august-2026-the-martian/\" target=\"_blank\"><em>The Martian</em></a>. However, few have had the same lasting impact as his 1979 sci-fi horror classic <a href=\"https://www.polygon.com/tag/alien/\" target=\"_blank\"><em>Alien</em></a>. The film helped redefine the genre by combining the terror of a slasher movie with the vast, isolating setting of outer space, introducing audiences to one of cinema's most memorable monsters in the process.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/msdalie_ec009_h.jpg",
+      "type": "image/jpeg",
+      "length": "233"
+    },
+    "decision": "toss",
+    "reason": "Streaming clickbait: 'leaving Netflix' deadline list format.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-07T15:53:00.360Z"
+  },
+  {
+    "guid": "https://www.polygon.com/funniest-far-side-comics-cows/",
+    "title": "10 Funniest 'Far Side' Comics About Cows",
+    "link": "https://www.polygon.com/funniest-far-side-comics-cows/",
+    "creator": "Brian VanHooker",
+    "pubDate": "Sat, 07 Nov 2026 12:14:17 GMT",
+    "categories": [
+      "Polygon Lists",
+      "comic strip"
+    ],
+    "description": "Gary Larson's The Far Side often featured cows in funny situations. Here are the 10 funniest examples",
+    "contentEncoded": "<p>From 1980 until 1995, cartoonist <a href=\"https://www.polygon.com/comics/2020/7/9/21318504/new-far-side-comics-gary-larson/\" target=\"_blank\">Gary Larson</a> wrote and drew <em>The Far Side</em>. It was a single panel comic strip filled with non-sequitur, surreal jokes mostly aimed at adults instead of children, which was unusual for newspaper comics at the time. Also unusual was the fact that, unlike most daily comic strips, <em>The Far Side</em> had no recurring characters. <em>Peanuts</em> has its gang of kids and <em>Garfield</em> has its cast of humans and animals, but every panel of <em>The Far Side</em> introduces new characters and scenarios all aimed at delivering one single joke.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/screen-shot-2026-08-19-at-2-17-15-pm.jpg",
+      "type": "image/jpeg",
+      "length": "298"
+    },
+    "decision": "toss",
+    "reason": "Nostalgic retrospective filler about decades-old comic strip.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-07T15:53:00.360Z"
+  },
+  {
+    "guid": "https://www.polygon.com/mass-effect-homecoming-samesh-bhatia-choice/",
+    "title": "Mass Effect’s Cruelest Moral Choice Remains Gaming's Most Haunting Mission 19 Years Later",
+    "link": "https://www.polygon.com/mass-effect-homecoming-samesh-bhatia-choice/",
+    "creator": "Rebecca Corgan",
+    "pubDate": "Sat, 07 Nov 2026 12:00:17 GMT",
+    "categories": [
+      "Opinion",
+      "Mass Effect"
+    ],
+    "description": "Mass Effect’s Homecoming quest asks you to hand a widower his wife’s body or keep it for research. Neither ending feels clean, but one is better",
+    "contentEncoded": "<p> So when, years later, an Alliance clerk <a href=\"https://www.youtube.com/watch?v=yfppMsZZ2IE\" target=\"_blank\">told Shepard</a> that a fallen marine named Nirali Bhatia “may save more lives in death than she did in life,” Shepard was faced with the decision — the <em>opportunity</em> — to make Nirali’s death count for something. Before the question ended, she was already agreeing. Hand a grieving husband his wife’s body? Or keep her for research that might save more lives down the line? Someone was going to pay for whichever answer I chose. (I knew Shepard would say yes. I also knew, thumbs hovering over the controller, that every part of me wished she wouldn’t.)</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/mass-effect-geth.jpg",
+      "type": "image/jpeg",
+      "length": "603"
+    },
+    "decision": "keep",
+    "reason": "Game analysis/opinion essay about beloved classic game's design.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-07T15:53:00.360Z"
+  },
+  {
+    "guid": "https://www.polygon.com/sydney-sweeney-gundam-netflix-transformers-sci-fi-epic/",
+    "title": "Sydney Sweeney's New Netflix Sci-Fi Epic Is Mandatory Viewing For Transformers Fans",
+    "link": "https://www.polygon.com/sydney-sweeney-gundam-netflix-transformers-sci-fi-epic/",
+    "creator": "Collier Jennings",
+    "pubDate": "Sat, 07 Nov 2026 11:30:17 GMT",
+    "categories": [
+      "FYI",
+      "Transformers",
+      "Sci-Fi",
+      "Gundam",
+      "Anime"
+    ],
+    "description": "Robots (not) in disguise.",
+    "contentEncoded": "<p><a href=\"https://www.polygon.com/tag/transformers/\" target=\"_blank\">Transformers</a> is a franchise that has built-in appeal in more ways than one. Apart from the concept of giant robots transforming into vehicles, there's the fact that two factions of these robots have been engaged in a war that spans millenia. There have been highs (including the grossly underrated <a href=\"https://www.polygon.com/review/453823/transformers-one-movie-chris-hemsworth/\" target=\"_blank\"><em>Transformers One</em></a>) and lows (including <a href=\"https://www.polygon.com/new-transformers-movie-steven-spielberg-michael-bay/\" target=\"_blank\">most of Michael Bay's films</a>), but it's more than likely that we'll be seeing Transformers stories until the heat death of the universe. Netflix is aiming to deliver its own take on another property that features giant robots, and it's tapped Sydney Sweeney to play a leading role in this potential franchise.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/sydney_sweeney.jpg",
+      "type": "image/jpeg",
+      "length": "130"
+    },
+    "decision": "toss",
+    "reason": "Anime news (Gundam); Transformers is big-franchise churn.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-07T15:53:00.360Z"
+  },
+  {
+    "guid": "https://www.polygon.com/star-trek-redshirts-tokens-explainer/",
+    "title": "Magic: The Gathering Star Trek Perfectly Captures the Sci-Fi Show’s Most Brutal Running Joke",
+    "link": "https://www.polygon.com/star-trek-redshirts-tokens-explainer/",
+    "creator": "Sam Nelson",
+    "pubDate": "Sat, 07 Nov 2026 11:00:17 GMT",
+    "categories": [
+      "Explainer",
+      "Star Trek",
+      "Magic: The Gathering",
+      "Tabletop Games"
+    ],
+    "description": "Lots of Redshirts are going to die",
+    "contentEncoded": "<p>Generating creature tokens is a common way to make the most out of your resources in a game of <a href=\"https://www.polygon.com/mtg-magic-the-gathering/\" target=\"_blank\"><em>Magic: The Gathering</em></a>. They can be sacrificed for powerful effects, used to <a href=\"https://magic.wizards.com/en/news/feature/chump-blocking-2012-08-22\" target=\"_blank\">chump block</a>, or amassed to overwhelm your opponent. Cards typically generate tokens of the same color, like white Warriors for <a href=\"https://scryfall.com/card/dtk/36/secure-the-wastes\" target=\"_blank\">Secure the Wastes</a>, green Squirrels for <a href=\"https://scryfall.com/card/prm/36132/deranged-hermit\" target=\"_blank\">Deranged Hermit</a>, and black Zombies for <a href=\"https://scryfall.com/card/mid/102/ghoulish-procession\" target=\"_blank\">Ghoulish Procession</a>. Yet numerous cards in <em>Magic: The Gathering Star Trek </em>generate 1/1 red Officer tokens regardless of the base color, from the white <a href=\"https://scryfall.com/card/trk/344/captain-benjamin-sisko\" target=\"_blank\">Captain Benjamin Sisko</a> to the green <a href=\"https://scryfall.com/card/trk/206/maco-strike-team\" target=\"_blank\">MACO Strike Team</a>. The discrepancy is a nod to the <a href=\"https://www.polygon.com/sci-fi/\" target=\"_blank\">sci-fi</a> franchise’s darkest running joke.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/he-s-dead-jim-art-star-trek-114-2c309b0d-94b4-405e-be6c-18b407323e51-art.jpg",
+      "type": "image/jpeg",
+      "length": "60"
+    },
+    "decision": "keep",
+    "reason": "Rule: category \"Magic: The Gathering\"",
+    "decidedBy": "rule",
+    "firstSeen": "2026-11-07T15:53:00.360Z"
+  },
+  {
     "guid": "https://www.polygon.com/best-sci-fi-tv-shows-to-watch-if-you-love-hbos-lanterns/",
     "title": "5 Sci-Fi Series To Watch If You Love HBO's 'Lanterns'",
     "link": "https://www.polygon.com/best-sci-fi-tv-shows-to-watch-if-you-love-hbos-lanterns/",
