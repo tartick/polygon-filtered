@@ -6,7 +6,22 @@
     <description>Polygon.com minus the shovelware.</description>
     <atom:link href="https://tartick.github.io/polygon-filtered/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-US</language>
-    <lastBuildDate>Sat, 07 Nov 2026 18:00:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 21:00:17 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[Commander Shepard’s Actor Accidentally Immortalized One Mass Effect Race as Steve Buscemi]]></title>
+      <link>https://www.polygon.com/mass-effect-commander-shepard-mark-meer-interview/</link>
+      <guid isPermaLink="true">https://www.polygon.com/mass-effect-commander-shepard-mark-meer-interview/</guid>
+      <dc:creator><![CDATA[Austin Manchester]]></dc:creator>
+      <pubDate>Sat, 07 Nov 2026 21:00:17 GMT</pubDate>
+      <category><![CDATA[Interview]]></category>
+      <category><![CDATA[Mass Effect]]></category>
+      <category><![CDATA[Mass Effect 2]]></category>
+      <category><![CDATA[Mass Effect 3]]></category>
+      <category><![CDATA[Mass Effect: Legendary Edition]]></category>
+      <enclosure url="https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/7675959/mass_effect_2.jpg" length="472536" type="image/jpeg"/>
+      <description><![CDATA[Polygon spoke to Mass Effect's Mark Meer about how he joined the series and how he and fellow Shepard Jennifer Hale defined the character.]]></description>
+      <content:encoded><![CDATA[<p>Mark Meer never planned on saving the universe, but the universe had other plans.</p>]]></content:encoded>
+    </item>
     <item>
       <title><![CDATA[I Wouldn’t Dream of Playing the Zelda: Ocarina of Time Remake Right Now]]></title>
       <link>https://www.polygon.com/switchboard-zelda-ocarina-of-time-switch-2-remake/</link>
@@ -634,19 +649,6 @@
       <enclosure url="https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/sword-of-truth-and-justice-extra-life-2026-magic.jpg" length="2282" type="image/jpeg"/>
       <description><![CDATA[Truth, justice... and polygons?]]></description>
       <content:encoded><![CDATA[<p><a href="https://www.polygon.com/mtg-magic-the-gathering/" target="_blank"><em>Magic: The Gathering</em></a> is reaching into its inventory of powerful artifacts to reprint a sword worth nearly $30, complete with gloriously nostalgic video game artwork. <a href="https://scryfall.com/card/mh1/229/sword-of-truth-and-justice" rel="noopener noreferrer nofollow" target="_blank">Sword of Truth and Justice</a>, a popular Equipment first released in 2019, is returning in a new <em>Secret Lair</em> collection that draws inspiration from the blocky, polygonal graphics of the Nintendo 64 and original PlayStation era.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title><![CDATA[Phantom Blade Zero Meets God of War Ragnarök in Upcoming Steam Action Game Hit]]></title>
-      <link>https://www.polygon.com/tides-of-annihilation-preview-gamescom-2026/</link>
-      <guid isPermaLink="true">https://www.polygon.com/tides-of-annihilation-preview-gamescom-2026/</guid>
-      <dc:creator><![CDATA[Ari Notis]]></dc:creator>
-      <pubDate>Tue, 03 Nov 2026 20:30:17 GMT</pubDate>
-      <category><![CDATA[Previews]]></category>
-      <category><![CDATA[Phantom Blade Zero]]></category>
-      <category><![CDATA[Tides of Annihilation]]></category>
-      <enclosure url="https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/tides-annihilation-epic.png" length="9282" type="image/jpeg"/>
-      <description><![CDATA[Tides of Annihilation plays a whole lot like Black Myth: Wukong, Phantom Blade Zero, and other stylish action games out of China's gaming scene.]]></description>
-      <content:encoded><![CDATA[<p>Right now, the gaming world is obsessed with <a href="https://www.polygon.com/phantom-blade-zero/" target="_blank"><em>Phantom Blade Zero</em></a>. S-Game’s Wuxia-inspired action game landed as one of the <a href="https://www.polygon.com/phantom-blade-zero-review-roundup-score/" target="_blank">highest-rated games of 2026</a> and immediately tore up the charts on Steam, <a href="https://www.polygon.com/phantom-blade-zero-4-million-copies-opening-weekend/" target="_blank">cracking 800,000 concurrent players</a> on launch weekend. <a href="https://www.polygon.com/phantom-blade-zero-review/" target="_blank">I’m enjoying <em>Phantom Blade Zero</em></a>, even if it does have a few too many parries for my taste. But it’s primarily made me more excited about a similar, promising game I briefly played earlier this year: <em>Tides of Annihilation</em>.</p>]]></content:encoded>
     </item>
   </channel>
 </rss>

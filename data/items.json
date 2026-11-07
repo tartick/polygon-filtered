@@ -1,5 +1,80 @@
 [
   {
+    "guid": "https://www.polygon.com/perfect-anime-arcs-everyone-needs-to-watch/",
+    "title": "5 Incredible Anime Arcs That Are 10/10, No Notes",
+    "link": "https://www.polygon.com/perfect-anime-arcs-everyone-needs-to-watch/",
+    "creator": "Debopriyaa Dutta",
+    "pubDate": "Sat, 07 Nov 2026 21:04:17 GMT",
+    "categories": [
+      "Polygon Lists",
+      "Anime",
+      "Mob Psycho 100",
+      "Fullmetal Alchemist: Brotherhood",
+      "Berserk",
+      "Naruto",
+      "Jojo's Bizarre Adventure",
+      "TV"
+    ],
+    "description": "These anime storylines elevate these five series with thrilling character developments and satisfying resolutions.",
+    "contentEncoded": "<p>Consider the Chimera Ant arc from <em><a href=\"https://www.polygon.com/watch-shonen-coming-of-age-anime-binge-watch-netflix/\" target=\"_blank\">Hunter x Hunter</a></em>, which is nothing short of <a href=\"https://www.polygon.com/22619955/hunter-x-hunter-chimera-ant-fans-netflix/\" target=\"_blank\">a rite of passage</a>. It pushes the anime’s deconstruction of <a href=\"https://www.polygon.com/anime-genres-meaning-list-explained-shonen-shojo-seinin-isekai/\" target=\"_blank\">shonen</a> conventions to its limits while sending Gon Freecss and Killua Zoldyck down starkly different paths. The Shibuya Incident arc from <em><a href=\"https://www.polygon.com/jujutsu-kaisen-best-fight-scenes-battle-shonen-ranked/\" target=\"_blank\">Jujutsu Kaisen</a></em> is similarly transformative, shattering the established order of jujutsu society through its intersecting perspectives, major character deaths, and relentless succession of battles.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/mob-psycho-scary-painting.webp",
+      "type": "image/jpeg",
+      "length": "202"
+    },
+    "decision": "toss",
+    "reason": "Anime news falls outside video game focus; includes Naruto.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-07T23:53:12.109Z"
+  },
+  {
+    "guid": "https://www.polygon.com/mass-effect-commander-shepard-mark-meer-interview/",
+    "title": "Commander Shepard’s Actor Accidentally Immortalized One Mass Effect Race as Steve Buscemi",
+    "link": "https://www.polygon.com/mass-effect-commander-shepard-mark-meer-interview/",
+    "creator": "Austin Manchester",
+    "pubDate": "Sat, 07 Nov 2026 21:00:17 GMT",
+    "categories": [
+      "Interview",
+      "Mass Effect",
+      "Mass Effect 2",
+      "Mass Effect 3",
+      "Mass Effect: Legendary Edition"
+    ],
+    "description": "Polygon spoke to Mass Effect's Mark Meer about how he joined the series and how he and fellow Shepard Jennifer Hale defined the character.",
+    "contentEncoded": "<p>Mark Meer never planned on saving the universe, but the universe had other plans.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/7675959/mass_effect_2.jpg",
+      "type": "image/jpeg",
+      "length": "472536"
+    },
+    "decision": "keep",
+    "reason": "Video game interview about iconic series and voice acting.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-07T23:53:12.109Z"
+  },
+  {
+    "guid": "https://www.polygon.com/obsession-horror-hit-streaming-peacock-november-2026/",
+    "title": "The No. 1 Horror Movie of 2026 Is Officially Leaving Peacock",
+    "link": "https://www.polygon.com/obsession-horror-hit-streaming-peacock-november-2026/",
+    "creator": "Ashley Potter",
+    "pubDate": "Sat, 07 Nov 2026 20:34:48 GMT",
+    "categories": [
+      "News",
+      "Obsession"
+    ],
+    "description": "Unless you have a One Wish Willow handy, you'll want to get in a final watch soon.",
+    "contentEncoded": "<p>Not many directors can say their debut film was a blockbuster hit, let alone a cultural phenomenon. But newcomer Curry Barker, who wrote and directed<em> Obsession</em>, the <a href=\"https://www.polygon.com/obsession-vod-streaming-hit/\" target=\"_blank\">No. 1 horror movie of 2026</a>, can say he's accomplished both. The film takes a look at the dangers of getting exactly what you wish for when Bear (Michael Johnston) makes a wish that his friend Nikki Freeman (Inde Navarrette) would love him more than anyone else in the world. Despite being made on only a $750,000 budget, the film dominated the box office when it hit theaters, earning $17.2 million in its first week and a staggering $23.9 million in its second week.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/mcdobse_uc003-1-1.jpg",
+      "type": "image/jpeg",
+      "length": "1296"
+    },
+    "decision": "toss",
+    "reason": "Rule: streaming clickbait headline",
+    "decidedBy": "rule",
+    "firstSeen": "2026-11-07T23:53:12.109Z"
+  },
+  {
     "guid": "https://www.polygon.com/dropout-vic-michaelis-interview-star-wars-zero-company/",
     "title": "Dropout’s Vic Michaelis Wants to Toss Their Star Wars Character Out a Window",
     "link": "https://www.polygon.com/dropout-vic-michaelis-interview-star-wars-zero-company/",
