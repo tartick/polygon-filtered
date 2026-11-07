@@ -1,5 +1,71 @@
 [
   {
+    "guid": "https://www.polygon.com/ryan-gosling-flintstones-bamm-bamm-movie/",
+    "title": "Ryan Gosling is Officially Reviving The Flintstones for New Project",
+    "link": "https://www.polygon.com/ryan-gosling-flintstones-bamm-bamm-movie/",
+    "creator": "Willa Rowe",
+    "pubDate": "Sat, 07 Nov 2026 01:30:17 GMT",
+    "categories": [
+      "Movies",
+      "The Flintstones"
+    ],
+    "description": "Ryan Gosling and Warner Bros are developing live-action Flintstones reboot about Bamm-Bamm",
+    "contentEncoded": "<p>Ryan Gosling has been incredibly booked and busy of late. He starred in the lead role in the <a href=\"http://polygon.com/sci-fi\" target=\"_blank\">sci-fi</a> smash hit <a href=\"https://www.polygon.com/project-hail-mary-review-ryan-gosling/\" target=\"_blank\"><em>Project Hail Mary</em></a> earlier this year. In 2027, he'll travel to the galaxy far, far away in <a href=\"https://www.polygon.com/star-wars-starfighter-cast-release-date-ryan-gosling-matt-smith/\" target=\"_blank\">St<em>ar Wars: Starfighter</em></a>. Then in 2028 he'll make his long-awaited MCU debut as <a href=\"https://www.polygon.com/ghost-rider-ryan-gosling-2028-release-date/\" target=\"_blank\">Ghost Rider</a>, re-teaming with <em>Starfighter </em>director Shawn Levy. If all that wasn't enough, Gosling has lined up one more unexpected project: <a href=\"https://www.polygon.com/23538791/hbo-max-looney-tunes-flintstones-removed/\" target=\"_blank\"><em>The Flintstones</em></a>.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24783115/rev_1_BAR_TT3_0104_High_Res_JPEG.jpeg",
+      "type": "image/jpeg",
+      "length": "1962635"
+    },
+    "decision": "toss",
+    "reason": "Generic nostalgic reboot of old IP; not prestige or genuinely anticipated.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-07T02:18:49.293Z"
+  },
+  {
+    "guid": "https://www.polygon.com/gta-games-ranked-metacritic-scores/",
+    "title": "Every GTA Game, Ranked by Metacritic Score",
+    "link": "https://www.polygon.com/gta-games-ranked-metacritic-scores/",
+    "creator": "Jen Glennon",
+    "pubDate": "Sat, 07 Nov 2026 00:30:17 GMT",
+    "categories": [
+      "Polygon Lists",
+      "Grand Theft Auto"
+    ],
+    "description": "With plenty of Grand Theft Auto games earning Metacritic scores in the high 90s, GTA 6 has an exceptionally high bar to meet.",
+    "contentEncoded": "<p>With plenty of installments boasting Metacritic scores in the high 90s, <em>GTA 6</em> has an exceptionally high bar to meet. That said, the series has had occasional growing pains over the years, even if true stinkers are a rarity among Rockstar Games’ back catalog. These are the top 10 GTA games of all time, ranked according to their Metacritic scores.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/grand-theft-auto-5-gta-key-art.jpg",
+      "type": "image/jpeg",
+      "length": "522"
+    },
+    "decision": "toss",
+    "reason": "Ranking list/tier list format; Steven tosses these per taste profile.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-07T02:18:49.293Z"
+  },
+  {
+    "guid": "https://www.polygon.com/zelda-ocarina-of-time-happy-mask-shop-spooky-skull-bunny-hood/",
+    "title": "All Happy Mask Shop buyer locations in Zelda Ocarina of Time",
+    "link": "https://www.polygon.com/zelda-ocarina-of-time-happy-mask-shop-spooky-skull-bunny-hood/",
+    "creator": "Josh Broadwell",
+    "pubDate": "Fri, 06 Nov 2026 22:38:46 GMT",
+    "categories": [
+      "Guides",
+      "The Legend of Zelda: Ocarina of Time"
+    ],
+    "description": "This guide walks you through each step of Ocarina of Time's Happy Mask Shop quest, including who gets the Spooky Mask, Skull Mask, and Bunny Hood",
+    "contentEncoded": "<p><strong><em><a href=\"https://www.polygon.com/the-legend-of-zelda-ocarina-of-time-remake/\" target=\"_blank\">The Legend of Zelda: Ocarina of Time</a></em> remake's Happy Mask Shop quest</strong> sends you around Hyrule peddling masks to specific customers. That sounds like a cushy gig, except you have very little guidance about who your customers are, and you occasionally even have to pay back the cost of the mask, too. However, if you want a big chunk of cash and a chance to see and hear everything in <em>Ocarina of Time</em>, it's worth the hassle.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/ocarina-of-time-happy-mask-shop-quest.jpg",
+      "type": "image/jpeg",
+      "length": "713"
+    },
+    "decision": "toss",
+    "reason": "Rule: category \"Guides\"",
+    "decidedBy": "rule",
+    "firstSeen": "2026-11-07T02:18:49.293Z"
+  },
+  {
     "guid": "https://www.polygon.com/zelda-ocarina-of-time-remake-oot-epona-horse-how-to-get/",
     "title": "Where to get Epona in Ocarina of Time",
     "link": "https://www.polygon.com/zelda-ocarina-of-time-remake-oot-epona-horse-how-to-get/",
