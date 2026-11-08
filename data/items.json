@@ -1,5 +1,142 @@
 [
   {
+    "guid": "https://www.polygon.com/zelda-ocarina-of-time-better-than-elder-scrolls-skyrim/",
+    "title": "Zelda: Ocarina of Time Beats The Elder Scrolls 5: Skyrim in One Major Way",
+    "link": "https://www.polygon.com/zelda-ocarina-of-time-better-than-elder-scrolls-skyrim/",
+    "creator": "Jason Venter",
+    "pubDate": "Sun, 08 Nov 2026 12:00:17 GMT",
+    "categories": [
+      "Opinion",
+      "The Legend of Zelda: Ocarina of Time",
+      "The Legend of Zelda: Ocarina of Time",
+      "Skyrim"
+    ],
+    "description": "Ocarina of Time and The Elder Scrolls 5: Skyrim are two of the industry's biggest games, but their publishers have deployed them very differently.",
+    "contentEncoded": "<p>After years spent dreaming of a remake or remaster of <a href=\"https://www.polygon.com/the-legend-of-zelda-ocarina-of-time-switch-2-review/\" target=\"_blank\"><em>The Legend of Zelda: Ocarina of Time</em></a>, the highest-rated video game of all time <a href=\"https://www.metacritic.com/browse/game/\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">according to Metacritic</a>, fans finally saw their wish fulfilled in 2026. Nintendo announced a remake for Switch 2 earlier this year, and the title arrived in stores this week.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/8669311/vlcsnap_00169.png",
+      "type": "image/jpeg",
+      "length": "1962963"
+    },
+    "decision": "keep",
+    "reason": "Video game analysis and opinion comparing two major game releases.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-08T13:13:02.800Z"
+  },
+  {
+    "guid": "https://www.polygon.com/matthew-mercer-dungeon-master-advice-dungeons-and-dragons/",
+    "title": "Matt Mercer's Best Critical Role Quote Is Still the Most Inspiring Line in D&D History",
+    "link": "https://www.polygon.com/matthew-mercer-dungeon-master-advice-dungeons-and-dragons/",
+    "creator": "Aimee Hart",
+    "pubDate": "Sun, 08 Nov 2026 11:00:17 GMT",
+    "categories": [
+      "Analysis",
+      "Critical Role",
+      "Dungeons & Dragons",
+      "Actual Play"
+    ],
+    "description": "If you're looking to become a Dungeon Master, Matthew Mercer's advice is all you need.",
+    "contentEncoded": "<p><a href=\"https://www.polygon.com/matthew-mercer-best-critical-role-moments/\" target=\"_blank\">Matthew Mercer</a> is one of the world's most popular Dungeon Masters. Alongside other incredible DMs like Deborah Ann Woll, Brennan Lee Mulligan, and Aabria Iyengar, Mercer has undeniably shaped how players worldwide approach tabletop role-playing games. As <a href=\"http://polygon.com/critical-role\" target=\"_blank\">Critical Role</a>, the multimedia entertainment company Mercer co-founded, has grown and evolved over the years, one thing has remained constant: Mercer’s willingness to help other tabletop players. He is especially eager to support aspiring Dungeon Masters who hope to develop their skills and become as accomplished as he is, even appearing on the official <a href=\"https://www.polygon.com/dnd-dungeons-dragons/\" target=\"_blank\">Dungeons & Dragons</a><a href=\"https://www.youtube.com/watch?v=k8bliYnpMaM\" target=\"_blank\">YouTube page</a> to provide assistance.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/critical-role-matt-mercer-hed.jpg",
+      "type": "image/jpeg",
+      "length": "209"
+    },
+    "decision": "keep",
+    "reason": "Critical Role content with DM advice; consistent with past keeps.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-08T13:13:02.800Z"
+  },
+  {
+    "guid": "https://www.polygon.com/charlie-brown-pencil-pal-history-peanuts/",
+    "title": "68 Years Later, Peanuts’ Most Mysterious Character Is Finally Making Her Official Debut — But There's a Catch",
+    "link": "https://www.polygon.com/charlie-brown-pencil-pal-history-peanuts/",
+    "creator": "Thomas Hindmarch",
+    "pubDate": "Sun, 08 Nov 2026 10:30:17 GMT",
+    "categories": [
+      "Comics",
+      "comic strip"
+    ],
+    "description": "\"Yeah, but Morag--\" Hang on, we're covering that",
+    "contentEncoded": "<p>There are some elements of Charles Schulz's <em>Peanuts</em><a href=\"https://www.polygon.com/comics/\" target=\"_blank\">comic</a> that have hardly aged at all, such as the characters' relationships or its focus on team sports. Most kids in America, before or since, have had the experience of being on a team where one kid is taking the game way too seriously while another seems barely aware of what's going on.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/snoopy-unleashed-2027-apple-tv.jpg",
+      "type": "image/jpeg",
+      "length": "617"
+    },
+    "decision": "toss",
+    "reason": "Peanuts comic strip retrospective; nostalgia piece unrelated to games/horror.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-08T13:13:02.800Z"
+  },
+  {
+    "guid": "https://www.polygon.com/starfield-retrospective-bethesda-story/",
+    "title": "Bethesda's Most Reviled Game Becomes a 10/10 If You Ignore the Story",
+    "link": "https://www.polygon.com/starfield-retrospective-bethesda-story/",
+    "creator": "Jason Venter",
+    "pubDate": "Sun, 08 Nov 2026 10:00:17 GMT",
+    "categories": [
+      "Gaming",
+      "Starfield"
+    ],
+    "description": "If you bounced from one of Bethesda's biggest releases because the plot didn't spark interest, you missed out.",
+    "contentEncoded": "<p>Recently, Bethesda dominated conversations simply by announcing that the long-awaited <a href=\"https://www.polygon.com/elder-scrolls-6-sentinel-bethesda-name-announced/\" target=\"_blank\"><em>Elder Scrolls 6</em> has an official subtitle</a>: <em>Sentinel</em>. We didn’t learn much more than that, but it was enough to keep us talking because that’s the sort of hold Bethesda has on us. Sometimes. There have been other instances, however, when the hold loosened.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/sam-coe-starfield.jpg",
+      "type": "image/jpeg",
+      "length": "1140"
+    },
+    "decision": "keep",
+    "reason": "Video game analysis and retrospective about major Bethesda release.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-08T13:13:02.800Z"
+  },
+  {
+    "guid": "https://www.polygon.com/anya-taylor-joy-sci-fi-netflix-super-mario-galaxy-movie/",
+    "title": "Anya Taylor-Joy's Billion-Dollar Sci-Fi Epic Officially Sets New Streaming Home on Netflix",
+    "link": "https://www.polygon.com/anya-taylor-joy-sci-fi-netflix-super-mario-galaxy-movie/",
+    "creator": "Aimee Hart",
+    "pubDate": "Sun, 08 Nov 2026 09:30:17 GMT",
+    "categories": [
+      "FYI",
+      "The Super Mario Galaxy Movie"
+    ],
+    "description": "Anya Taylor-Joy's epic space blockbuster arrives on Netflix in just a few weeks.",
+    "contentEncoded": "<p>Anya Taylor-Joy captivated audiences as chess prodigy Beth Harmon in <a href=\"http://polygon.com/netflix\" target=\"_blank\">Netflix</a>’s 2020 miniseries <em>The Queen’s Gambit</em>. Her performance balanced poise with emotional depth, creating a character whose story and presence have lingered with viewers long after the series ended. Even years later, the role remains especially memorable — more so than her appearances in action-packed franchises, including Fox’s Marvel superhero film <em>The New Mutants</em>.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/anya-taylor-joy.jpg",
+      "type": "image/jpeg",
+      "length": "113"
+    },
+    "decision": "toss",
+    "reason": "Streaming availability clickbait about film adaptation; lacks substance.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-08T13:13:02.800Z"
+  },
+  {
+    "guid": "https://www.polygon.com/sydney-sweeney-erotic-thriller-the-housemaid-hbo-max/",
+    "title": "Sydney Sweeney’s Extremely R-Rated 131-Minute Thriller Is Officially Streaming on HBO",
+    "link": "https://www.polygon.com/sydney-sweeney-erotic-thriller-the-housemaid-hbo-max/",
+    "creator": "Debopriyaa Dutta",
+    "pubDate": "Sun, 08 Nov 2026 09:09:17 GMT",
+    "categories": [
+      "What to Watch",
+      "The Housemaid",
+      "Thriller"
+    ],
+    "description": "Sydney Sweeney’s R-rated thriller The Housemaid is streaming on HBO, bringing 131 minutes of twisted secrets and suspense to your watchlist.",
+    "contentEncoded": "<p>Despite its overwhelming commercial success, Freida McFadden’s psychological thriller, <a href=\"https://www.polygon.com/the-housemaid-movie-sydney-sweeney-amanda-seyfried-hbo-streaming-date/\" target=\"_blank\"><em>The Housemaid</em></a>, is far from a perfect read. Trope-heavy and full of obvious contrivances, <em>The Housemaid </em>sets up a tense domestic thriller premise that is meant to be consumed as a fast-paced popcorn novel. This, however, sets the stage for a pulpy screen adaptation, one that mimics the conventions of a lurid thriller with some decent character writing to round things out.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/opera-snapshot_2026-10-08_005752_www-imdb-com.png",
+      "type": "image/jpeg",
+      "length": "1052"
+    },
+    "decision": "toss",
+    "reason": "Rule: streaming clickbait headline",
+    "decidedBy": "rule",
+    "firstSeen": "2026-11-08T13:13:02.800Z"
+  },
+  {
     "guid": "https://www.polygon.com/best-final-fantasy-magic-the-gathering-card-designs/",
     "title": "10 Perfectly Designed Final Fantasy Magic Cards That Are 10/10, No Notes",
     "link": "https://www.polygon.com/best-final-fantasy-magic-the-gathering-card-designs/",
