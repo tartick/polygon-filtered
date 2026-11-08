@@ -1,5 +1,50 @@
 [
   {
+    "guid": "https://www.polygon.com/buffy-the-vampire-slayer-best-buffy-quote/",
+    "title": "25 Years Later, ‘Buffy the Vampire Slayer’s Best Quote Is Still the Most Inspiring Line in TV History",
+    "link": "https://www.polygon.com/buffy-the-vampire-slayer-best-buffy-quote/",
+    "creator": "Maria Loreto",
+    "pubDate": "Sun, 08 Nov 2026 21:00:17 GMT",
+    "categories": [
+      "Opinion",
+      "TV",
+      "Buffy The Vampire Slayer"
+    ],
+    "description": "Buffy’s sacrifice for Dawn in the season 5 finale gave us one of the show’s best quotes and an ending that could have closed the series for good.",
+    "contentEncoded": "<p>Buffy’s story has always revolved around death. Throughout its seven-season run, Buffy Summers (Sarah Michelle Gellar) has wanted to escape from it or, boldly, return to it. Upon a rewatch, death is one of the clearest themes of the series — this wasn’t the case on my first time watching, when I reacted in disbelief every time the series brought up the possibility of Buffy dying. Surely, they wouldn’t go there. But they did.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/buffy.jpg",
+      "type": "image/jpeg",
+      "length": "9185"
+    },
+    "decision": "toss",
+    "reason": "Nostalgia retrospective about old TV show, not new news.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-08T22:24:45.321Z"
+  },
+  {
+    "guid": "https://www.polygon.com/fortnite-chapter-7-vault-locations-c7ms/",
+    "title": "All vault locations in the Fortnite Chapter 7 mini season",
+    "link": "https://www.polygon.com/fortnite-chapter-7-vault-locations-c7ms/",
+    "creator": "Johnny Yu",
+    "pubDate": "Sun, 08 Nov 2026 18:39:47 GMT",
+    "categories": [
+      "Guides",
+      "Fortnite"
+    ],
+    "description": "Vaults are full of valuable loot in Fortnite Chapter 7's mini season. Here's where to find them all and how to open them.",
+    "contentEncoded": "<p><strong>Vaults</strong> are locked locations around the map that contain rare chests and a <a href=\"https://www.polygon.com/fortnite-chapter-7-mini-season-all-sprites-list-abilities/\" target=\"_blank\">sprite</a> chest in <a href=\"https://www.polygon.com/game/fortnite/2417/\" target=\"_blank\"><em>Fortnite</em></a><a href=\"https://www.polygon.com/fortnite-chapter-7-mini-season-pirate-battle-pass-skins-outfits/\" target=\"_blank\">Chapter 7's mini season</a>.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/covered-vault_oot.jpg",
+      "type": "image/jpeg",
+      "length": "373"
+    },
+    "decision": "toss",
+    "reason": "Rule: category \"Guides\"",
+    "decidedBy": "rule",
+    "firstSeen": "2026-11-08T22:24:45.321Z"
+  },
+  {
     "guid": "https://www.polygon.com/godzilla-minus-zero-opening-weekend-box-office/",
     "title": "Godzilla Minus Zero Opening Weekend Box Office Breaks A Foreign-Language Film Records",
     "link": "https://www.polygon.com/godzilla-minus-zero-opening-weekend-box-office/",
