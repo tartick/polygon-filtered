@@ -1,5 +1,186 @@
 [
   {
+    "guid": "https://www.polygon.com/godzilla-minus-zero-opening-weekend-box-office/",
+    "title": "Godzilla Minus Zero Opening Weekend Box Office Breaks A Foreign-Language Film Records",
+    "link": "https://www.polygon.com/godzilla-minus-zero-opening-weekend-box-office/",
+    "creator": "Tomas Franzese",
+    "pubDate": "Sun, 08 Nov 2026 17:15:02 GMT",
+    "categories": [
+      "Movies",
+      "Godzilla Minus Zero"
+    ],
+    "description": "Godzilla Minus Zero had a great first weekend in theaters",
+    "contentEncoded": "<p><em>Godzilla Minus Zero</em> had a strong opening weekend, grossing more at the domestic box office than any live action foreign-language film before it. On top of that, a higher percentage of people sought out premium screens, like IMAX, to watch it even more than they did for <a href=\"https://www.polygon.com/the-odyssey-christopher-nolan-highest-grossing-film/\" target=\"_blank\"><em>The Odyssey</em></a> earlier this year.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/mcdgomi_ec019.jpg",
+      "type": "image/jpeg",
+      "length": "506"
+    },
+    "decision": "toss",
+    "reason": "Box office reporting lacks substance; not prestige/highly anticipated.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-08T18:28:18.916Z"
+  },
+  {
+    "guid": "https://www.polygon.com/the-legend-of-zelda-ocarina-of-time-parrying/",
+    "title": "The Legend of Zelda: Ocarina of Time Thankfully Resists FromSoftware’s Influence",
+    "link": "https://www.polygon.com/the-legend-of-zelda-ocarina-of-time-parrying/",
+    "creator": "Giovanni Colantonio",
+    "pubDate": "Sun, 08 Nov 2026 17:00:19 GMT",
+    "categories": [
+      "Analysis",
+      "The Legend of Zelda: Ocarina of Time",
+      "Nintendo Switch 2"
+    ],
+    "description": "The Legend of Zelda: Ocarina of Time makes a lot of modernizations to the original game, but there's one thing it doesn't add: parrying.",
+    "contentEncoded": "<p>This year in video games, I’ve swung a digital sword more times than I can count. Thrilling action games like<em><a href=\"https://www.polygon.com/onimusha-way-of-the-sword-review/\" target=\"_blank\">Onimusha: Way of the Sword</a></em> and <a href=\"https://www.polygon.com/phantom-blade-zero-review/\" target=\"_blank\"><em>Phantom Blade Zero</em></a> have gotten the feel of a sword fight down to a science, as steel clashes and sparks fly in spectacular fashion. But my favorite duels of the year aren’t in any of this year’s most razor-sharp action games; they’re all in <a href=\"https://www.polygon.com/the-legend-of-zelda-ocarina-of-time-switch-2-review/\" target=\"_blank\"><em>The Legend of Zelda: Ocarina of Time</em></a>.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/zelda-ocarina-of-time-remake-attack-deflection.png",
+      "type": "image/jpeg",
+      "length": "20080"
+    },
+    "decision": "keep",
+    "reason": "Video game analysis and design piece about major Nintendo release.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-08T18:28:18.916Z"
+  },
+  {
+    "guid": "https://www.polygon.com/ocarina-of-time-remake-speedrunning-actor-jumping/",
+    "title": "Speedrunners Already Breaking The Legend of Zelda: Ocarina of Time's Remake",
+    "link": "https://www.polygon.com/ocarina-of-time-remake-speedrunning-actor-jumping/",
+    "creator": "Tomas Franzese",
+    "pubDate": "Sun, 08 Nov 2026 16:32:01 GMT",
+    "categories": [
+      "The Legend of Zelda",
+      "The Legend of Zelda: Ocarina of Time"
+    ],
+    "description": "The addition of jumping to The Legend of Zelda: Ocarina of Time has enabled a new speedrunning trick",
+    "contentEncoded": "<p>Speedrunners have had their hands on the Nintendo Switch 2 remake of <a href=\"https://www.polygon.com/zelda-ocarina-of-time-switch-2-remake-goty-game-awards/\" target=\"_blank\"><em>The Legend of Zelda: Ocarina of Time</em></a> for a couple of days now, and some funky tricks have already been discovered. In particular, the remake's addition of a jumping mechanic has enabled new speedrunning tactics that just weren't possible in the Nintendo 64 original or its 3DS remake.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/ocarina-of-time-happy-mask-bunny-hood.jpg",
+      "type": "image/jpeg",
+      "length": "995"
+    },
+    "decision": "keep",
+    "reason": "Video game news about speedrunning discovery in major release.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-08T18:28:18.916Z"
+  },
+  {
+    "guid": "https://www.polygon.com/zelda-ocarina-of-time-switch-2-remake-goty-game-awards/",
+    "title": "Zelda: Ocarina of Time Is Guaranteed a GOTY Nomination. It Will Never Win",
+    "link": "https://www.polygon.com/zelda-ocarina-of-time-switch-2-remake-goty-game-awards/",
+    "creator": "Oli Welsh",
+    "pubDate": "Sun, 08 Nov 2026 16:00:17 GMT",
+    "categories": [
+      "GOTY Watch",
+      "The Legend of Zelda: Ocarina of Time",
+      "The Game Awards"
+    ],
+    "description": "Nintendo's Switch 2 remake of The Legend of Zelda: OoT will do well at The Game Awards 2026, but it can't win",
+    "contentEncoded": "<p>Here are the four remakes that were nominated: <em>Resident Evil 2</em>, <em>Resident Evil 4</em>, <em>Final Fantasy 7 Remake</em>, and <em>Final Fantasy 7 Rebirth</em>. Apart from the obvious, what these four games have in common is their bold retellings of the original stories in a completely modern gaming vernacular, sometimes with radical changes. The Final Fantasy 7 remake project turns one game into three that might as well be in a different genre.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/ns2_thelegendofzeldaocarinaoftime_scrn_11.png",
+      "type": "image/jpeg",
+      "length": "18167"
+    },
+    "decision": "toss",
+    "reason": "Speculative Game Awards prediction lacks substance or news value.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-08T18:28:18.916Z"
+  },
+  {
+    "guid": "https://www.polygon.com/ocarina-of-time-master-quest-switch-2/",
+    "title": "The Legend Of Zelda: Ocarina of Time For Switch 2 Could Bring Back A Classic Mode",
+    "link": "https://www.polygon.com/ocarina-of-time-master-quest-switch-2/",
+    "creator": "Tomas Franzese",
+    "pubDate": "Sun, 08 Nov 2026 15:38:32 GMT",
+    "categories": [
+      "The Legend of Zelda",
+      "The Legend of Zelda: Ocarina of Time"
+    ],
+    "description": "Master Quest might come to The Legend of Zelda: Ocarina of Time's Nintendo Switch 2 remake as DLC",
+    "contentEncoded": "<p>Now that <a href=\"https://www.polygon.com/switchboard-zelda-ocarina-of-time-switch-2-remake/\" target=\"_blank\"><em>The Legend of Zelda: Ocarina of Time's</em> Nintendo Switch 2 remake</a> has been out for a couple of days, people are already looking for secrets tucked away within the game through datamining. One of the biggest discoveries from that is that Master Quest, which was missing from the remake at release, could be in the works. </p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/the-legend-of-zelda-ocarina-of-time-goron-and-link.png",
+      "type": "image/jpeg",
+      "length": "18703"
+    },
+    "decision": "keep",
+    "reason": "Video game news about potential DLC and classic mode return.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-08T18:28:18.916Z"
+  },
+  {
+    "guid": "https://www.polygon.com/assassins-creed-hexe-delay-leak/",
+    "title": "Assassin's Creed Hexe Reportedly Delayed As New Assassin's Creed Games Leak",
+    "link": "https://www.polygon.com/assassins-creed-hexe-delay-leak/",
+    "creator": "Tomas Franzese",
+    "pubDate": "Sun, 08 Nov 2026 15:07:40 GMT",
+    "categories": [
+      "Assassin's Creed",
+      "Assassin's Creed Black Flag Resynced"
+    ],
+    "description": "Some new insider reporting has shed new light on the future of Assassin's Creed",
+    "contentEncoded": "<p>Some new reports regarding the <a href=\"https://www.polygon.com/assassins-creed/\" target=\"_blank\">Assassin's Creed series</a> emerged last week, giving us a better idea of what to expect from Ubisoft's flagship series for the rest of the decade. While we learned about two Assassin's Creed titles for the first time, it has also been reported that the development of <a href=\"https://www.polygon.com/assassins-creed-games-all-updates-release-dates/\" target=\"_blank\"><em>Assassin's Creed Hexe</em></a> is taking longer than expected.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/assassin-s-creed-codename-hexe-official-announcement-trailer-_-ubisoft-forward-2022-0-18-screenshot.jpg",
+      "type": "image/jpeg",
+      "length": "206"
+    },
+    "decision": "keep",
+    "reason": "Video game business news about major franchise delay and leaks.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-08T18:28:18.916Z"
+  },
+  {
+    "guid": "https://www.polygon.com/star-trek-magic-the-gathering-saga-cards-episodes/",
+    "title": "Magic’s Star Trek Set Doubles as a Must-Watch Guide to the Sci-Fi Franchise",
+    "link": "https://www.polygon.com/star-trek-magic-the-gathering-saga-cards-episodes/",
+    "creator": "Terry Terrones",
+    "pubDate": "Sun, 08 Nov 2026 15:00:17 GMT",
+    "categories": [
+      "Polygon Lists",
+      "Star Trek",
+      "Magic: The Gathering",
+      "Tabletop Games",
+      "Trading Card Game"
+    ],
+    "description": "From The Wrath of Khan to The Best of Both Worlds, discover the 14 Star Trek stories inspiring Magic: The Gathering's new Saga cards.",
+    "contentEncoded": "<p>Prerelease events for <em>Magic</em>’s <a href=\"https://www.polygon.com/star-trek/\" target=\"_blank\"><em>Star Trek</em></a> begin this weekend before a global launch on Nov. 13. The set celebrates six decades of the franchise with cards featuring familiar characters, starships, and memorable adventures. Among them are 14 saga enchantments inspired by — and named after — 13 television episodes and one movie.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/worf-holds-at-bat-leth-in-art-from-magic-the-gathering-star-trek.jpg",
+      "type": "image/jpeg",
+      "length": "72"
+    },
+    "decision": "keep",
+    "reason": "Rule: category \"Magic: The Gathering\"",
+    "decidedBy": "rule",
+    "firstSeen": "2026-11-08T18:28:18.916Z"
+  },
+  {
+    "guid": "https://www.polygon.com/cairn-game-bakers-interview/",
+    "title": "Cairn 'Belongs' Next to Death Stranding in ‘History of Grand Adventure Games'",
+    "link": "https://www.polygon.com/cairn-game-bakers-interview/",
+    "creator": "Matt Patches",
+    "pubDate": "Sun, 08 Nov 2026 14:05:44 GMT",
+    "categories": [
+      "Interview",
+      "Cairn"
+    ],
+    "description": "Cairn is the latest game from The Game Bakers, and though it looks like a sports game, it really has the spirit of an action-adventure game.",
+    "contentEncoded": "<p>Game Bakers co-founder and <em>Cairn </em>producer Audrey Leprince did not set out to “simulate climbing.” The vision was to build an action-adventure game about survival, obsession, sacrifice, and what drives someone to accomplish the impossible. With <em>Cairn</em>’s new DLC <em>On the Trail: Deep Water</em> out now, Leprince spoke to Polygon about scaling the project and working with director Emeric Thoa to produce a project more meaningful than a simple sports game.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/cairn-lede-image.jpg",
+      "type": "image/jpeg",
+      "length": "720"
+    },
+    "decision": "keep",
+    "reason": "Video game interview about independent action-adventure title.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-08T18:28:18.916Z"
+  },
+  {
     "guid": "https://www.polygon.com/zelda-ocarina-of-time-better-than-elder-scrolls-skyrim/",
     "title": "Zelda: Ocarina of Time Beats The Elder Scrolls 5: Skyrim in One Major Way",
     "link": "https://www.polygon.com/zelda-ocarina-of-time-better-than-elder-scrolls-skyrim/",
