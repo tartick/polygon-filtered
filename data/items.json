@@ -1,5 +1,165 @@
 [
   {
+    "guid": "https://www.polygon.com/best-final-fantasy-magic-the-gathering-card-designs/",
+    "title": "10 Perfectly Designed Final Fantasy Magic Cards That Are 10/10, No Notes",
+    "link": "https://www.polygon.com/best-final-fantasy-magic-the-gathering-card-designs/",
+    "creator": "Ryan Epps",
+    "pubDate": "Sun, 08 Nov 2026 05:00:17 GMT",
+    "categories": [
+      "Polygon Lists",
+      "Magic: The Gathering"
+    ],
+    "description": "Discover 10 perfectly designed Final Fantasy Magic: The Gathering cards that nail the crossover's flavor and mechanics.",
+    "contentEncoded": "<p>Packed with hilarious nods, like <a href=\"https://scryfall.com/card/fin/164/suplex\" target=\"_blank\">Suplex</a>, and incredible powerhouses, like <a href=\"https://scryfall.com/card/fin/183/diamond-weapon\" target=\"_blank\">Diamond Weapon</a>, it comes as no surprise that <a href=\"https://www.polygon.com/mtg-final-fantasy-best-commanders-venat-heart-of-hydaelyn-underrated/\" target=\"_blank\"><em>Final Fantasy</em></a> is among the best Universe Beyond sets in the game. But the most perfect designs among them capture a fundamental element of their source material, whether that's <a href=\"https://scryfall.com/card/fin/1/summon:-bahamut\" target=\"_blank\">Bahamut</a>'s devastating Mega Flare, <a href=\"https://scryfall.com/card/fin/29/phoenix-down\" target=\"_blank\">Phoenix Down'</a>s clutch resurrection, or the sheer spectacle of summoning <a href=\"https://scryfall.com/card/fin/121/summon:-primal-odin\" target=\"_blank\">Primal Odin</a>.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/buster-sword-mtg-final-fantasy.png",
+      "type": "image/jpeg",
+      "length": "2572"
+    },
+    "decision": "keep",
+    "reason": "Rule: category \"Magic: The Gathering\"",
+    "decidedBy": "rule",
+    "firstSeen": "2026-11-08T05:50:17.668Z"
+  },
+  {
+    "guid": "https://www.polygon.com/the-legend-of-korra-season-3-best-season/",
+    "title": "Paramount’s 4-Part Action Fantasy Epic Has One of the Best Seasons in TV History",
+    "link": "https://www.polygon.com/the-legend-of-korra-season-3-best-season/",
+    "creator": "Maria Loreto",
+    "pubDate": "Sun, 08 Nov 2026 04:00:17 GMT",
+    "categories": [
+      "What to Watch",
+      "TV",
+      "The Legend of Korra"
+    ],
+    "description": "In its third season, a beloved animated hero grows up the hard way, living with the fallout of her biggest choice and facing a chilling new villain.",
+    "contentEncoded": "<p>Few things feel more grown-up than dealing with the consequences of your actions. Whether you stay up too late and still have to get up the next day or make a mistake at work and have to answer for it, adulthood means no one’s coming to fix things. For the most part, it’s all up to you.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/legend-of-korra-outlook.jpeg",
+      "type": "image/jpeg",
+      "length": "300"
+    },
+    "decision": "toss",
+    "reason": "Generic animated series retrospective/analysis, not prestige or anticipated.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-08T05:50:17.668Z"
+  },
+  {
+    "guid": "https://www.polygon.com/best-dragon-age-replacements/",
+    "title": "9 Near-Perfect Dragon Age Replacements For Fans of Fantasy RPGs",
+    "link": "https://www.polygon.com/best-dragon-age-replacements/",
+    "creator": "Rebecca Corgan",
+    "pubDate": "Sun, 08 Nov 2026 03:40:49 GMT",
+    "categories": [
+      "Polygon Lists",
+      "Dragon Age"
+    ],
+    "description": "If you're looking for the best games like Dragon Age, these Dragon Age replacement fantasy RPGs have you covered.",
+    "contentEncoded": "<p>BioWare’s Dragon Age is a fantasy RPG series about warring factions, world-ending threats, and, yes, the occasional dragon – but that’s the first-glance take. Get into one Dragon Age game (<a href=\"https://www.polygon.com/game/dragon-age-origins/7190/\" target=\"_blank\">start with <em>Origins</em>!</a>) and you’ll see that the true heart of this series is the people you drag into hell with you.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/9450027/dragon_age.jpg",
+      "type": "image/jpeg",
+      "length": "1069793"
+    },
+    "decision": "keep",
+    "reason": "RPG recommendations and analysis for fans; game-focused feature.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-08T05:50:17.668Z"
+  },
+  {
+    "guid": "https://www.polygon.com/gta-games-all-2026-where-to-play/",
+    "title": "How to Play Every GTA Game in 2026",
+    "link": "https://www.polygon.com/gta-games-all-2026-where-to-play/",
+    "creator": "Oli Welsh",
+    "pubDate": "Sun, 08 Nov 2026 02:54:13 GMT",
+    "categories": [
+      "Polygon Lists",
+      "Grand Theft Auto"
+    ],
+    "description": "GTA might be the most popular video game franchise of all time, but a lot of it is hard to play. Here's a guide on how to play every GTA game.",
+    "contentEncoded": "<p>Rockstar Games seems to have an ambivalent attitude towards GTA's past, particularly the early 2D games and some spinoff titles, and its record in making these games available is decidedly spotty. Below, we break down the current state of availability of every game in the series — where you can find it, and what the best way to play it is.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/grand-theft-auto-6-promo-shot.jpg",
+      "type": "image/jpeg",
+      "length": "1165194"
+    },
+    "decision": "toss",
+    "reason": "Guide/walkthrough-style article about playing GTA games.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-08T05:50:17.668Z"
+  },
+  {
+    "guid": "https://www.polygon.com/top-bioware-games/",
+    "title": "8 Near-Perfect BioWare Games That Aged Like Fine Wine",
+    "link": "https://www.polygon.com/top-bioware-games/",
+    "creator": "Rebecca Corgan",
+    "pubDate": "Sun, 08 Nov 2026 02:43:33 GMT",
+    "categories": [
+      "Polygon Lists",
+      "Mass Effect 2"
+    ],
+    "description": "From Baldur's Gate to a surprisingly good Sonic RPG, these 8 BioWare games still hold up decades later",
+    "contentEncoded": "<p>A pack of wolves can end a <a href=\"https://www.polygon.com/baldurs-gate/604108/baldurs-gate-1-2-xbox-game-pass/\" target=\"_blank\"><em>Baldur’s Gate 1</em></a><em></em>playthrough a mere five minutes after the tutorial ends. A squadmate you didn’t bother checking in on in <a href=\"https://www.polygon.com/game/mass-effect-2/840/\" target=\"_blank\"><em>Mass Effect 2</em></a> can die permanently during a mission you don’t get to redo. And a Sonic RPG on the Nintendo DS can end its story with the good guys saving the universe…then coming home to find someone named Eggman conquered Earth while they were gone. Most people know <a href=\"https://www.bioware.com/\" target=\"_blank\">BioWare</a> as the <a href=\"https://www.polygon.com/game/mass-effect/2468/\" target=\"_blank\">Mass Effect</a> studio, which is incredible on its own — but that undersells the vast range that built the studio’s reputation in the first place.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/07/Neverwinter-Nights-2-Enhanced-Edition-cover-image-Shadow-King.jpg",
+      "type": "image/jpeg",
+      "length": "1163572"
+    },
+    "decision": "keep",
+    "reason": "Game retrospective and recommendations; substantive for gamers.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-08T05:50:17.668Z"
+  },
+  {
+    "guid": "https://www.polygon.com/star-trek-captain-pike-most-inspiring-quote/",
+    "title": "4 Years Later, Captain Pike's Most Inspiring Star Trek Quote Is Still the Best Sci-Fi Line of the Decade",
+    "link": "https://www.polygon.com/star-trek-captain-pike-most-inspiring-quote/",
+    "creator": "Terry Terrones",
+    "pubDate": "Sun, 08 Nov 2026 02:00:17 GMT",
+    "categories": [
+      "Star Trek",
+      "Star Trek",
+      "TV",
+      "Sci-Fi",
+      "Star Trek: Strange New Worlds"
+    ],
+    "description": "Anson Mount's Captain Pike delivers a powerful Star Trek quote about hope, destiny, and why the future is still ours to shape.",
+    "contentEncoded": "<p>For most of <a href=\"https://www.polygon.com/star-trek/\" target=\"_blank\">Star Trek's</a> existence, Christopher Pike was little more than a footnote in franchise history. He was the captain of the Enterprise before <a href=\"https://www.polygon.com/all-captain-kirks-ranked/\" target=\"_blank\">James T. Kirk</a>, a character whose greatest claim to fame was appearing in a rejected television pilot. Then Anson Mount came along and changed everything.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/08/snw3_307_mg_03_27_24_00037_rt_f.jpg",
+      "type": "image/jpeg",
+      "length": "791"
+    },
+    "decision": "toss",
+    "reason": "TV quote retrospective; not horror, prestige, or anticipated project.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-08T05:50:17.668Z"
+  },
+  {
+    "guid": "https://www.polygon.com/probably-stolen-cyberpunk-shopkeeping-simulator-steam-hit/",
+    "title": "Cyberpunk 2077 Meets Papers, Please in Steam’s Latest Surprise Viral Hit",
+    "link": "https://www.polygon.com/probably-stolen-cyberpunk-shopkeeping-simulator-steam-hit/",
+    "creator": "Ford James",
+    "pubDate": "Sun, 08 Nov 2026 00:00:17 GMT",
+    "categories": [
+      "What to Play",
+      "Probably Stolen",
+      "Steam",
+      "Steam"
+    ],
+    "description": "Probably Stolen is the latest indie game to explode in popularity on Steam, pulling in over 150,000 concurrent players, and it's showing no signs of s",
+    "contentEncoded": "<p>Every now and then, a game with little to no fanfare pre-launch gets blessed by the algorithm and surges in popularity. <em>Probably Stolen </em>is the latest recipient of this; after being released on Oct. 28, it's continued to climb in popularity, peaking at 174,382 concurrent players on Nov. 4, according to <a href=\"https://steamdb.info/app/4348910/charts/#1m\" target=\"_blank\">SteamDB</a>.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/probably-stolen-steam-hit-header.jpg",
+      "type": "image/jpeg",
+      "length": "117666"
+    },
+    "decision": "keep",
+    "reason": "New indie game news; viral Steam hit announcement and coverage.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-08T05:50:17.668Z"
+  },
+  {
     "guid": "https://www.polygon.com/perfect-anime-arcs-everyone-needs-to-watch/",
     "title": "5 Incredible Anime Arcs That Are 10/10, No Notes",
     "link": "https://www.polygon.com/perfect-anime-arcs-everyone-needs-to-watch/",
