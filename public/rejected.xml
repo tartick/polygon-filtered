@@ -6,7 +6,19 @@
     <description>Articles the Polygon filter tossed, with reasons.</description>
     <atom:link href="https://tartick.github.io/polygon-filtered/rejected.xml" rel="self" type="application/rss+xml"/>
     <language>en-US</language>
-    <lastBuildDate>Sun, 08 Nov 2026 21:00:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 00:00:17 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[Sega’s Most Influential Platformer Deserves Its Big Remake Moment Next]]></title>
+      <link>https://www.polygon.com/super-monkey-ball-retrospective-25-years-sega/</link>
+      <guid isPermaLink="true">https://www.polygon.com/super-monkey-ball-retrospective-25-years-sega/</guid>
+      <dc:creator><![CDATA[Jason Venter]]></dc:creator>
+      <pubDate>Mon, 09 Nov 2026 00:00:17 GMT</pubDate>
+      <category><![CDATA[Opinion]]></category>
+      <category><![CDATA[Super Monkey Ball]]></category>
+      <enclosure url="https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/assets/4489221/gamecube-controller-photo_1280.jpg" length="459934" type="image/jpeg"/>
+      <description><![CDATA[[Filtered: Nostalgia retrospective about old game from 25 years ago.] Not every remake has to be for a huge game. Some quicker plays from yesteryear could also benefit, like one all-time great from Sega.]]></description>
+      <content:encoded><![CDATA[<p>With <a href="https://www.polygon.com/eiji-aunoma-legend-zelda-interview/" target="_blank"><em>The Legend of Zelda: Ocarina of Time</em></a> and even <em>Star Fox</em> recently proving there is still an appetite for remakes done right, other game publishers are likely looking at their backlogs for inspiration. Sega, no stranger to fantastic franchises, suddenly finds itself once more in an enviable position. It has a bunch of great old games ripe for revival, and several of them seem capable of making a mark again.</p>]]></content:encoded>
+    </item>
     <item>
       <title><![CDATA[25 Years Later, ‘Buffy the Vampire Slayer’s Best Quote Is Still the Most Inspiring Line in TV History]]></title>
       <link>https://www.polygon.com/buffy-the-vampire-slayer-best-buffy-quote/</link>
@@ -642,19 +654,6 @@
       <enclosure url="https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/poke-mon-tcg-pocket_-dual-fusion-_-official-trailer-1-13-screenshot.jpeg" length="214" type="image/jpeg"/>
       <description><![CDATA[[Filtered: Pokémon TCG retail/restock story; falls under toss category.] Pokémon's Eevee-themed UPC will be hard to buy unless you know how retailers like Target and Best Buy are handling the tricky release]]></description>
       <content:encoded><![CDATA[<p>As Nov. 6 nears, many <a href="https://www.polygon.com/pokemon/" target="_blank">Pokémon</a> Trading Card Game fans are trying to decide how to best approach release day for the <a href="https://www.polygon.com/pokemon-30th-anniversary-tcg-expansion-product-list-etb-ultra-premium/" target="_blank">30th Anniversary's</a><a href="https://www.polygon.com/pokemon-30th-anniversary-upc-ultra-premium-preorder-target-walmart-prices/" target="_blank">Ultra Premium Collection.</a> The product, which comes with 30 packs and two exclusive cards, isn't cheap — and most retailers won't be getting much stock. If you're truly intent on getting the UPC on day one, though, you're probably debating between a <a href="https://www.polygon.com/target-pokemon-raffle-lottery-tcg-how-does-it-work-enter-rules-where/" target="_blank">Target</a> store versus a Best Buy location. Each retailer will handle the UPC's release a little differently.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title><![CDATA[Major Pokémon Center TCG Orders Delayed At The Last Minute]]></title>
-      <link>https://www.polygon.com/pokemon-center-track-check-order-delta-reign-etb-delay-release-date/</link>
-      <guid isPermaLink="true">https://www.polygon.com/pokemon-center-track-check-order-delta-reign-etb-delay-release-date/</guid>
-      <dc:creator><![CDATA[Patricia Hernandez]]></dc:creator>
-      <pubDate>Thu, 05 Nov 2026 18:52:27 GMT</pubDate>
-      <category><![CDATA[News]]></category>
-      <category><![CDATA[Pokemon]]></category>
-      <category><![CDATA[Pokemon Trading Card Game]]></category>
-      <enclosure url="https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/02/sad-pikachu.jpg" length="202" type="image/jpeg"/>
-      <description><![CDATA[[Filtered: Pokémon TCG retail/fulfillment issue; not game-related Pokémon content.] Pokémon TCG fans who pre-ordered Delta Reign ETBs still haven't been charged, and TPC has not issued shipping updates]]></description>
-      <content:encoded><![CDATA[<p><a href="https://www.polygon.com/pokemon/" target="_blank">Pokémon</a> Trading Card Game fans have spent the last couple of days feeling anxious. <a href="https://www.polygon.com/pokemon-tcg-delta-reign-review/" target="_blank">Delta Reign</a>, the next big TCG set, releases on Friday — and The Pokémon Center hasn't updated anyone about their orders. Typically, the official Pokémon storefront charges for pre-orders a few days before release; shipment updates tend to come the day before launch. It turns out the lack of communication reflects an actual, active issue with orders.</p>]]></content:encoded>
     </item>
   </channel>
 </rss>

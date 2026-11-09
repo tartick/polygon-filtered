@@ -6,7 +6,20 @@
     <description>Polygon.com minus the shovelware.</description>
     <atom:link href="https://tartick.github.io/polygon-filtered/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-US</language>
-    <lastBuildDate>Sun, 08 Nov 2026 17:00:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 01:00:17 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[Zelda: Ocarina of Time and WoW: Forever Are the Good Kind of Remakes]]></title>
+      <link>https://www.polygon.com/patch-notes-remakes-zelda-ocarina-of-time-wow-forever/</link>
+      <guid isPermaLink="true">https://www.polygon.com/patch-notes-remakes-zelda-ocarina-of-time-wow-forever/</guid>
+      <dc:creator><![CDATA[Oli Welsh]]></dc:creator>
+      <pubDate>Mon, 09 Nov 2026 01:00:17 GMT</pubDate>
+      <category><![CDATA[Patch Notes]]></category>
+      <category><![CDATA[The Legend of Zelda: Ocarina of Time]]></category>
+      <category><![CDATA[World of Warcraft: Forever]]></category>
+      <enclosure url="https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/the-legend-of-zelda-ocarina-of-time-deku-tree.png" length="24781" type="image/jpeg"/>
+      <description><![CDATA[Nintendo and Blizzard's new versions of The Legend of Zelda: OoT and World of Warcraft are different from other remakes]]></description>
+      <content:encoded><![CDATA[<p><em><strong>Patch Notes</strong> is a weekly newsletter bringing you the best of Polygon, sent on Fridays and published on the site on Sundays. You can </em><a href="https://www.polygon.com/page/newsletter/" target="_blank"><em>subscribe here</em></a><em>.</em></p>]]></content:encoded>
+    </item>
     <item>
       <title><![CDATA[The Legend of Zelda: Ocarina of Time Thankfully Resists FromSoftware’s Influence]]></title>
       <link>https://www.polygon.com/the-legend-of-zelda-ocarina-of-time-parrying/</link>
@@ -632,19 +645,6 @@
       <enclosure url="https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/gta6-3.jpg" length="211" type="image/jpeg"/>
       <description><![CDATA[GTA 6 hasn't launched yet, but new estimates suggest Rockstar's blockbuster is already approaching 8 million sales.]]></description>
       <content:encoded><![CDATA[<p>The anticipation surrounding <a href="https://www.polygon.com/game/grand-theft-auto-6/40846/" target="_blank"><em>Grand Theft Auto 6</em></a> is reaching a fever pitch as Rockstar Games' long-awaited open-world adventure gets closer to its launch. Between fans dissecting every trailer, <a href="https://www.polygon.com/xbox-alligator-console-giveaway-november-2026/" target="_blank">an alligator Xbox sweepstakes</a> capitalizing on the hype, and players <a href="https://www.polygon.com/gta-6-preload-when-is-ps5-xbox-times-file-size-gb-poster-map-rockstar/" target="_blank">preparing their hard drives for the massive download</a>, it's clear that few games have generated this much excitement ahead of launch.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title><![CDATA[5 Elder Scrolls 6 Fan Theories That Should Actually Happen In Sentinel]]></title>
-      <link>https://www.polygon.com/elder-scrolls-6-sentinel-best-theories/</link>
-      <guid isPermaLink="true">https://www.polygon.com/elder-scrolls-6-sentinel-best-theories/</guid>
-      <dc:creator><![CDATA[Francesco Cacciatore]]></dc:creator>
-      <pubDate>Wed, 04 Nov 2026 18:04:11 GMT</pubDate>
-      <category><![CDATA[Polygon Lists]]></category>
-      <category><![CDATA[The Elder Scrolls]]></category>
-      <category><![CDATA[The Elder Scrolls 6: Sentinel]]></category>
-      <enclosure url="https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/elder-scrolls-6-theories-list-featured-image.jpg" length="1358" type="image/jpeg"/>
-      <description><![CDATA[From sailing on a boat to the return of the franchise's most mysterious race, here are five theories we would like to see come true in TES6: Sentinel.]]></description>
-      <content:encoded><![CDATA[<p>For its 40th anniversary, legendary developer Bethesda gave its fans the best possible gift: <a href="https://www.polygon.com/elder-scrolls-6-sentinel-bethesda-name-announced/" target="_blank">another <em>The Elder Scrolls 6</em> tease</a>. Yeah. But wait, this time, we got a title! One that the community had already guessed years ago. But beggars can’t be choosers. At this point, the Elder Scrolls series has garnered enough goodwill from players that we can happily eat this new breadcrumb and keep waiting for the game. Just a little bit more.</p>]]></content:encoded>
     </item>
   </channel>
 </rss>

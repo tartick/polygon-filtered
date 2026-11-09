@@ -1,5 +1,50 @@
 [
   {
+    "guid": "https://www.polygon.com/patch-notes-remakes-zelda-ocarina-of-time-wow-forever/",
+    "title": "Zelda: Ocarina of Time and WoW: Forever Are the Good Kind of Remakes",
+    "link": "https://www.polygon.com/patch-notes-remakes-zelda-ocarina-of-time-wow-forever/",
+    "creator": "Oli Welsh",
+    "pubDate": "Mon, 09 Nov 2026 01:00:17 GMT",
+    "categories": [
+      "Patch Notes",
+      "The Legend of Zelda: Ocarina of Time",
+      "World of Warcraft: Forever"
+    ],
+    "description": "Nintendo and Blizzard's new versions of The Legend of Zelda: OoT and World of Warcraft are different from other remakes",
+    "contentEncoded": "<p><em><strong>Patch Notes</strong> is a weekly newsletter bringing you the best of Polygon, sent on Fridays and published on the site on Sundays. You can </em><a href=\"https://www.polygon.com/page/newsletter/\" target=\"_blank\"><em>subscribe here</em></a><em>.</em></p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/the-legend-of-zelda-ocarina-of-time-deku-tree.png",
+      "type": "image/jpeg",
+      "length": "24781"
+    },
+    "decision": "keep",
+    "reason": "Game remakes and updates analysis; Zelda and WoW news.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-09T01:55:09.076Z"
+  },
+  {
+    "guid": "https://www.polygon.com/super-monkey-ball-retrospective-25-years-sega/",
+    "title": "Sega’s Most Influential Platformer Deserves Its Big Remake Moment Next",
+    "link": "https://www.polygon.com/super-monkey-ball-retrospective-25-years-sega/",
+    "creator": "Jason Venter",
+    "pubDate": "Mon, 09 Nov 2026 00:00:17 GMT",
+    "categories": [
+      "Opinion",
+      "Super Monkey Ball"
+    ],
+    "description": "Not every remake has to be for a huge game. Some quicker plays from yesteryear could also benefit, like one all-time great from Sega.",
+    "contentEncoded": "<p>With <a href=\"https://www.polygon.com/eiji-aunoma-legend-zelda-interview/\" target=\"_blank\"><em>The Legend of Zelda: Ocarina of Time</em></a> and even <em>Star Fox</em> recently proving there is still an appetite for remakes done right, other game publishers are likely looking at their backlogs for inspiration. Sega, no stranger to fantastic franchises, suddenly finds itself once more in an enviable position. It has a bunch of great old games ripe for revival, and several of them seem capable of making a mark again.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/assets/4489221/gamecube-controller-photo_1280.jpg",
+      "type": "image/jpeg",
+      "length": "459934"
+    },
+    "decision": "toss",
+    "reason": "Nostalgia retrospective about old game from 25 years ago.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-09T01:55:09.076Z"
+  },
+  {
     "guid": "https://www.polygon.com/buffy-the-vampire-slayer-best-buffy-quote/",
     "title": "25 Years Later, ‘Buffy the Vampire Slayer’s Best Quote Is Still the Most Inspiring Line in TV History",
     "link": "https://www.polygon.com/buffy-the-vampire-slayer-best-buffy-quote/",
