@@ -1,5 +1,232 @@
 [
   {
+    "guid": "https://www.polygon.com/big-walks-ai-controversy-goty-2026/",
+    "title": "Big Walk AI Controversy Is a GOTY Awards Twist Sparking a Bigger Debate",
+    "link": "https://www.polygon.com/big-walks-ai-controversy-goty-2026/",
+    "creator": "Ari Notis",
+    "pubDate": "Tue, 10 Nov 2026 19:25:34 GMT",
+    "categories": [
+      "Analysis",
+      "Big Walk"
+    ],
+    "description": "Big Walk faces a hurdle ahead of GOTY season, as IGF jury members draw a hardline stance against voting for games that have any AI use whatsoever.",
+    "contentEncoded": "<p><a href=\"https://www.polygon.com/big-walk/\" target=\"_blank\"><em>Big Walk</em></a>, one of the <a href=\"https://www.polygon.com/big-walk-review-roundup/\" target=\"_blank\">best-reviewed games of 2026</a> and by all measures a Game of the Year darling, faces a crossroads on the eve of awards season. Following a recent disclosure of AI use from its developer, <em>Big Walk</em>’s chances at one awards show seem fraught. And its shot at the big one (December’s Game Awards) might be impacted. But it’s not just a chapter in 2026’s awards show saga. In many ways, it’s a boiling over of a debate that’s been bubbling in the games industry for several years now.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/big-walk.png",
+      "type": "image/jpeg",
+      "length": "6721"
+    },
+    "decision": "keep",
+    "reason": "Game industry news and GOTY awards debate affecting game releases.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-10T19:38:05.975Z"
+  },
+  {
+    "guid": "https://www.polygon.com/zelda-ocarina-time-remake-funny-moments/",
+    "title": "Nobody Said The Legend of Zelda: Ocarina of Time Was This Funny",
+    "link": "https://www.polygon.com/zelda-ocarina-time-remake-funny-moments/",
+    "creator": "Jen Glennon",
+    "pubDate": "Tue, 10 Nov 2026 19:19:58 GMT",
+    "categories": [
+      "Opinion",
+      "The Legend of Zelda: Ocarina of Time"
+    ],
+    "description": "It may be impossible to play Zelda: Ocarina of Time totally free of spoilers in 2026, but the jokes are 100% fresh.",
+    "contentEncoded": "<p>Though I’ve never played <a href=\"https://www.polygon.com/the-legend-of-zelda-ocarina-of-time-remake/\" target=\"_blank\"><em>The Legend of Zelda: Ocarina of Time</em></a> until now, I’ve heard people sing its praises for years. Mostly, this revolved around its <a href=\"https://www.metacritic.com/game/the-legend-of-zelda-ocarina-of-time/\" target=\"_blank\">impossibly high score of 99</a> on Metacritic, its influential open world and combat design, and its memorable dungeons. But none of those ardent fans bothered to tell me that this classic game has some genuinely hilarious moments. Because the game was originally released 28 years ago, a spoiler-free experience is pretty much off the table for me. But the goofs and gags? Those are all 100% fresh.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/zeldaootremake_guide_princessruto_lead.jpg",
+      "type": "image/jpeg",
+      "length": "271"
+    },
+    "decision": "toss",
+    "reason": "Nostalgia retrospective of old game with no new substance.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-10T19:38:05.975Z"
+  },
+  {
+    "guid": "https://www.polygon.com/tsarevna-official-gameplay-trailer-dancer-slasher-game/",
+    "title": "2027's Most Stylish Action Game Looks Spectacular in First Official Gameplay",
+    "link": "https://www.polygon.com/tsarevna-official-gameplay-trailer-dancer-slasher-game/",
+    "creator": "Austin Manchester",
+    "pubDate": "Tue, 10 Nov 2026 19:07:20 GMT",
+    "categories": [
+      "News",
+      "PC"
+    ],
+    "description": "Tsarevna is an upcoming hack-and-slash action game that uses motion capture from a real ballerina for its dance-inspired melee combat.",
+    "contentEncoded": "<p><a href=\"https://www.polygon.com/gaming/607577/tsarevna-ballet-combat-slasher-game-announced/\" target=\"_blank\"><em>Tsarevna</em> was announced last year</a>, and immediately grabbed our attention. Billed as the \"world's first ballet-inspired\" action game on its <a href=\"https://store.steampowered.com/app/3348640/TSAREVNA_Age_of_Tales/\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">Steam page</a>, it features motion capture from real-life ballerina Alyona Kovalyova for its hack-and-slash gameplay. In a new gameplay trailer released Tuesday, that ballet action is on full display, making <em>Tsarevna</em> shoot up my list of most anticipated 2027 games.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/tsarevna-screenshot.jpg",
+      "type": "image/jpeg",
+      "length": "529"
+    },
+    "decision": "keep",
+    "reason": "New action game announcement with official gameplay reveal.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-10T19:38:05.975Z"
+  },
+  {
+    "guid": "https://www.polygon.com/absolute-batman-saves-dc-comics-skydance-shakeup-james-gunn-fired/",
+    "title": "Batman Just Officially Saved DC Comics From a Terrible Fate",
+    "link": "https://www.polygon.com/absolute-batman-saves-dc-comics-skydance-shakeup-james-gunn-fired/",
+    "creator": "Willa Rowe",
+    "pubDate": "Tue, 10 Nov 2026 19:06:46 GMT",
+    "categories": [
+      "News",
+      "DC Universe",
+      "Batman"
+    ],
+    "description": "After James Gunn is ousted by Skydance, DC Comics may have avoided a similiar fate thanks to Absolute Batman",
+    "contentEncoded": "<p>Business mergers always come with shake-ups, and Skydance's recent acquisition of Warner Bros. Discovery was inevitably going to be messy in some way. What was unexpected, however, was this week's announcement that <a href=\"https://www.polygon.com/dc-studios-james-gunn-peter-safran-jeremy-latcham-skydance/\" target=\"_blank\">James Gunn and Peter Safran would be stepping down as co-heads of DC Studios</a>. At the same time, Skydance has initiated layoffs in other divisions such as <a href=\"https://variety.com/2026/gaming/news/skydance-games-warner-bros-layoffs-1236943276/\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">Skydance Games</a>. One area that seems to have escaped the chopping block for now, though, is DC Comics.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/absolute-batman-cover.jpg",
+      "type": "image/jpeg",
+      "length": "744"
+    },
+    "decision": "toss",
+    "reason": "Big-franchise DC churn: casting/business gossip, not prestige film.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-10T19:38:05.975Z"
+  },
+  {
+    "guid": "https://www.polygon.com/zelda-ocarina-of-time-remake-oot-fire-arrow-how-to-unlock/",
+    "title": "How to unlock Fire Arrows in Zelda Ocarina of Time",
+    "link": "https://www.polygon.com/zelda-ocarina-of-time-remake-oot-fire-arrow-how-to-unlock/",
+    "creator": "Paulo Kawanishi",
+    "pubDate": "Tue, 10 Nov 2026 19:02:49 GMT",
+    "categories": [
+      "Guides",
+      "The Legend of Zelda: Ocarina of Time"
+    ],
+    "description": "Here's how to unlock fire arrows in The Legend of Zelda: Ocarina of Time remake and the prerequisites you must meet.",
+    "contentEncoded": "<p>Unlocking <strong>Fire Arrows</strong> is a great way to expand Link's arsenal in <a href=\"https://www.polygon.com/the-legend-of-zelda-ocarina-of-time-remake/\" target=\"_blank\"><em>The Legend of Zelda: Ocarina of Time</em></a><em></em>remake. By hitting targets with these special arrows, Link can set them on fire, which is fairly useful in different scenarios, from fighting certain enemies to lighting totems to open doors. Before you can get your hands on them, you will need to progress through the story and solve a riddle.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/fire-arrow_oot.jpg",
+      "type": "image/jpeg",
+      "length": "644"
+    },
+    "decision": "toss",
+    "reason": "Rule: category \"Guides\"",
+    "decidedBy": "rule",
+    "firstSeen": "2026-11-10T19:38:05.975Z"
+  },
+  {
+    "guid": "https://www.polygon.com/target-pokemon-drawing-30th-anniversary-booster-bundle-tcg-how-to-enter/",
+    "title": "Target's New 'Pokémon' 30th Anniversary Drawing Is A Must-See For TCG Fans",
+    "link": "https://www.polygon.com/target-pokemon-drawing-30th-anniversary-booster-bundle-tcg-how-to-enter/",
+    "creator": "Patricia Hernandez",
+    "pubDate": "Tue, 10 Nov 2026 18:23:18 GMT",
+    "categories": [
+      "News",
+      "Pokemon",
+      "Pokemon Trading Card Game"
+    ],
+    "description": "Target is raffling Ascended Heroes & the best Pokémon TCG set of 2026 for a limited time, and it's a good deal when you break down cost-per-pack",
+    "contentEncoded": "<p>Pokémon fans were thrilled to hear about <a href=\"https://www.polygon.com/target-pokemon-raffle-lottery-tcg-how-does-it-work-enter-rules-where/\" target=\"_blank\">Target's new trading card game raffle system</a>, which gives collectors a fairer chance to secure products against retail bots. The retailer initially debuted the drawing system with a small three-pack of an older Pokémon set, Destined Rivals. Now, however, Target has begun raffling out two products fans were hoping for all along: <a href=\"https://www.polygon.com/pokemon-30th-anniversary-tcg-expansion-product-list-etb-ultra-premium/\" target=\"_blank\">the 30th Anniversary TCG set</a>, and the Ascended Heroes set. </p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24836298/pikachu_artwork.jpg",
+      "type": "image/jpeg",
+      "length": "235753"
+    },
+    "decision": "toss",
+    "reason": "Pokémon TCG retail/restock story; trading card scalper content.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-10T19:38:05.975Z"
+  },
+  {
+    "guid": "https://www.polygon.com/ps-plus-game-catalog-november-2026-update-death-stranding-2/",
+    "title": "PlayStation Plus November Games Lineup Officially Announced, Includes Death Stranding 2",
+    "link": "https://www.polygon.com/ps-plus-game-catalog-november-2026-update-death-stranding-2/",
+    "creator": "Austin Manchester",
+    "pubDate": "Tue, 10 Nov 2026 18:19:38 GMT",
+    "categories": [
+      "News",
+      "PlayStation",
+      "Death Stranding 2: On the Beach",
+      "Like a Dragon: Pirate Yakuza in Hawaii"
+    ],
+    "description": "PlayStation adds new games each month to its PS Plus Games Catalog for subscribers to enjoy. Here's what Extra/Premium users get in November 2026.",
+    "contentEncoded": "<p>On Tuesday, <a href=\"https://blog.playstation.com/2026/11/10/playstation-plus-game-catalog-for-november-death-stranding-2-on-the-beach-like-a-dragon-pirate-yakuza-in-hawaii-atomfall-dragon-quest-iii-hd-2d-remake-and-more/\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">Sony Interactive Entertainment revealed</a> the lineup of games joining the <a href=\"http://polygon.com/playstation\" target=\"_blank\">PlayStation</a> Plus Game Catalog in November. <em>Death Stranding 2: On the Beach</em>, <em>Like a Dragon: Pirate Yakuza in Hawaii</em>, <em>Dragon Quest 3 HD-2D Remake</em>, and more will be available to play on Sony's subscription service.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/06/death-stranding-2-porter-grade-stats.jpg",
+      "type": "image/jpeg",
+      "length": "864949"
+    },
+    "decision": "keep",
+    "reason": "PlayStation service news with major game availability updates.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-10T19:38:05.975Z"
+  },
+  {
+    "guid": "https://www.polygon.com/costco-pokemon-30th-anniversary-etb-booster-bundle-stock-price-when-locations/",
+    "title": "Costco’s New 'Pokémon' 30th Anniversary Bundle Is An Unbelievable Deal",
+    "link": "https://www.polygon.com/costco-pokemon-30th-anniversary-etb-booster-bundle-stock-price-when-locations/",
+    "creator": "Patricia Hernandez",
+    "pubDate": "Tue, 10 Nov 2026 18:18:00 GMT",
+    "categories": [
+      "News",
+      "Pokemon",
+      "Pokemon Trading Card Game"
+    ],
+    "description": "Pokémon TCG collectors can nab a 30th Anniversary ETB and Booster Bundle cheaper than at Target, Walmart, and Best Buy",
+    "contentEncoded": "<p>Warehouse retailer Costco is determined to blow its competitors out of the water when it comes to selling <a href=\"https://www.polygon.com/pokemon/?_gl=1%2A1g7ps4o%2A_ga%2AOTQzMDQxNDc3LjE3NzA5NjcxMjg.%2A_ga_3RRF1V8L1B%2AczE3OTQzMzY1MDUkbzQ5NiRnMSR0MTc5NDMzOTY5MiRqNDgkbDAkaDA.\" target=\"_blank\">Pokémon</a> Trading Card Game products. A couple of months after debuting <a href=\"https://www.polygon.com/pokemon-tcg-ascended-heroes-etb-costco-price-restock-locations-when/\" target=\"_blank\">the best Pokémon deal of 2026</a>, the members-only retailer is back with another offer that sounds too good to be true. This time, Costco's promotion targets Pokémon collectors hunting for <a href=\"https://www.polygon.com/pokemon-30th-anniversary-upc-ultra-premium-preorder-target-walmart-prices/\" target=\"_blank\">the elusive</a><a href=\"https://www.polygon.com/pokemon-30th-anniversary-tcg-expansion-product-list-etb-ultra-premium/\" target=\"_blank\">30th Anniversary collection</a>.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/pikachu-025-thumbnail.jpg",
+      "type": "image/jpeg",
+      "length": "1023"
+    },
+    "decision": "toss",
+    "reason": "Pokémon TCG retail/pricing story; trading card scalper content.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-10T19:38:05.975Z"
+  },
+  {
+    "guid": "https://www.polygon.com/marvel-rivals-new-heroes-nightcrawler-dracula-season-11/",
+    "title": "Doomsday Officially Comes to Marvel Rivals With an X-Men Icon",
+    "link": "https://www.polygon.com/marvel-rivals-new-heroes-nightcrawler-dracula-season-11/",
+    "creator": "Elijah Gonzalez",
+    "pubDate": "Tue, 10 Nov 2026 18:12:27 GMT",
+    "categories": [
+      "Gaming",
+      "Marvel Rivals",
+      "Avengers: Doomsday"
+    ],
+    "description": "Marvel Rivals announced its next two heroes coming to Season 11.",
+    "contentEncoded": "<p>As usual with <a href=\"https://www.polygon.com/game/marvel-rivals/443869/\" target=\"_blank\"><em>Marvel Rivals</em></a>, it seems NetEase’s hints about the game's next hero panned out. Nightcrawler is on the way. He's releasing Season 11: Doomsday, which will be out on Nov. 13. The animated trailer revealing this beloved X-Man does a great job of conveying the character’s selflessness as he warps to and fro to save as many innocent bystanders as he can before getting hit by an airplane. Is it a little on the nose when he warps onto a cross as the sun filters in like a Renaissance painting? Yes, but it goes very hard. Nightcrawler’s official announcement comes after NetEase teased his appearance in the Gallery Card hints, and after a leak from well-known <em>Rivals </em>dataminer <a href=\"https://x.com/X0X_LEAK/status/2119067352318845361?a=ftdAzC7P5kpJf4CYbJA&s=20\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">X0X_LEAK</a>.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/marvel-rivals-season-10-5-release-time.jpg",
+      "type": "image/jpeg",
+      "length": "1245"
+    },
+    "decision": "toss",
+    "reason": "Big-franchise Marvel churn: hero announcements and casting gossip.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-10T19:38:05.975Z"
+  },
+  {
+    "guid": "https://www.polygon.com/sony-shuts-down-playstation-plus-pc-app-december-2026/",
+    "title": "PlayStation Pulls Back Further From PC With End of PS Plus App",
+    "link": "https://www.polygon.com/sony-shuts-down-playstation-plus-pc-app-december-2026/",
+    "creator": "Sam Hill",
+    "pubDate": "Tue, 10 Nov 2026 18:05:04 GMT",
+    "categories": [
+      "Gaming",
+      "PlayStation",
+      "PS5"
+    ],
+    "description": "PlayStation Plus is losing its PC streaming app in December as Sony makes another change to its gaming business.",
+    "contentEncoded": "<p>Sony is making another change to how PlayStation users access its games outside its consoles, with the company preparing to shut down the PlayStation Plus app on PC next month.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2024/10/ps5-pro-games-list.jpg",
+      "type": "image/jpeg",
+      "length": "70364"
+    },
+    "decision": "keep",
+    "reason": "PlayStation/Sony gaming business news affecting service availability.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-10T19:38:05.975Z"
+  },
+  {
     "guid": "https://www.polygon.com/booker-prize-2026-the-end-of-everything-harrison-sci-fi/",
     "title": "A Sci-Fi Novel Just Won the Booker Prize for the First Time",
     "link": "https://www.polygon.com/booker-prize-2026-the-end-of-everything-harrison-sci-fi/",
