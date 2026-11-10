@@ -1,5 +1,121 @@
 [
   {
+    "guid": "https://www.polygon.com/booker-prize-2026-the-end-of-everything-harrison-sci-fi/",
+    "title": "A Sci-Fi Novel Just Won the Booker Prize for the First Time",
+    "link": "https://www.polygon.com/booker-prize-2026-the-end-of-everything-harrison-sci-fi/",
+    "creator": "Francesco Cacciatore",
+    "pubDate": "Tue, 10 Nov 2026 10:37:10 GMT",
+    "categories": [
+      "News",
+      "Sci-Fi"
+    ],
+    "description": "M. John Harrison is the first science fiction author to win the Booker Prize, receiving the award for his novel The End of Everything",
+    "contentEncoded": "<p>M. John Harrison's <a href=\"https://thebookerprizes.com/the-booker-library/books/the-end-of-everything\" rel=\"noopener noreferrer nofollow\" target=\"_blank\"><em>The End of Everything</em></a> was awarded the 2026 Booker Prize. This marks the first time that a sci-fi novel has won the prestigious literary award for works of fiction in English published in the United Kingdom or Ireland.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/bp-2022_trophy-02.jpg",
+      "type": "image/jpeg",
+      "length": "49"
+    },
+    "decision": "toss",
+    "reason": "Book/literary news, not game-related or horror content.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-10T11:40:17.674Z"
+  },
+  {
+    "guid": "https://www.polygon.com/warhammer-survivors-impressions/",
+    "title": "Warhammer Survivors Isn’t Good Enough to Be a Vampire Survivors Replacement",
+    "link": "https://www.polygon.com/warhammer-survivors-impressions/",
+    "creator": "Tomas Franzese",
+    "pubDate": "Tue, 10 Nov 2026 10:00:18 GMT",
+    "categories": [
+      "Warhammer 40,000",
+      "Warhammer Survivors",
+      "Vampire Survivors"
+    ],
+    "description": "Warhammer Survivors isn’t quite good enough to be a Vampire Survivors replacement, but it’s the next best thing",
+    "contentEncoded": "<p><em>Vampire</em><a href=\"https://www.polygon.com/warhammer-survivors-release-vampire-survivors-clone/\" target=\"_blank\"><em></em></a><em>Survivors</em> and its plethora of clones are always more fun in hour ten than hour one. The passive nature of the auto-attack gameplay means this style of experience lives or dies by how fun and visually over-the-top the action can get once you upgrade your character, gain access to more weapons, and manage to survive long enough to level up or evolve your weapons.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/11/warhammer-survivors-screenshot-brother-luca-s-might.png",
+      "type": "image/jpeg",
+      "length": "3099"
+    },
+    "decision": "keep",
+    "reason": "Game review/impression of a roguelike title.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-10T11:40:17.674Z"
+  },
+  {
+    "guid": "https://www.polygon.com/nintendo-switch-2-digital-games-eshop-gifts/",
+    "title": "Nintendo Adds eShop Gifting to Switch Consoles",
+    "link": "https://www.polygon.com/nintendo-switch-2-digital-games-eshop-gifts/",
+    "creator": "Ashely Claudino",
+    "pubDate": "Tue, 10 Nov 2026 09:52:40 GMT",
+    "categories": [
+      "News",
+      "Nintendo",
+      "Nintendo Switch 2",
+      "nintendo switch"
+    ],
+    "description": "Nintendo Switch update introduces the ability to gift digital software purchased on the eShop.",
+    "contentEncoded": "<p>The latest <a href=\"https://www.polygon.com/tag/nintendo-switch/\" target=\"_blank\">Nintendo Switch</a> system update added support for an upcoming feature that will let users gift digital software purchased through the eShop. The gifting system is set to launch this month, meaning Switch users will be able to add digital games to their letters to Santa this festive season.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/mario-christmas.jpg",
+      "type": "image/jpeg",
+      "length": "604"
+    },
+    "decision": "keep",
+    "reason": "Video game platform news and feature update.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-10T11:40:17.674Z"
+  },
+  {
+    "guid": "https://www.polygon.com/godzilla-minus-zero-christopher-nolan-oppenheimer-nuclear-war/",
+    "title": "'Godzilla Minus Zero' Exposes the Biggest Problem with Christopher Nolan's World War II Epic",
+    "link": "https://www.polygon.com/godzilla-minus-zero-christopher-nolan-oppenheimer-nuclear-war/",
+    "creator": "Jake Kleinman",
+    "pubDate": "Tue, 10 Nov 2026 09:00:17 GMT",
+    "categories": [
+      "Analysis",
+      "Movies",
+      "Godzilla Minus Zero",
+      "Godzilla Minus One",
+      "Oppenheimer"
+    ],
+    "description": "Director Takashi Yamazaki made his new Godzilla movie in direct response to Christopher Nolan's film",
+    "contentEncoded": "<p>Notably, neither movie actually depicted those nuclear explosions or their immediate aftermath onscreen, but three years later, one of those directors has done exactly that — and it's not Nolan.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/mcdinte_ec196.jpg",
+      "type": "image/jpeg",
+      "length": "1051"
+    },
+    "decision": "keep",
+    "reason": "Substantive film analysis comparing prestige projects.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-10T11:40:17.674Z"
+  },
+  {
+    "guid": "https://www.polygon.com/best-far-side-comics-dinosaurs/",
+    "title": "10 Funniest 'Far Side' Comics About Dinosaurs That Prove Gary Larson Is a Mad Genius",
+    "link": "https://www.polygon.com/best-far-side-comics-dinosaurs/",
+    "creator": "Brian VanHooker",
+    "pubDate": "Tue, 10 Nov 2026 08:20:17 GMT",
+    "categories": [
+      "Polygon Lists",
+      "comic strip"
+    ],
+    "description": "The Far Side ran from 1980 until 1995 and Larson created over 4,000 strips during that time. Dozens of them featured dinosaurs.",
+    "contentEncoded": "<p><a id=\"pwos-start-7762\" target=\"_blank\"></a></p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/screen-shot-2026-09-01-at-9-35-25-am.jpg",
+      "type": "image/jpeg",
+      "length": "191"
+    },
+    "decision": "toss",
+    "reason": "Retrospective list of old comic strips, not game/horror related.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-10T11:40:17.674Z"
+  },
+  {
     "guid": "https://www.polygon.com/settlers-of-catan-movie-netflix-directors/",
     "title": "The Settlers of Catan Movie Has Finally Found Its Directors",
     "link": "https://www.polygon.com/settlers-of-catan-movie-netflix-directors/",
