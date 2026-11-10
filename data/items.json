@@ -1,5 +1,210 @@
 [
   {
+    "guid": "https://www.polygon.com/settlers-of-catan-movie-netflix-directors/",
+    "title": "The Settlers of Catan Movie Has Finally Found Its Directors",
+    "link": "https://www.polygon.com/settlers-of-catan-movie-netflix-directors/",
+    "creator": "Sam Hill",
+    "pubDate": "Tue, 10 Nov 2026 02:53:02 GMT",
+    "categories": [
+      "Movies"
+    ],
+    "description": "Netflix has tapped Aaron and Adam Nee to direct its live-action Catan adaptation based on the best-selling board game.",
+    "contentEncoded": "<p>Netflix's upcoming adaptation of <a href=\"https://www.polygon.com/game/catan/5601/\" target=\"_blank\"><em>The Settlers of Catan</em></a> is starting to take shape, with the popular board game officially one step closer to becoming a live-action movie. The streaming service has tapped a film-making duo to director the film — the first official move from the project since it was announced.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/3426134/catan.0.jpg",
+      "type": "image/jpeg",
+      "length": "269666"
+    },
+    "decision": "toss",
+    "reason": "Casual adaptation casting news without substantial prestige elements.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-10T03:25:13.202Z"
+  },
+  {
+    "guid": "https://www.polygon.com/the-visit-free-on-youtube/",
+    "title": "M. Night Shyamalan's The Visit: Now Free on YouTube",
+    "link": "https://www.polygon.com/the-visit-free-on-youtube/",
+    "creator": "Rachel Tolleson",
+    "pubDate": "Tue, 10 Nov 2026 02:30:17 GMT",
+    "categories": [
+      "No social",
+      "Movies",
+      "The Visit"
+    ],
+    "description": "Revisit M. Night Shyamalan's underrated horror film, The Visit, now streaming free on YouTube. Don't miss it!",
+    "contentEncoded": "<p>Though Halloween is over, that doesn't mean that <a href=\"https://www.polygon.com/horror/\" target=\"_blank\">horror movies</a> need to be put on the shelf until next year. In fact, it could even be argued that November is a perfect time to continue watching them. Writer/director M. Night Shyamalan has no shortage of horror films that can work in the chilly, dreary days of November, such as 2004's <em>The Village</em>. But an underrated 2015 found-footage horror film manages to cement itself in Shyamalan's filmography as one of his greatest unexpected achievements.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/mcdvisi_ec068-1.jpg",
+      "type": "image/jpeg",
+      "length": "702"
+    },
+    "decision": "toss",
+    "reason": "Rule: streaming clickbait headline",
+    "decidedBy": "rule",
+    "firstSeen": "2026-11-10T03:25:13.202Z"
+  },
+  {
+    "guid": "https://www.polygon.com/zelda-ocarina-of-time-remake-richard-lives/",
+    "title": "Zelda: Ocarina of Time Remake Gives Its Best Boy the Happy Ending He Deserved Decades Ago",
+    "link": "https://www.polygon.com/zelda-ocarina-of-time-remake-richard-lives/",
+    "creator": "Josh Broadwell",
+    "pubDate": "Mon, 09 Nov 2026 23:00:17 GMT",
+    "categories": [
+      "Opinion",
+      "The Legend of Zelda: Ocarina of Time"
+    ],
+    "description": "The Legend of Zelda: Ocarina of Time remake on Switch 2 makes a small, but welcome change to the fate of Richard the dog",
+    "contentEncoded": "<p><a href=\"https://www.polygon.com/the-legend-of-zelda-ocarina-of-time-remake/\" target=\"_blank\"><em>The Legend of Zelda: Ocarina of Time</em></a> is a <a href=\"https://www.polygon.com/the-legend-of-zelda-ocarina-of-time-switch-2-review/\" target=\"_blank\">mostly faithful remake</a>, true, but there's a generous handful of tweaks and expansions that fill out this version of Hyrule beautifully. Most of those changes are grim. This game is <em>sad</em> — if speaking to the Kokiri after clearing The Great Deku Tree dungeon didn't clue you in on that, just chat to people with the Mask of Truth on — and it wants you to be sad too. One of these changes flies in the face of misery and is defiantly happy, though, and it involves the game's bestest boy: <a href=\"https://www.polygon.com/zelda-ocarina-of-time-remake-oot-richard-dog-location-how-to-find/\" target=\"_blank\">Richard</a>.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/ocarina-of-time-richard-lives.jpg",
+      "type": "image/jpeg",
+      "length": "519"
+    },
+    "decision": "keep",
+    "reason": "Zelda game remake news and analysis piece.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-10T03:25:13.202Z"
+  },
+  {
+    "guid": "https://www.polygon.com/zelda-ocarina-of-time-remake-oot-biggorons-sword-how-to-get/",
+    "title": "How to get the Biggoron Sword in Ocarina of Time",
+    "link": "https://www.polygon.com/zelda-ocarina-of-time-remake-oot-biggorons-sword-how-to-get/",
+    "creator": "Johnny Yu",
+    "pubDate": "Mon, 09 Nov 2026 21:50:25 GMT",
+    "categories": [
+      "Guides",
+      "The Legend of Zelda: Ocarina of Time"
+    ],
+    "description": "The Biggoron Sword is the reward for the \"From a Pocket Egg Comes...\" quest in Ocarina of Time. Here's how to complete the quest and get the sword.",
+    "contentEncoded": "<p><strong>Biggoron's Sword</strong> is the strongest sword in <a href=\"https://www.polygon.com/the-legend-of-zelda-ocarina-of-time-remake/\" target=\"_blank\"><em>The Legend of Zelda: Ocarina of Time</em></a> remake. However, it's also the most time-consuming weapon to get in the entire game.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/biggoron-sword_oot.jpg",
+      "type": "image/jpeg",
+      "length": "606"
+    },
+    "decision": "toss",
+    "reason": "Rule: category \"Guides\"",
+    "decidedBy": "rule",
+    "firstSeen": "2026-11-10T03:25:13.202Z"
+  },
+  {
+    "guid": "https://www.polygon.com/hbo-max-paramount-plus-streaming-bundle-launching-2027/",
+    "title": "HBO Max-Paramount Plus Bundle Officially Confirmed for 2027",
+    "link": "https://www.polygon.com/hbo-max-paramount-plus-streaming-bundle-launching-2027/",
+    "creator": "Sam Hill",
+    "pubDate": "Mon, 09 Nov 2026 21:49:51 GMT",
+    "categories": [
+      "TV",
+      "House of the Dragon",
+      "Lanterns",
+      "Lioness"
+    ],
+    "description": "HBO Max and Paramount+ are launching a streaming bundle in early 2027, bringing two major services together for subscribers.",
+    "contentEncoded": "<p>HBO Max and Paramount Plus are officially joining forces, with a new streaming bundle set to launch in early 2027. Skydance Corporation, which completed <a href=\"https://variety.com/2026/film/news/timeline-paramount-warner-bros-merger-skydance-1236895020/\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">its acquisition of Warner Bros. Discovery</a> in October, confirmed the plans in its third-quarter shareholder letter on Monday.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/ulf-tames-silverwing-and-rides-into-kingslanding-to-bait-aemond-hod-s2-episode-7-1-31-screenshot.png",
+      "type": "image/jpeg",
+      "length": "244"
+    },
+    "decision": "toss",
+    "reason": "Generic streaming business news, not game or prestige content.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-10T03:25:13.202Z"
+  },
+  {
+    "guid": "https://www.polygon.com/best-2026-games-so-far/",
+    "title": "The Best New Video Games of 2026 (So Far)",
+    "link": "https://www.polygon.com/best-2026-games-so-far/",
+    "creator": "Giovanni Colantonio",
+    "pubDate": "Mon, 09 Nov 2026 21:46:48 GMT",
+    "categories": [
+      "Opinion",
+      "Nintendo",
+      "xbox",
+      "PlayStation",
+      "PC"
+    ],
+    "description": "Before GOTY season approaches, take a look back at some of the best games of 2026, from Cairn to Fire Emblem: Fortune's Weave.",
+    "contentEncoded": "<p>It's hard to believe, but 2026 is winding down. Well, maybe that's easy to believe if you remember that <em>Code Vein 2</em> and <em>Highguard </em>kicked off the year in January, and both now feel like ancient history. We're getting closer to putting together our year-end game of the year come December, but there's still a long road until then. We're still catching up on a busy year of games, from big-budget hits to indie hidden gems. Oh, and there's still this little game called <a href=\"https://www.polygon.com/game/grand-theft-auto-6/40846/\" target=\"_blank\"><em>Grand Theft Auto 6</em></a> to consider.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/fire-emblem-fortune-s-weave-theodora.avif",
+      "type": "image/jpeg",
+      "length": "53"
+    },
+    "decision": "keep",
+    "reason": "Best games roundup with genuine game recommendations and analysis.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-10T03:25:13.202Z"
+  },
+  {
+    "guid": "https://www.polygon.com/superman-2-man-of-tomorrow-wonder-woman-adria-arjona/",
+    "title": "Superman Sequel Will Officially Introduce the DCU’s Wonder Woman, Report Says",
+    "link": "https://www.polygon.com/superman-2-man-of-tomorrow-wonder-woman-adria-arjona/",
+    "creator": "Austin Manchester",
+    "pubDate": "Mon, 09 Nov 2026 21:12:33 GMT",
+    "categories": [
+      "News",
+      "DC Universe",
+      "Man of Tomorrow",
+      "Movies"
+    ],
+    "description": "James Gunn has stepped down from a leadership role at DC, but is still wrapping up Man of Tomorrow. A new report claims Wonder Woman will be in it.",
+    "contentEncoded": "<p>On Monday, James Gunn and Peter Safran <a href=\"https://www.polygon.com/dc-studios-james-gunn-peter-safran-jeremy-latcham-skydance/\" target=\"_blank\">stepped down from their leadership roles at DC Studios</a>. Skydance — which recently finalized its acquisition of DC parent company Warner Bros. Discovery — tapped Jeremy Latcham to lead <a href=\"http://polygon.com/dc?_gl=1*1a4k8ym*_ga*MTI2MDMyNTA1MC4xNzkyNjczMzQ4*_ga_3RRF1V8L1B*czE3OTQyNTQ4MDkkbzU3JGcxJHQxNzk0MjU3Mjc1JGoyMyRsMCRoMA..\" target=\"_blank\">DC</a>. He used to work at Marvel Studios, and coincidentally was a producer on Gunn's <em>Guardians of the Galaxy</em>.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/wonder-woman-alex-ross-dc.jpg",
+      "type": "image/jpeg",
+      "length": "473"
+    },
+    "decision": "toss",
+    "reason": "DC casting gossip; big-franchise churn Steven tosses consistently.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-10T03:25:13.202Z"
+  },
+  {
+    "guid": "https://www.polygon.com/zelda-ocarina-of-time-remake-oot-golden-scale-how-to-get-fishing-pond/",
+    "title": "How to get the Golden Scale in Zelda Ocarina of Time",
+    "link": "https://www.polygon.com/zelda-ocarina-of-time-remake-oot-golden-scale-how-to-get-fishing-pond/",
+    "creator": "Paulo Kawanishi",
+    "pubDate": "Mon, 09 Nov 2026 21:05:23 GMT",
+    "categories": [
+      "Guides",
+      "The Legend of Zelda: Ocarina of Time"
+    ],
+    "description": "Here's how you obtain the Golden Scale in The Legend of Zelda: Ocarina of Time remake, the item you need to dive deeper.",
+    "contentEncoded": "<p>The<strong> Golden Scale</strong> is a unique item in <a href=\"https://www.polygon.com/the-legend-of-zelda-ocarina-of-time-remake/\" target=\"_blank\"><em>The Legend of Zelda: Ocarina of Time</em></a> remake that allows Link to dive deeper. You can consider it an upgrade to the Silver Scale, an item that you obtain as young Link as you try to <a href=\"https://www.polygon.com/zelda-ocarina-of-time-oot-princess-ruto-location/\" target=\"_blank\">find Princess Ruto</a>. However, unlike the Silver Scale, you can only get the Golden Scale after becoming <strong>adult Link</strong>.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/zeldaootremake_guide_goldscale_lead.jpg",
+      "type": "image/jpeg",
+      "length": "327"
+    },
+    "decision": "toss",
+    "reason": "Rule: category \"Guides\"",
+    "decidedBy": "rule",
+    "firstSeen": "2026-11-10T03:25:13.202Z"
+  },
+  {
+    "guid": "https://www.polygon.com/zelda-ocarina-time-forest-temple-little-women/",
+    "title": "Zelda: Ocarina of Time’s Coolest Dungeon Hides a Secret Tribute to a Beloved Classic",
+    "link": "https://www.polygon.com/zelda-ocarina-time-forest-temple-little-women/",
+    "creator": "Jen Glennon",
+    "pubDate": "Mon, 09 Nov 2026 21:05:21 GMT",
+    "categories": [
+      "Culture",
+      "The Legend of Zelda: Ocarina of Time"
+    ],
+    "description": "Nintendo's latest Zelda remake contains a clear reference to a coming-of-age-classic of American literature",
+    "contentEncoded": "<p>Nintendo's highly anticipated remake of <a href=\"https://www.polygon.com/the-legend-of-zelda-ocarina-of-time-remake/\" target=\"_blank\"><em>The Legend of Zelda: Ocarina of Time</em></a> is finally here, and millions of players are reliving their childhood adventures or experiencing Link's journey for the very first time. Though the Nintendo 64 game has received a dramatic visual glow-up for the <a href=\"https://www.polygon.com/nintendo-switch-2/\" target=\"_blank\">Switch 2</a>, the remake meticulously preserves the spirit of the original — including an extended reference to a classic American novel that even <em>Ocarina</em> diehards may have missed the first time around.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/screenshot-2026-11-09-at-12-26-53-pm.jpg",
+      "type": "image/jpeg",
+      "length": "405"
+    },
+    "decision": "keep",
+    "reason": "Zelda game analysis with cultural references and deep-dive elements.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-10T03:25:13.202Z"
+  },
+  {
     "guid": "https://www.polygon.com/deaths-door-five-year-anniversary-retrospective/",
     "title": "Zelda: Ocarina of Time’s Best Replacement Has 11,000+ ‘Very Positive’ Reviews on Steam",
     "link": "https://www.polygon.com/deaths-door-five-year-anniversary-retrospective/",
