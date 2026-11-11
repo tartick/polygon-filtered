@@ -1,5 +1,75 @@
 [
   {
+    "guid": "https://www.polygon.com/lanterns-x-files-binge/",
+    "title": "Disney's Legendary 218-Episode Sci-Fi Series Is the Perfect Anti-'Lanterns' Binge",
+    "link": "https://www.polygon.com/lanterns-x-files-binge/",
+    "creator": "Brian VanHooker",
+    "pubDate": "Wed, 11 Nov 2026 06:49:17 GMT",
+    "categories": [
+      "What to Watch",
+      "TV",
+      "Lanterns",
+      "The X-Files",
+      "Sci-Fi"
+    ],
+    "description": "The DC Universe might be doomed, but X-Files is forever",
+    "contentEncoded": "<p>The fate of <a href=\"https://www.polygon.com/lanterns-hbo/\" target=\"_blank\"><em>Lanterns</em></a> season 2, and the DC Universe in general, has never been murkier. With the sudden ousting of DC Studios' co-CEOs James Gunn and Peter Safran, the status of HBO's hit show series about two mismatched Green Lanterns who get paired together to solve an intergalactic mystery is up in the air like never before. Season 1 was a critical hit that captured the zeitgeist, and <em>Lanterns</em> co-creator Chris Mundy had already assembled a season 2 writers' room. But in a <a href=\"https://theplaylist.net/lanterns-chris-mundy-reacts-dc-studios-shake-up-20261110/\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">recent interview</a>, Mundy said the odds of the series continuing were likely \"50/50.”</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/the-halogram-kyle-chandler-and-john-stewart-aaron-pierre-walk-together-on-an-alien-planet-in-lanterns.jpg",
+      "type": "image/jpeg",
+      "length": "171"
+    },
+    "decision": "toss",
+    "reason": "Streaming clickbait about X-Files; Lanterns is big-franchise churn.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-11T07:01:32.604Z"
+  },
+  {
+    "guid": "https://www.polygon.com/calvin-and-hobbes-5-best-rosalyn-babysitter-quotes/",
+    "title": "5 Funniest Quotes from 'Calvin and Hobbes’ Babysitter Rosalyn",
+    "link": "https://www.polygon.com/calvin-and-hobbes-5-best-rosalyn-babysitter-quotes/",
+    "creator": "Brian VanHooker",
+    "pubDate": "Wed, 11 Nov 2026 05:00:17 GMT",
+    "categories": [
+      "Analysis"
+    ],
+    "description": "Rosalyn the babysitter used to hurl all kinds of insults at Calvin. These are the best of them.",
+    "contentEncoded": "<p>To put it mildly, Calvin got on the nerves of a lot of people in <a href=\"https://www.polygon.com/10-darkest-calvin-and-hobbes-snowman-jokes-that-reveal-bill-wattersons-twisted-genius\" target=\"_blank\"><em>Calvin and Hobbes</em></a>. First off, there was his <a href=\"https://www.polygon.com/best-quote-mom-calvin-hobbes/\" target=\"_blank\">mother</a>, who Calvin fought with over her terrible cooking and going to school in the morning. He also frustrated his <a href=\"https://www.polygon.com/best-calvin-and-hobbes-comics-about-the-parents/\" target=\"_blank\">father</a>, particularly when Calvin would break something costly, like a pair of fancy binoculars or part of the family car. Calvin ticked off his neighbor Susie, too, and even his teacher, Miss Wormwood.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/screen-shot-2026-10-27-at-7-04-21-pm.jpg",
+      "type": "image/jpeg",
+      "length": "82"
+    },
+    "decision": "toss",
+    "reason": "Nostalgia retrospective about old comic strip quotes.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-11T07:01:32.604Z"
+  },
+  {
+    "guid": "https://www.polygon.com/visionquest-fixes-wandavision-ending/",
+    "title": "5 Years Later, 'VisionQuest' Officially Fixes 'WandaVision's Disappointing Ending",
+    "link": "https://www.polygon.com/visionquest-fixes-wandavision-ending/",
+    "creator": "Brian VanHooker",
+    "pubDate": "Wed, 11 Nov 2026 03:30:17 GMT",
+    "categories": [
+      "TV",
+      "Marvel",
+      "VisionQuest",
+      "WandaVision"
+    ],
+    "description": "The finale of VisionQuest featured a sitcom-inspired sequence that would have saved WandaVision",
+    "contentEncoded": "<p><a id=\"pwos-start-5868\" target=\"_blank\"></a></p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/22314637/Screen_Shot_2021_02_19_at_5.42.39_AM__2_.png",
+      "type": "image/jpeg",
+      "length": "2063880"
+    },
+    "decision": "toss",
+    "reason": "Marvel franchise churn with 'fans furious' premise.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-11T07:01:32.604Z"
+  },
+  {
     "guid": "https://www.polygon.com/the-odyssey-christopher-nolan-home-release-date/",
     "title": "Christopher Nolan's The Odyssey Officially Sets Home Release Date",
     "link": "https://www.polygon.com/the-odyssey-christopher-nolan-home-release-date/",
