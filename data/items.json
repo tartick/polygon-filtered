@@ -1,5 +1,237 @@
 [
   {
+    "guid": "https://www.polygon.com/ocarina-of-time-remake-remembering-grandma/",
+    "title": "My Grandma Got Me Through the Water Temple. She Would’ve Loved the Ocarina of Time Remake",
+    "link": "https://www.polygon.com/ocarina-of-time-remake-remembering-grandma/",
+    "creator": "Corey Plante",
+    "pubDate": "Wed, 11 Nov 2026 15:00:18 GMT",
+    "categories": [
+      "Opinion",
+      "The Legend of Zelda: Ocarina of Time",
+      "The Legend of Zelda: Ocarina of Time",
+      "The Legend of Zelda",
+      "Fantasy"
+    ],
+    "description": "The Legend of Zelda: Ocarina of Time remake brings back memories of playing the Nintendo 64 original with my grandma.",
+    "contentEncoded": "<p> For a while it was the <a href=\"https://www.polygon.com/tag/nintendo-entertainment-system/\" target=\"_blank\">NES</a>. I’d shoot ducks until I got bored, and I hated Mario because it was too hard. What I really remember fondly was watching Mémère play <a href=\"https://www.polygon.com/zelda-link-to-the-past-snes-35th-anniversary/\" target=\"_blank\"><em>The Legend of Zelda: A Link to the Past</em></a> after she upgraded to the SNES. She’d tell me who she was fighting and why, and following along felt like having one of my favorite people read me a book. When it was my turn to play, I’d just charge up Link’s sword and mow every blade of grass I could find. Then I’d go looking for chickens. Then I’d ask what she had for snacks. She always had good snacks for me.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/link-in-bed-talking-to-navi.avif",
+      "type": "image/jpeg",
+      "length": "361"
+    },
+    "decision": "keep",
+    "reason": "Zelda game news with personal feature angle on remake.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-11T15:03:58.151Z"
+  },
+  {
+    "guid": "https://www.polygon.com/lanterns-season-2-canceled-james-gunn-hbo-max/",
+    "title": "Lanterns Producer Officially Responds to Show Cancellation Rumors",
+    "link": "https://www.polygon.com/lanterns-season-2-canceled-james-gunn-hbo-max/",
+    "creator": "Austin Manchester",
+    "pubDate": "Wed, 11 Nov 2026 14:33:48 GMT",
+    "categories": [
+      "News",
+      "DC Universe",
+      "Lanterns"
+    ],
+    "description": "Rumors have bubbled up that Lanterns has been canceled. A writer and producer on it has denied them, though Lanterns has still yet to be renewed.",
+    "contentEncoded": "<p><a href=\"https://www.polygon.com/dc-studios-james-gunn-peter-safran-jeremy-latcham-skydance/\" target=\"_blank\">DC Studios bosses James Gunn and Peter Safran stepped down from their posts</a> on Monday. Skydance, which recently acquired DC parent company Warner Bros. Discovery, replaced them with former Marvel producer Jeremy Latcham, resulting in plenty of questions about the future of the nascent <a href=\"https://www.polygon.com/dc/\" target=\"_blank\">DC Universe</a>. Rumors swirled that the hit DCU show <a href=\"https://www.polygon.com/lanterns-hbo/\" target=\"_blank\"><em>Lanterns</em></a>, which recently wrapped up its first season, was canceled after <a href=\"https://variety.com/2026/film/news/james-gunn-exits-dc-studios-losing-money-1236944392/\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">Variety</a> reported it wasn't renewed; it was later updated to say the show \"has yet\" to be renewed for season 2.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/john-stewart-aaron-pierre-looks-down-at-the-green-lantern-ring-he-is-wearing-in-lanterns.jpg",
+      "type": "image/jpeg",
+      "length": "151"
+    },
+    "decision": "toss",
+    "reason": "DC/Green Lantern franchise gossip and cancellation rumors.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-11T15:03:58.151Z"
+  },
+  {
+    "guid": "https://www.polygon.com/zelda-ocarina-of-time-dungeons-ranked/",
+    "title": "All 8 Zelda: Ocarina of Time Dungeons, Ranked From Worst to Best",
+    "link": "https://www.polygon.com/zelda-ocarina-of-time-dungeons-ranked/",
+    "creator": "Giovanni Colantonio",
+    "pubDate": "Wed, 11 Nov 2026 13:00:17 GMT",
+    "categories": [
+      "Polygon Lists",
+      "The Legend of Zelda: Ocarina of Time"
+    ],
+    "description": "The Legend of Zelda: Ocarina of Time's Switch 2 remake is a great reminder of Nintendo's excellent dungeon design.",
+    "contentEncoded": "<p>While every moment of <a href=\"https://www.polygon.com/zelda-ocarina-of-time-oot-guides-walkthroughs/\" target=\"_blank\"><em>The Legend of Zelda: Ocarina of Time</em></a> is memorable, it’s the Nintendo 64 game’s dungeons that really stick in your memory. Each one is a tightly constructed puzzle box built around the tools you collect inside, culminating in an often-excellent boss fight. The game’s terrific Switch 2 remake doesn’t mess with that strength; it only refines some of Zelda’s best dungeons in <a href=\"https://www.polygon.com/the-legend-of-zelda-ocarina-of-time-remake-water-temple-change/\" target=\"_blank\">tasteful ways</a>.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/sharedimages/2026/09/the-legend-of-zelda-ocarina-of-time-remake-press-image-3.jpg",
+      "type": "image/jpeg",
+      "length": "2314"
+    },
+    "decision": "toss",
+    "reason": "Ranked list/tier list format, filler content.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-11T15:03:58.151Z"
+  },
+  {
+    "guid": "https://www.polygon.com/critical-role-battle-of-the-bards-tom-morello/",
+    "title": "Tom Morello Joins Critical Role for New Bard-Themed Adventure",
+    "link": "https://www.polygon.com/critical-role-battle-of-the-bards-tom-morello/",
+    "creator": "Aimee Hart",
+    "pubDate": "Wed, 11 Nov 2026 12:58:41 GMT",
+    "categories": [
+      "News",
+      "Critical Role"
+    ],
+    "description": "A new Critical Role charity one-shot featuring Rage Against the Machine's Tom Morello, with Matthew Mercer as Game Master, is scheduled for Nov. 17.",
+    "contentEncoded": "<p>The founders of <a href=\"http://polygon.com/critical-role\" target=\"_blank\">Critical Role</a> have always taken pride in shaking up the way they play tabletop role-playing games. But next week, a new adventure will push the cast and crew further than ever: a \"Battle of the Bards,\" with Matthew Mercer as Game Master.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24417997/VXMA_S1_FG_111_00070405_Still076.jpg",
+      "type": "image/jpeg",
+      "length": "655762"
+    },
+    "decision": "keep",
+    "reason": "Critical Role news with notable guest announcement.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-11T15:03:58.151Z"
+  },
+  {
+    "guid": "https://www.polygon.com/rings-of-power-rings-explained/",
+    "title": "Where are all the rings in The Lord of the Rings: The Rings of Power season 3?",
+    "link": "https://www.polygon.com/rings-of-power-rings-explained/",
+    "creator": "Sam Nelson",
+    "pubDate": "Wed, 11 Nov 2026 12:30:18 GMT",
+    "categories": [
+      "Explainer",
+      "The Lord of the Rings: The Rings of Power",
+      "Fantasy"
+    ],
+    "description": "One ring to find them",
+    "contentEncoded": "<p>As the name of the series implies, <a href=\"https://www.polygon.com/lotr-rings-of-power/\" target=\"_blank\"><em>The Lord of the Rings: The Rings of Power</em></a><em></em>is focused on how the Dark Lord Sauron (Charlie Vickers) forged the Rings of Power as part of a scheme to control all of Middle-earth. As of season 3, the three Elven Rings, Seven Rings for the Dwarf-lords, and the Nine Rings for Mortal Men have all been made, while Sauron is working endlessly to complete his project by building the One Ring to rule them all.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/galadriel-in-lord-of-the-rings-the-rings-of-power.png",
+      "type": "image/jpeg",
+      "length": "1158"
+    },
+    "decision": "toss",
+    "reason": "Explainer/guide for prestige TV, not genuine news.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-11T15:03:58.151Z"
+  },
+  {
+    "guid": "https://www.polygon.com/dragon-quest-rpg-mobile-game-announcement/",
+    "title": "Dragon Quest Creator Says New Game Will Capture the Series' 'Unmistakable Feeling'",
+    "link": "https://www.polygon.com/dragon-quest-rpg-mobile-game-announcement/",
+    "creator": "Ashely Claudino",
+    "pubDate": "Wed, 11 Nov 2026 12:02:52 GMT",
+    "categories": [
+      "News",
+      "Dragon Quest"
+    ],
+    "description": "A turn-based Dragon Quest RPG is set to launch on smartphones next year, allowing fans to enjoy a classic adventure anywhere they go.",
+    "contentEncoded": "<p>The <a href=\"https://www.polygon.com/game/dragon-quest/12728/\" target=\"_blank\">Dragon Quest</a> series has taken players on countless journeys over the past four decades. Next year, fans will be able to embark on a new Dragon Quest adventure using their smartphones with the launch of <em>Dragon Quest RPG The Cursed Tree and The Chosen Isle</em>.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/dragon-quest-rpg-cinematic.jpg",
+      "type": "image/jpeg",
+      "length": "352"
+    },
+    "decision": "keep",
+    "reason": "RPG game announcement and release news.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-11T15:03:58.151Z"
+  },
+  {
+    "guid": "https://www.polygon.com/rings-of-power-season-3-episode-4-ending-explained-arondir-celeborn-theo-sauron/",
+    "title": "Rings of Power Episode 4 Ending Explained: What Happens to Galadriel, Celeborn, and Arondir?",
+    "link": "https://www.polygon.com/rings-of-power-season-3-episode-4-ending-explained-arondir-celeborn-theo-sauron/",
+    "creator": "Corey Plante",
+    "pubDate": "Wed, 11 Nov 2026 12:01:17 GMT",
+    "categories": [
+      "Explainer",
+      "The Lord of the Rings: The Rings of Power",
+      "TV",
+      "Fantasy"
+    ],
+    "description": "The Rings of Power season 3 episode 4 includes a shocking death, a major transformation, and the return of a lost hero.",
+    "contentEncoded": "<p><a href=\"https://www.polygon.com/lotr-rings-of-power/\" target=\"_blank\"><em>The Lord of the Rings: The Rings of Power</em></a> season 3 sees Middle-earth in the midst of full-on war as <a href=\"https://www.polygon.com/rings-of-power-season-3-sauron-interview/\" target=\"_blank\">Sauron</a> (Charlie Vickers) continues his conquest. Yet he still hasn’t figured out how to forge the one weapon he knows will solidify his title as the Dark Lord: the One Ring.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/lotr_s3_ut_250717_rotben_00006_r3_3000.jpg",
+      "type": "image/jpeg",
+      "length": "1162"
+    },
+    "decision": "toss",
+    "reason": "Episode explainer/recap, not substantive film/TV analysis.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-11T15:03:58.151Z"
+  },
+  {
+    "guid": "https://www.polygon.com/magic-burger-king-collaboration-tournament/",
+    "title": "Magic's Best Unofficial Format Is So Big, Burger King Is Running a Tournament",
+    "link": "https://www.polygon.com/magic-burger-king-collaboration-tournament/",
+    "creator": "Francesco Cacciatore",
+    "pubDate": "Wed, 11 Nov 2026 11:22:30 GMT",
+    "categories": [
+      "News",
+      "Magic: The Gathering"
+    ],
+    "description": "Burger Kind and Magic: The Gathering are collaborating in Italy with an exclusive deck box and sleeves, plus a Pauper tournament series.",
+    "contentEncoded": "<p>If you think that the Universe Beyond crossover with beloved sci-fi franchise <a href=\"https://www.polygon.com/magic-the-gathering-star-trek-exclusive-reveal/\" target=\"_blank\">Star Trek</a> is the biggest thing currently going on in the <a href=\"https://www.polygon.com/mtg-magic-the-gathering/\" target=\"_blank\"><em>Magic: The Gathering</em></a> world, think again. On Nov. 10, details emerged from Italy about a country-exclusive collaboration between <em>Magic</em> and fast-food chain Burger King. Fans and <a href=\"https://x.com/JusTimmeh/status/2120144169217724659\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">players worldwide are going wild online</a> about the Burger King-themed sleeves and deck box, but there is more to this unexpected campaign.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/raluca-marinescu-woe-321-provisions-merchant1.jpg",
+      "type": "image/jpeg",
+      "length": "962"
+    },
+    "decision": "keep",
+    "reason": "Rule: category \"Magic: The Gathering\"",
+    "decidedBy": "rule",
+    "firstSeen": "2026-11-11T15:03:58.151Z"
+  },
+  {
+    "guid": "https://www.polygon.com/visionquest-post-credits-scene-doomsday/",
+    "title": "VisionQuest’s Post-Credits Scene Official Confirms Another Avenger Returning in Doomsday",
+    "link": "https://www.polygon.com/visionquest-post-credits-scene-doomsday/",
+    "creator": "Sam Nelson",
+    "pubDate": "Wed, 11 Nov 2026 11:18:36 GMT",
+    "categories": [
+      "Explainer",
+      "VisionQuest",
+      "Marvel",
+      "Avengers: Doomsday",
+      "Doctor Strange In the Multiverse of Madness"
+    ],
+    "description": "VisionQuest's finale just confirmed that an Avenger is returning from the dead for Doomsday.",
+    "contentEncoded": "<p><a href=\"https://www.polygon.com/visionquest/\" target=\"_blank\"><em>VisionQuest</em></a><em></em>completed the story that began in 2020 with <a href=\"https://www.polygon.com/2021/2/19/22291450/wandavision-grief-mourning/\" target=\"_blank\"><em>WandaVision</em></a>, bringing things full circle by again <a href=\"https://www.polygon.com/visionquest-fixes-wandavision-ending/\" target=\"_blank\">using the framing of classic sitcoms</a> as a way to tell a deep story about grief and family. The <em>VisionQuest</em> finale was released on Nov. 10, and viewers will want to keep watching through the credits, which include a pair of scenes with big implications for the future of the <a href=\"https://www.polygon.com/marvel/\" target=\"_blank\">Marvel Cinematic Universe</a>.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/avengers_-doomsday-_-special-look-_-in-theaters-december-18-1-40-screenshot.jpg",
+      "type": "image/jpeg",
+      "length": "247"
+    },
+    "decision": "toss",
+    "reason": "Marvel/Avengers casting and plot gossip.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-11T15:03:58.151Z"
+  },
+  {
+    "guid": "https://www.polygon.com/rings-of-power-wizards-secret-flame-explained/",
+    "title": "In One Scene, Prime Video Officially Rewrites Gandalf’s Mission in Lord of the Rings",
+    "link": "https://www.polygon.com/rings-of-power-wizards-secret-flame-explained/",
+    "creator": "Sam Nelson",
+    "pubDate": "Wed, 11 Nov 2026 11:00:18 GMT",
+    "categories": [
+      "Explainer",
+      "The Lord of the Rings: The Rings of Power",
+      "Fantasy",
+      "The Lord of the Rings"
+    ],
+    "description": "Gandalf isn’t just an old man, he’s a divine guardian, as we learn in Lord of the Rings: The RIngs of Power season 3",
+    "contentEncoded": "<p>By the end of <a href=\"https://www.polygon.com/lotr-rings-of-power/\" target=\"_blank\"><em>The Lord of the Rings: The Rings of Power</em></a><em></em>season 2, <a href=\"https://www.polygon.com/rings-of-power-season-3-gandalf-istari-interview/\" target=\"_blank\">Gandalf</a> (Daniel Weyman) had chosen his name and wizard staff and found a mentor in the enigmatic Tom Bombadil (Rory Kinnear). Season 3 picks up five years later, and Gandalf has spent that time vexing the Dark Wizard (Ciarán Hinds) and his forces in Rhûn. Gandalf sees the Dark Wizard as a dangerous foe, but their relationship is more complicated. Here’s what you need to know about the two wizards, and how they fit into J.R.R. Tolkien’s complex cosmology.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/19765023/thehobbitanunexpectedjourney_warnerbros_photo18.jpg",
+      "type": "image/jpeg",
+      "length": "4140095"
+    },
+    "decision": "toss",
+    "reason": "Episode explainer for prestige fantasy TV.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-11T15:03:58.151Z"
+  },
+  {
     "guid": "https://www.polygon.com/lanterns-x-files-binge/",
     "title": "Disney's Legendary 218-Episode Sci-Fi Series Is the Perfect Anti-'Lanterns' Binge",
     "link": "https://www.polygon.com/lanterns-x-files-binge/",
