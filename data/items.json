@@ -1,5 +1,207 @@
 [
   {
+    "guid": "https://www.polygon.com/game-awards-2026-disney-plus-streaming-announced-geoff-keighley-goty/",
+    "title": "Disney Plus Is Officially the New Streaming Home of the Game Awards",
+    "link": "https://www.polygon.com/game-awards-2026-disney-plus-streaming-announced-geoff-keighley-goty/",
+    "creator": "Willa Rowe",
+    "pubDate": "Thu, 12 Nov 2026 18:41:41 GMT",
+    "categories": [
+      "News"
+    ],
+    "description": "Disney Plus has announced it will stream the 2026 Game Awards, hosted by Geoff Keighley",
+    "contentEncoded": "<p>In a first for the show, this year's <a href=\"https://www.polygon.com/game-awards-tga/\" target=\"_blank\">Game Awards</a> will be available to stream on <a href=\"https://www.polygon.com/star-wars-3d-meta-quest-version-disney-plus/\" target=\"_blank\">Disney Plus</a>. This is just one additional way to watch the game industry's version of the Oscars, on top of the usual Twitch and YouTube livestreams. The <a href=\"https://x.com/thegameawards/status/2120924586086719858?a=MZaq6ZMLa-4to0_Ld4I&s=20\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">announcement</a> simultaneously expands the offerings on Disney's streaming service and further boosts the awards show's profile.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/geoffies.jpg",
+      "type": "image/jpeg",
+      "length": "99"
+    },
+    "decision": "keep",
+    "reason": "Game Awards news is gaming industry/event content.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-12T18:49:11.342Z"
+  },
+  {
+    "guid": "https://www.polygon.com/overwatch-jeff-kaplan-announcement-blizzcon-2019-diablo-4-development/",
+    "title": "Ex-Overwatch 2 Lead: Blizzard Execs Pushing Overwatch 2’s Reveal Were ‘Fucking Idiots’",
+    "link": "https://www.polygon.com/overwatch-jeff-kaplan-announcement-blizzcon-2019-diablo-4-development/",
+    "creator": "Patricia Hernandez",
+    "pubDate": "Thu, 12 Nov 2026 18:36:44 GMT",
+    "categories": [
+      "News",
+      "Overwatch"
+    ],
+    "description": "The hero shooter's former Game Director Jeff Kaplan dishes on Blizzard's decision to announce Overwatch 2 alongside Diablo 4 back in 2019",
+    "contentEncoded": "<p>Former Blizzard game director <a href=\"https://www.polygon.com/overwatch-jeff-kaplan-blizzard-exit-interview/\" target=\"_blank\">Jeff Kaplan left the company five years ago</a>, but the studio's <a href=\"https://www.polygon.com/overwatch/\" target=\"_blank\"><em>Overwatch</em></a> fumbles are still fresh in his mind, judging by frank remarks he shared during a podcast. In it, the former face of the hero shooter described what was happening behind the scenes leading up to Blizzard's surprise announcement of <em>Overwatch 2.</em> Kaplan said there was deep dysfunction at the executive level within the company.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/overwatch-season-2-mercy-changes.jpg",
+      "type": "image/jpeg",
+      "length": "375"
+    },
+    "decision": "keep",
+    "reason": "Video game development and industry news from key figure.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-12T18:49:11.342Z"
+  },
+  {
+    "guid": "https://www.polygon.com/forza-horizon-6-fh6-daikoku-location/",
+    "title": "Where to find the Daikoku area in Forza Horizon 6",
+    "link": "https://www.polygon.com/forza-horizon-6-fh6-daikoku-location/",
+    "creator": "Paulo Kawanishi",
+    "pubDate": "Thu, 12 Nov 2026 17:57:19 GMT",
+    "categories": [
+      "Guides",
+      "Forza Horizon 6"
+    ],
+    "description": "Here's where to find the Daikoku area in Forza Horizon 6, so you can complete the Series 7 \"City Life\" collectible Smashapon weekly challenge.",
+    "contentEncoded": "<p>In <a href=\"https://www.polygon.com/forza-horizon-6/\" target=\"_blank\"><em>Forza Horizon 6</em></a>, you can visit <strong>Daikoku</strong>, a famous area for those who enjoy Japanese automotive culture. It's located in the Tokyo City region and, in real life, it's well-known for hosting car meets — just like the in-game ones you can take part in if you stop by the Daikoku Parking Area.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/fh6_guide_series7_daikoku_lead.jpg",
+      "type": "image/jpeg",
+      "length": "283"
+    },
+    "decision": "toss",
+    "reason": "Rule: category \"Guides\"",
+    "decidedBy": "rule",
+    "firstSeen": "2026-11-12T18:49:11.342Z"
+  },
+  {
+    "guid": "https://www.polygon.com/star-wars-50th-anniversary-release-new-john-williams-music/",
+    "title": "Star Wars 50th Anniversary Release Will Include New Music from John Williams",
+    "link": "https://www.polygon.com/star-wars-50th-anniversary-release-new-john-williams-music/",
+    "creator": "Austin Manchester",
+    "pubDate": "Thu, 12 Nov 2026 17:53:01 GMT",
+    "categories": [
+      "News",
+      "Movies",
+      "Star Wars",
+      "Star Wars: Episode IV - A New Hope"
+    ],
+    "description": "The original version of Star Wars is heading to theaters next year, and it will briefly include new music from Star Wars composer John Williams.",
+    "contentEncoded": "<p><a href=\"https://www.polygon.com/tag/star-wars/\" target=\"_blank\">Star Wars</a> is celebrating its 50th anniversary in 2027. The original cut of the first film (later subtitled <em>Episode IV – A New Hope</em>) <a href=\"https://www.polygon.com/star-wars-2027-50th-anniversary-movie-theaters-original-version/\" target=\"_blank\">will hit theaters in February</a>, and it will be accompanied by brief new music from longtime Star Wars composer John Williams.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24039577/636486225664269079_Star_Wars_Episode_IV___A_New_Hope.jpg",
+      "type": "image/jpeg",
+      "length": "771678"
+    },
+    "decision": "toss",
+    "reason": "Star Wars big-franchise churn about anniversary re-release.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-12T18:49:11.342Z"
+  },
+  {
+    "guid": "https://www.polygon.com/witcher-multiplayer-project-sirius-baldurs-gate-3-writer-joins-cdprojekt-red/",
+    "title": "Witcher Multiplayer Game Adds Key Writer From Baldur’s Gate 3",
+    "link": "https://www.polygon.com/witcher-multiplayer-project-sirius-baldurs-gate-3-writer-joins-cdprojekt-red/",
+    "creator": "Willa Rowe",
+    "pubDate": "Thu, 12 Nov 2026 17:28:33 GMT",
+    "categories": [
+      "News",
+      "The Witcher",
+      "Baldur's Gate 3"
+    ],
+    "description": "CD Projekt Red’s multiplayer Witcher game adds Baldur’s Gate 3 writer responsible for Dark Urge and more",
+    "contentEncoded": "<p>CD Projekt Red has a lot of irons in the proverbial fire right now, one being a Witcher multiplayer game codenamed <em>Project Sirius</em>. While it was <a href=\"https://www.polygon.com/23389053/cyberpunk-witcher-sequels-cd-projekt-analysis/\" target=\"_blank\">first revealed back in 2022</a> alongside other projects that would later be confirmed as<em><a href=\"https://www.polygon.com/game/witcher-4/529845/\" target=\"_blank\">The Witcher 4</a></em> and a <a href=\"https://www.polygon.com/23424555/the-witcher-remake-canis-majoris-announced-release-date-cd-projekt/\" target=\"_blank\">remake of the original <em>Witcher</em></a>, <em>Sirius </em>has had a troubled development thus far. CD Projekt Red continues to add talent to the project, however, with the latest addition being one of the writers behind some of <a href=\"https://www.polygon.com/game/baldurs-gate-3/40577/\" target=\"_blank\"><em>Baldur's Gate 3</em></a>'s best storylines.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/25032936/WwG8Mh6.png",
+      "type": "image/jpeg",
+      "length": "4003141"
+    },
+    "decision": "keep",
+    "reason": "Game development news for two major franchises.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-12T18:49:11.342Z"
+  },
+  {
+    "guid": "https://www.polygon.com/gta-6-map-leonidas-leak-merch-drop/",
+    "title": "GTA 6 Map Seemingly Leaks at Merch Drop Event",
+    "link": "https://www.polygon.com/gta-6-map-leonidas-leak-merch-drop/",
+    "creator": "Elijah Gonzalez",
+    "pubDate": "Thu, 12 Nov 2026 17:14:54 GMT",
+    "categories": [
+      "Gaming",
+      "Grand Theft Auto 6",
+      "Grand Theft Auto"
+    ],
+    "description": "Grand Theft Auto 6's map appears to have leaked early due to a Selfridges event.",
+    "contentEncoded": "<p>With <em><a href=\"https://www.polygon.com/game/grand-theft-auto-6/40846/\" target=\"_blank\">Grand Theft Auto 6</a>,</em> Rockstar Games has already experienced some of the highest-profile <a href=\"https://www.polygon.com/gta-6-leak-how-long-is-a-day-night-cycle-gameplay/\" target=\"_blank\">leaks</a> in gaming history, and it seems at least one more has snuck in before the game’s impending <a href=\"https://www.polygon.com/grand-theft-auto-6-gta-staggered-release-time/\" target=\"_blank\">Nov. 19 release</a>. Pictures are circulating of what appears to be a physical poster of <a href=\"https://www.polygon.com/gta-6-map-leak-rockstar-games/\" target=\"_blank\"><em>GTA 6</em>’s map</a>.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/gta-6-release-time-header.jpg",
+      "type": "image/jpeg",
+      "length": "400"
+    },
+    "decision": "keep",
+    "reason": "GTA 6 news with concrete development/content details.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-12T18:49:11.342Z"
+  },
+  {
+    "guid": "https://www.polygon.com/gta-6-south-korea-rating-male-nudity/",
+    "title": "GTA 6 Nearly Hit With Ban Over ‘Frequent Male Genital Exposure’",
+    "link": "https://www.polygon.com/gta-6-south-korea-rating-male-nudity/",
+    "creator": "Jen Glennon",
+    "pubDate": "Thu, 12 Nov 2026 17:08:37 GMT",
+    "categories": [
+      "News",
+      "Grand Theft Auto 6"
+    ],
+    "description": "South Korea's game ratings board took several votes to arrive at an 'Adults Only' rating for GTA 6",
+    "contentEncoded": "<p>With the launch of <a href=\"https://www.polygon.com/game/grand-theft-auto-6/40846/\" target=\"_blank\"><em>Grand Theft Auto 6</em></a> mere days away, we already know to expect a whole lot of mature subject matter. Official promotional materials like the <a href=\"https://www.polygon.com/gta-6-netflix-preview-news-reveals-rockstar-games/\" target=\"_blank\">Netflix Extended Look</a> have prominently featured strip clubs, drug deals gone wrong, and chaotic vehicular shootouts. A new report out of South Korea from <a href=\"https://www.invenglobal.com/articles/28517/gta-6-came-close-to-rating-refusal-in-south-korea\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">Inven Global</a> claims members of the Game Content Rating Board (GCRB) nearly refused to issue a rating for <em>GTA 6</em>, which would have effectively banned the game there. The main sticking point? An excessive amount of \"out of context genital nudity.\"</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/polygon-stock-art-gta-6-cal-hampton-2.jpg",
+      "type": "image/jpeg",
+      "length": "8577"
+    },
+    "decision": "keep",
+    "reason": "GTA 6 news about rating board decision.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-12T18:49:11.342Z"
+  },
+  {
+    "guid": "https://www.polygon.com/video/are-there-too-many-tentacles-in-resident-evil/",
+    "title": "Are there too many tentacles in Resident Evil?",
+    "link": "https://www.polygon.com/video/are-there-too-many-tentacles-in-resident-evil/",
+    "creator": "Jake Kleinman",
+    "pubDate": "Thu, 12 Nov 2026 17:02:22 GMT",
+    "categories": [
+      "No social",
+      "Resident Evil"
+    ],
+    "description": "The VFX wizards at Weta Workshop had their hands full (of tentacles) working on Zach Cregger's Resident Evil.",
+    "contentEncoded": "<p>The VFX wizards at Weta Workshop had their hands full (of tentacles) working on Zach Cregger's Resident Evil.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/are-there-too-many-tentacles-in-resident-evil.png",
+      "type": "image/jpeg",
+      "length": "1687"
+    },
+    "decision": "keep",
+    "reason": "Resident Evil film production/making-of content.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-12T18:49:11.342Z"
+  },
+  {
+    "guid": "https://www.polygon.com/walmart-black-friday-deals-pokemon-30th-anniversary-upc-drawing-tcg-price/",
+    "title": "Walmart's Black Friday Deals Offer A 'Pokémon' 30th Anniversary TCG Surprise",
+    "link": "https://www.polygon.com/walmart-black-friday-deals-pokemon-30th-anniversary-upc-drawing-tcg-price/",
+    "creator": "Patricia Hernandez",
+    "pubDate": "Thu, 12 Nov 2026 16:56:59 GMT",
+    "categories": [
+      "News",
+      "Pokemon",
+      "Pokemon Trading Card Game"
+    ],
+    "description": "Walmart is stocking Pokémon 30th Anniversary TCG products and holding a drawing for UPCs at a great price compared to Target and GameStop",
+    "contentEncoded": "<p>Black Friday is coming early for <a href=\"https://www.polygon.com/walmart-pokemon-30th-anniversary-tcg-card-release-raffle-drawing-when-what/\" target=\"_blank\">Walmart</a> shoppers who like to play or collect the <a href=\"https://www.polygon.com/pokemon/\" target=\"_blank\">Pokémon</a> Trading Card Game. The retailer is stocking a few TCG products beginning on Thursday, Nov. 12, including the hard-to-find <a href=\"https://www.polygon.com/pokemon-30th-anniversary-tcg-expansion-product-list-etb-ultra-premium/\" target=\"_blank\">Pokémon 30th Anniversary</a> set.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/pikachu-thumbnail.jpg",
+      "type": "image/jpeg",
+      "length": "1274"
+    },
+    "decision": "toss",
+    "reason": "Pokémon TCG retail/restock/scalper story, not video games.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-12T18:49:11.342Z"
+  },
+  {
     "guid": "https://www.polygon.com/lord-of-the-rings-gollum-orc-rings-of-power/",
     "title": "Lord of the Rings Officially Reveals Gollum’s Replacement",
     "link": "https://www.polygon.com/lord-of-the-rings-gollum-orc-rings-of-power/",
