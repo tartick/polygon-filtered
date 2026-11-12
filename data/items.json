@@ -1,5 +1,116 @@
 [
   {
+    "guid": "https://www.polygon.com/queens-domain-review/",
+    "title": "Queen’s Domain Review: The Perfect Skyrim Replacement for Right Now",
+    "link": "https://www.polygon.com/queens-domain-review/",
+    "creator": "Matt Patches",
+    "pubDate": "Thu, 12 Nov 2026 01:00:17 GMT",
+    "categories": [
+      "Impressions",
+      "Queen's Domain"
+    ],
+    "description": "Queen's Domain is a brutal first-person Soulslike that borrows all the right things from Dark Souls and Elder Scrolls.",
+    "contentEncoded": "<p>I love <a href=\"https://www.polygon.com/game/the-elder-scrolls-5-skyrim/1789/\" target=\"_blank\"><em>Skyrim</em></a>. I love returning to the spine-tingling haze of ’90s first-person games like <em>Doom</em>, <em>Quake</em>, and <em>Myst</em>. But what I really love is a modern game that feels like a lost relic from that era, not a nostalgic imitation but something that might have actually existed.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/ss_cebd8ec0eead3f1f81591c1eae7d9b49169a6a07-1920x1080.jpg",
+      "type": "image/jpeg",
+      "length": "931"
+    },
+    "decision": "keep",
+    "reason": "Game review and impressions of a Soulslike RPG.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-12T02:50:25.663Z"
+  },
+  {
+    "guid": "https://www.polygon.com/legend-of-zelda-totk-collectible-december-2026/",
+    "title": "Legend of Zelda Officially Returns to The Wilds Era in December",
+    "link": "https://www.polygon.com/legend-of-zelda-totk-collectible-december-2026/",
+    "creator": "Ashley Potter",
+    "pubDate": "Thu, 12 Nov 2026 00:00:18 GMT",
+    "categories": [
+      "FYI",
+      "The Legend of Zelda: Tears of the Kingdom"
+    ],
+    "description": "Collectors score as a Tears of the Kingdom Link statue gets a rerelease next month.",
+    "contentEncoded": "<p>All eyes are on <em><a href=\"https://www.polygon.com/zelda/\" target=\"_blank\">The Legend of Zelda</a></em>right now — and for good reason. The franchise is currently in the midst of celebrating its 40th anniversary and the long-awaited remake of <em>Ocarina of Time</em> was released on Nov. 5, 2026, becoming the second best-selling game on the Nintendo Switch 2 <a href=\"https://www.polygon.com/zelda-ocarina-of-time-sales-second-best-selling-switch-2-game/\" target=\"_blank\">less than a week</a> after its release. But, even amid all the <em>Ocarina</em> excitement, it's hard to forget just how memorable earlier Switch-era Zelda titles were — particularly <em>Breath of the Wild</em> and <em>Tears of the Kingdom.</em></p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/scaoj8-1.jpg",
+      "type": "image/jpeg",
+      "length": "1143"
+    },
+    "decision": "toss",
+    "reason": "Collectible merchandise/restock news, not game-related.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-12T02:50:25.663Z"
+  },
+  {
+    "guid": "https://www.polygon.com/keira-knightley-black-doves-netflix-streaming-hit-season-2/",
+    "title": "Netflix's Hit Spy Thriller Returns and Takes Over Streaming Charts",
+    "link": "https://www.polygon.com/keira-knightley-black-doves-netflix-streaming-hit-season-2/",
+    "creator": "Sam Hill",
+    "pubDate": "Wed, 11 Nov 2026 22:42:56 GMT",
+    "categories": [
+      "TV",
+      "Black Doves"
+    ],
+    "description": "Netflix’s Black Doves is back with new episodes, and Keira Knightley’s spy thriller is climbing the streaming charts.",
+    "contentEncoded": "<p>Keira Knightley has a knack for playing smart, determined women who refuse to back down when things get dangerous. Whether she's exposing government secrets in <em>Official Secrets</em>, investigating a serial killer in <em>Boston Strangler</em>, or navigating a deadly mystery aboard a luxury yacht in Netflix's <a href=\"https://www.polygon.com/the-woman-in-cabin-10-netflix-review/\" target=\"_blank\"><em>The Woman in Cabin 10</em></a>, Knightley has become a natural fit for tense thrillers.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/black-doves-keira-knightly.jpg",
+      "type": "image/jpeg",
+      "length": "259"
+    },
+    "decision": "toss",
+    "reason": "Generic TV renewal with streaming chart clickbait.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-12T02:50:25.663Z"
+  },
+  {
+    "guid": "https://www.polygon.com/gta-6-new-gameplay-onlyindade-ai-real-fake-rockstar-instagram/",
+    "title": "New 'GTA 6' Gameplay Leaves Fans Stunned",
+    "link": "https://www.polygon.com/gta-6-new-gameplay-onlyindade-ai-real-fake-rockstar-instagram/",
+    "creator": "Patricia Hernandez",
+    "pubDate": "Wed, 11 Nov 2026 22:39:52 GMT",
+    "categories": [
+      "News",
+      "Grand Theft Auto",
+      "Grand Theft Auto 6"
+    ],
+    "description": "GTA 6 fans are doing a double-take on a new gameplay clip shared by Rockstar that almost looks too good to be true",
+    "contentEncoded": "<p>With only a week left before the release of <a href=\"https://www.polygon.com/gta-grand-theft-auto/\" target=\"_blank\"><em>Grand Theft Auto 6</em></a>, there's little in Rockstar Games' marketing that players haven't seen before. That familiarity is true of new <a href=\"https://www.polygon.com/gta-6-ps5-pro-features-exclusive-what-are-nov-trailer/\" target=\"_blank\"><em>GTA 6</em> features,</a> at least. In terms of visuals, the game developer just proved it still has plenty of Leonida to show off.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/jason_lucia_rooftop_landscape.jpg",
+      "type": "image/jpeg",
+      "length": "1821"
+    },
+    "decision": "keep",
+    "reason": "GTA 6 gameplay news and updates.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-12T02:50:25.663Z"
+  },
+  {
+    "guid": "https://www.polygon.com/zelda-ocarina-of-time-remake-oot-bomb-bag-upgrade-location/",
+    "title": "All Bomb Bag upgrade locations in Ocarina of Time",
+    "link": "https://www.polygon.com/zelda-ocarina-of-time-remake-oot-bomb-bag-upgrade-location/",
+    "creator": "Julia Lee",
+    "pubDate": "Wed, 11 Nov 2026 21:55:48 GMT",
+    "categories": [
+      "Guides",
+      "The Legend of Zelda: Ocarina of Time"
+    ],
+    "description": "Here's where you can find the two Bomb Bag upgrades in The Legend of Zelda: Ocarina of Time remake.",
+    "contentEncoded": "<p>You can upgrade your <strong>Bomb Bag</strong> in <em><a href=\"https://www.polygon.com/the-legend-of-zelda-ocarina-of-time-remake/\" target=\"_blank\">The Legend of Zelda: Ocarina of Time</a></em>remake, allowing you to carry more bombs and make more enemies explode. While not required to beat the game, if you want to be able to fling bombs freely, you should definitely upgrade your Bomb Bags and max out their capacity.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/obs64_2026-11-11_16-18-18.jpg",
+      "type": "image/jpeg",
+      "length": "292"
+    },
+    "decision": "toss",
+    "reason": "Rule: category \"Guides\"",
+    "decidedBy": "rule",
+    "firstSeen": "2026-11-12T02:50:25.663Z"
+  },
+  {
     "guid": "https://www.polygon.com/visionquest-first-episode-free-streaming-youtube/",
     "title": "Marvel Makes VisionQuest’s First Episode Free To Stream",
     "link": "https://www.polygon.com/visionquest-first-episode-free-streaming-youtube/",
