@@ -1,5 +1,98 @@
 [
   {
+    "guid": "https://www.polygon.com/peanuts-best-comics-food/",
+    "title": "5 Funniest 'Peanuts' Comics About Food Only Charles Schulz Could Come Up With",
+    "link": "https://www.polygon.com/peanuts-best-comics-food/",
+    "creator": "Thomas Hindmarch",
+    "pubDate": "Fri, 13 Nov 2026 05:00:17 GMT",
+    "categories": [
+      "Polygon Lists",
+      "comic strip"
+    ],
+    "description": "Here's the World Famous Gastronomer reading 50 years of food gags",
+    "contentEncoded": "<p>There aren't quite as many <em>Peanuts</em> comic strips focused on food as one might expect. Little kids do tend to live their lives in the windows between meals and snacks, and Snoopy is as obsessed with his suppertime as any other dog, but food humor was a relatively low priority in Charles Schulz's punchline rotation. Compared to baseball, philosophy, Snoopy's alternate personas, or Charlie Brown's <a href=\"https://www.polygon.com/charlie-brown-best-line-wisest-peanuts/\" target=\"_blank\">truly existential levels of depression</a>, food as a topic in <em>Peanuts</em> was kept on a low boil.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/peanuts-welcome-home-franklin.jpg",
+      "type": "image/jpeg",
+      "length": "551"
+    },
+    "decision": "toss",
+    "reason": "Nostalgia retrospective about old comic strip gags; generic listicle filler.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-13T07:09:15.983Z"
+  },
+  {
+    "guid": "https://www.polygon.com/xbox-360-forgotten-masterpieces/",
+    "title": "8 Near-Perfect Xbox 360 Games That Are Forgotten Masterpieces",
+    "link": "https://www.polygon.com/xbox-360-forgotten-masterpieces/",
+    "creator": "Randy Rhodes",
+    "pubDate": "Fri, 13 Nov 2026 04:00:17 GMT",
+    "categories": [
+      "Polygon Lists",
+      "Sleeping Dogs",
+      "Lost Odyssey",
+      "Saints Row 2",
+      "Grand Theft Auto 6",
+      "Singularity",
+      "The Saboteur"
+    ],
+    "description": "From Viva Piñata to The Saboteur, these forgotten Xbox 360 masterpieces deserve another shot today.",
+    "contentEncoded": "<p>The <a href=\"https://www.polygon.com/most-underrated-xbox-360-games/\" target=\"_blank\">Xbox 360 era</a> was a marvelous generation and the last time publishers regularly bet on strange, original ideas. Plenty of those bets paid off, from <em>Gears of War</em> to <em>Assassin's Creed</em>. But time hasn't been kind to all of them, and some of the generation's best games have been out of the conversation so long that a whole new wave of players has never heard of them.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/629968/sleeping-dogs-definitive-edition-world_1920.0.jpg",
+      "type": "image/jpeg",
+      "length": "755072"
+    },
+    "decision": "keep",
+    "reason": "Game recommendations and analysis of overlooked titles; plausibly clickable.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-13T07:09:15.983Z"
+  },
+  {
+    "guid": "https://www.polygon.com/star-trek-wrath-of-khan-best-quote-grief/",
+    "title": "44 Years Later, Star Trek’s Best Quote About Grief Is Still a Near-Perfect Sci-Fi Moment",
+    "link": "https://www.polygon.com/star-trek-wrath-of-khan-best-quote-grief/",
+    "creator": "Rachel Leishman",
+    "pubDate": "Fri, 13 Nov 2026 02:45:17 GMT",
+    "categories": [
+      "FYI",
+      "Star Trek"
+    ],
+    "description": "Star Trek has some of the best moments in science fiction. And its best quote about grief is part of that.",
+    "contentEncoded": "<p>Franchises often help us understand the pain of loss. Shows like <em>WandaVision </em>have been praised for their exploration of grief and the anguish that exists there. But other franchises have also explored the feelings that surround death and grief. One of the biggest science fiction franchises of all time is known for quite a few poignant moments exploring what death can bring to those who are left behind. That franchise is <em><a href=\"https://www.polygon.com/tag/star-trek/\" target=\"_blank\">Star Trek</a></em>and trying to figure out the best approach to loss is hard because each of the franchise's iconic series has had moments that are worth talking about. </p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/spock-kirk-star-trek.jpeg",
+      "type": "image/jpeg",
+      "length": "201"
+    },
+    "decision": "toss",
+    "reason": "44-year-old nostalgia retrospective without real substance about old film.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-13T07:09:15.983Z"
+  },
+  {
+    "guid": "https://www.polygon.com/best-nintendo-switch-2-games/",
+    "title": "The 25 Best Nintendo Switch 2 Games in 2026",
+    "link": "https://www.polygon.com/best-nintendo-switch-2-games/",
+    "creator": "Oli Welsh",
+    "pubDate": "Fri, 13 Nov 2026 00:25:53 GMT",
+    "categories": [
+      "What to Play",
+      "Nintendo Switch 2"
+    ],
+    "description": "What are the best Nintendo Switch 2 games? From Zelda: Ocarina of Time to Mario Kart World, here are our favorites",
+    "contentEncoded": "<p>That's in addition to stellar third-party support, with almost unanimous buy-in from indies and several big publishers going all-in on porting their biggest titles to Switch 2 — notably Square Enix, with the Final Fantasy 7 series, and Capcom, with Resident Evil, Onimusha, <em>Pragmata</em>, and more coming.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/zelda-ocarina-of-time-great-deku-tree-and-link.jpg",
+      "type": "image/jpeg",
+      "length": "367"
+    },
+    "decision": "keep",
+    "reason": "Game recommendations and roundup for current-gen Nintendo platform.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-13T07:09:15.983Z"
+  },
+  {
     "guid": "https://www.polygon.com/company-of-heroes-3-free-steam-weekend-sale-november-2026/",
     "title": "Steam Makes Popular World War II Strategy Game Free to Play This Weekend",
     "link": "https://www.polygon.com/company-of-heroes-3-free-steam-weekend-sale-november-2026/",
