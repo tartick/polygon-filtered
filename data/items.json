@@ -1,5 +1,231 @@
 [
   {
+    "guid": "https://www.polygon.com/kpop-demon-hunters-world-tour-2027/",
+    "title": "KPop Demon Hunters' 2027 World Tour Is Official, but There's a Catch",
+    "link": "https://www.polygon.com/kpop-demon-hunters-world-tour-2027/",
+    "creator": "Aimee Hart",
+    "pubDate": "Fri, 13 Nov 2026 15:21:51 GMT",
+    "categories": [
+      "News",
+      "KPop Demon Hunters"
+    ],
+    "description": "The official 'KPop Demon Hunters' world tour is here, but fans still have plenty of questions and few answers.",
+    "contentEncoded": "<p><a href=\"http://polygon.com/kpop-demon-hunters\" target=\"_blank\"><em>KPop Demon Hunters</em></a> is packed with award-winning bops, so it’s no surprise Netflix and Sony Pictures Animation want to make the most of them with a live show. Netflix began planning a concert tour in <a href=\"https://www.polygon.com/kpop-demon-hunters-world-tour-netflix/\" target=\"_blank\">March</a> and confirmed today that Huntr/x will be going on tour in 2027. However, it's still unclear who will actually be performing the songs.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/01/kpop-demon-hunters-huntrix.jpg",
+      "type": "image/jpeg",
+      "length": "100"
+    },
+    "decision": "toss",
+    "reason": "Entertainment news unrelated to games, horror, or relevant topics.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-13T15:39:12.023Z"
+  },
+  {
+    "guid": "https://www.polygon.com/avengers-endgame-encore-streaming-date-disney-plus-november-2026/",
+    "title": "Avengers Endgame: Encore Now Officially Streaming on Disney Plus",
+    "link": "https://www.polygon.com/avengers-endgame-encore-streaming-date-disney-plus-november-2026/",
+    "creator": "Elijah Gonzalez",
+    "pubDate": "Fri, 13 Nov 2026 14:34:22 GMT",
+    "categories": [
+      "News",
+      "Avengers: Doomsday",
+      "Avengers: Endgame",
+      "Avengers: Endgame Encore"
+    ],
+    "description": "Avengers Endgame: Encore just got released on Disney Plus streaming, letting viewers relive the Marvel Studios hit before Doomsday.",
+    "contentEncoded": "<p>With <a href=\"https://www.polygon.com/avengers-doomsday/\" target=\"_blank\"><em>Avengers: Doomsday</em></a> roughly a month away, <a href=\"https://www.disneyplus.com/explore/articles/avengers-endgame-encore\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">Disney has some good news</a> for MCU fans who want to be fully caught up before Doctor Doom blows through the <a href=\"http://polygon.com/marvel\" target=\"_blank\">Marvel</a> pantheon. Marvel Studios' <a href=\"https://en.wikipedia.org/wiki/Avengers_Endgame:_Encore\" rel=\"noopener noreferrer nofollow\" target=\"_blank\"><em>Avengers Endgame: Encore</em></a> is now streaming on Disney Plus.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24440040/5077cad6c78617c0f3c784e18391dcb806_captain_america.jpg",
+      "type": "image/jpeg",
+      "length": "175461"
+    },
+    "decision": "toss",
+    "reason": "Marvel streaming clickbait; big-franchise churn to discard.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-13T15:39:12.023Z"
+  },
+  {
+    "guid": "https://www.polygon.com/best-switch-2-games-now/",
+    "title": "The 25 Best Switch 2 Games",
+    "link": "https://www.polygon.com/best-switch-2-games-now/",
+    "creator": "Oli Welsh",
+    "pubDate": "Fri, 13 Nov 2026 14:11:53 GMT",
+    "categories": [
+      "What to Play",
+      "Nintendo"
+    ],
+    "description": "The best Nintendo Switch 2 games include Zelda: Ocarina of Time, Fire Emblem: Fortune's Weave, and plenty more.",
+    "contentEncoded": "<p>That's in addition to stellar third-party support, with almost unanimous buy-in from indies and several big publishers going all-in on porting their biggest titles to Switch 2 — notably Square Enix, with the Final Fantasy 7 series, and Capcom, with Resident Evil, Onimusha, <em>Pragmata</em>, and more coming.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/zelda-ocarina-of-time-great-deku-tree-and-link.jpg",
+      "type": "image/jpeg",
+      "length": "367"
+    },
+    "decision": "keep",
+    "reason": "Video game list and recommendations for Switch 2.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-13T15:39:12.023Z"
+  },
+  {
+    "guid": "https://www.polygon.com/virtue-and-a-sledgehammer-review/",
+    "title": "Steam’s Angriest New Game Is the Perfect Place to Channel Your AI Hate",
+    "link": "https://www.polygon.com/virtue-and-a-sledgehammer-review/",
+    "creator": "Giovanni Colantonio",
+    "pubDate": "Fri, 13 Nov 2026 13:00:18 GMT",
+    "categories": [
+      "Reviews"
+    ],
+    "description": "Virtue and a Sledgehammer is a rage-filled takedown of AI, but it's more interested in what makes us human.",
+    "contentEncoded": "<p>The greater threat of an unchecked AI industry is that it will siphon the soul out of humanity. And what are we without that?</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/virtue-and-a-sledgehammer-robots.jpg",
+      "type": "image/jpeg",
+      "length": "495"
+    },
+    "decision": "keep",
+    "reason": "Video game review with thematic analysis.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-13T15:39:12.023Z"
+  },
+  {
+    "guid": "https://www.polygon.com/fable-new-gameplay-trailer-xbox/",
+    "title": "Xbox Shares New Fable Trailer that Divides the Fanbase",
+    "link": "https://www.polygon.com/fable-new-gameplay-trailer-xbox/",
+    "creator": "Francesco Cacciatore",
+    "pubDate": "Fri, 13 Nov 2026 12:45:30 GMT",
+    "categories": [
+      "News",
+      "Fable"
+    ],
+    "description": "Xbox shared a new gameplay trailer for the upcoming Fable reboot, and the bleak footage divided fans.",
+    "contentEncoded": "<p>On Nov. 12, Xbox CEO <a href=\"https://x.com/asha_shar/status/2120955243790057796\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">Asha Sharma shared</a> a new gameplay trailer for <a href=\"https://www.polygon.com/tag/fable/\" target=\"_blank\"><em>Fable</em></a>, the long-anticipated fourth installment in the Fable series, developed by Playground Games. While excitement for the game remains high, many fans shared their negative reactions online, confirming that this will be another controversial release.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/screenshot-2026-06-07-at-1-12-35-pm.png",
+      "type": "image/jpeg",
+      "length": "4036"
+    },
+    "decision": "keep",
+    "reason": "Video game news and footage for upcoming title.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-13T15:39:12.023Z"
+  },
+  {
+    "guid": "https://www.polygon.com/wolfenstein-doom-bethesda-new-game-announced/",
+    "title": "New Game from Doom studio and New Wolfenstein Announced",
+    "link": "https://www.polygon.com/wolfenstein-doom-bethesda-new-game-announced/",
+    "creator": "Ashely Claudino",
+    "pubDate": "Fri, 13 Nov 2026 11:56:30 GMT",
+    "categories": [
+      "News",
+      "DOOM",
+      "wolfenstein"
+    ],
+    "description": "Xbox CEO Asha Sharma has unveiled upcoming Bethesda games coming from the studios that made Doom and Wolfenstein.",
+    "contentEncoded": "<p><a href=\"https://www.polygon.com/xbox/\" target=\"_blank\">Xbox</a> is celebrating its 25th anniversary this month, and it's been spoiling fans left and right. Xbox games like <em>Minecraft</em>, <em>Microsoft Flight Simulator 2024</em>, <em>Gears E-Day</em>, and more received celebratory freebies. Beyond the awesome free in-game items, players were lucky enough to get a few exciting announcements coming from Bethesda-owned studios, Id Software and MachineGames.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/doom-tda-revelations-slayer-1.jpeg",
+      "type": "image/jpeg",
+      "length": "331"
+    },
+    "decision": "keep",
+    "reason": "Video game announcements from major studios.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-13T15:39:12.023Z"
+  },
+  {
+    "guid": "https://www.polygon.com/pixar-gatto-trailer/",
+    "title": "Pixar's New Movie Gatto Gets First In-Depth Look in Official Trailer",
+    "link": "https://www.polygon.com/pixar-gatto-trailer/",
+    "creator": "Ashely Claudino",
+    "pubDate": "Fri, 13 Nov 2026 10:43:49 GMT",
+    "categories": [
+      "News",
+      "pixar",
+      "Gatto"
+    ],
+    "description": "Pixar takes viewers to Venice to meet a mobster cat in Gatto, starring Mark Ruffalo and Laurence Fishburne.",
+    "contentEncoded": "<p>The first teaser for <em>Gatto</em>, Pixar's upcoming animated film, was released on Jun. 11, following a description of the movie's general plot and some cast members. Fans learned that <em>Gatto</em> is set in the Italian city of Venice, and it follows the adventures of a feral black cat named Nero, who's spent most of his nine lives recklessly working for mobster cat Rocco.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/gatto-pixar.jpg",
+      "type": "image/jpeg",
+      "length": "519"
+    },
+    "decision": "toss",
+    "reason": "Generic film trailer; lacks substantive prestige or urgency.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-13T15:39:12.023Z"
+  },
+  {
+    "guid": "https://www.polygon.com/mtg-dune-magic-secret-lair-drop-leaks/",
+    "title": "Leaked Dune Magic Secret Lair Has Amazing Value Reprints and 9 New Cards",
+    "link": "https://www.polygon.com/mtg-dune-magic-secret-lair-drop-leaks/",
+    "creator": "Francesco Cacciatore",
+    "pubDate": "Fri, 13 Nov 2026 10:30:47 GMT",
+    "categories": [
+      "News",
+      "Magic: The Gathering"
+    ],
+    "description": "An unconfirmed Dune x Magic Secret Lair superdrop leaked, and it includes great reprints and 9 new cards.",
+    "contentEncoded": "<p>One popular sci-fi property is the talk of the <a href=\"https://www.polygon.com/mtg-magic-the-gathering/\" target=\"_blank\"><em>Magic: The Gathering</em></a> community right now, and it's not <a href=\"https://www.polygon.com/magic-the-gathering-star-trek-exclusive-reveal/\" target=\"_blank\">Star Trek</a>. On Nov. 12, leaks started to emerge online about a Dune Secret Lair drop, and while still unconfirmed, this new Universes Beyond collaboration seems legitimate.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/dune-part-two-muad-dib.webp",
+      "type": "image/jpeg",
+      "length": "1319"
+    },
+    "decision": "keep",
+    "reason": "Rule: category \"Magic: The Gathering\"",
+    "decidedBy": "rule",
+    "firstSeen": "2026-11-13T15:39:12.023Z"
+  },
+  {
+    "guid": "https://www.polygon.com/best-nintendo-switch-special-edition-designs/",
+    "title": "6 Nintendo Switch Special Editions With the Best Designs, Ranked",
+    "link": "https://www.polygon.com/best-nintendo-switch-special-edition-designs/",
+    "creator": "Jason Venter",
+    "pubDate": "Fri, 13 Nov 2026 10:00:17 GMT",
+    "categories": [
+      "Polygon Lists",
+      "Nintendo Switch 2",
+      "Nintendo"
+    ],
+    "description": "Even when a person already owns a Switch, some of these are attractive enough to make them want to buy another one.",
+    "contentEncoded": "<p>When a new console arrives, a lot of us rush out to buy one the minute we can afford to. At launch, there’s typically just one option, or sometimes a handful of choices with varying specifications. Personality isn’t a draw yet, beyond whatever’s standard. Over time, however, that inevitably changes.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/02/switch-2-third-party-partner-games-february-direct.jpg",
+      "type": "image/jpeg",
+      "length": "306"
+    },
+    "decision": "toss",
+    "reason": "Hardware ranking list; filler nostalgia without game substance.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-13T15:39:12.023Z"
+  },
+  {
+    "guid": "https://www.polygon.com/sci-fi-trilogy-perfect-entries/",
+    "title": "5 Sci-Fi Book Trilogies Where Every Entry Is Perfect",
+    "link": "https://www.polygon.com/sci-fi-trilogy-perfect-entries/",
+    "creator": "Debopriyaa Dutta",
+    "pubDate": "Fri, 13 Nov 2026 09:00:18 GMT",
+    "categories": [
+      "Polygon Lists",
+      "Books",
+      "Foundation",
+      "3 Body Problem"
+    ],
+    "description": "Not all sci-fi trilogies are made equal, as some are impeccable from start to finish.",
+    "contentEncoded": "<p>Of course, not all sci-fi trilogies are created equal. Plenty start strong only to flame out in book two or three, while others admittedly take a while to get good. But there are plenty of perfect trilogies, too. Polygon has rounded up five sci-fi book trilogies that are worth your time from start to finish. Check out the list below.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/aaaaqsvwbmutuyygxfebvcswpskx9vscutyezcvln4bmjy5p2d4pwu51_oflom3na20dbxxonxrs7ee9kr-qdczlqzr0ize-yjcjafijzt4_yyl15aopiprohh05jfdl7plobqbnyjhxiyqv8fy8qlhtl9dn.jpg",
+      "type": "image/jpeg",
+      "length": "94"
+    },
+    "decision": "toss",
+    "reason": "Book recommendations; outside games/horror scope.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-13T15:39:12.023Z"
+  },
+  {
     "guid": "https://www.polygon.com/peanuts-best-comics-food/",
     "title": "5 Funniest 'Peanuts' Comics About Food Only Charles Schulz Could Come Up With",
     "link": "https://www.polygon.com/peanuts-best-comics-food/",
