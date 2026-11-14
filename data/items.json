@@ -1,5 +1,161 @@
 [
   {
+    "guid": "https://www.polygon.com/battlestar-galactica-season-3-exodus-20-year-anniversary-adama-maneuver/",
+    "title": "20 Years Ago, the Best Sci-Fi Show of the Century Delivered the Most Epic Space Battle in TV History",
+    "link": "https://www.polygon.com/battlestar-galactica-season-3-exodus-20-year-anniversary-adama-maneuver/",
+    "creator": "Corey Plante",
+    "pubDate": "Sat, 14 Nov 2026 09:04:18 GMT",
+    "categories": [
+      "What to Watch",
+      "Battlestar Galactica",
+      "Sci-Fi"
+    ],
+    "description": "Twenty years ago, Battlestar Galactica topped the Adama Maneuver by transforming the Pegasus into an enormous battering ram.",
+    "contentEncoded": "<p>Two decades later, this spectacle from <a href=\"https://www.polygon.com/battlestar-galactica-occupation-20-years-anniversary/\" target=\"_blank\"><em>Battlestar Galactica</em></a><em></em>season 3’s “Exodus, Part 2” remains unforgettable <a href=\"https://www.polygon.com/sci-fi/\" target=\"_blank\">sci-fi</a> TV. It’s dazzling and horrifying, and still one of the coolest things ever broadcast on science-fiction television. From a tactical standpoint, the “Adama Maneuver” is absolutely bonkers and one of the riskiest spaceship tactics, perhaps ever (sorry, Vice-Admiral Holdo). What if the ship had gotten torn apart from ripping through the atmosphere? What if the FTL drive malfunctioned or didn’t activate in time? Somehow, it’s also not even the most visually impressive sequence in the episode.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/exodus-missiles.avif",
+      "type": "image/jpeg",
+      "length": "65"
+    },
+    "decision": "toss",
+    "reason": "Nostalgia retrospective about old sci-fi show, not new substantive content.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-14T09:19:46.553Z"
+  },
+  {
+    "guid": "https://www.polygon.com/zelda-link-past-retrospective-35-years/",
+    "title": "Zelda Fans Who Loved Ocarina of Time Need to Play This Game Next",
+    "link": "https://www.polygon.com/zelda-link-past-retrospective-35-years/",
+    "creator": "Jason Venter",
+    "pubDate": "Sat, 14 Nov 2026 09:00:17 GMT",
+    "categories": [
+      "What to Play",
+      "The Legend of Zelda: A Link to the Past",
+      "The Legend of Zelda",
+      "The Legend of Zelda: Ocarina of Time"
+    ],
+    "description": "Ocarina of Time features some memorable moments, and many of them were similarly compelling in a previous Zelda adventure.",
+    "contentEncoded": "<p>By now, you’ve probably had time to play <a href=\"https://www.polygon.com/the-legend-of-zelda-ocarina-of-time-remake/\" target=\"_blank\"><em>The Legend of Zelda: Ocarina of Time</em></a> remake on the Nintendo Switch 2. You’ve marveled at what a great job it does of bringing the classic Nintendo 64 adventure to a new generation, with visual improvements and quality-of-life changes to make it more palatable for that new audience. Maybe you’ve even run through it a second time.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24100929/Link.jpg",
+      "type": "image/jpeg",
+      "length": "418612"
+    },
+    "decision": "keep",
+    "reason": "Game recommendation for classic Zelda title; fits game content guidelines.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-14T09:19:46.553Z"
+  },
+  {
+    "guid": "https://www.polygon.com/pokemon-go-wild-area-2026-global-habitats-schedule-bonuses/",
+    "title": "Pokémon Go Wild Area 2026 event schedule, habitat spawns, and bonuses",
+    "link": "https://www.polygon.com/pokemon-go-wild-area-2026-global-habitats-schedule-bonuses/",
+    "creator": "Julia Lee",
+    "pubDate": "Sat, 14 Nov 2026 05:15:17 GMT",
+    "categories": [
+      "Guides",
+      "Pokemon GO"
+    ],
+    "description": "Here's everything you need to know about Pokémon Go's Wild Area 2026 event, including the habitats, spawns, and bonuses.",
+    "contentEncoded": "<p><a href=\"https://www.polygon.com/game/pokemon-go/38713/\" target=\"_blank\"><em>Pokémon Go</em></a>'s big <strong>global Wild Area 2026</strong> event is finally here, running on <strong>Nov. 14 and 15 from 10 a.m. until 6 p.m. in your local time</strong>. This event features the debut of <strong>Gigantamax Duraludon</strong>, as well as <strong>Dynamax Dialga</strong> and <strong>Palkia</strong>. <a href=\"https://www.polygon.com/pokemon-go-guide/483165/go-safari-balls-how-to-get/\" target=\"_blank\">Safari Balls</a> and <a href=\"https://www.polygon.com/pokemon-go-guide/483905/mighty-pokemon-list-schedule-moves/\" target=\"_blank\">mighty Pokémon</a> also make a return from the previous years' Wild Area events, which means you can find some powerful Pokémon roaming about.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/jlee_261112_1001_pogo_wildhub.jpg",
+      "type": "image/jpeg",
+      "length": "1422"
+    },
+    "decision": "toss",
+    "reason": "Rule: category \"Guides\"",
+    "decidedBy": "rule",
+    "firstSeen": "2026-11-14T09:19:46.553Z"
+  },
+  {
+    "guid": "https://www.polygon.com/pokemon-go-guide/483905/mighty-pokemon-list-schedule-moves/",
+    "title": "How to get mighty Pokémon in Pokémon Go",
+    "link": "https://www.polygon.com/pokemon-go-guide/483905/mighty-pokemon-list-schedule-moves/",
+    "creator": "Julia Lee",
+    "pubDate": "Sat, 14 Nov 2026 05:15:17 GMT",
+    "categories": [
+      "Guides",
+      "Pokemon GO"
+    ],
+    "description": "Special \"mighty\" Pokémon appear during the Wild Area event. We explain what they are, their special moves, and a mighty Pokémon list to target.",
+    "contentEncoded": "<p><strong>Mighty Pokémon</strong> are particularly strong Pokémon that you can find during the <em><a href=\"https://www.polygon.com/game/pokemon-go/38713\" target=\"_blank\">Pokémon Go</a></em><a href=\"https://www.polygon.com/pokemon-go-wild-area-2026-global-habitats-schedule-bonuses/\" target=\"_blank\">Wild Area 2026 event</a> on Nov. 14 and 15.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/jlee_261112_1001_pogo_wildmighty-1.jpg",
+      "type": "image/jpeg",
+      "length": "1451"
+    },
+    "decision": "toss",
+    "reason": "Rule: category \"Guides\"",
+    "decidedBy": "rule",
+    "firstSeen": "2026-11-14T09:19:46.553Z"
+  },
+  {
+    "guid": "https://www.polygon.com/pokemon-go-guide/483165/go-safari-balls-how-to-get/",
+    "title": "How to get Go Safari Balls in Pokémon Go",
+    "link": "https://www.polygon.com/pokemon-go-guide/483165/go-safari-balls-how-to-get/",
+    "creator": "Julia Lee",
+    "pubDate": "Sat, 14 Nov 2026 05:15:17 GMT",
+    "categories": [
+      "Guides",
+      "Pokemon GO"
+    ],
+    "description": "As part of the “Wild Area: Global” Pokémon Go event, you can get Go Safari Balls, which have a high catch rate. We explain how to get more in our guide.",
+    "contentEncoded": "<p>You can get<strong> Go Safari Balls</strong> as part of <em><a href=\"https://www.polygon.com/game/pokemon-go/38713\" target=\"_blank\">Pokémon Go</a></em> Wild Area events, and can only be used during event hours. No, seriously — they disappear after the event ends.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/jlee_261112_1001_pogo_safariballs.jpg",
+      "type": "image/jpeg",
+      "length": "1333"
+    },
+    "decision": "toss",
+    "reason": "Rule: category \"Guides\"",
+    "decidedBy": "rule",
+    "firstSeen": "2026-11-14T09:19:46.553Z"
+  },
+  {
+    "guid": "https://www.polygon.com/frodo-best-quote-lord-of-the-rings/",
+    "title": "25 Years Later, Frodo’s Best Lord of the Ring Quote Proves He's the Ultimate Fantasy Hero",
+    "link": "https://www.polygon.com/frodo-best-quote-lord-of-the-rings/",
+    "creator": "Aimee Hart",
+    "pubDate": "Sat, 14 Nov 2026 05:00:17 GMT",
+    "categories": [
+      "Analysis",
+      "The Lord of the Rings"
+    ],
+    "description": "The Lord of the Rings is full of profound quotes, but Frodo's best one shows why he’s fantasy's greatest hero.",
+    "contentEncoded": "<p>An inherent tragedy follows every character in <a href=\"http://polygon.com/the-lord-of-the-rings\" target=\"_blank\"><em>The Lord of the Rings</em></a>, which isn’t surprising, given that Peter Jackson’s epic fantasy trilogy is adapted from the works of J.R.R. Tolkien. The author has never been shy about exploring grim topics, and in a <a href=\"https://www.bbc.com/culture/article/20240726-the-ww1-trauma-that-inspired-the-lord-of-the-rings\" target=\"_blank\">1968 interview with the BBC</a>, Tolkien said that all stories are about one thing: death.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/elijah-wood-the-lord-of-the-rings.jpg",
+      "type": "image/jpeg",
+      "length": "940"
+    },
+    "decision": "toss",
+    "reason": "Nostalgia retrospective about 25-year-old film, lacks substance.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-14T09:19:46.553Z"
+  },
+  {
+    "guid": "https://www.polygon.com/professor-layton-nintendo-ds-remake-release-date-2027/",
+    "title": "20 Years Later, A Classic Nintendo DS Puzzle Game Officially Returns",
+    "link": "https://www.polygon.com/professor-layton-nintendo-ds-remake-release-date-2027/",
+    "creator": "Willa Rowe",
+    "pubDate": "Sat, 14 Nov 2026 02:25:17 GMT",
+    "categories": [
+      "No social"
+    ],
+    "description": "Level-5 is remaking the classic Nintendo DS puzzle game Professor Layton and the Curious Village and it's due out in 2027",
+    "contentEncoded": "<p>Next year will mark the 20th anniversary of Level-5's beloved <a href=\"https://www.polygon.com/tag/professor-layton/\" target=\"_blank\">Professor Layton</a> series. To celebrate, the company has announced it is remaking <em>Professor Layton and the Curious Village</em>.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/professor-layton-and-the-new-world-of-steam.jpg",
+      "type": "image/jpeg",
+      "length": "361"
+    },
+    "decision": "keep",
+    "reason": "New game remake announcement with release date is substantive news.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-14T09:19:46.553Z"
+  },
+  {
     "guid": "https://www.polygon.com/the-wire-season-4-recommendation/",
     "title": "HBO’s 5-Part Crime Drama Has One of the Best Seasons in TV History",
     "link": "https://www.polygon.com/the-wire-season-4-recommendation/",
