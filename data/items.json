@@ -1,5 +1,231 @@
 [
   {
+    "guid": "https://www.polygon.com/zelda-ocarina-time-first-nintendo-kids-game/",
+    "title": "Zelda: Ocarina of Time Is Actually the Perfect Way to Introduce Kids to Nintendo",
+    "link": "https://www.polygon.com/zelda-ocarina-time-first-nintendo-kids-game/",
+    "creator": "Rebecca Corgan",
+    "pubDate": "Sat, 14 Nov 2026 20:00:17 GMT",
+    "categories": [
+      "Opinion",
+      "The Legend of Zelda: Ocarina of Time"
+    ],
+    "description": "Parents are debating whether the Ocarina of Time remake is too scary for kids. Here’s the case for the child-era half as a first Nintendo game.",
+    "contentEncoded": "<p>Walk into <a href=\"https://www.polygon.com/the-legend-of-zelda-ocarina-of-time-remake/\" target=\"_blank\"><em>The Legend of Zelda: Ocarina of Time</em></a>’s Kokiri Forest, and it feels like you’re walking into a picture book. Especially in the remake, everything is moss-green and dappled with light. Fairies flit about. Kokiri children are rhythmically attending to their tasks. Everyone is friendly, everything is beautiful, and the world both feels safe and makes sense. Then you walk into the Great Deku Tree and spiders start falling from the ceiling. My daughter screamed. I jumped, too, and I knew they were coming.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/zelda-ocarina-of-time-great-deku-tree-and-link.jpg",
+      "type": "image/jpeg",
+      "length": "367"
+    },
+    "decision": "keep",
+    "reason": "Zelda game opinion piece with substance about gameplay and experience.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-14T20:36:42.561Z"
+  },
+  {
+    "guid": "https://www.polygon.com/fortnite-player-loses-pirate-shop-access-token-game-crash/",
+    "title": "Fortnite Player Gets Screwed Out of Extremely Rare Pirate Shop Token",
+    "link": "https://www.polygon.com/fortnite-player-loses-pirate-shop-access-token-game-crash/",
+    "creator": "Ashely Claudino",
+    "pubDate": "Sat, 14 Nov 2026 19:47:17 GMT",
+    "categories": [
+      "Gaming",
+      "Fortnite"
+    ],
+    "description": "Epic Games has reportedly proved unhelpful after a user lost the Pirate Shop Access token in Fortnite after losing connection mid-match.",
+    "contentEncoded": "<p>The Pirate Shop Access token is arguably the <a href=\"https://www.polygon.com/fortnite-treasure-hours-pirate-token-free-shop/\" target=\"_blank\">best reward <em>Fortnite</em> has ever had</a>. With it, players can claim every reward in the shop for free for two whole weeks. And it can be activated twice! It's <a href=\"https://www.polygon.com/fortnite-pirate-shop-access-token-treasure-odds-revealed/\" target=\"_blank\">extremely rare</a>, but gamers have been grinding hard to get it, as it's too valuable to ignore. The token has caused a frenzy in the <a href=\"https://www.polygon.com/game/fortnite/2417/\" target=\"_blank\"><em>Fortnite</em></a> community and increased the number of hours played by millions.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/the-simpsons-fortnite-loading-screen.jpg",
+      "type": "image/jpeg",
+      "length": "476"
+    },
+    "decision": "toss",
+    "reason": "Individual player incident report; not substantial news.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-14T20:36:42.561Z"
+  },
+  {
+    "guid": "https://www.polygon.com/the-body-ending-explained/",
+    "title": "'The Body' Ending Explained: Is Grace Possessed? Netflix Showrunners Talk Season 2",
+    "link": "https://www.polygon.com/the-body-ending-explained/",
+    "creator": "Maria Loreto",
+    "pubDate": "Sat, 14 Nov 2026 19:00:17 GMT",
+    "categories": [
+      "Interview",
+      "TV",
+      "The Body"
+    ],
+    "description": "Is Grace possessed? The Body’s showrunners explain why the Netflix series’ ending has no single answer and what’s next in season 2.",
+    "contentEncoded": "<p><a href=\"https://www.polygon.com/the-body-review-netflix/\" target=\"_blank\"><em>The Body</em></a>, Netflix’s new campy-horror <a href=\"https://www.polygon.com/tv/\" target=\"_blank\">TV series</a>, came out this week. But based on a quick social media browse, it might as well have come out months ago. The high school thriller inspired passionate fan debates among viewers and dozens of fan cams dedicated to favorite characters long before a single episode aired. Now that <em>The Body</em> has finally arrived, however, fans are having an entirely different debate that hinges on its wild cliffhanger ending.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/the_body_n_s1_e1_00_17_48_05rc2.avif",
+      "type": "image/jpeg",
+      "length": "1651"
+    },
+    "decision": "toss",
+    "reason": "Ending explainer for non-horror TV series; lacks real substance.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-14T20:36:42.561Z"
+  },
+  {
+    "guid": "https://www.polygon.com/charlie-brown-final-peanuts-line/",
+    "title": "26 Years Later, Charlie Brown's Final Quote Is Still a Comic Strip Classic",
+    "link": "https://www.polygon.com/charlie-brown-final-peanuts-line/",
+    "creator": "Thomas Hindmarch",
+    "pubDate": "Sat, 14 Nov 2026 18:43:17 GMT",
+    "categories": [
+      "Analysis",
+      "comic strip"
+    ],
+    "description": "Charlie Brown, the longest-suffering kid in comics history, went out as he lived",
+    "contentEncoded": "<p>Charles Schulz's retirement took the world by surprise. Following a period of failing health, Schulz <a href=\"https://www.npr.org/1999/12/14/1067862/charles-schulz-retires\" target=\"_blank\">announced</a> on Dec. 14, 1999 that he would end <em>Peanuts</em>. He could no longer see clearly and had been diagnosed with colon cancer. He needed to focus on his health. As a result, <em>Peanuts</em> came to a relatively sudden stop nine weeks later once newspapers had worked through Schulz's existing backlog.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/charlie-brown-emotional-gut-punch-in-peanuts-comic.avif",
+      "type": "image/jpeg",
+      "length": "59"
+    },
+    "decision": "toss",
+    "reason": "Nostalgia retrospective about old comic strip.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-14T20:36:42.561Z"
+  },
+  {
+    "guid": "https://www.polygon.com/magic-the-gathering-new-sliver-cards-tease/",
+    "title": "Magic Is Bringing Back Its Most Controversial Creature Type",
+    "link": "https://www.polygon.com/magic-the-gathering-new-sliver-cards-tease/",
+    "creator": "Tomas Franzese",
+    "pubDate": "Sat, 14 Nov 2026 18:03:43 GMT",
+    "categories": [
+      "Magic: The Gathering",
+      "Magic: The Gathering"
+    ],
+    "description": "Magic: The Gathering's Aaron Forsythe tells Polygon he knows when more Sliver cards will come to the game",
+    "contentEncoded": "<p>Whether you love or hate Sliver decks in <em>Magic: The Gathering</em>, you should prepare for more Sliver cards to make their way to the game soon. Vice President of Design Aaron Forsythe revealed as much during an in-person interview with Polygon at MagicCon: Atlanta 2026.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/07/the-first-sliver-mtg-art.jpg",
+      "type": "image/jpeg",
+      "length": "2387719"
+    },
+    "decision": "keep",
+    "reason": "Rule: category \"Magic: The Gathering\"",
+    "decidedBy": "rule",
+    "firstSeen": "2026-11-14T20:36:42.561Z"
+  },
+  {
+    "guid": "https://www.polygon.com/tim-burton-edward-scissorhands-love-story/",
+    "title": "35 Years Later, Tim Burton’s Greatest Love Story Is Officially on Streaming",
+    "link": "https://www.polygon.com/tim-burton-edward-scissorhands-love-story/",
+    "creator": "Maria Loreto",
+    "pubDate": "Sat, 14 Nov 2026 18:00:17 GMT",
+    "categories": [
+      "What to Watch",
+      "Movies",
+      "Edward Scissorhands"
+    ],
+    "description": "A lonely man, a pastel suburb, and a Gothic castle. Tim Burton’s 35-year-old fairy tale is still amazing.",
+    "contentEncoded": "<p>What makes a love story work? For it to transcend, a love story needs more than good-looking actors, chemistry, and romantic dialogue. There’s no set formula, but it must sweep you off your feet. A touch of sadness and wistfulness never hurts.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/winona.jpg",
+      "type": "image/jpeg",
+      "length": "44"
+    },
+    "decision": "toss",
+    "reason": "Streaming availability piece; not substantial film news.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-14T20:36:42.561Z"
+  },
+  {
+    "guid": "https://www.polygon.com/switch-online-missing-wii-games/",
+    "title": "12 Classic Wii Games That Nintendo Should Add to Switch Online",
+    "link": "https://www.polygon.com/switch-online-missing-wii-games/",
+    "creator": "Jason Venter",
+    "pubDate": "Sat, 14 Nov 2026 17:24:05 GMT",
+    "categories": [
+      "Polygon Lists",
+      "Nintendo"
+    ],
+    "description": "Nintendo could really make our day by launching a Wii channel on Switch Online and including these 12 classic games.",
+    "contentEncoded": "<p>There’s no shortage of gems in the Wii library, and they didn’t all come from Nintendo itself. Thinking back on some of the games that people missed at the time, it’s easy to argue that Nintendo should add Wii to Switch Online sometime soon, if only so we have another chance to play classic games like the 12 on this list.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/punch-out-wii-cropped-cover-art.jpg",
+      "type": "image/jpeg",
+      "length": "232381"
+    },
+    "decision": "toss",
+    "reason": "Wishlist/guide article; filler content.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-14T20:36:42.561Z"
+  },
+  {
+    "guid": "https://www.polygon.com/blade-runner-is-officially-getting-the-aaa-game-treatment/",
+    "title": "Blade Runner Is Officially Getting The AAA Game Treatment",
+    "link": "https://www.polygon.com/blade-runner-is-officially-getting-the-aaa-game-treatment/",
+    "creator": "Tomas Franzese",
+    "pubDate": "Sat, 14 Nov 2026 17:06:22 GMT",
+    "categories": [
+      "News",
+      "Blade Runner",
+      "Blade Runner 2099"
+    ],
+    "description": "Alcon Entertainment confirmed it has had discussions about creating a AAA game based on Blade Runner",
+    "contentEncoded": "<p>Alcon Entertainment, which owns the Blade Runner franchise, confirmed in a recent interview that it has discussed making a AAA game based on the beloved sci-fi series. It's an exciting development for <a href=\"https://www.polygon.com/ryan-gosling-blade-runner-2049-streaming-success-hbo-max-september-2026/\" target=\"_blank\">Blade Runner</a>, which has never quite found its footing in gaming despite how influential its visual style and narrative themes have been. </p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/22375892/BladeRunner_1000x500.jpg",
+      "type": "image/jpeg",
+      "length": "118096"
+    },
+    "decision": "keep",
+    "reason": "Film-to-game adaptation news; substantial announcement.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-14T20:36:42.561Z"
+  },
+  {
+    "guid": "https://www.polygon.com/switchboard-zelda-ocarina-of-time-reception/",
+    "title": "The Zelda: Ocarina of Time Remake Is an Event Even if You’re Not Playing It",
+    "link": "https://www.polygon.com/switchboard-zelda-ocarina-of-time-reception/",
+    "creator": "Oli Welsh",
+    "pubDate": "Sat, 14 Nov 2026 17:00:19 GMT",
+    "categories": [
+      "Switchboard",
+      "The Legend of Zelda: Ocarina of Time",
+      "The Legend of Zelda",
+      "Nintendo",
+      "Nintendo Switch 2"
+    ],
+    "description": "Watching personal reactions to Nintendo's Switch 2 version of The Legend of Zelda: OoT is beautiful",
+    "contentEncoded": "<p><em><strong>Switchboard </strong>is Polygon's weekly newsletter for all things Nintendo, sent on Thursdays and published on the site on Saturdays. You can <a href=\"https://www.polygon.com/page/newsletter/\" target=\"_blank\">subscribe here</a>.</em></p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/zelda-ocarina-of-time-owl.jpg",
+      "type": "image/jpeg",
+      "length": "350"
+    },
+    "decision": "keep",
+    "reason": "Coverage of Zelda remake reception and cultural moment.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-14T20:36:42.561Z"
+  },
+  {
+    "guid": "https://www.polygon.com/video-game-villains-best-motives/",
+    "title": "8 Iconic Video Game Villains Who Were Actually Right the Whole Time",
+    "link": "https://www.polygon.com/video-game-villains-best-motives/",
+    "creator": "Rebecca Corgan",
+    "pubDate": "Sat, 14 Nov 2026 16:44:33 GMT",
+    "categories": [
+      "Polygon Lists",
+      "Mass Effect 2"
+    ],
+    "description": "The best video game villains of all time had motives that, when you think about them, actually made a whole lot of sense.",
+    "contentEncoded": "<p>Grab your gavel: Court is in session for eight of gaming’s most misunderstood villains. Their charges? One occupied planet, one erased painting, one underwater utopia gone to rot, and a truly staggering body count. But, all that aside, what if these bad guys were actually making a somewhat decent point? Read between the lines of their melodramatic monologues, and perhaps you’ll realize that, say, a centuries-long guilt trip over one catastrophic mistake was in fact understandable rationale for wanting to tear the world down and start over. Or not: You get to decide. Just read each villain’s case file below before reaching a verdict — you might not love where the evidence actually points.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/22989776/ss_4b2b412307b72a21f68148c32fab7a278875d139.jpg",
+      "type": "image/jpeg",
+      "length": "533133"
+    },
+    "decision": "keep",
+    "reason": "Video game analysis essay about villain motivations.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-14T20:36:42.561Z"
+  },
+  {
     "guid": "https://www.polygon.com/james-gunn-responds-man-of-tomorrow-rumors/",
     "title": "James Gunn Responds To Scathing Man of Tomorrow Rumors Following DC Studios Exit",
     "link": "https://www.polygon.com/james-gunn-responds-man-of-tomorrow-rumors/",
