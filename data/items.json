@@ -1,5 +1,75 @@
 [
   {
+    "guid": "https://www.polygon.com/calvin-hobbes-best-spaceman-spiff-comics/",
+    "title": "Calvin and Hobbes’ 5 Greatest Spaceman Spiff Comic Strips",
+    "link": "https://www.polygon.com/calvin-hobbes-best-spaceman-spiff-comics/",
+    "creator": "Thomas Hindmarch",
+    "pubDate": "Sun, 15 Nov 2026 00:00:17 GMT",
+    "categories": [
+      "Comics",
+      "comic strip"
+    ],
+    "description": "The best Spaceman Spiff comics in Calvin and Hobbes turn boring school days into dazzling sci-fi adventures, showcasing Bill Watterson’s imagination.",
+    "contentEncoded": "<p><em>Calvin and Hobbes</em> wasn't Bill Watterson's first pitch for a comic strip. <em>C&H</em>'s protagonists <a href=\"https://web.archive.org/web/20140105185927/http://www.washingtonpost.com/wp-dyn/content/article/2005/10/03/AR2005100301754_3.html\" target=\"_blank\">began as side characters</a> in Watterson's comic <em>The Doghouse</em> before his original syndicate suggested that they ought to be the focus. \"Marvin\" became \"Calvin,\" the rest of <em>The Doghouse</em>'s cast was dropped, and while United Feature Syndicate still didn't take the resulting comic, Universal Press Syndicate did.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/calvin-hobbes-spaceman.avif",
+      "type": "image/jpeg",
+      "length": "164"
+    },
+    "decision": "toss",
+    "reason": "Nostalgia retrospective about classic comic strip; filler content.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-15T00:14:48.193Z"
+  },
+  {
+    "guid": "https://www.polygon.com/league-of-legends-with-new-dawn-reveal-worlds-2026/",
+    "title": "League of Legends: New Dawn Revealed, Major Overhaul Set for 2027",
+    "link": "https://www.polygon.com/league-of-legends-with-new-dawn-reveal-worlds-2026/",
+    "creator": "Matt Patches",
+    "pubDate": "Sat, 14 Nov 2026 22:03:57 GMT",
+    "categories": [
+      "Gaming",
+      "League of Legends",
+      "League of Legends"
+    ],
+    "description": "Riot Games revealed at Worlds Finals 2026 a major update to League of Legends coming in 2027 with new gameplay and features.",
+    "contentEncoded": "<p>Between matches at the 2026 League of Legends World Championship, Riot Games teased fans with a long-anticipated announcement: The next era of <a href=\"https://www.polygon.com/game/league-of-legends/2248/\" target=\"_blank\"><em>League of Legends</em></a> is upon us.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/still002.png",
+      "type": "image/jpeg",
+      "length": "8753"
+    },
+    "decision": "keep",
+    "reason": "Video game news: major update announcement with release date.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-15T00:14:48.193Z"
+  },
+  {
+    "guid": "https://www.polygon.com/star-trek-generations-streaming-free-november-2026/",
+    "title": "32 Years Later, Star Trek's Most Important Movie Is Officially Free on Streaming",
+    "link": "https://www.polygon.com/star-trek-generations-streaming-free-november-2026/",
+    "creator": "Terry Terrones",
+    "pubDate": "Sat, 14 Nov 2026 21:00:17 GMT",
+    "categories": [
+      "Star Trek",
+      "Star Trek",
+      "Movies",
+      "Sci-Fi",
+      "Star Trek Generations"
+    ],
+    "description": "Star Trek: Generations is streaming free on Pluto TV. Here's why the underrated Kirk and Picard crossover deserves another look.",
+    "contentEncoded": "<p>Released in 1994 and now streaming free on Pluto TV, <em>Star Trek: Generations</em> brought Captain <a href=\"https://www.polygon.com/all-captain-kirks-ranked/\" target=\"_blank\">James T. Kirk</a> (William Shatner) and Captain Jean-Luc Picard (<a href=\"https://www.polygon.com/patrick-stewart-death-x-men-star-trek-actors/\" target=\"_blank\">Patrick Stewart</a>) together on the big screen for the first and only time. The result was a movie that divided fans, delivered one of the franchise's most controversial deaths, and destroyed one of television's most beloved starships. Yet more than three decades later, <em>Generations</em> deserves another look, particularly for what it has to say about growing older, accepting loss, and knowing when it's time to move on.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/msdsttr_pa117.jpg",
+      "type": "image/jpeg",
+      "length": "2038"
+    },
+    "decision": "toss",
+    "reason": "Streaming clickbait: old movie now free to watch on service.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-15T00:14:48.193Z"
+  },
+  {
     "guid": "https://www.polygon.com/zelda-ocarina-time-first-nintendo-kids-game/",
     "title": "Zelda: Ocarina of Time Is Actually the Perfect Way to Introduce Kids to Nintendo",
     "link": "https://www.polygon.com/zelda-ocarina-time-first-nintendo-kids-game/",
