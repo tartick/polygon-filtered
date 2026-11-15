@@ -1,5 +1,215 @@
 [
   {
+    "guid": "https://www.polygon.com/doctor-who-the-waters-of-mars-17th-anniversary-retrospective/",
+    "title": "17 Years Ago, the Longest Running Sci-Fi Show Flipped Its Core Concept On Its Head",
+    "link": "https://www.polygon.com/doctor-who-the-waters-of-mars-17th-anniversary-retrospective/",
+    "creator": "Aimee Hart",
+    "pubDate": "Sun, 15 Nov 2026 20:00:18 GMT",
+    "categories": [
+      "Analysis",
+      "Doctor Who",
+      "TV",
+      "Sci-Fi"
+    ],
+    "description": "David Tennant is king when it comes to giving complex performances. His best is in the Doctor Who episode 'The Water of Mars.'",
+    "contentEncoded": "<p>If there’s one thing you can’t say about Tennant, it’s that he lacks range. He can play a lover, a fighter, or the scummiest person you know. But his most iconic role as the time-traveling alien known as <a href=\"https://www.polygon.com/best-doctor-who-episodes-of-all-time-ranked/\" target=\"_blank\">the Doctor</a> in the sci-fi family show <a href=\"http://polygon.com/doctor-who\" target=\"_blank\"><em>Doctor Who</em></a> brings all three together.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/doctor-who-the-waters-of-mars.jpg",
+      "type": "image/jpeg",
+      "length": "75"
+    },
+    "decision": "toss",
+    "reason": "Nostalgia retrospective about old TV episode, not new news.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-15T20:18:39.574Z"
+  },
+  {
+    "guid": "https://www.polygon.com/monster-hunter-wilds-nintendo-switch-2-release-date/",
+    "title": "Nintendo Switch 2 Is Finally Getting Capcom’s Fastest-Selling Game Ever",
+    "link": "https://www.polygon.com/monster-hunter-wilds-nintendo-switch-2-release-date/",
+    "creator": "Jen Glennon",
+    "pubDate": "Sun, 15 Nov 2026 19:00:17 GMT",
+    "categories": [
+      "FYI",
+      "Monster Hunter Wilds: Ascendance",
+      "Monster Hunter Wilds"
+    ],
+    "description": "Monster Hunter Wilds is coming to Switch 2, just in time for the holiday season. And it's also a cool 25% off ahead of launch.",
+    "contentEncoded": "<p>With the success of <em><a href=\"https://www.polygon.com/resident-evil-requiem/\" target=\"_blank\">Resident Evil Requiem</a>, <a href=\"https://www.polygon.com/pragmata-review/\" target=\"_blank\">Pragmata</a>, </em>and <a href=\"https://www.polygon.com/onimusha-way-of-the-sword/\" target=\"_blank\"><em>Onimusha: Way of the Sword</em></a>, it's safe to say that Capcom has had a fantastic 2026. And the venerable developer's 2025 wasn't too shabby either. Last February, it released <em>Monster Hunter Wilds</em> for PlayStation 5, Windows PC, and Xbox Series X. It went on to sell a whopping eight million copies in just three days, making it the company's fastest-selling game of all time. As of September 2026, <a href=\"https://www.polygon.com/game/monster-hunter-wilds/40940/\" target=\"_blank\"><em>Monster Hunter Wilds</em></a> has <a href=\"https://www.capcom.co.jp/ir/english/business/million.html\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">sold 12.2 million copies</a>, making it Capcom's 11th-best-selling game of all time. That number is set to go up significantly after Dec. 4, when it finally<em></em>launches for Nintendo Switch 2.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/capcom-characters.jpg",
+      "type": "image/jpeg",
+      "length": "241"
+    },
+    "decision": "keep",
+    "reason": "Game release date news for major franchise.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-15T20:18:39.574Z"
+  },
+  {
+    "guid": "https://www.polygon.com/gta-6-platinum-trophy-mythic-achievement-time-to-get/",
+    "title": "GTA 6 Trophy Count and Full Completion Time Leaks in New Reports",
+    "link": "https://www.polygon.com/gta-6-platinum-trophy-mythic-achievement-time-to-get/",
+    "creator": "Ashely Claudino",
+    "pubDate": "Sun, 15 Nov 2026 18:41:30 GMT",
+    "categories": [
+      "Gaming",
+      "Grand Theft Auto 6"
+    ],
+    "description": "Thanks to animal studies and RNG-based achievements, completionists will have to spend hundreds of hours in Grand Theft Auto 6 to 100% the game.",
+    "contentEncoded": "<p>Millions of players will start their adventure in Leonida with the launch of <a href=\"https://www.polygon.com/game/grand-theft-auto-6/40846/\" target=\"_blank\"><em>Grand Theft Auto 6</em></a> later this week. They're currently preparing themselves and completing the games they've left unfinished so they can dedicate all of their time to <em>GTA 6</em> soon — especially gamers who have asked for time off from work to play it. But the question on many players' minds is how much time they will need to finish the story and 100% complete it.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/jason_and_lucia_04.jpg",
+      "type": "image/jpeg",
+      "length": "943"
+    },
+    "decision": "keep",
+    "reason": "GTA 6 game news and achievement details.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-15T20:18:39.574Z"
+  },
+  {
+    "guid": "https://www.polygon.com/open-world-rpgs-real-life-schedules/",
+    "title": "8 Must-Play Open-World RPGs for People With Real-Life Schedules",
+    "link": "https://www.polygon.com/open-world-rpgs-real-life-schedules/",
+    "creator": "Rebecca Corgan",
+    "pubDate": "Sun, 15 Nov 2026 18:00:18 GMT",
+    "categories": [
+      "Polygon Lists",
+      "Immortals Fenyx Rising",
+      "Mass Effect: Andromeda",
+      "Cat Quest II",
+      "BioMutant",
+      "Cassette Beasts",
+      "Sea of Stars",
+      "The Legend of Zelda: Breath of the Wild"
+    ],
+    "description": "Busy schedule with no time to game?  These eight open-world RPGs fit into short sessions, one quest or shrine at a time.",
+    "contentEncoded": "<p>Raise your hand if this has ever happened to you: A friend texts you a screenshot of a map with 400 icons on it and the message “you’re going to <em>love</em> this game.” You’re excited — the map is detailed, the game looks great, and you do love it…for about 10 seconds. Until you check your calendar and remember that you’ve got a dentist appointment, three work deadlines, and a birthday dinner to prepare for, so that map is going to have to stay unexplored for a minute. (My hand is raised.)</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/22138241/Immortals_Fenyx_Rising_beginners_guide.png",
+      "type": "image/jpeg",
+      "length": "2439567"
+    },
+    "decision": "keep",
+    "reason": "Game recommendations and analysis for busy players.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-15T20:18:39.574Z"
+  },
+  {
+    "guid": "https://www.polygon.com/goty-2026-game-awards-indie-big-walk-ai/",
+    "title": "The 2026 GOTY Race Could Be a Disaster for Indie Games",
+    "link": "https://www.polygon.com/goty-2026-game-awards-indie-big-walk-ai/",
+    "creator": "Oli Welsh",
+    "pubDate": "Sun, 15 Nov 2026 17:00:19 GMT",
+    "categories": [
+      "GOTY Watch"
+    ],
+    "description": "Big Walk's AI controversy might result in a step back after gains made at The Game Awards by Clair Obscur and Silksong",
+    "contentEncoded": "<p>Some quibble with the definition of <em>Clair Obscur</em>, a sizable production, as an indie game. (For what it's worth, the studio that made it is independent, and its publisher Kepler Interactive was founded by a collective of indie studios; it's definitely <em>culturally </em>indie.) But even if you excluded it, this was still the first time more than one game had crossed over between the indie and GOTY categories in the history of the awards.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/big_walk_ho2uyexilo.jpg",
+      "type": "image/jpeg",
+      "length": "905"
+    },
+    "decision": "keep",
+    "reason": "Game industry analysis about GOTY contenders.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-15T20:18:39.574Z"
+  },
+  {
+    "guid": "https://www.polygon.com/super-meat-boy-again-announcement/",
+    "title": "Super Meat Boy Is Officially Getting Remade Without Edmund McMillen's Involvement",
+    "link": "https://www.polygon.com/super-meat-boy-again-announcement/",
+    "creator": "Tomas Franzese",
+    "pubDate": "Sun, 15 Nov 2026 16:19:05 GMT",
+    "categories": [
+      "News",
+      "Super Meat Boy",
+      "Super Meat Boy 3D",
+      "Super Meat Boy Forever",
+      "Mewgenics"
+    ],
+    "description": "The announcement of Super Meat Boy Again+ served as a reminder that Edmund McMillen is no longer part of Team Meat",
+    "contentEncoded": "<p>Team Meat announced <em>Super Meat Boy Again+</em>, a remake of the classic indie platformer, during a Sweet 16 Birthday VIP Event on Nov. 14. While the announcement was meant to be celebratory, it has reminded people of the falling out that <a href=\"https://www.polygon.com/game/super-meat-boy/2125/\" target=\"_blank\"><em>Super Meat Boy</em></a> and <em>Mewgenics </em>creator Edmund McMillen has had with Team Meat, as he is not involved in the new project.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/super-meat-boy-again-gameplay.jpg",
+      "type": "image/jpeg",
+      "length": "490"
+    },
+    "decision": "keep",
+    "reason": "Game remake announcement and industry news.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-15T20:18:39.574Z"
+  },
+  {
+    "guid": "https://www.polygon.com/rings-of-power-season-3-deaths-interview/",
+    "title": "‘Rings of Power’ Stars Break Down 2 Major Deaths in Prime Video’s Lord of the Rings Series",
+    "link": "https://www.polygon.com/rings-of-power-season-3-deaths-interview/",
+    "creator": "Sam Nelson",
+    "pubDate": "Sun, 15 Nov 2026 16:00:17 GMT",
+    "categories": [
+      "Interview",
+      "The Lord of the Rings: The Rings of Power",
+      "Fantasy"
+    ],
+    "description": "The Rings of Power stars Ema Horvath and Ismael Cruz Córdova discuss season 3’s shocking deaths and their final moments as Eärien and Arondir.",
+    "contentEncoded": "<p>The story in Númenor has involved a lot of family drama. Captain Elendil (Lloyd Owen) is one of the leaders of the Faithful, a Númenórean group who believes in preserving the kingdom’s connection to the Elves and the Valar. His daughter Eärien (Ema Horvath) allied herself with Pharazôn and his son, Kemen (Leon Wadham), encouraging her father to renounce his faith and pledge loyalty to the new king. She participated in the arrest of the Faithful’s leaders, though she helped her father escape.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/rings-of-power-elrond.jpg",
+      "type": "image/jpeg",
+      "length": "618"
+    },
+    "decision": "toss",
+    "reason": "Generic TV show interview, not prestige or anticipated film.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-15T20:18:39.574Z"
+  },
+  {
+    "guid": "https://www.polygon.com/playstation-black-friday-hardware-deals/",
+    "title": "PlayStation Announces New Black Friday Deals On Hardware",
+    "link": "https://www.polygon.com/playstation-black-friday-hardware-deals/",
+    "creator": "Tomas Franzese",
+    "pubDate": "Sun, 15 Nov 2026 15:56:06 GMT",
+    "categories": [
+      "Black Friday",
+      "PlayStation VR2",
+      "PS5"
+    ],
+    "description": "The PlayStation VR2 is discounted, but the PlayStation 5 is not",
+    "contentEncoded": "<p>Black Friday is fast approaching, so companies like Sony are already teasing the deals people can look forward to later this month. While <a href=\"https://www.polygon.com/playstation-store-black-friday-2026-ps5-deals-announced/\" target=\"_blank\">PlayStation previously highlighted</a> some of the games that will be discounted, it has now shared its official <a href=\"https://www.playstation.com/en-us/deals/black-friday/\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">Black Friday hardware deals</a> for the DualSense controller, PlayStation VR2, and more.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24018308/PSVR2_front.jpg",
+      "type": "image/jpeg",
+      "length": "2784570"
+    },
+    "decision": "keep",
+    "reason": "Gaming hardware news and deals.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-15T20:18:39.574Z"
+  },
+  {
+    "guid": "https://www.polygon.com/fool-night-netflix-review/",
+    "title": "Netflix's New 12-Part Sci-Fi Mystery Already Feels Like a Masterpiece Just 3 Episodes In",
+    "link": "https://www.polygon.com/fool-night-netflix-review/",
+    "creator": "Ryan Epps",
+    "pubDate": "Sun, 15 Nov 2026 15:00:17 GMT",
+    "categories": [
+      "Reviews"
+    ],
+    "description": "Fool Night turns a bleak sci-fi premise into an visually stunning mystery that rewards patience.",
+    "contentEncoded": "<p>From a surprise collaboration between two iconic anime studios, Sunrise and Shaft, <em>Fool Night </em>imagines a future world where the sun has long disappeared, leaving humanity with the unusual solution of turning volunteer humans into plants for oxygen. It's a bleak setup, made all the more gripping by a visual identity that constantly juxtaposes human decay with budding flora. Netflix only provided us with the first three episodes (out of 12 total) for review, and I'm entirely hooked. Between its sharp character work, unsettling world-building, and melancholic atmosphere, <em>Fool Night</em> is shaping up to be one of the most striking new shows of Fall.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/fool-night-2.jpg",
+      "type": "image/jpeg",
+      "length": "1504"
+    },
+    "decision": "toss",
+    "reason": "Generic streaming sci-fi review, not prestige or horror content.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-15T20:18:39.574Z"
+  },
+  {
     "guid": "https://www.polygon.com/patch-notes-xbox-25th-anniversary/",
     "title": "Xbox’s 25th Birthday Was All Over the Place",
     "link": "https://www.polygon.com/patch-notes-xbox-25th-anniversary/",
