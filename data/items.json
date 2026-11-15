@@ -1,5 +1,172 @@
 [
   {
+    "guid": "https://www.polygon.com/sci-fi-miniseries-perfect-hook-first-episode/",
+    "title": "8 Near-Perfect Sci-Fi Miniseries that Hook You in the First Episode",
+    "link": "https://www.polygon.com/sci-fi-miniseries-perfect-hook-first-episode/",
+    "creator": "Debopriyaa Dutta",
+    "pubDate": "Sun, 15 Nov 2026 05:00:18 GMT",
+    "categories": [
+      "Polygon Lists",
+      "Station Eleven",
+      "Watchmen",
+      "Bodies",
+      "Sci-Fi",
+      "FLCL",
+      "Scavengers Reign",
+      "Devs"
+    ],
+    "description": "These sci-fi miniseries accomplish so much within 12 or less episodes.",
+    "contentEncoded": "<p>Sci-fi stories are a dime a dozen, but very few genre stories manage to make an unforgettable impact with the miniseries format. This makes sense. Shows like <a href=\"https://www.polygon.com/the-expanse-osiris-reborn-return-comeback/\" target=\"_blank\"><em>The Expanse</em></a><em></em>or <a href=\"https://www.polygon.com/23587998/westworld-season-summaries/\" target=\"_blank\"><em>Westworld</em></a> need more space to flesh out their multi-season storylines. That said, some sci-fi miniseries accomplish a lot with less. Whether you’re looking for an action-packed show or one that is more philosophical in tone, these eight entries make for a near-perfect viewing experience that can be wrapped up in just a few days.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/mv5bnwyzmda5mjqtzmnlns00nwrllwexmtqtogexowmwnjq2ntexxkeyxkfqcgc-_v1_.jpg",
+      "type": "image/jpeg",
+      "length": "433"
+    },
+    "decision": "toss",
+    "reason": "Generic TV list without game focus or horror substance.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-15T07:05:21.447Z"
+  },
+  {
+    "guid": "https://www.polygon.com/tomb-raider-remake-changes-legacy-of-atlantis/",
+    "title": "Tomb Raider Remake Gameplay Changes Are Dividing Fans",
+    "link": "https://www.polygon.com/tomb-raider-remake-changes-legacy-of-atlantis/",
+    "creator": "Willa Rowe",
+    "pubDate": "Sun, 15 Nov 2026 03:14:17 GMT",
+    "categories": [
+      "News",
+      "Tomb Raider: Legacy of Atlantis"
+    ],
+    "description": "The latest Tomb Raider remake gameplay deep dive gives a look at controversial RPG elements in Legacy of Atlantis",
+    "contentEncoded": "<p>Amazon Game Studios has released the sixth installment in its behind-the-scenes series about the development of <a href=\"https://www.polygon.com/tomb-raider-legacy-of-atlantis/\" target=\"_blank\"><em>Tomb Raider: Legacy of Atlantis</em></a>. The remake of Lara Croft's <a href=\"https://www.polygon.com/game/tomb-raider-1996/8803/\" target=\"_blank\">original 1996 adventure</a> is set to be released next year and will update the game for modern players. While that includes graphical improvements, the new video details gameplay changes and not everybody is happy about what was shown off.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/tomb-raider-legacy-of-atlantis-lara-croft.jpg",
+      "type": "image/jpeg",
+      "length": "287"
+    },
+    "decision": "keep",
+    "reason": "Game gameplay deep dive and analysis piece about remake.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-15T07:05:21.447Z"
+  },
+  {
+    "guid": "https://www.polygon.com/zelda-ocarina-of-time-remake-twinrova/",
+    "title": "Forget Ganon, Zelda: Ocarina of Time’s Most Overlooked Boss Finally Gets Its Due",
+    "link": "https://www.polygon.com/zelda-ocarina-of-time-remake-twinrova/",
+    "creator": "Giovanni Colantonio",
+    "pubDate": "Sun, 15 Nov 2026 03:00:27 GMT",
+    "categories": [
+      "Opinion",
+      "The Legend of Zelda: Ocarina of Time"
+    ],
+    "description": "The Legend of Zelda: Ocarina of Time is a good reminder that the Zelda universe has more great villains than Ganon.",
+    "contentEncoded": "<p><a href=\"https://www.polygon.com/the-legend-of-zelda-ocarina-of-time-switch-2-review/\" target=\"_blank\"><em>The Legend of Zelda: Ocarina of Time</em></a> is iconic for plenty of reasons, but a big part of that is thanks to its villain. <a href=\"https://www.polygon.com/23688032/ganon-vs-ganondorf-explained-legend-of-zelda-tears-of-the-kingdom/\" target=\"_blank\">Ganondorf</a> is one of gaming’s great bad guys, a reputation that has only been enhanced by appearances in later games like <em>Wind Waker</em> and <em>Tears of the Kingdom</em>. While <em>Ocarina of Time</em>’s Switch 2 remake does the Demon King justice, it’s also a reminder that the Zelda series has another excellent, and far more underappreciated, foe: Twinrova.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/zelda-ocarina-of-time-twinrova-fire.jpg",
+      "type": "image/jpeg",
+      "length": "274"
+    },
+    "decision": "keep",
+    "reason": "Game opinion essay analyzing bosses and game design.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-15T07:05:21.447Z"
+  },
+  {
+    "guid": "https://www.polygon.com/edgar-wright-ant-man-script-differences/",
+    "title": "9 Giant-Sized Changes Marvel Made to Ant-Man After Edgar Wright Left",
+    "link": "https://www.polygon.com/edgar-wright-ant-man-script-differences/",
+    "creator": "Brian VanHooker",
+    "pubDate": "Sun, 15 Nov 2026 02:00:17 GMT",
+    "categories": [
+      "Explainer",
+      "Ant-Man",
+      "Marvel",
+      "Movies"
+    ],
+    "description": "Wright left Ant-Man in 2015, citing differences with Marvel. Here’s how his film would have been different",
+    "contentEncoded": "<p>As Wright has <a href=\"https://www.youtube.com/watch?v=EVjIeOzPzIk\" target=\"_blank\">explained</a> in interviews, he was excited to be on the ground floor of something, setting the tone for what the MCU would become. He wanted to do a superhero movie where it was still emblematic of the director, in keeping with their body of work. The comparison he’d made was Tim Burton’s <em>Batman</em>, which is still very much a Tim Burton movie. After leaving <em>Ant-Man</em>, Wright even told <a href=\"https://variety.com/2017/film/news/playback-podcast-edgar-wright-baby-driver-1202467275/\" target=\"_blank\">Variety</a>, “I wanted to make a Marvel movie but I don’t think they really wanted to make an Edgar Wright movie.”</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24465365/AntManWaspAnts.jpeg",
+      "type": "image/jpeg",
+      "length": "481920"
+    },
+    "decision": "toss",
+    "reason": "Marvel explainer; big franchise churn piece per taste profile.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-15T07:05:21.447Z"
+  },
+  {
+    "guid": "https://www.polygon.com/stephen-king-prime-video-crouch-end-tv-show/",
+    "title": "Stephen King’s Underrated 1980 Horror Thriller Gets New Prime Video Adaptation",
+    "link": "https://www.polygon.com/stephen-king-prime-video-crouch-end-tv-show/",
+    "creator": "Aimee Hart",
+    "pubDate": "Sun, 15 Nov 2026 01:36:17 GMT",
+    "categories": [
+      "News"
+    ],
+    "description": "Stephen King fans rejoice: a Lovecraftian crime-thriller epic is on the way with Crouch End, a new miniseries from Prime Video.",
+    "contentEncoded": "<p>Stephen King fans are eating well, with Mike Flanagan's adaptation of <em>Carrie</em> turning out to be a surprise hit, a <a href=\"https://www.polygon.com/stephen-king-it-welcome-to-derry-season-2-renewal-hbo-max/\" target=\"_blank\">second season</a> of <em>It: Welcome to Derry</em> on the way, and a <a href=\"https://www.polygon.com/dark-tower-tv-series-update-mike-flanagan-faithful-books/\" target=\"_blank\">series based on The Dark Tower</a><a href=\"http://polygon.com/books\" target=\"_blank\">books</a> in the works. But that's not all King fans can look forward to.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/img_1600.jpeg",
+      "type": "image/jpeg",
+      "length": "324"
+    },
+    "decision": "keep",
+    "reason": "Horror adaptation news with substance; Stephen King prestige horror.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-15T07:05:21.447Z"
+  },
+  {
+    "guid": "https://www.polygon.com/co-op-games-real-life-schedules/",
+    "title": "10 Must-Play Co-Op Games for People With Real-Life Schedules",
+    "link": "https://www.polygon.com/co-op-games-real-life-schedules/",
+    "creator": "Rebecca Corgan",
+    "pubDate": "Sun, 15 Nov 2026 01:00:17 GMT",
+    "categories": [
+      "Polygon Lists",
+      "Overcooked",
+      "Deep Rock Galactic",
+      "Orbitals",
+      "A Way Out",
+      "Split Fiction",
+      "It Takes Two",
+      "Gears of War: E-Day"
+    ],
+    "description": "Short on time but ready to game? These 10 co-op games range from one-level sessions to month-long campaigns, from Overcooked! to Gears of War: E-Day.",
+    "contentEncoded": "<p>Picture this: It’s Thursday at 7:42 p.m. You finally have two friends in the same voice call. Someone’s cat is walking across their keyboard, and a third friend is still stuck in a meeting, but you’re here, and you’re ready to game. There’s a problem, though: Many of today’s most popular co-op games ask a <em>lot</em> of their players. And often, you simply don’t have a lot of time or headspace to give. You need a co-op game that fits the time and energy you and your squad actually have.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/22389863/snow__2_.png",
+      "type": "image/jpeg",
+      "length": "6046698"
+    },
+    "decision": "keep",
+    "reason": "Game recommendations and features; multiple game coverage.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-15T07:05:21.447Z"
+  },
+  {
+    "guid": "https://www.polygon.com/kirby-world-beyond-nintendo-switch-2-2027/",
+    "title": "Nintendo Officially Reveals New Kirby Game for Switch 2",
+    "link": "https://www.polygon.com/kirby-world-beyond-nintendo-switch-2-2027/",
+    "creator": "Ashely Claudino",
+    "pubDate": "Sun, 15 Nov 2026 00:19:17 GMT",
+    "categories": [
+      "News",
+      "Kirby and the World Beyond"
+    ],
+    "description": "Kirby and the World Beyond is coming to Nintendo Switch 2 in 2027",
+    "contentEncoded": "<p>HAL Laboratory's venerable heroic pink puff Kirby will soon embark on a new adventure on <a href=\"https://www.polygon.com/nintendo-switch-2/\" target=\"_blank\">Nintendo Switch 2</a> with the release of <em>Kirby and the World Beyond</em> next year — his second outing on Nintendo's current-generation console. In September, Nintendo's Yoshiaki Koizumi announced Kirby's next adventure during a <a href=\"https://www.polygon.com/meccha-chameleon-switch-2-release/\" target=\"_blank\">Nintendo Direct</a> showcase, revealing an expansive new world for the adorable hero to explore.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/ns2_kirbyandtheworldbeyond_scrn_19.jpeg",
+      "type": "image/jpeg",
+      "length": "7264"
+    },
+    "decision": "keep",
+    "reason": "Game release announcement for Nintendo Switch 2.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-15T07:05:21.447Z"
+  },
+  {
     "guid": "https://www.polygon.com/calvin-hobbes-best-spaceman-spiff-comics/",
     "title": "Calvin and Hobbes’ 5 Greatest Spaceman Spiff Comic Strips",
     "link": "https://www.polygon.com/calvin-hobbes-best-spaceman-spiff-comics/",
