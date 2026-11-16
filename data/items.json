@@ -1,5 +1,232 @@
 [
   {
+    "guid": "https://www.polygon.com/5-funniest-peanuts-comics-about-dogs/",
+    "title": "5 Funniest 'Peanuts' Comics About Dogs",
+    "link": "https://www.polygon.com/5-funniest-peanuts-comics-about-dogs/",
+    "creator": "Brian VanHooker",
+    "pubDate": "Mon, 16 Nov 2026 05:00:17 GMT",
+    "categories": [
+      "Polygon Lists",
+      "comic strip"
+    ],
+    "description": "These five comic strips starry Peanuts star Snoopy are all about the life of a dog",
+    "contentEncoded": "<p>Broadly speaking, there are three types of <a href=\"https://www.polygon.com/best-peanuts-comics-1960s/\" target=\"_blank\"><em>Peanuts</em></a> comics. There are the funny ones, the sweet ones, and ones that are both funny and sweet. (And, let’s be honest, there are a good number of boring ones too.) But, very generally speaking, those are the three types of good <em>Peanuts</em><a href=\"https://www.polygon.com/comics/\" target=\"_blank\">comics</a>: funny, sweet, and the ones that do both of those things.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/snoopy-snoopys-reunion.jpg",
+      "type": "image/jpeg",
+      "length": "118"
+    },
+    "decision": "toss",
+    "reason": "Comic strip retrospective/nostalgia piece, not game-related.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-16T07:11:16.857Z"
+  },
+  {
+    "guid": "https://www.polygon.com/black-mirror-season-8-update-netflix/",
+    "title": "Netflix's Award-winning Dark Sci-fi Series is Officially Returning",
+    "link": "https://www.polygon.com/black-mirror-season-8-update-netflix/",
+    "creator": "Elijah Gonzalez",
+    "pubDate": "Mon, 16 Nov 2026 04:20:17 GMT",
+    "categories": [
+      "News"
+    ],
+    "description": "Black Mirror's eighth season is currently in production for Netflix, with series creator Charlie Brooker returning to write and produce.",
+    "contentEncoded": "<p>Get ready for more dystopian science fiction because an eighth season of <a href=\"http://polygon.com/tv\" target=\"_blank\">TV</a> series <a href=\"https://www.polygon.com/tv/555602/black-mirror-season-7-scariest-best-episode-healthcare/\" target=\"_blank\"><em>Black Mirror</em></a> is in production for Netflix. <a href=\"https://variety.com/2026/tv/global/netflix-black-mirror-season-8-legends-gordon-ramsay-1236841382/\" target=\"_blank\">Variety</a> reports that the show began filming this summer, but has no confirmed release date. Series creator Charlie Brooker is back, and he will write and executive produce the series alongside Bisha K. Ali.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24610033/BM_FirstLook_7.jpg",
+      "type": "image/jpeg",
+      "length": "3359554"
+    },
+    "decision": "toss",
+    "reason": "Generic TV renewal. Not horror, not prestige enough for Steven.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-16T07:11:16.857Z"
+  },
+  {
+    "guid": "https://www.polygon.com/upcoming-sci-fi-movies-ranked-by-hype/",
+    "title": "6 Upcoming Sci-Fi Movies, Ranked by Hype",
+    "link": "https://www.polygon.com/upcoming-sci-fi-movies-ranked-by-hype/",
+    "creator": "Ryan Epps",
+    "pubDate": "Mon, 16 Nov 2026 04:00:17 GMT",
+    "categories": [
+      "Polygon Lists",
+      "Movies",
+      "Avengers: Doomsday",
+      "Shiver",
+      "Star Wars: Starfighter",
+      "Ray Gunn",
+      "Dune: Part Three",
+      "Sci-Fi"
+    ],
+    "description": "Dune, Doom, and all the other theatrical sci-fi blockbusters headed to the big screen.",
+    "contentEncoded": "<p>As studios double down on high-stakes bets, pouring absurd budgets into sprawling worlds and complex narratives like <a href=\"https://www.polygon.com/dune-part-3/\" target=\"_blank\"><em>Dune: Part Three</em></a> and <a href=\"https://www.polygon.com/avengers-doomsday/\" target=\"_blank\"><em>Avengers: Doomsday</em></a>, speculative fiction remains Hollywood’s ultimate proving ground for event-sized storytelling. To see what’s most exciting on the near horizon, here are the biggest upcoming sci-fi movies ranked by hype.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/ray-gunn-brad-bird-3.jpg",
+      "type": "image/jpeg",
+      "length": "1783"
+    },
+    "decision": "toss",
+    "reason": "List includes Star Wars and Avengers franchises Steven actively avoids.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-16T07:11:16.857Z"
+  },
+  {
+    "guid": "https://www.polygon.com/avengers-doomsday-marvel-comics-to-read-incursions-secret-wars/",
+    "title": "Marvel's Official Avengers: Doomsday Prep Launches on Nov. 18",
+    "link": "https://www.polygon.com/avengers-doomsday-marvel-comics-to-read-incursions-secret-wars/",
+    "creator": "Willa Rowe",
+    "pubDate": "Mon, 16 Nov 2026 03:09:17 GMT",
+    "categories": [
+      "News",
+      "Avengers: Doomsday"
+    ],
+    "description": "Marvel revisits the Secret Wars event in new Incursion series with the X-Men and Fantastic Four ahead of Avengers: Doomsday",
+    "contentEncoded": "<p>The Marvel Cinematic Universe's next major event begins in December with the release of <a href=\"https://www.polygon.com/avengers-doomsday/\" target=\"_blank\"><em>Avengers: Doomsday</em></a>, which will be followed by <a href=\"https://www.polygon.com/avengers-doomsday-secret-wars-mcu-reboot-kevin-feige/\" target=\"_blank\"><em>Secret Wars</em></a> next year. While trailers have only hinted at what these massive films will have in store for the Avengers, X-Men, Fantastic Four, and more, we know they are heavily inspired by the <a href=\"https://www.polygon.com/2020/4/6/21209537/marvel-comics-infinity-gauntlet-black-panther-iron-man-jonathan-hickman-secret-wars-x-men/\" target=\"_blank\">2015 <em>Secret Wars</em> event comic</a>. Now Marvel is returning to that era with a new limited series in the lead-up to Doomsday.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/avengers_-doomsday-_-special-look-_-in-theaters-december-18-1-40-screenshot.jpg",
+      "type": "image/jpeg",
+      "length": "247"
+    },
+    "decision": "toss",
+    "reason": "Marvel/Avengers big-franchise churn Steven consistently tosses.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-16T07:11:16.857Z"
+  },
+  {
+    "guid": "https://www.polygon.com/legend-zelda-ocarina-time-bosses-ranked/",
+    "title": "All 10 Zelda: Ocarina of Time Bosses, Ranked From Worst to Best",
+    "link": "https://www.polygon.com/legend-zelda-ocarina-time-bosses-ranked/",
+    "creator": "Anthony Orlando",
+    "pubDate": "Mon, 16 Nov 2026 02:49:38 GMT",
+    "categories": [
+      "Polygon Lists",
+      "The Legend of Zelda: Ocarina of Time"
+    ],
+    "description": "Not all The Legend of Zelda: Ocarina of Time bosses are equal. We've ranked all boss fights by challenge, design, and excitement.",
+    "contentEncoded": "<p><a href=\"https://www.polygon.com/zelda-ocarina-of-time-oot-guides-walkthroughs/\" target=\"_blank\"><em>The Legend of Zelda: Ocarina of Time</em></a> brought every great aspect back from the original version — including its iconic boss fights. From fire-breathing dragons to giant spiders to wicked witches, <em>Ocarina of Time </em>features a diverse lineup of boss battles that adds to every dungeon's unique charm, making this one of the best games in <a href=\"https://www.polygon.com/zelda/\" target=\"_blank\">The Legend of Zelda</a> series.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/zelda-ocarina-of-time-ganondorf-smirking.jpg",
+      "type": "image/jpeg",
+      "length": "187"
+    },
+    "decision": "toss",
+    "reason": "Game walkthrough/ranking guide content Steven tosses.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-16T07:11:16.857Z"
+  },
+  {
+    "guid": "https://www.polygon.com/doctor-who-david-tennant-returns-audio-drama-2027/",
+    "title": "David Tennant Officially Returns to Doctor Who in 2027",
+    "link": "https://www.polygon.com/doctor-who-david-tennant-returns-audio-drama-2027/",
+    "creator": "Aimee Hart",
+    "pubDate": "Mon, 16 Nov 2026 02:01:18 GMT",
+    "categories": [
+      "News"
+    ],
+    "description": "David Tennant is reprising his role as the Tenth Doctor in a new 12-part audio drama series, Doctor Who — The Tenth Doctor and Rani .",
+    "contentEncoded": "<p>The future of <a href=\"http://polygon.com/doctor-who\" target=\"_blank\"><em>Doctor Who</em></a> is uncertain, but at the very least, the universe has heard the pleas of fans who are in desperate need of more of David Tennant as the Tenth Doctor. That's right, there's even more time and space adventures for Tennant on the way, as he'll be reprising his role in a new audio drama from Big Finish — a British production company known for producing <em>Doctor Who</em><a href=\"http://www.polygon.com/doctor-who-thirteen-yaz-the-greatest-train-robbery/\" target=\"_blank\">audio dramas and shorts</a>.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24138791/Screen_Shot_2022_10_25_at_10.11.48_AM.png",
+      "type": "image/jpeg",
+      "length": "4896316"
+    },
+    "decision": "toss",
+    "reason": "Generic TV news without real substance; not horror or prestige film.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-16T07:11:16.857Z"
+  },
+  {
+    "guid": "https://www.polygon.com/halo-combat-evolve-lan-party-memories/",
+    "title": "Halo Defined a Generation of LAN Parties — Then It Killed Them",
+    "link": "https://www.polygon.com/halo-combat-evolve-lan-party-memories/",
+    "creator": "Corey Plante",
+    "pubDate": "Mon, 16 Nov 2026 02:00:17 GMT",
+    "categories": [
+      "Opinion",
+      "Halo: Combat Evolved",
+      "xbox",
+      "Halo: Combat Evolved Anniversary",
+      "Halo"
+    ],
+    "description": "As Xbox and Halo turn 25, a look back at the chaotic LAN parties that made multiplayer unforgettable — and how Halo 2 helped make gathering optional.",
+    "contentEncoded": "<p>So old, in fact, that the upcoming 25th anniversary of the Xbox and <a href=\"https://www.polygon.com/game/halo-combat-evolved/1801/\" target=\"_blank\"><em>Halo: Combat Evolved</em></a> immediately made me think about the <a href=\"https://www.polygon.com/2015/1/29/7944755/lan-party-gaming-call-of-duty/\" target=\"_blank\">LAN parties</a> my brother and I used to host in middle and high school. There were a dozen or so teenage boys, four TVs, and enough Ethernet cable to turn my parents’ house into a tripping hazard that could also burst into flames at any moment. I’ve played countless multiplayer games since, but none have come close to the majesty of those experiences.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/halo-2-map-pack-image.jpg",
+      "type": "image/jpeg",
+      "length": "822"
+    },
+    "decision": "keep",
+    "reason": "Game history and analysis essay about influential gaming experience.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-16T07:11:16.857Z"
+  },
+  {
+    "guid": "https://www.polygon.com/pokemon-pokepark-fishing-rally-ds-found/",
+    "title": "Extremely Rare Pokémon Game Found 20 Years Later",
+    "link": "https://www.polygon.com/pokemon-pokepark-fishing-rally-ds-found/",
+    "creator": "Ashely Claudino",
+    "pubDate": "Mon, 16 Nov 2026 00:59:53 GMT",
+    "categories": [
+      "Gaming",
+      "Pokemon"
+    ],
+    "description": "PSA Video Games confirms that a collector has unearthed a playable copy of PokéPark Fishing Rally DS, a previously lost piece of Pokémon history.",
+    "contentEncoded": "<p><em>PokéPark Fishing Rally DS</em> was a 2005 temporary fishing game obtainable through Download Play on the Nintendo DS. To play it, gamers had to get it from Download Play stations at PokéPark in Nagoya, Japan. The game would remain on their console for 12 hours or until the console was shut off. After this, it would delete itself.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/pokemon-winds-and-waves-screen-wailord.png",
+      "type": "image/jpeg",
+      "length": "1849"
+    },
+    "decision": "keep",
+    "reason": "Pokémon video game discovery news; video game content.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-16T07:11:16.857Z"
+  },
+  {
+    "guid": "https://www.polygon.com/best-games-like-star-wars-galactic-racer/",
+    "title": "The 7 Best Star Wars: Galactic Racer Replacements You Can Play Right Now",
+    "link": "https://www.polygon.com/best-games-like-star-wars-galactic-racer/",
+    "creator": "Oli Welsh",
+    "pubDate": "Mon, 16 Nov 2026 00:58:15 GMT",
+    "categories": [
+      "Polygon Lists",
+      "Star Wars: Galactic Racer"
+    ],
+    "description": "Star Wars: Galactic Racer has no exact replicas, but there are plenty of obvious influences. Here are the best games like Star War: Galactic Racer.",
+    "contentEncoded": "<p><strong>Where to play: </strong>Nintendo Switch, PlayStation 4, Xbox One</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/star-wars-galactic-racer-story-trailer-screenshot.jpg",
+      "type": "image/jpeg",
+      "length": "312"
+    },
+    "decision": "toss",
+    "reason": "Game recommendation list is similar to walkthrough guide filler.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-16T07:11:16.857Z"
+  },
+  {
+    "guid": "https://www.polygon.com/most-underrated-new-rpgs/",
+    "title": "10 Most Underrated RPGs of the Past Decade",
+    "link": "https://www.polygon.com/most-underrated-new-rpgs/",
+    "creator": "Jason Venter",
+    "pubDate": "Mon, 16 Nov 2026 00:50:58 GMT",
+    "categories": [
+      "Polygon Lists",
+      "Clair Obscur: Expedition 33"
+    ],
+    "description": "Some stellar RPGs have arrived over the last decade, but their brilliance made 10 absolute gems easy to miss.",
+    "contentEncoded": "<p>There’s something about RPGs. These games tell amazing stories players want to experience time and time again, are populated by memorable characters, and often explore deep themes — even if their heroes do tend to have memory problems, spiky hair, and swords the size of New Jersey.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/08/trails-in-the-sky-first-chapter-demo.jpg",
+      "type": "image/jpeg",
+      "length": "630"
+    },
+    "decision": "keep",
+    "reason": "Game recommendations and analysis essay about overlooked RPG games.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-16T07:11:16.857Z"
+  },
+  {
     "guid": "https://www.polygon.com/brilliant-books-read-before-you-die/",
     "title": "5 Brilliant Books To Read Before Kicking the Bucket",
     "link": "https://www.polygon.com/brilliant-books-read-before-you-die/",
