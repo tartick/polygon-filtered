@@ -1,5 +1,216 @@
 [
   {
+    "guid": "https://www.polygon.com/video/when-your-brother-gives-away-your-special-game-cartridge/",
+    "title": "When your brother gives away your special game cartridge...",
+    "link": "https://www.polygon.com/video/when-your-brother-gives-away-your-special-game-cartridge/",
+    "creator": "Simone de Rochefort",
+    "pubDate": "Mon, 16 Nov 2026 17:09:34 GMT",
+    "categories": [
+      "No social",
+      "Shelf Quest"
+    ],
+    "description": "Some things can never be forgiven in the McElroy household. #griffinmcelroy #justinmcelroy #mbmbam #gaming #ocarinaoftime",
+    "contentEncoded": "<p>Some things can never be forgiven in the McElroy household. #griffinmcelroy #justinmcelroy #mbmbam #gaming #ocarinaoftime</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/when-your-brother-gives-away-your-special-game-cartridge.png",
+      "type": "image/jpeg",
+      "length": "3036"
+    },
+    "decision": "keep",
+    "reason": "Gaming-related video content from McElroy brothers, relevant to audience.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-16T17:21:46.412Z"
+  },
+  {
+    "guid": "https://www.polygon.com/pattinson-as-bond-means-no-the-batman-iii/",
+    "title": "Robert Pattinson's Batman Movie Franchise Is Officially Finished",
+    "link": "https://www.polygon.com/pattinson-as-bond-means-no-the-batman-iii/",
+    "creator": "Brian VanHooker",
+    "pubDate": "Mon, 16 Nov 2026 16:57:33 GMT",
+    "categories": [
+      "Opinion",
+      "The Batman",
+      "James Bond",
+      "Batman"
+    ],
+    "description": "With Pattinson being cast as Bond, DC fans are once again being robbed of a good Batman trilogy",
+    "contentEncoded": "<p>With <a href=\"https://www.polygon.com/next-james-bond-actor-cast-denis-villeneuve/\" target=\"_blank\">Robert Pattinson confirmed to be the next James Bond</a>, one of the biggest takeaways is that Matt Reeves’ <a href=\"https://www.polygon.com/tag/batman/\" target=\"_blank\"><em>The Batman</em></a> series will likely end with <em>The Batman: Part II</em>. Pattinson is signed on for three films as Bond, and while that’s one less film than the four-film deal that Amazon MGM Studios was seeking for the other Bond contenders, it’s pretty hard to imagine that Pattinson will juggle the role of 007 with an ongoing commitment to DC — much less Battinson’s integration into the wider DCU, which some DC fans had hoped for. To be clear, nothing has been confirmed about the status of a third The Batman movie, but the latest news combined with the extreme delays facing <em>The Batman</em><em>Part</em><em>II</em> feel like a pretty clear indication that the Batmobile has hit a dead end and will need yet another reboot.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/mcdbatm_wb029.jpg",
+      "type": "image/jpeg",
+      "length": "533"
+    },
+    "decision": "toss",
+    "reason": "Big-franchise churn (DC/Batman), fans being robbed of trilogy gossip.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-16T17:21:46.412Z"
+  },
+  {
+    "guid": "https://www.polygon.com/magic-the-gathering-jadzia-dax/",
+    "title": "Magic: The Gathering Turns a Fan-Favorite Star Trek Character Into a Commander Staple",
+    "link": "https://www.polygon.com/magic-the-gathering-jadzia-dax/",
+    "creator": "Sam Nelson",
+    "pubDate": "Mon, 16 Nov 2026 16:30:18 GMT",
+    "categories": [
+      "Analysis",
+      "Star Trek",
+      "Star Trek: Deep Space Nine",
+      "Magic: The Gathering",
+      "Sci-Fi"
+    ],
+    "description": "Jadzia Dax, Living Legacy is one of the Universes Beyond set’s best cards",
+    "contentEncoded": "<p>Like many <a href=\"https://www.polygon.com/mtg-magic-the-gathering/\" target=\"_blank\"><em>Magic: The Gathering</em></a> Universes Beyond sets, the <a href=\"https://www.polygon.com/tag/star-trek/\" target=\"_blank\">Star Trek</a> crossover feels built for Commander. Not only does it include four preconstructed Commander decks, but it’s packed with legendary creatures and spacecraft that can serve as your Commander or neatly slot into the deck’s other 99 cards. One of the most versatile cards in the set works in several Commander archetypes but could also easily fit in Limited and competitive constructed decks. It pays tribute to one of the best Star Trek characters, while borrowing mechanics from a very different Universes Beyond set.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/jadzia-dax-terry-farrell-sits-on-the-bridge-of-deep-space-nine-in-front-of-captain-benjamin-sisko-avery-brooks.jpg",
+      "type": "image/jpeg",
+      "length": "430"
+    },
+    "decision": "keep",
+    "reason": "Rule: category \"Magic: The Gathering\"",
+    "decidedBy": "rule",
+    "firstSeen": "2026-11-16T17:21:46.412Z"
+  },
+  {
+    "guid": "https://www.polygon.com/black-friday-2026-amazon-gaming-deals-when-ps5-ps5-xbox-nintendo-switch/",
+    "title": "Amazon Officially Reveals Early Black Friday Gaming Deals",
+    "link": "https://www.polygon.com/black-friday-2026-amazon-gaming-deals-when-ps5-ps5-xbox-nintendo-switch/",
+    "creator": "Patricia Hernandez",
+    "pubDate": "Mon, 16 Nov 2026 16:20:16 GMT",
+    "categories": [
+      "News",
+      "PlayStation",
+      "Xbox Series X",
+      "Nintendo",
+      "PlayStation 5"
+    ],
+    "description": "Cyberpunk 2077, Split Fiction, and even some GOTY contenders on Nintendo, PlayStation, and Xbox are all discounted on Amazon for Black Friday 2026.",
+    "contentEncoded": "<p>Your calendar might mark Nov. 27 as <a href=\"https://www.polygon.com/black-friday/\" target=\"_blank\">Black Friday,</a> but the reality is that retailers treat the entire month like a discount event. Sales for major gaming products are staggered throughout the month, as evidenced by Amazon's self-described early Black Friday deals. The online retailer has earmarked a wide range of games for every taste in these deals, from recent action titles to critical darlings and everything in between.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/cyclops_cosmic.jpg",
+      "type": "image/jpeg",
+      "length": "668"
+    },
+    "decision": "keep",
+    "reason": "Gaming deals and discounts across major platforms, relevant news.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-16T17:21:46.412Z"
+  },
+  {
+    "guid": "https://www.polygon.com/star-wars-fate-of-the-old-republic-2027-announcements-director-teases/",
+    "title": "Star Wars: Fate of the Old Republic Director Teases Big Announcements",
+    "link": "https://www.polygon.com/star-wars-fate-of-the-old-republic-2027-announcements-director-teases/",
+    "creator": "Willa Rowe",
+    "pubDate": "Mon, 16 Nov 2026 16:13:46 GMT",
+    "categories": [
+      "News",
+      "Star Wars",
+      "Star Wars: Fate of the Old Republic"
+    ],
+    "description": "Mass Effect creator reveals ‘pretty exciting things coming next year’ for Star Wars: The Fate of the Old Republic",
+    "contentEncoded": "<p>When Casey Hudson, the creator of Mass Effect, announced he was working on <a href=\"https://www.polygon.com/star-wars-fate-of-the-old-republic-casey-hudson-the-game-awards/\" target=\"_blank\"><em>Star Wars: Fate of the Old Republic</em></a>, fans were ecstatic. Following the <a href=\"https://www.polygon.com/ea-bioware-closure-mass-efffect-5-canceled/\" target=\"_blank\">closure of Mass Effect developer BioWare and the cancellation of the next game</a> in the series, excitement for <em>Fate of the Old Republic</em> has somehow grown even larger. But we haven't heard much about the spiritual successor to <a href=\"https://www.polygon.com/game/star-wars-knights-of-the-old-republic/3247/\" target=\"_blank\"><em>Knights of the Old Republic</em></a>, which Hudson also directed, since it was revealed back in 2025. According to Hudson, however, the wait for news is almost over.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/sharedimages/2025/12/star-wars-fate-of-the-old-republic-press-image-5.jpeg",
+      "type": "image/jpeg",
+      "length": "247"
+    },
+    "decision": "toss",
+    "reason": "Star Wars franchise gossip and teases, not substantive announcement yet.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-16T17:21:46.412Z"
+  },
+  {
+    "guid": "https://www.polygon.com/avengers-secret-wars-other-genre-marvel-boss-says/",
+    "title": "Avengers: Secret Wars Will Be ‘Whole Other Genre,’ Marvel Boss Says",
+    "link": "https://www.polygon.com/avengers-secret-wars-other-genre-marvel-boss-says/",
+    "creator": "Elijah Gonzalez",
+    "pubDate": "Mon, 16 Nov 2026 16:05:41 GMT",
+    "categories": [
+      "News",
+      "Avengers: Secret Wars",
+      "Avengers: Doomsday",
+      "Avengers"
+    ],
+    "description": "Marvel boss Kevin Feige says that Avengers: Secret Wars will be very different from Doomsday",
+    "contentEncoded": "<p>While <a href=\"https://www.polygon.com/avengers-secret-wars-filming-delayed-doomsday-sequel/\" target=\"_blank\"><em>Avengers: Secret </em>Wars</a> has largely been a mystery, Kevin Feige’s latest description of the 2027 film offers a bit more context. <a href=\"https://www.empireonline.com/movies/news/avengers-secret-wars-whole-other-genre-doomsday-kevin-feige-exclusive/\" target=\"_blank\">In an interview with Empire</a>, Kevin Feige said that <em>Secret Wars</em> “is a whole other genre of story” compared to the upcoming <a href=\"https://www.polygon.com/avengers-doomsday/\" target=\"_blank\"><em>Avengers:</em><em>Doomsday</em></a>. While that comment will <span style=\"box-sizing:border-box; margin:0px; padding:0px\">be more useful once <em>Doomsday</em> releases on Dec. 18, Feige seems to be hinting that the movie won’t be quite as grim as <em>Doomsday</em>, which is expected to be</span>a multiversal bloodbath.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/avengers-doomsday-thor.jpg",
+      "type": "image/jpeg",
+      "length": "62"
+    },
+    "decision": "toss",
+    "reason": "Big-franchise churn (Marvel/Avengers), generic studio commentary.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-16T17:21:46.412Z"
+  },
+  {
+    "guid": "https://www.polygon.com/gta-6-goty-nominations/",
+    "title": "The 2026 Game Awards Nominations Will Spoil GTA 6 Reviews",
+    "link": "https://www.polygon.com/gta-6-goty-nominations/",
+    "creator": "Oli Welsh",
+    "pubDate": "Mon, 16 Nov 2026 16:02:17 GMT",
+    "categories": [
+      "GOTY Watch",
+      "Grand Theft Auto 6",
+      "The Game Awards"
+    ],
+    "description": "Grand Theft Auto 6's late entry into the GOTY race is awkwardly timed for both Rockstar Games and TGA's jury",
+    "contentEncoded": "<p><em>GTA 6 </em>will be released at midnight, local to whatever region you're in, on Thursday, Nov. 19. <a href=\"https://www.polygon.com/the-game-awards-2026-nominees-announcement-date/\" target=\"_blank\">Nominations for The Game Awards</a> will be announced at 12 p.m. EST on Tuesday, Nov. 17. The timing of the review embargo for <em>GTA 6</em> is a secret closely guarded by Rockstar's famously tight NDAs, but luckily we have plenty of clear precedent to go on.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/image-18.png",
+      "type": "image/jpeg",
+      "length": "12171"
+    },
+    "decision": "keep",
+    "reason": "GTA 6 game awards analysis and GOTY timing impact.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-16T17:21:46.412Z"
+  },
+  {
+    "guid": "https://www.polygon.com/best-quote-peanuts-charlie-brown-thanksgiving-franklin/",
+    "title": "53 Years Later, the Best ‘A Charlie Brown Thanksgiving’ Quote Is Classic ‘Peanuts’ Line",
+    "link": "https://www.polygon.com/best-quote-peanuts-charlie-brown-thanksgiving-franklin/",
+    "creator": "Brian VanHooker",
+    "pubDate": "Mon, 16 Nov 2026 16:01:19 GMT",
+    "categories": [
+      "Analysis",
+      "comic strip"
+    ],
+    "description": "A Charlie Brown Thanksgiving is a second-tier special with an important, symbolic inclusion",
+    "contentEncoded": "<p>There’s a reason why the animated TV special<em> A Charlie Brown Thanksgiving</em> isn’t mentioned nearly as often as <em>A Charlie Brown Christmas</em> and <em>It's the Great Pumpkin, Charlie Brown</em>, and that’s because, well, it stinks.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/vs-acharliebrownthanksgiving1973-rcusddigitallibrary-24-35.jpg",
+      "type": "image/jpeg",
+      "length": "265"
+    },
+    "decision": "toss",
+    "reason": "Nostalgia retrospective, 53-year-old special, not substantive news.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-16T17:21:46.412Z"
+  },
+  {
+    "guid": "https://www.polygon.com/gta-6-nov-13-patch-102-what-is-download-size-ps5-xbox/",
+    "title": "GTA 6's Official First Updates Are Great News For Fans",
+    "link": "https://www.polygon.com/gta-6-nov-13-patch-102-what-is-download-size-ps5-xbox/",
+    "creator": "Patricia Hernandez",
+    "pubDate": "Mon, 16 Nov 2026 15:15:59 GMT",
+    "categories": [
+      "News",
+      "Grand Theft Auto 6",
+      "Grand Theft Auto"
+    ],
+    "description": "Even GTA 6 fans who already preloaded the game have two updates to download on PS5 and Xbox",
+    "contentEncoded": "<p>Hopefully you've still got room on your hard drive after <a href=\"https://www.polygon.com/gta-6-preload-when-is-ps5-xbox-times-file-size-gb-poster-map-rockstar/\" target=\"_blank\">preloading the hefty</a><a href=\"https://www.polygon.com/gta-grand-theft-auto/\" target=\"_blank\"><em>Grand Theft Auto 6</em></a> in anticipation of its impending release day. You've got at least one more thing you need to download if you want to enjoy Rockstar's open-world game the moment it goes live on Nov. 19, though. Here's what you need to know about when you can download the <em>GTA 6 </em>update — and what's reportedly inside. </p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/vice_city_24-1.jpg",
+      "type": "image/jpeg",
+      "length": "1454"
+    },
+    "decision": "keep",
+    "reason": "GTA 6 game update and patch news relevant to players.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-16T17:21:46.412Z"
+  },
+  {
     "guid": "https://www.polygon.com/5-funniest-peanuts-comics-about-dogs/",
     "title": "5 Funniest 'Peanuts' Comics About Dogs",
     "link": "https://www.polygon.com/5-funniest-peanuts-comics-about-dogs/",
