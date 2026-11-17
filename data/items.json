@@ -1,5 +1,245 @@
 [
   {
+    "guid": "https://www.polygon.com/anthony-mackie-jamie-dornan-interview-12-12-12/",
+    "title": "'Avengers: Doomsday' Star Says He Was Lied to About His Next Big Role",
+    "link": "https://www.polygon.com/anthony-mackie-jamie-dornan-interview-12-12-12/",
+    "creator": "Sam Nelson",
+    "pubDate": "Tue, 17 Nov 2026 00:00:17 GMT",
+    "categories": [
+      "Interview",
+      "12 12 12",
+      "The Italian Job"
+    ],
+    "description": "\"I would have never taken this job\"",
+    "contentEncoded": "<p>Anthony Mackie’s Sam Wilson/Captain America will be <a href=\"https://www.polygon.com/avengers-doomsday-marvel-confirms-new-team-lineup/\" target=\"_blank\">leading the Avengers</a> in <a href=\"https://www.polygon.com/avengers-doomsday/\" target=\"_blank\"><em>Avengers: Doomsday</em></a>, guiding Thor (Chris Hemsworth), Ant-Man (Paul Rudd), Shang-Chi (Simu Liu), and Falcon (Danny Ramirez) in the fight against <a href=\"https://www.polygon.com/avengers-doomsday-doctor-doom-tony-start-variant-theory/\" target=\"_blank\">Doctor Doom</a>. But while Sam is getting a big promotion, Mackie said he was lied to about his next starring role.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/22374640/tag_101_01763_r3_4845d50f.jpeg",
+      "type": "image/jpeg",
+      "length": "1963800"
+    },
+    "decision": "toss",
+    "reason": "Big-franchise Marvel churn; casting gossip, not substance.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-17T01:00:31.782Z"
+  },
+  {
+    "guid": "https://www.polygon.com/2026-games-of-the-year-how-were-made/",
+    "title": "How 2026's Best Video Games Were Made",
+    "link": "https://www.polygon.com/2026-games-of-the-year-how-were-made/",
+    "creator": "Matt Patches",
+    "pubDate": "Mon, 16 Nov 2026 23:00:19 GMT",
+    "categories": [
+      "GOTY Watch",
+      "Control Resonant",
+      "Resident Evil Requiem",
+      "Denshattack!",
+      "007 First Light",
+      "Queen's Domain",
+      "Pragmata",
+      "Star Wars Zero Company",
+      "Cairn"
+    ],
+    "description": "Ahead of The Game Awards Game of the Year nominees, creatives behind Resident Evil, Control, Star Wars, and Pragmata pull back the curtain",
+    "contentEncoded": "<p>What is great \"game direction\"? We love asking those in charge because <a href=\"https://www.polygon.com/game-direction-explained-by-directors/\" target=\"_blank\">everyone's answer is different</a>.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/polygonroundtable_gamedirectors_notext.png",
+      "type": "image/jpeg",
+      "length": "3589"
+    },
+    "decision": "keep",
+    "reason": "Game analysis and developer features; substantive game content.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-17T01:00:31.782Z"
+  },
+  {
+    "guid": "https://www.polygon.com/end-of-oak-street-streaming-hbo-max-november-2026/",
+    "title": "Anne Hathaway's 100-Minute Sci-Fi Thriller Takes Over Streaming After HBO Max Debut",
+    "link": "https://www.polygon.com/end-of-oak-street-streaming-hbo-max-november-2026/",
+    "creator": "Sam Hill",
+    "pubDate": "Mon, 16 Nov 2026 20:55:24 GMT",
+    "categories": [
+      "News",
+      "The End of Oak Street"
+    ],
+    "description": "The End of Oak Street has become an HBO Max streaming hit, giving Anne Hathaway another 2026 success.",
+    "contentEncoded": "<p>Anne Hathaway has had a particularly busy year, with major projects including Christopher Nolan's <a href=\"https://www.polygon.com/the-odyssey-2026/\" target=\"_blank\"><em>The Odyssey</em></a>, the psychological thriller <a href=\"https://www.polygon.com/verity-review/\" target=\"_blank\"><em>Verity</em></a>, and the highly anticipated <em>The Devil Wears Prada 2</em>. She's also ventured into more unconventional territory with A24's <a href=\"https://www.polygon.com/anne-hathaway-mother-mary-streaming-success-hbo-max-october-2026/\" target=\"_blank\"><em>Mother Mary</em></a>, a thriller that takes a considerably stranger approach to the world of pop stardom.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/the-allosaurus-in-the-end-of-oak-street-looking-at-ewan-mcgregor.jpg",
+      "type": "image/jpeg",
+      "length": "375"
+    },
+    "decision": "toss",
+    "reason": "Rule: streaming clickbait headline",
+    "decidedBy": "rule",
+    "firstSeen": "2026-11-17T01:00:31.782Z"
+  },
+  {
+    "guid": "https://www.polygon.com/netflix-3-body-problem-season-2-release-date-2027/",
+    "title": "Netflix Officially Confirms 3 Body Problem Returns in 2027",
+    "link": "https://www.polygon.com/netflix-3-body-problem-season-2-release-date-2027/",
+    "creator": "Michael McWhertor",
+    "pubDate": "Mon, 16 Nov 2026 20:46:55 GMT",
+    "categories": [
+      "TV",
+      "3 Body Problem"
+    ],
+    "description": "Season 2 of 3 Body Problem finally has a release date, nearly three years after the Netflix hard sci-fi thriller series debuted.",
+    "contentEncoded": "<p>Netflix's long-awaited second season of <a href=\"https://www.polygon.com/24094854/3-body-problem-review-spoiler-free/\" target=\"_blank\"><em>3 Body Problem</em></a> finally has a release date. The streamer announced Monday that season 2 of the <a href=\"http://polygon.com/sci-fi\" target=\"_blank\">sci-fi</a> series, an adaptation of author <a href=\"https://www.polygon.com/sci-fi-trilogy-perfect-entries/\" target=\"_blank\">Cixin Liu's Remembrance of Earth's Past</a> trilogy, will arrive on Jan. 14, 2027. That's nearly three years after the first season of <em>3 Body Problem</em> debuted on Netflix.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/25331011/3_Body_Problem_n_S1_E3_00_14_55_07RC.jpg_3_Body_Problem_n_S1_E3_00_14_55_07RC.jpg",
+      "type": "image/jpeg",
+      "length": "4102011"
+    },
+    "decision": "toss",
+    "reason": "Generic TV renewal; sci-fi series lacks horror/prestige elements.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-17T01:00:31.782Z"
+  },
+  {
+    "guid": "https://www.polygon.com/star-wars-galactic-racer-local-split-screen-multiplayer-update/",
+    "title": "Star Wars: Galactic Racer Officially Getting the Feature Every Racing Game Needs",
+    "link": "https://www.polygon.com/star-wars-galactic-racer-local-split-screen-multiplayer-update/",
+    "creator": "Austin Manchester",
+    "pubDate": "Mon, 16 Nov 2026 20:23:55 GMT",
+    "categories": [
+      "News",
+      "Star Wars",
+      "Star Wars: Galactic Racer",
+      "PlayStation",
+      "xbox",
+      "PC"
+    ],
+    "description": "Fuse Games' Star Wars Galactic Racer is getting local split-screen multiplayer after the new year, a featured fans have long requested.",
+    "contentEncoded": "<p>Scrib doon! <a href=\"https://www.polygon.com/star-wars-galactic-racer/\" target=\"_blank\"><em>Star Wars: Galactic Racer</em></a> developer Fuse Games announced the racing sim is getting a key ingredient next year: split-screen multiplayer. Up to four players will be able to square off on the same screen at once after the update.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/swgr_pr_10.jpg",
+      "type": "image/jpeg",
+      "length": "4906"
+    },
+    "decision": "keep",
+    "reason": "Video game news and update; legitimate game content.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-17T01:00:31.782Z"
+  },
+  {
+    "guid": "https://www.polygon.com/zelda-ocarina-of-time-why-best-game-ever/",
+    "title": "What Makes The Legend of Zelda: Ocarina of Time So Great Anyway?",
+    "link": "https://www.polygon.com/zelda-ocarina-of-time-why-best-game-ever/",
+    "creator": "Josh Broadwell",
+    "pubDate": "Mon, 16 Nov 2026 20:00:24 GMT",
+    "categories": [
+      "Analysis",
+      "The Legend of Zelda: Ocarina of Time",
+      "The Legend of Zelda",
+      "Nintendo"
+    ],
+    "description": "Zelda: Ocarina of Time always gets called one of the best games ever, and it deserves that title for reasons beyond simple nostalgia",
+    "contentEncoded": "<p>Spend even a little time online in gaming circles, and you'll inevitably come across claims that <a href=\"https://www.polygon.com/the-legend-of-zelda-ocarina-of-time-remake/\" target=\"_blank\"><em>The Legend of Zelda: Ocarina of Time</em></a> is one of the greatest games ever made. Those claims resurfaced with greater frequency with the announcement of the Nintendo Switch 2 <em>Ocarina of Time</em> remake and <a href=\"https://www.polygon.com/the-legend-of-zelda-ocarina-of-time-remake-switch-2-review-roundup/\" target=\"_blank\">subsequent warm reception from critics</a>. The reaction from those I know who played for the first time and enjoyed it has generally been \"yes, it really is one of the greats.\" What there's been less of, however, is a concerted effort to explain what exactly makes it deserving of that praise. Make no mistake, it <em>does</em> deserve it — and not just for reasons of nostalgia. That’s because <em>Ocarina of Time</em> anticipated some of gaming's biggest trends, and now that those trends have spiralled out of control, the remake serves as a blueprint for good game design moving forward.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/ns2_thelegendofzeldaocarinaoftime_scrn_11.png",
+      "type": "image/jpeg",
+      "length": "18167"
+    },
+    "decision": "keep",
+    "reason": "Game analysis essay explaining why classic game works.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-17T01:00:31.782Z"
+  },
+  {
+    "guid": "https://www.polygon.com/the-odyssey-pig-transformation-practical-effects/",
+    "title": "The Odyssey's Most Disturbing Scene Barely Used Any CGI. Here's How They Pulled It Off.",
+    "link": "https://www.polygon.com/the-odyssey-pig-transformation-practical-effects/",
+    "creator": "Terry Terrones",
+    "pubDate": "Mon, 16 Nov 2026 20:00:24 GMT",
+    "categories": [
+      "Movies",
+      "Odyssey",
+      "Movies"
+    ],
+    "description": "The Odyssey's effects team reveals how silicone, magnets, and Samantha Morton's performance brought a disturbing transformation to life.",
+    "contentEncoded": "<p><a href=\"https://www.polygon.com/the-return-ralph-fiennes-the-odyssey-streaming-paramount-plus-september-2026/\" target=\"_blank\">Christopher Nolan's</a><a href=\"https://www.polygon.com/the-odyssey-2026/\" target=\"_blank\"><em>The Odyssey</em></a> arrives on digital, 4K Ultra HD and Blu-ray on Nov. 17, giving audiences another opportunity to experience the filmmaker's ambitious adaptation of Homer's epic poem. Among the story's many memorable encounters is Circe, a powerful sorceress who turns Odysseus' men into pigs. Played by Samantha Morton, Circe is responsible for one of the film's most unsettling sequences, which involves a human head being transformed into that of a pig.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/the-odyssey-matt-damon.jpg",
+      "type": "image/jpeg",
+      "length": "796"
+    },
+    "decision": "toss",
+    "reason": "Horror film with no substantial prestige or anticipation signal.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-17T01:00:31.782Z"
+  },
+  {
+    "guid": "https://www.polygon.com/mtg-marvel-darkhold-destiny-fraxi-scion-of-yggdrasil-spoilers/",
+    "title": "Marvel’s Newest Superhero Was Created to Solve a Major Magic: The Gathering Problem",
+    "link": "https://www.polygon.com/mtg-marvel-darkhold-destiny-fraxi-scion-of-yggdrasil-spoilers/",
+    "creator": "Corey Plante",
+    "pubDate": "Mon, 16 Nov 2026 19:27:44 GMT",
+    "categories": [
+      "Interview",
+      "Magic: The Gathering",
+      "Tabletop Games",
+      "Trading Card Game",
+      "Marvel"
+    ],
+    "description": "Magic: The Gathering designer Aaron Forsythe explains why Marvel’s new hero was created to fix an ongoing problem with Universes Beyond.",
+    "contentEncoded": "<p>In an interview with Polygon at MagicCon: Atlanta, <em>Magic</em> vice president of design Aaron Forsythe talked about the unique approach that Marvel and Wizards of the Coast are taking for the game’s third crossover set, specifically about the development of a unique character that will feature prominently in <em>Darkhold Destiny </em>and the accompanying <a href=\"https://www.polygon.com/marvel/\" target=\"_blank\">Marvel</a> Comics.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/tribute-to-the-world-tree-art.webp",
+      "type": "image/jpeg",
+      "length": "264"
+    },
+    "decision": "keep",
+    "reason": "Rule: category \"Magic: The Gathering\"",
+    "decidedBy": "rule",
+    "firstSeen": "2026-11-17T01:00:31.782Z"
+  },
+  {
+    "guid": "https://www.polygon.com/pikmin-4-nintendo-switch-2-release-controversy/",
+    "title": "Nintendo Fans Blast New Switch 2 Release as ‘Paid Downgrade’",
+    "link": "https://www.polygon.com/pikmin-4-nintendo-switch-2-release-controversy/",
+    "creator": "Elijah Gonzalez",
+    "pubDate": "Mon, 16 Nov 2026 19:17:39 GMT",
+    "categories": [
+      "Nintendo Switch 2",
+      "Pikmin 4 - Nintendo Switch 2 Edition + Dandori Academy"
+    ],
+    "description": "Pikmin 4 fans are not impressed with the game’s Switch 2 upgrade, Dandori Academy.",
+    "contentEncoded": "<p>So far, the <a href=\"https://www.polygon.com/nintendo-switch-2/\" target=\"_blank\">Nintendo Switch 2</a> upgraded editions of games originally released on the Switch have been a bit of a mixed bag. While games like <em><a href=\"https://www.polygon.com/game/kirby-forgotten-land/40837/\" target=\"_blank\">Kirby and the Forgotten Land</a></em>received significant new content and noticeable performance upgrades, others such as <em>Xenoblade Chronicles X</em> weren’t quite as well received. According to many Pikmin fans, the recently released Switch 2 version of <a href=\"https://www.polygon.com/game/pikmin-4/40912/\" target=\"_blank\"><em>Pikmin 4</em></a> falls into the latter camp.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/pikmin-4-screenshot-16-9.jpg",
+      "type": "image/jpeg",
+      "length": "452"
+    },
+    "decision": "keep",
+    "reason": "Video game news about new release and fan reaction.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-17T01:00:31.782Z"
+  },
+  {
+    "guid": "https://www.polygon.com/obsession-director-curry-barker-anything-but-ghosts-matthew-lillard/",
+    "title": "Obsession Director Officially Casts Horror Icon in Next Film",
+    "link": "https://www.polygon.com/obsession-director-curry-barker-anything-but-ghosts-matthew-lillard/",
+    "creator": "Austin Manchester",
+    "pubDate": "Mon, 16 Nov 2026 19:08:35 GMT",
+    "categories": [
+      "News",
+      "Obsession",
+      "Movies",
+      "Anything But Ghosts"
+    ],
+    "description": "Obsession director Curry Barker has cast horror icon and Scream star Matthew Lillard in his next film, Anything but Ghosts.",
+    "contentEncoded": "<p>Curry Barker's <a href=\"https://www.polygon.com/obsession-review-curry-barker/\" target=\"_blank\"><em>Obsession</em></a> is one of the year's best <a href=\"https://www.polygon.com/horror/\" target=\"_blank\">horror</a> films, but his next movie might end up being <a href=\"https://www.polygon.com/obsession-director-curry-barker-next-film-anything-but-ghosts/\" target=\"_blank\">even better</a>. Barker is writing, directing, and starring in next year's <em>Anything but Ghosts</em>, and he'll be joined by a horror movie icon.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/xi56blqs_o-1.jpg",
+      "type": "image/jpeg",
+      "length": "711389"
+    },
+    "decision": "keep",
+    "reason": "Horror movie news with established horror figure.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-17T01:00:31.782Z"
+  },
+  {
     "guid": "https://www.polygon.com/video/when-your-brother-gives-away-your-special-game-cartridge/",
     "title": "When your brother gives away your special game cartridge...",
     "link": "https://www.polygon.com/video/when-your-brother-gives-away-your-special-game-cartridge/",
