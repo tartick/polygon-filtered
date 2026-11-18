@@ -6,7 +6,19 @@
     <description>Articles the Polygon filter tossed, with reasons.</description>
     <atom:link href="https://tartick.github.io/polygon-filtered/rejected.xml" rel="self" type="application/rss+xml"/>
     <language>en-US</language>
-    <lastBuildDate>Wed, 18 Nov 2026 09:00:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 17:37:27 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[Justin and Griffin are NOT playing the same games]]></title>
+      <link>https://www.polygon.com/video/justin-and-griffin-are-not-playing-the-same-games/</link>
+      <guid isPermaLink="true">https://www.polygon.com/video/justin-and-griffin-are-not-playing-the-same-games/</guid>
+      <dc:creator><![CDATA[Simone de Rochefort]]></dc:creator>
+      <pubDate>Wed, 18 Nov 2026 17:37:27 GMT</pubDate>
+      <category><![CDATA[No social]]></category>
+      <category><![CDATA[Shelf Quest]]></category>
+      <enclosure url="https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/justin-and-griffin-are-not-playing-the-same-games.png" length="2295" type="image/jpeg"/>
+      <description><![CDATA[[Filtered: Vague entertainment/streaming content, not substantive game news.] Have you heard about King's Field hey wait where are you going]]></description>
+      <content:encoded><![CDATA[<p>Have you heard about King's Field hey wait where are you going </p>]]></content:encoded>
+    </item>
     <item>
       <title><![CDATA[8 Funniest 'Far Side' Comics Starring Cowboys]]></title>
       <link>https://www.polygon.com/8-far-side-comics-about-cowboys/</link>
@@ -630,18 +642,6 @@
       <enclosure url="https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/jlee_261112_1001_pogo_wildresearch.jpg" length="1427" type="image/jpeg"/>
       <description><![CDATA[[Filtered: Rule: category &quot;Guides&quot;] Should you pick steel or dragon in the Pokémon Go 2026 Wild Area "Streets to Skies" Special Research? We discuss the options in our guide.]]></description>
       <content:encoded><![CDATA[<p>As part of the ticketed bonus to <a href="https://www.polygon.com/game/pokemon-go/38713/" target="_blank"><em>Pokémon Go</em></a>'s <a href="https://www.polygon.com/pokemon-go-wild-area-2026-global-habitats-schedule-bonuses/" target="_blank"><strong>2026 Wild Area event</strong></a>, players can start a set of Special Research Tasks called <strong>"Streets to Skies."</strong> During this research, you'll need to pick between <strong>steel- or dragon-type Pokémon</strong>, with your pick having a slight impact on your rewards.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title><![CDATA[Pluribus Season 2 Makes One Of Its Best Characters A Series Regular]]></title>
-      <link>https://www.polygon.com/pluribus-season-2-new-series-regular/</link>
-      <guid isPermaLink="true">https://www.polygon.com/pluribus-season-2-new-series-regular/</guid>
-      <dc:creator><![CDATA[Tomas Franzese]]></dc:creator>
-      <pubDate>Sat, 14 Nov 2026 14:08:22 GMT</pubDate>
-      <category><![CDATA[Entertainment]]></category>
-      <category><![CDATA[Pluribus]]></category>
-      <enclosure url="https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/breakfast.jpg" length="450" type="image/jpeg"/>
-      <description><![CDATA[[Filtered: Generic TV series renewal/casting news, not prestige or horror.] Expect to see a lot more of Koumba Diabaté in Pluribus Season 2, as Samba Schutte has become a series regular]]></description>
-      <content:encoded><![CDATA[<p>As the second season of <a href="https://www.polygon.com/pluribus-finale-reveals-all-about-the-hivemind/" target="_blank">Apple TV's <em>Pluribus</em></a> enters production, more details are emerging. On Nov. 13, we learned that a standout cast member from the show's first season will be promoted to a series regular. </p>]]></content:encoded>
     </item>
   </channel>
 </rss>
