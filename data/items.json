@@ -1,5 +1,235 @@
 [
   {
+    "guid": "https://www.polygon.com/steam-machine-possible-price-hike/",
+    "title": "Valve Warns of a Possible Steam Machine Price Hike",
+    "link": "https://www.polygon.com/steam-machine-possible-price-hike/",
+    "creator": "Austin Manchester",
+    "pubDate": "Thu, 19 Nov 2026 23:07:46 GMT",
+    "categories": [
+      "News",
+      "PC",
+      "Steam"
+    ],
+    "description": "As computer components get more expensive, Valve warns its Steam Machine might get more expensive as it struggles to meet demand for the 2TB model.",
+    "contentEncoded": "<p>Video game hardware manufacturers have been impacted by the <a href=\"https://finance.yahoo.com/technology/ai/articles/ai-memory-shortage-puts-pressure-222745926.html\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">computer component crisis</a>, with <a href=\"https://www.polygon.com/nintendo-switch-2-price-increase-november-2026/\" target=\"_blank\">Nintendo</a>, <a href=\"https://www.polygon.com/ps5-price-increase-sony-playstation-portal/\" target=\"_blank\">PlayStation</a>, and <a href=\"https://www.polygon.com/xbox-price-hike-june-2026-what-is-new-cost-microsoft/\" target=\"_blank\">Xbox</a> all raising the prices of their consoles this year. <a href=\"https://www.polygon.com/pc/\" target=\"_blank\">PC</a> gaming giant Valve has <a href=\"https://www.polygon.com/steam-deck-new-price-hike-oled-1tb-storage-valve/\" target=\"_blank\">increased the cost of its Steam Deck</a>, and its PC-but-looks-like-a-console Steam Machine ended up being <a href=\"https://www.ign.com/articles/the-steam-machine-was-originally-meant-to-cost-about-750\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">more expensive than Valve originally intended</a>. Now, Valve has warned that its Steam Machine might get a price hike while opening up purchases for the cheapest model.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/steam-machine-pre-order.jpg",
+      "type": "image/jpeg",
+      "length": "329"
+    },
+    "decision": "keep",
+    "reason": "Valve hardware news and pricing updates interest gaming readers.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-19T23:45:15.062Z"
+  },
+  {
+    "guid": "https://www.polygon.com/gta-6-us-army-soldiers-reenlist-four-day-weekend/",
+    "title": "GTA 6 Gamble to Get Army Soldiers to Reenlist Actually Worked",
+    "link": "https://www.polygon.com/gta-6-us-army-soldiers-reenlist-four-day-weekend/",
+    "creator": "Sam Hill",
+    "pubDate": "Thu, 19 Nov 2026 21:30:55 GMT",
+    "categories": [
+      "Gaming",
+      "Grand Theft Auto 6",
+      "Grand Theft Auto"
+    ],
+    "description": "The US Army offered soldiers a four-day GTA 6 weekend as a reenlistment incentive. Here’s why 43 soldiers signed up.",
+    "contentEncoded": "<p>With <a href=\"https://www.polygon.com/game/grand-theft-auto-6/40846/\" target=\"_blank\"><em>Grand Theft Auto 6</em></a> finally launching, some fans are booking time off work, while others are making considerably bigger commitments to secure a few uninterrupted days in Vice City. According to reporting from <a href=\"https://taskandpurpose.com/culture/army-reenlistment-gta-vi/\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">Task & Purpose</a>, 43 soldiers from the U.S. Army's 9th Brigade Engineer Battalion at Fort Stewart, Georgia, have signed up for <a href=\"https://www.polygon.com/gta-6-us-army-reenlistment-rockstar-games-release-date/\" target=\"_blank\">a special reenlistment incentive</a> offering a four-day weekend to play <em>GTA 6</em> when it launched on Nov. 19.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/gta-6-release-time-header.jpg",
+      "type": "image/jpeg",
+      "length": "400"
+    },
+    "decision": "keep",
+    "reason": "GTA 6 cultural impact and news story with real substance.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-19T23:45:15.062Z"
+  },
+  {
+    "guid": "https://www.polygon.com/free-games-on-steam-november-2026-crusader-kings-3/",
+    "title": "Steam Makes Strategy RPG Masterpiece Free For a Limited Time",
+    "link": "https://www.polygon.com/free-games-on-steam-november-2026-crusader-kings-3/",
+    "creator": "Sam Hill",
+    "pubDate": "Thu, 19 Nov 2026 21:19:33 GMT",
+    "categories": [
+      "Gaming",
+      "Crusader Kings 3",
+      "Crusader Kings",
+      "Steam"
+    ],
+    "description": "Crusader Kings 3 is free to play on Steam until Nov. 23, with a 70% discount available for players who want to keep it.",
+    "contentEncoded": "<p><a href=\"http://polygon.com/tag/steam\" target=\"_blank\">Steam</a> is giving <a href=\"http://polygon.com/pc\" target=\"_blank\">PC</a> strategy fans another opportunity to try a major grand strategy game without spending a cent. This week's promotion is particularly appealing for players who enjoy medieval history, political intrigue, and building a dynasty from the ground up.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/crusader-kings-3.jpg",
+      "type": "image/jpeg",
+      "length": "516"
+    },
+    "decision": "keep",
+    "reason": "Game availability news; Crusader Kings 3 free-to-play period worth noting.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-19T23:45:15.062Z"
+  },
+  {
+    "guid": "https://www.polygon.com/gta-6-texting-and-driving/",
+    "title": "GTA 6 Shows Why You Should Never, Ever, Ever Text and Drive (Ever)",
+    "link": "https://www.polygon.com/gta-6-texting-and-driving/",
+    "creator": "Giovanni Colantonio",
+    "pubDate": "Thu, 19 Nov 2026 21:00:18 GMT",
+    "categories": [
+      "Opinion",
+      "Grand Theft Auto 6"
+    ],
+    "description": "You can pull off a lot of crimes in Grand Theft Auto 6, but texting and driving might be the most dangerous one of all.",
+    "contentEncoded": "<p>You can pull off a lot of heinous crimes in <a href=\"https://www.polygon.com/gta-6-review/\" target=\"_blank\"><em>Grand Theft Auto 6</em></a>. Stealing a car, mugging an old lady at gunpoint, killing a bird and then beating up a cop with its corpse. All of those are sure to earn you at least a one-star Wanted level. But there’s an even worse crime in <em>GTA 6 </em>that you’ll probably wind up doing more than murder: texting and driving.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/grand-theft-auto-6-jason-driving.jpg",
+      "type": "image/jpeg",
+      "length": "1107"
+    },
+    "decision": "keep",
+    "reason": "GTA 6 analysis and opinion piece about game mechanics.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-19T23:45:15.062Z"
+  },
+  {
+    "guid": "https://www.polygon.com/jordan-peele-nightmare-on-elm-street-reboot-tease/",
+    "title": "Jordan Peele Might Be Bringing Back One of Horror’s Biggest Franchises",
+    "link": "https://www.polygon.com/jordan-peele-nightmare-on-elm-street-reboot-tease/",
+    "creator": "Sam Hill",
+    "pubDate": "Thu, 19 Nov 2026 20:56:16 GMT",
+    "categories": [
+      "Movies",
+      "A Nightmare on Elm Street"
+    ],
+    "description": "Is Jordan Peele involved in the new A Nightmare on Elm Street reboot? A cryptic Monkeypaw video has fans speculating.",
+    "contentEncoded": "<p>Jordan Peele has become one of the biggest names <a href=\"https://www.polygon.com/horror/\" target=\"_blank\">in modern horror,</a> with his films <em>Get Out</em>, <em>Us</em>, and <em>Nope</em> helping establish him as one of the genre's most recognizable filmmakers. Through his production company, Monkeypaw Productions, Peele has also helped bring several other horror projects to the big screen, including <em>Candyman</em>, <a href=\"https://www.polygon.com/24122067/monkey-man-review-dev-patel/\" target=\"_blank\"><em>Monkey Man</em></a>, and <a href=\"https://www.polygon.com/him-justin-tipping-interview-preview-jordan-peele-football-horror/\" target=\"_blank\"><em>Him</em></a>.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/02/jordan-peele.jpg",
+      "type": "image/jpeg",
+      "length": "578"
+    },
+    "decision": "keep",
+    "reason": "Horror franchise news with prestige director Jordan Peele involved.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-19T23:45:15.062Z"
+  },
+  {
+    "guid": "https://www.polygon.com/gta-6-guides-walkthroughs-tips/",
+    "title": "GTA 6 guides and walkthroughs",
+    "link": "https://www.polygon.com/gta-6-guides-walkthroughs-tips/",
+    "creator": "Polygon Staff",
+    "pubDate": "Thu, 19 Nov 2026 20:12:18 GMT",
+    "categories": [
+      "Guides",
+      "Grand Theft Auto 6"
+    ],
+    "description": "If you need help in Grand Theft Auto 6, we got your back. Here's all of our guides and walkthroughs to help you become Leonida royalty.",
+    "contentEncoded": "<p><a href=\"https://www.polygon.com/game/grand-theft-auto-6/40846/\" target=\"_blank\"><em>Grand Theft Auto 6</em></a> is finally here, and it's gigantic. The state of Leonida has a lot to explore, whether you want to go to nightclubs in Vice City or find a fishing hole in Key Lento.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/grand-theft-auto-vi_20261119163142.jpg",
+      "type": "image/jpeg",
+      "length": "409"
+    },
+    "decision": "toss",
+    "reason": "Rule: category \"Guides\"",
+    "decidedBy": "rule",
+    "firstSeen": "2026-11-19T23:45:15.062Z"
+  },
+  {
+    "guid": "https://www.polygon.com/mistborn-legacy-ttrpg-impressions/",
+    "title": "Brandon Sanderson’s Mistborn TTRPG Solves the Biggest Problem With Licensed Games",
+    "link": "https://www.polygon.com/mistborn-legacy-ttrpg-impressions/",
+    "creator": "Sam Nelson",
+    "pubDate": "Thu, 19 Nov 2026 20:00:17 GMT",
+    "categories": [
+      "Reviews",
+      "Brandon Sanderson",
+      "Fantasy",
+      "Tabletop Games"
+    ],
+    "description": "The wildly ambitious campaign takes generations",
+    "contentEncoded": "<p>Licensed <a href=\"https://www.polygon.com/tabletop-games/\" target=\"_blank\">tabletop</a> role-playing games provide players with a new way to experience their favorite franchises like <a href=\"https://www.polygon.com/star-wars/\" target=\"_blank\">Star Wars</a>, Star Trek, and the <a href=\"https://www.polygon.com/lord-of-the-rings/\" target=\"_blank\">Lord of the Rings</a>. But those adventures always come with a big question about how player characters are supposed to make their mark on stories that already have their own legendary heroes. Rather than erasing canon characters or turning them into quest-givers, the wildly ambitious <em>Mistborn Legacy </em>campaign for the <a href=\"https://www.polygon.com/brandon-sanderson-mistborn-ttrpg-interview/\" target=\"_blank\">Cosmere Roleplaying Game</a> allows players to forge legends as powerful as any of Brandon Sanderson’s characters.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/cosmere-rpg-mistborn-copy.jpg",
+      "type": "image/jpeg",
+      "length": "305"
+    },
+    "decision": "keep",
+    "reason": "TTRPG review and analysis of licensed tabletop game.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-19T23:45:15.062Z"
+  },
+  {
+    "guid": "https://www.polygon.com/mtg-best-commanders-gavin-verhey-interview-maralen-fae-ascendant/",
+    "title": "Magic: The Gathering Designer Reveals the Commander Trend He Wants to See More Of",
+    "link": "https://www.polygon.com/mtg-best-commanders-gavin-verhey-interview-maralen-fae-ascendant/",
+    "creator": "Corey Plante",
+    "pubDate": "Thu, 19 Nov 2026 19:30:17 GMT",
+    "categories": [
+      "Interview",
+      "Magic: The Gathering",
+      "Tabletop Games",
+      "Trading Card Game",
+      "Fantasy"
+    ],
+    "description": "Magic Gavin Verhey explains how Maralen, Fae Ascendant’s success made him want to design more Commanders that pair two creature types.",
+    "contentEncoded": "<p>While at MagicCon: Atlanta 2026, one of the trickier <a href=\"https://www.polygon.com/mtg-magic-the-gathering/\" target=\"_blank\"><em>Magic: The Gathering</em></a> Commander decks I faced was led by <a href=\"https://scryfall.com/card/ecl/233/maralen-fae-ascendant\" target=\"_blank\">Maralen, Fae Ascendant</a>, from <a href=\"https://www.polygon.com/mtg-lorwyn-eclipsed-best-selling-original-magic-set-ever/\" target=\"_blank\"><em>Lorwyn Eclipsed</em></a>. Currently the 40th most popular Commander, according to <a href=\"https://edhrec.com/commanders/maralen-fae-ascendant\" target=\"_blank\">data from EDHREC</a>, Maralen is a typal Commander, meaning that her abilities emphasize creature types. In this case, she’s all about <em>two</em> kinds of creatures rather than just one. Specifically, this is an elves and faeries Commander. Since her color identity has three colors — black, green, and blue — that gives every Maralen deck access to a wide variety of both creature types to leverage some big payoffs.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/run-away-together-mtg.jpg",
+      "type": "image/jpeg",
+      "length": "202"
+    },
+    "decision": "keep",
+    "reason": "Rule: category \"Magic: The Gathering\"",
+    "decidedBy": "rule",
+    "firstSeen": "2026-11-19T23:45:15.062Z"
+  },
+  {
+    "guid": "https://www.polygon.com/gta-6-lucia-boyfriend-girlfriend-relationship-simulator/",
+    "title": "'GTA 6' Is Triggering Men Who Are Learning How To Have A Girlfriend",
+    "link": "https://www.polygon.com/gta-6-lucia-boyfriend-girlfriend-relationship-simulator/",
+    "creator": "Patricia Hernandez",
+    "pubDate": "Thu, 19 Nov 2026 19:30:17 GMT",
+    "categories": [
+      "News",
+      "Grand Theft Auto 6",
+      "Grand Theft Auto"
+    ],
+    "description": "GTA 6 fans weren't expecting that keeping Lucia happy would require any actual work on Jason's part despite Rockstar's focus on the relationship",
+    "contentEncoded": "<p>Young men in relationships around the world have spent the last few weeks <a href=\"https://www.ctvnews.ca/sci-tech/article/alberta-man-clears-calendar-for-gta-vi-gets-girlfriends-blessing/\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">warning their significant others</a> about Nov. 19. On that day, and for their forseeable future, the men in their lives <a href=\"https://www.reddit.com/r/Advice/comments/1xquiul/boyfriend_cancelling_plans_with_me_and_my_parents/\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">would be MIA</a>, they said. They wouldn't answer texts. They weren't going to hang out. Many women were told to accept that men would put <a href=\"https://www.instagram.com/reel/DfzMCJFBWOk/\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">little to no effort into their relationships</a> for a while as they focused entirely on <a href=\"https://www.polygon.com/gta-grand-theft-auto/\" target=\"_blank\"><em>Grand Theft Auto 6</em></a>.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/gta-6-jason-and-lucia-3.jpg",
+      "type": "image/jpeg",
+      "length": "10248103"
+    },
+    "decision": "keep",
+    "reason": "GTA 6 cultural commentary and player reactions to game features.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-19T23:45:15.062Z"
+  },
+  {
+    "guid": "https://www.polygon.com/gta-6-movement-speed-settings/",
+    "title": "GTA 6 Players Should Change This One Setting Before Anything Else",
+    "link": "https://www.polygon.com/gta-6-movement-speed-settings/",
+    "creator": "Giovanni Colantonio",
+    "pubDate": "Thu, 19 Nov 2026 19:20:17 GMT",
+    "categories": [
+      "News",
+      "Grand Theft Auto 6"
+    ],
+    "description": "Grand Theft Auto 6 features some key settings for those who feel the open-world game moves too slowly.",
+    "contentEncoded": "<p>Now that <a href=\"https://www.polygon.com/game/grand-theft-auto-6/40846/\" target=\"_blank\"><em>Grand Theft Auto 6</em></a> is out, players are discovering that Rockstar Games' latest feels more like <a href=\"https://www.polygon.com/reviews/2018/10/25/18021034/red-dead-redemption-2-review/\" target=\"_blank\"><em>Red Dead Redemption 2</em></a> than <em>GTA 5</em>. <span>Rockstar Games builds on the work it did in its open-world western and applies it to the context of a modern city.</span> That’s a big part of why it's so successful, but that might make some players nervous. While GTA 6 moves at a quicker pace, movement can still feel a little <span>slower than you might expect</span>.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/grand-theft-auto-6-jason-with-helmet.jpg",
+      "type": "image/jpeg",
+      "length": "1814"
+    },
+    "decision": "toss",
+    "reason": "Basic settings guide; how-to content Steven doesn't engage with.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-19T23:45:15.062Z"
+  },
+  {
     "guid": "https://www.polygon.com/invincible-season-5-announcement-teaser/",
     "title": "Invincible Officially Addresses Its Worst Season 4 Episode With Season 5 Reveal",
     "link": "https://www.polygon.com/invincible-season-5-announcement-teaser/",
