@@ -1,5 +1,240 @@
 [
   {
+    "guid": "https://www.polygon.com/gta-6-tenebrae-lux-jonathan-blow/",
+    "title": "Who is Johannes Zuch supposed to be in GTA 6?",
+    "link": "https://www.polygon.com/gta-6-tenebrae-lux-jonathan-blow/",
+    "creator": "Giovanni Colantonio",
+    "pubDate": "Fri, 20 Nov 2026 22:00:17 GMT",
+    "categories": [
+      "Analysis",
+      "Grand Theft Auto 6"
+    ],
+    "description": "Grand Theft Auto 6 includes an arthouse game parody called Tenebrae Lux that lampoons The Witness creator Jonathan Blow.",
+    "contentEncoded": "<p>Everyone is a target in <a href=\"https://www.polygon.com/gta-6-review/\" target=\"_blank\"><em>Grand Theft Auto 6</em></a>. Even Jonathan Blow, the puzzle game designer known for <em>The Witness </em>and <em>Order of the Sinking Star</em>, isn’t safe.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/grand-theft-auto-6-tenebrae-lux-puzzle.jpg",
+      "type": "image/jpeg",
+      "length": "637"
+    },
+    "decision": "keep",
+    "reason": "GTA 6 game analysis and industry commentary about developer parody.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-20T22:36:51.282Z"
+  },
+  {
+    "guid": "https://www.polygon.com/new-movies-streaming-this-weekend-netflix-november-20-22/",
+    "title": "10 New Movies to Watch This Weekend on Netflix, Prime Video, and HBO Max (November 20 - 22)",
+    "link": "https://www.polygon.com/new-movies-streaming-this-weekend-netflix-november-20-22/",
+    "creator": "Maria Loreto",
+    "pubDate": "Fri, 20 Nov 2026 22:00:17 GMT",
+    "categories": [
+      "Polygon Lists",
+      "Movies",
+      "The Odyssey",
+      "Steps"
+    ],
+    "description": "On this weekend's movie streaming and VOD column, there's the biggest movie of the year, Netflix's new animated movie, and more",
+    "contentEncoded": "<p>Happy weekend! <em><a href=\"https://www.polygon.com/hunger-games-sunrise-on-the-reaping-review/\" target=\"_blank\">The Hunger Games: Sunrise on the Reaping</a></em>is out in theaters, seemingly putting an end to one of the biggest franchises in recent years. It’s pretty good.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/appofeniacs.jpg",
+      "type": "image/jpeg",
+      "length": "150"
+    },
+    "decision": "toss",
+    "reason": "Generic streaming roundup; clickbait format with no specific substance.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-20T22:36:51.282Z"
+  },
+  {
+    "guid": "https://www.polygon.com/gta-6-playtime-stats-launch-day-ps5-xbox-series-x/",
+    "title": "GTA 6 Players Are Officially Spending an ‘Absolutely Bonkers’ Amount of Time with the Game",
+    "link": "https://www.polygon.com/gta-6-playtime-stats-launch-day-ps5-xbox-series-x/",
+    "creator": "Austin Manchester",
+    "pubDate": "Fri, 20 Nov 2026 21:28:55 GMT",
+    "categories": [
+      "News",
+      "Grand Theft Auto",
+      "Grand Theft Auto 6",
+      "xbox",
+      "PlayStation"
+    ],
+    "description": "Grand Theft Auto 6 players enjoyed GTA 6 for an average of eight hours on its launch day, an \"absolutely bonkers\" number.",
+    "contentEncoded": "<p><a href=\"https://www.polygon.com/game/grand-theft-auto-6/40846/\" target=\"_blank\"><em>Grand Theft Auto 6</em></a> players weren't kidding about wanting to spend the game's entire launch day in Leonida. Much hullabaloo was made about people <a href=\"https://www.pbs.org/newshour/nation/will-people-skip-work-and-hurt-the-u-s-economy-to-play-grand-theft-auto-6\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">requesting time off from work or faking sick</a> to spend the entire day playing <em>GTA 6</em>, and plenty of companies tried to capitalize on that conversation with <a href=\"https://news.xbox.com/en-us/2026/11/16/dr-xbox-its-time-to-take-the-day-off-and-play-xbox/\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">marketing stunts</a>.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/ultimate_edition_vice_city_style_01.jpg",
+      "type": "image/jpeg",
+      "length": "1848"
+    },
+    "decision": "keep",
+    "reason": "GTA 6 news about player engagement and launch metrics.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-20T22:36:51.282Z"
+  },
+  {
+    "guid": "https://www.polygon.com/free-games-right-now-steam-epic-ps-plus-nov-20-26/",
+    "title": "Every Free Game This Week on Steam, Epic, and Xbox (Nov. 20-26)",
+    "link": "https://www.polygon.com/free-games-right-now-steam-epic-ps-plus-nov-20-26/",
+    "creator": "Ashely Claudino",
+    "pubDate": "Fri, 20 Nov 2026 21:21:08 GMT",
+    "categories": [
+      "Gaming",
+      "Steam",
+      "xbox"
+    ],
+    "description": "Check out the free games you can try out this week across all digital platforms.",
+    "contentEncoded": "<p>Every week, there are limited-time offers that allow players to enjoy games for free, whether as temporary or permanent additions to their digital libraries. Here's everything that frugal and curious gaming fans can enjoy between Nov. 20 and Nov. 26, so they can make the most of their week without spending a dime.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/crusader-kings-3-1.jpg",
+      "type": "image/jpeg",
+      "length": "2045"
+    },
+    "decision": "toss",
+    "reason": "Generic list of free games; not substantive game coverage.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-20T22:36:51.282Z"
+  },
+  {
+    "guid": "https://www.polygon.com/baldurs-gate-3-shadowheart-prequel-book-dnd/",
+    "title": "'Baldur’s Gate 3' Official Prequel Announced for 2027",
+    "link": "https://www.polygon.com/baldurs-gate-3-shadowheart-prequel-book-dnd/",
+    "creator": "Sam Hill",
+    "pubDate": "Fri, 20 Nov 2026 21:18:22 GMT",
+    "categories": [
+      "Gaming",
+      "Baldur's Gate",
+      "Baldur's Gate 3"
+    ],
+    "description": "A new Baldur’s Gate 3 book will explore Shadowheart’s past in an official prequel novel coming in 2027.",
+    "contentEncoded": "<p>The world of <a href=\"https://www.polygon.com/game/baldurs-gate-3/40577/\" target=\"_blank\"><em>Baldur’s Gate 3</em></a> is expanding beyond video games once again, with a new official prequel <a href=\"http://polygon.com/books\" target=\"_blank\">novel</a> set to explore the darker corners of the Forgotten Realms. The upcoming book will take readers beneath the streets of Baldur’s Gate, where a murder threatens to expose the secrets of a secretive religious order.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/shadowheart-baldurs-gate-3.jpg",
+      "type": "image/jpeg",
+      "length": "258"
+    },
+    "decision": "keep",
+    "reason": "Baldur's Gate 3 news announcement for official prequel project.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-20T22:36:51.282Z"
+  },
+  {
+    "guid": "https://www.polygon.com/poltergeist-tobe-hooper-steven-spielberg-free-on-pluto-tv/",
+    "title": "44 Years Later, Steven Spielberg's Scariest Movie of All Time Is Officially Free on Streaming",
+    "link": "https://www.polygon.com/poltergeist-tobe-hooper-steven-spielberg-free-on-pluto-tv/",
+    "creator": "Brian VanHooker",
+    "pubDate": "Fri, 20 Nov 2026 21:04:18 GMT",
+    "categories": [
+      "What to Watch",
+      "Poltergeist",
+      "Horror",
+      "New to Streaming",
+      "Movies"
+    ],
+    "description": "The supernatural horror film Poltergeist is on Pluto TV, though there's still a debate as to who directed it",
+    "contentEncoded": "<p><em>Poltergeist</em>, which <span>became available to stream for free on Pluto TV on Nov. 1</span>, follows <span>an ordinary suburban family that begins to experience</span> strange things in their home. Furniture and toys move on their own, a glass of milk shatters out of nowhere, and the youngest child in the family, 5-year-old Carol Anne (Heather O'Rourke), begins to communicate with beings through the television. At first, these events are dismissed, but during a thunderstorm one night, a tree outside the windows of the kids’ room crashes in and snatches the boy. Then, a portal opens in their closet, sucking Carol Anne into another dimension. With help from some paranormal investigators, the family tries everything to bring her back.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/msdpolt_ec006.jpg",
+      "type": "image/jpeg",
+      "length": "765"
+    },
+    "decision": "toss",
+    "reason": "Horror classic streaming availability clickbait; retroactive content.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-20T22:36:51.282Z"
+  },
+  {
+    "guid": "https://www.polygon.com/new-tv-shows-streaming-this-weekend-netflix-november-20-22/",
+    "title": "8 New TV Shows to Watch This Weekend on Netflix, Disney, and Paramount (November 20-22)",
+    "link": "https://www.polygon.com/new-tv-shows-streaming-this-weekend-netflix-november-20-22/",
+    "creator": "Maria Loreto",
+    "pubDate": "Fri, 20 Nov 2026 21:00:18 GMT",
+    "categories": [
+      "Polygon Lists",
+      "TV",
+      "Yellowjackets",
+      "Percy Jackson and the Olympians"
+    ],
+    "description": "This weekend's TV column features the final season of a major horror show, the return of a beloved kids' fantasy series, and more.",
+    "contentEncoded": "<p>Happy weekend! Genre fans have plenty to look forward to when it comes to <a href=\"https://www.polygon.com/tv/\" target=\"_blank\">TV</a>. Earlier this week, Netflix announced the return of <em>3 Body Project</em>, the heady sci-fi series based on the Liu Cixin novels and adapted by the <em>Game of Thrones </em>showrunners. No big deal. Other series you can look forward to soon include <em><a href=\"https://www.polygon.com/alien-earth-review-good-and-bad/\" target=\"_blank\">Alien: Earth</a></em>season 2 and <a href=\"https://www.polygon.com/neuromancer-apple-tv-sci-fi-2027/\" target=\"_blank\"><em>Neuromancer</em></a>. This month, <a href=\"https://www.polygon.com/blade-runner-2099/\" target=\"_blank\"><em>Blade Runner 2099</em></a> is premiering on Prime Video.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/tcdyell_sn003.jpg",
+      "type": "image/jpeg",
+      "length": "415"
+    },
+    "decision": "toss",
+    "reason": "Generic streaming TV roundup without substantive content.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-20T22:36:51.282Z"
+  },
+  {
+    "guid": "https://www.polygon.com/macaulay-culkin-home-alone-sequel-rumor-disney/",
+    "title": "Macaulay Culkin's Official Return to Home Alone Is Finally Happening",
+    "link": "https://www.polygon.com/macaulay-culkin-home-alone-sequel-rumor-disney/",
+    "creator": "Sam Hill",
+    "pubDate": "Fri, 20 Nov 2026 20:36:40 GMT",
+    "categories": [
+      "Movies",
+      "Disney",
+      "Home Alone",
+      "Home Alone 2: Lost in New York",
+      "Home Sweet Home Alone"
+    ],
+    "description": "A new Home Alone movie starring Macaulay Culkin is reportedly in development at Disney with Seth Rogen and Evan Goldberg producing.",
+    "contentEncoded": "<p>Kevin McCallister could be setting another round of traps, as actor Macaulay Culkin is reportedly preparing to return to the Home Alone franchise more than three decades after the original movies — and not just for <a href=\"https://www.polygon.com/home-alone-macaulay-culkin-mcdonalds-ad/\" target=\"_blank\">a McDonald's commercial</a> this time.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/home-alone-again.jpg",
+      "type": "image/jpeg",
+      "length": "362"
+    },
+    "decision": "toss",
+    "reason": "Generic film sequel casting/production news; not prestige project.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-20T22:36:51.282Z"
+  },
+  {
+    "guid": "https://www.polygon.com/gta-6-crash-ps5-error-code-ce-108255-1/",
+    "title": "GTA 6 Players Are Encountering a Mysterious Game Breaking Crash",
+    "link": "https://www.polygon.com/gta-6-crash-ps5-error-code-ce-108255-1/",
+    "creator": "Elijah Gonzalez",
+    "pubDate": "Fri, 20 Nov 2026 20:09:34 GMT",
+    "categories": [
+      "Grand Theft Auto",
+      "Grand Theft Auto 6"
+    ],
+    "description": "Some Grand Theft Auto 6 players are stuck due to a PlayStation 5 crash with error code CE-108255-1.",
+    "contentEncoded": "<p><a href=\"https://www.polygon.com/game/grand-theft-auto-6/40846/\" target=\"_blank\"><em>Grand Theft Auto 6</em></a> is somehow off to an even hotter start than many expected. The game sold <a href=\"https://www.polygon.com/gta-6-sales-2-billion-dollars-ps5-xbox-series-x/\" target=\"_blank\">32.5 million copies pre-release</a>, bringing in a whopping $3.79 billion on day one. That makes it the biggest entertainment launch in history, according to publisher Take-Two. Unfortunately, though, not everyone has been able to enjoy the fun. Numerous players have reported <span style=\"box-sizing:border-box; margin:0px; padding:0px\"><span style=\"box-sizing:border-box; margin:0px; padding:0px\">that they can't progress in the game <a href=\"https://www.reddit.com/r/PS5HelpSupport/comments/1xztyzg/ps5_error_ce1082551_in_gta_vi_tried_almost/\" target=\"_blank\">due to a persistent</a> PlayStation 5 crash</span>that sends them</span> back to the dashboard.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/grand-theft-auto-6-jason-lucia-with-guns.jpg",
+      "type": "image/jpeg",
+      "length": "927"
+    },
+    "decision": "keep",
+    "reason": "GTA 6 technical issue coverage; relevant game news.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-20T22:36:51.282Z"
+  },
+  {
+    "guid": "https://www.polygon.com/video/when-did-he-know-he-was-gandalf/",
+    "title": "When did he KNOW he was Gandalf?",
+    "link": "https://www.polygon.com/video/when-did-he-know-he-was-gandalf/",
+    "creator": "Corey Plante",
+    "pubDate": "Fri, 20 Nov 2026 20:02:19 GMT",
+    "categories": [
+      "No social",
+      "The Lord of the Rings: The Rings of Power"
+    ],
+    "description": "The Rings of Power star Daniel Weyman recounts the season 2 moment that he finally learned that he was Gandalf. #gandalf #danielweyman #lordoftherings #theringsofpower #tv",
+    "contentEncoded": "<p>The Rings of Power star Daniel Weyman recounts the season 2 moment that he finally learned that he was Gandalf. #gandalf #danielweyman #lordoftherings #theringsofpower #tv</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/when-did-he-know-he-was-gandalf.png",
+      "type": "image/jpeg",
+      "length": "1570"
+    },
+    "decision": "toss",
+    "reason": "Generic TV series behind-the-scenes interview fluff.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-20T22:36:51.282Z"
+  },
+  {
     "guid": "https://www.polygon.com/wishlister-nov-20/",
     "title": "6 Steam Games To Wishlist That Aren't GTA 6",
     "link": "https://www.polygon.com/wishlister-nov-20/",
