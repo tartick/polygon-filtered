@@ -1,5 +1,74 @@
 [
   {
+    "guid": "https://www.polygon.com/best-scifi-book-closing-line-roadside-picnic/",
+    "title": "53 Years Later, The Greatest Closing Line In Sci-Fi History Is Still The Best Book Quote Of The 1970s",
+    "link": "https://www.polygon.com/best-scifi-book-closing-line-roadside-picnic/",
+    "creator": "Ryan Epps",
+    "pubDate": "Fri, 20 Nov 2026 06:04:17 GMT",
+    "categories": [
+      "Opinion",
+      "Books",
+      "Sci-Fi"
+    ],
+    "description": "Roadside Picnic ends with one of science fiction’s most beautiful lines, a simple wish for happiness that still resonates more than 50 years later.",
+    "contentEncoded": "<p>The canon of science-fiction literature is home to countless unforgettable endings, from <em>1984</em>’s short but devastating retrospective (\"He loved Big Brother\") to <a href=\"https://www.polygon.com/24093811/the-three-body-problem-explained-netflix/\" target=\"_blank\"><em>The Three-Body Problem</em></a>’s defiant reminder that humanity cannot be so easily wiped out. The best sci-fi endings don't offer comfortable closure. Instead, they reframe everything that came before. In their closing lines, great sci-fi novelists leave readers suspended in the aftermath, forced to stew in the terrifying logic of cold technology, the fragility of human nature, and the vast expanse of space.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/resident-evil-1.jpg",
+      "type": "image/jpeg",
+      "length": "1364"
+    },
+    "decision": "toss",
+    "reason": "Nostalgia retrospective about old book; not game/horror/prestige film.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-20T06:59:26.957Z"
+  },
+  {
+    "guid": "https://www.polygon.com/10-funniest-far-side-comics-starring-cavemen-and-early-inventions/",
+    "title": "10 Funniest 'Far Side' Comics About Cavemen and Their Early Innovations",
+    "link": "https://www.polygon.com/10-funniest-far-side-comics-starring-cavemen-and-early-inventions/",
+    "creator": "Brian VanHooker",
+    "pubDate": "Fri, 20 Nov 2026 05:00:18 GMT",
+    "categories": [
+      "Analysis"
+    ],
+    "description": "Gary Larson’s Far Side comics often starred Cavemen and their early inventions. Here are the 10 best",
+    "contentEncoded": "<p>Gary Larson’s comic strip <a href=\"https://www.polygon.com/8-far-side-comics-about-cowboys/\" target=\"_blank\"><em>The Far Side</em></a> broke the mold of traditional <a href=\"https://www.polygon.com/comics/\" target=\"_blank\">newspaper comics</a> by not having a recurring cast of characters. <em>Peanuts</em> had Charlie Brown, Snoopy, Linus and the rest of the gang. <em>Garfield</em> had Garfield, Odie, Jon, and some others. <em>Calvin and Hobbes</em> had Calvin, Hobbes, and Calvin’s parents. But <em>The Far Side</em> introduced new characters and scenarios every single day.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/screen-shot-2026-11-18-at-4-47-19-pm.jpg",
+      "type": "image/jpeg",
+      "length": "64"
+    },
+    "decision": "toss",
+    "reason": "Generic graphic-novel/comic retrospective; outside core interests.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-20T06:59:26.957Z"
+  },
+  {
+    "guid": "https://www.polygon.com/gta-6-physical-disc-spoof-game/",
+    "title": "Controversial GTA 6 Easter Egg Will Annoy Millions of Gamers",
+    "link": "https://www.polygon.com/gta-6-physical-disc-spoof-game/",
+    "creator": "Austin Manchester",
+    "pubDate": "Fri, 20 Nov 2026 01:00:17 GMT",
+    "categories": [
+      "Analysis",
+      "Grand Theft Auto 6",
+      "Grand Theft Auto",
+      "xbox",
+      "PlayStation"
+    ],
+    "description": "GTA 6 has an early moment when Jason and his friend play a physical video game. Ironically enough, that's impossible to do with GTA 6 itself.",
+    "contentEncoded": "<p><a href=\"https://www.polygon.com/game/grand-theft-auto-6/40846/\" target=\"_blank\"><em>Grand Theft Auto 6</em></a> is now out everywhere, and players are discovering just how much this game is filled to the brim with an overwhelming amount of things to do. In the game’s opening hours, you’ll land a place on the water, steal a car from a police impound, get into a car chase, and more. There are a million little things to do, like playing video games inside <em>GTA 6</em> itself.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/grand-theft-auto-6-gt-6-cal-and-jaosn-playing-games-2.jpeg",
+      "type": "image/jpeg",
+      "length": "520"
+    },
+    "decision": "keep",
+    "reason": "GTA 6 game news and analysis about interesting design element.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-20T06:59:26.957Z"
+  },
+  {
     "guid": "https://www.polygon.com/steam-machine-possible-price-hike/",
     "title": "Valve Warns of a Possible Steam Machine Price Hike",
     "link": "https://www.polygon.com/steam-machine-possible-price-hike/",
