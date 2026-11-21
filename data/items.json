@@ -1,5 +1,229 @@
 [
   {
+    "guid": "https://www.polygon.com/gta-6-graphics-realism/",
+    "title": "It’s Official, GTA 6’s Graphics Have Broken My Brain",
+    "link": "https://www.polygon.com/gta-6-graphics-realism/",
+    "creator": "Giovanni Colantonio",
+    "pubDate": "Sat, 21 Nov 2026 19:00:17 GMT",
+    "categories": [
+      "Opinion",
+      "Grand Theft Auto 6"
+    ],
+    "description": "Grand Theft Auto's 6 realistic visuals and world are changing how I play in the crime sandbox.",
+    "contentEncoded": "<p>The first time I played <a href=\"https://www.polygon.com/game/grand-theft-auto-5/3667/\" target=\"_blank\"><em>Grand Theft Auto 5</em></a>, I was ready to wreak havoc the second I picked up the controller. When my buddy handed me the controller to try it out at his apartment, I asked him how to unlock all weapons and got up to the old tricks of my PS2 glory days. Cars were stolen, cops were exploded, and fun was had by all (except the pedestrians).</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/grand-theft-auto-6-jason-with-gun.jpg",
+      "type": "image/jpeg",
+      "length": "1147"
+    },
+    "decision": "keep",
+    "reason": "GTA 6 opinion piece about game graphics and design.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-21T19:04:28.311Z"
+  },
+  {
+    "guid": "https://www.polygon.com/blade-movie-director-comments-no-script/",
+    "title": "Former Blade Director Reveals What Went Wrong With The Ill-Fated Marvel Movie",
+    "link": "https://www.polygon.com/blade-movie-director-comments-no-script/",
+    "creator": "Tomas Franzese",
+    "pubDate": "Sat, 21 Nov 2026 17:17:13 GMT",
+    "categories": [
+      "Marvel",
+      "Blade",
+      "Your Mother Your Mother Your Mother"
+    ],
+    "description": "\"It was funny and strange to start casting and building without a proper script,\" director Bassam Tariq said of his work on the canceled Blade movie",
+    "contentEncoded": "<p>Director Bassam Tariq, who was previously attached to direct the Mahershala Ali <a href=\"https://www.polygon.com/marvel-blade-movie-update-kevin-feige/\" target=\"_blank\"><em>Blade </em>movie</a> that never came to fruition, was candid that the lack of a strong, complete script caused the Marvel Cinematic Universe movie to fall apart before it even started shooting.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/your-mother-your-mother-your-mother-_-official-teaser-trailer-0-36-screenshot.jpg",
+      "type": "image/jpeg",
+      "length": "380"
+    },
+    "decision": "toss",
+    "reason": "Marvel franchise casting/development gossip, not substantive film news.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-21T19:04:28.311Z"
+  },
+  {
+    "guid": "https://www.polygon.com/gta-6-auto-drive-how-to/",
+    "title": "How to use auto drive in GTA 6",
+    "link": "https://www.polygon.com/gta-6-auto-drive-how-to/",
+    "creator": "Josh Broadwell",
+    "pubDate": "Sat, 21 Nov 2026 16:53:58 GMT",
+    "categories": [
+      "Guides",
+      "Grand Theft Auto 6"
+    ],
+    "description": "GTA 6's auto drive feature lets you enjoy the sights and sounds of Vice City without driving manually. Here's how to use auto drive in GTA 6.",
+    "contentEncoded": "<p><a href=\"https://www.polygon.com/game/grand-theft-auto-6/40846/\" target=\"_blank\"><em>Grand Theft Auto 6</em></a>'s<strong> auto drive feature</strong> is perfect if you just want to see the sights of Leonida or avoid navigating through traffic. Not that <em>GTA 6</em> goes out of its way to tell you there even is an auto drive feature. It's tucked away in a menu you have little cause to use early in the game, and you also need to make sure a specific setting is toggled on for it to work in some circumstances. It's best to still learn how to drive decently yourself, though, as auto drive isn't the best choice in hectic situations.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/gta-6-autodrive.jpg",
+      "type": "image/jpeg",
+      "length": "729"
+    },
+    "decision": "toss",
+    "reason": "Rule: category \"Guides\"",
+    "decidedBy": "rule",
+    "firstSeen": "2026-11-21T19:04:28.311Z"
+  },
+  {
+    "guid": "https://www.polygon.com/anthony-mackie-12-12-12-apple-tv-streaming-success-november-2026/",
+    "title": "Apple TV’s New 8-Part Crime Thriller Is Already a No. 1 Streaming Hit",
+    "link": "https://www.polygon.com/anthony-mackie-12-12-12-apple-tv-streaming-success-november-2026/",
+    "creator": "Sam Hill",
+    "pubDate": "Sat, 21 Nov 2026 16:32:03 GMT",
+    "categories": [
+      "TV",
+      "Apple TV",
+      "12 12 12"
+    ],
+    "description": "Apple TV’s 12 12 12 follows a bank robbery across three timelines and has quickly become a streaming sensation.",
+    "contentEncoded": "<p>Anthony Mackie has spent decades building an impressive Hollywood career, moving between blockbuster franchises, action movies, and acclaimed television projects. From playing Sam Wilson in <a href=\"https://www.polygon.com/marvel/\" target=\"_blank\">the Marvel Cinematic Universe</a> to starring in <em>The Hurt Locker</em> and <em>8 Mile</em>, Mackie has become a familiar face to audiences across several genres.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/12-12-12.jpg",
+      "type": "image/jpeg",
+      "length": "288"
+    },
+    "decision": "toss",
+    "reason": "Streaming clickbait about generic TV success ranking.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-21T19:04:28.311Z"
+  },
+  {
+    "guid": "https://www.polygon.com/darkest-dungeon-2-the-butchers-asylum/",
+    "title": "Darkest Dungeon 2 DLC's New Mode Is Very Different From The Base Game",
+    "link": "https://www.polygon.com/darkest-dungeon-2-the-butchers-asylum/",
+    "creator": "Tomas Franzese",
+    "pubDate": "Sat, 21 Nov 2026 16:31:42 GMT",
+    "categories": [
+      "Gaming",
+      "Darkest Dungeon 2"
+    ],
+    "description": "The Butcher's Asylum features a new narrator and drastically shakes up the roguelike's structure",
+    "contentEncoded": "<p>We haven't gotten new DLC for <a href=\"https://www.polygon.com/2019/2/19/18232019/darkest-dungeon-2-trailer/\" target=\"_blank\"><em>Darkest Dungeon 2</em></a> in over a year, but the wait makes sense now that <em>The Butcher's Asylum</em> has been revealed. Launching in 2027, this DLC will add a whole new standalone game mode that remixes how you play this grim roguelike RPG.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/darkest-dungeons-2-dlc.png",
+      "type": "image/jpeg",
+      "length": "2365"
+    },
+    "decision": "keep",
+    "reason": "Game DLC news and analysis of new gameplay mode.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-21T19:04:28.311Z"
+  },
+  {
+    "guid": "https://www.polygon.com/video/the-galadriel-love-story-we-never-saw/",
+    "title": "The Galadriel love story we never saw...",
+    "link": "https://www.polygon.com/video/the-galadriel-love-story-we-never-saw/",
+    "creator": "Corey Plante",
+    "pubDate": "Sat, 21 Nov 2026 16:30:19 GMT",
+    "categories": [
+      "No social",
+      "The Lord of the Rings: The Rings of Power"
+    ],
+    "description": "In this season of The Lord of the Rings: The Rings of Power, audiences are treated to a proper elven romance.",
+    "contentEncoded": "<p>In this season of The Lord of the Rings: The Rings of Power, audiences are treated to a proper elven romance.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/the-galadriel-love-story-we-never-saw.png",
+      "type": "image/jpeg",
+      "length": "2559"
+    },
+    "decision": "toss",
+    "reason": "TV series gossip without substantial prestige project importance.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-21T19:04:28.311Z"
+  },
+  {
+    "guid": "https://www.polygon.com/gta-6-kingpin-bowling-alley-safe-code-location-grand-theft-auto/",
+    "title": "Where to find the bowling alley safe code in GTA 6",
+    "link": "https://www.polygon.com/gta-6-kingpin-bowling-alley-safe-code-location-grand-theft-auto/",
+    "creator": "Ford James",
+    "pubDate": "Sat, 21 Nov 2026 16:07:42 GMT",
+    "categories": [
+      "Guides",
+      "Grand Theft Auto 6"
+    ],
+    "description": "The Kingpin Bowling Alley in GTA 6 is home to a locked safe. Here's where you can find the code and what you can find inside.",
+    "contentEncoded": "<p>The <strong>Kingpin Bowling Alley safe code </strong>in <a href=\"https://www.polygon.com/game/grand-theft-auto-6/40846/\" target=\"_blank\"><em>Grand Theft Auto 6</em></a> is, frustratingly, not actually in the bowling alley itself. No, to get your hands on it legitimately, you need to ransack a <em>different </em>Kolt & Associates illegal operation, which essentially acts as the gang's headquarters, and has multiple safe codes available at once. But that doesn't help when you're deep in the back offices of the bowling alley, and you're being shot at by dozens of angry gang members.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/gta-6-bowling-alley-safe-code-header.jpg",
+      "type": "image/jpeg",
+      "length": "66347"
+    },
+    "decision": "toss",
+    "reason": "Rule: category \"Guides\"",
+    "decidedBy": "rule",
+    "firstSeen": "2026-11-21T19:04:28.311Z"
+  },
+  {
+    "guid": "https://www.polygon.com/gta-6-impact-on-steam-roblox/",
+    "title": "GTA 6's Impact on Steam and Roblox After Record-Breaking Launch Revealed",
+    "link": "https://www.polygon.com/gta-6-impact-on-steam-roblox/",
+    "creator": "Tomas Franzese",
+    "pubDate": "Sat, 21 Nov 2026 16:05:15 GMT",
+    "categories": [
+      "PC",
+      "Grand Theft Auto 6",
+      "Roblox"
+    ],
+    "description": "GTA 6 did not seem to have much of an effect on platforms it was not available on",
+    "contentEncoded": "<p><a href=\"https://www.polygon.com/game/grand-theft-auto-6/40846/\" target=\"_blank\"><em>Grand Theft Auto 6</em></a> sold over <a href=\"https://www.polygon.com/gta-6-official-sales-figure-how-much-made/\" target=\"_blank\">32.5 million copies</a> through pre-orders alone and delivered never-before-seen levels of <a href=\"https://bsky.app/profile/matpiscatella.bsky.social/post/3n2r4ylvpik22\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">player engagement</a> on both PlayStation 5 and Xbox Series X. But according to a new report, <em>GTA 6's</em> release only caused slight user count declines for Steam and Roblox, rather than massive ones.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/gta-6-setting-vice-city.jpg",
+      "type": "image/jpeg",
+      "length": "164"
+    },
+    "decision": "keep",
+    "reason": "GTA 6 business/industry impact analysis.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-21T19:04:28.311Z"
+  },
+  {
+    "guid": "https://www.polygon.com/dnd-dungeons-dragons-authors-get-settlement-money-wizards-of-the-coast/",
+    "title": "D&D Publisher Officially Hands Record-Breaking AI Settlement Money to Authors",
+    "link": "https://www.polygon.com/dnd-dungeons-dragons-authors-get-settlement-money-wizards-of-the-coast/",
+    "creator": "Ashely Claudino",
+    "pubDate": "Sat, 21 Nov 2026 15:59:00 GMT",
+    "categories": [
+      "News",
+      "Dungeons & Dragons"
+    ],
+    "description": "Wizards of the Coast is entitled to a hefty sum of Anthropic settlement money, but it's giving it to Dungeons & Dragons writers.",
+    "contentEncoded": "<p>Anthropic, known for <a href=\"https://www.polygon.com/anthropic-claude-ai-game-replicas/\" target=\"_blank\">creating the AI platform Claude</a>, was the target of a 2025 class-action lawsuit that resulted in the largest copyright settlement to date. While it was determined that Anthropic could use fairly obtained books to train large language models (LLMs) for Claude, the company resorted to using pirate libraries with thousands of unauthorized copies. This was later deemed an unfair use of authors' copyrighted work. Anthropic agreed to a settlement of $1.5 billion to be distributed among the publishers and authors of approximately half a million books.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/dungeons-dragons-world-of-warcraft-bronze-dragons.jpg",
+      "type": "image/jpeg",
+      "length": "1998"
+    },
+    "decision": "keep",
+    "reason": "D&D industry news about settlement and writers.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-21T19:04:28.311Z"
+  },
+  {
+    "guid": "https://www.polygon.com/gta-6-dangelo-song-rockstar-games-radio/",
+    "title": "GTA 6 Officially Includes Unreleased Song From Music Legend D'Angelo",
+    "link": "https://www.polygon.com/gta-6-dangelo-song-rockstar-games-radio/",
+    "creator": "Tomas Franzese",
+    "pubDate": "Sat, 21 Nov 2026 15:53:57 GMT",
+    "categories": [
+      "News",
+      "Grand Theft Auto 6",
+      "Red Dead Redemption 2"
+    ],
+    "description": "Players have discovered that one of GTA 6's radio stations can play an unreleased song from the late D'Angelo.",
+    "contentEncoded": "<p>Following <em><a href=\"https://www.polygon.com/game/grand-theft-auto-6/40846/\" target=\"_blank\">Grand Theft Auto 6</a>'s</em><a href=\"https://www.polygon.com/gta-6-official-sales-figure-how-much-made/\" target=\"_blank\">record-breaking launch</a>, players discovered a touching tribute to the late musician D'Angelo in the game's vast soundtrack, which spans more than 800 songs. While you're listening to the radio while driving around Vice City, you might hear an unreleased song from the late artist.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/vintage_vice_city_pack_exclusive_looks_01-1.jpg",
+      "type": "image/jpeg",
+      "length": "1767"
+    },
+    "decision": "keep",
+    "reason": "GTA 6 content discovery news about game soundtrack.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-21T19:04:28.311Z"
+  },
+  {
     "guid": "https://www.polygon.com/yellowjackets-season-4-plane-crash-location/",
     "title": "5 Years Later, 'Yellowjackets' Officially Solves One of Its Last Huge Mysteries",
     "link": "https://www.polygon.com/yellowjackets-season-4-plane-crash-location/",
