@@ -1,5 +1,137 @@
 [
   {
+    "guid": "https://www.polygon.com/dungeons-and-dragons-ravenloft-tv-show-netflix/",
+    "title": "New Dungeons & Dragons Live-Action Series Officially Replaces Netflix's Forgotten Realms",
+    "link": "https://www.polygon.com/dungeons-and-dragons-ravenloft-tv-show-netflix/",
+    "creator": "Sam Hill",
+    "pubDate": "Sat, 21 Nov 2026 23:34:17 GMT",
+    "categories": [
+      "TV",
+      "Dungeons & Dragons"
+    ],
+    "description": "Netflix’s new live-action Dungeons & Dragons series Ravenloft could bring the fan-favorite vampire Strahd to streaming.",
+    "contentEncoded": "<p>The Mists are apparently rolling into Netflix.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/ravenloft-coverart_annapodedworna-3.jpg",
+      "type": "image/jpeg",
+      "length": "2621"
+    },
+    "decision": "keep",
+    "reason": "D&D adaptation news with real substance and fantasy prestige project.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-21T23:45:21.965Z"
+  },
+  {
+    "guid": "https://www.polygon.com/star-wars-new-jedi-order-era-update/",
+    "title": "Star Wars' New Jedi Order Era is Officially Moving Forward",
+    "link": "https://www.polygon.com/star-wars-new-jedi-order-era-update/",
+    "creator": "Elijah Gonzalez",
+    "pubDate": "Sat, 21 Nov 2026 22:18:17 GMT",
+    "categories": [
+      "News",
+      "Star Wars"
+    ],
+    "description": "Two upcoming Star Wars films, New Jedi Order and Lucasfilm head Dave Filoni's untitled project, are making progress.",
+    "contentEncoded": "<p>Despite <a href=\"https://www.polygon.com/the-mandalorian-and-grogu-review/\" target=\"_blank\"><em>Star Wars: The Mandalorian & Grogu</em></a> struggling at the box office, it seems Disney is continuing development on two upcoming <a href=\"https://www.polygon.com/star-wars/\" target=\"_blank\">Star Wars</a> films. This summer, <em>Star Wars: New Jedi Order</em> and Dave Filoni’s untitled movie as in-development projects were confirmed to be in the works in industry publication Production Weekly, suggesting that despite delays and silence around the projects, they haven't been shelved.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/19812990/rey_finn_poe_in_star_wars_9_rise_of_skywalker_desert_wayfinder_scene.jpg",
+      "type": "image/jpeg",
+      "length": "1865082"
+    },
+    "decision": "toss",
+    "reason": "Star Wars casting/production gossip falls under big-franchise churn.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-21T23:45:21.965Z"
+  },
+  {
+    "guid": "https://www.polygon.com/gta-6-players-irl-vice-city-locations/",
+    "title": "GTA 6 Players Are Obsessed With Finding IRL Florida in Vice City",
+    "link": "https://www.polygon.com/gta-6-players-irl-vice-city-locations/",
+    "creator": "Ari Notis",
+    "pubDate": "Sat, 21 Nov 2026 22:00:17 GMT",
+    "categories": [
+      "Culture",
+      "Grand Theft Auto 6"
+    ],
+    "description": "GTA 6 fans have spent time tracking down remarkably faithful recreations of Miami locations beyond just the popular landmarks.",
+    "contentEncoded": "<p>Now that <a href=\"https://www.polygon.com/game/grand-theft-auto-6/40846/\" target=\"_blank\"><em>Grand Theft Auto 6</em></a> is in the wild, one thing has become clear: The open-world crime stuff is secondary. <a href=\"https://www.polygon.com/gta-6-lucia-boyfriend-girlfriend-relationship-simulator/\" target=\"_blank\">This thing's a life sim</a>. <em>GTA 6</em>'s life sim bona fides are so undeniable that, within the first two days of its release, a not-insignificant swath of players have eschewed the elaborate robberies and high-tension shootouts to instead embrace the ancient gaming tradition of \"finding IRL locations and <a href=\"https://knowyourmeme.com/sensitive/memes/pointing-rick-dalton\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">Leo memeing</a> at them.\"</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/vice_city_08.jpg",
+      "type": "image/jpeg",
+      "length": "736"
+    },
+    "decision": "keep",
+    "reason": "GTA 6 news and player culture content; video game focus.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-21T23:45:21.965Z"
+  },
+  {
+    "guid": "https://www.polygon.com/gta-6-giant-crab-safe-code-crabshack-vf5-smg-how-to-get-pelican-valley-outpost/",
+    "title": "Where to find the giant crab safe code and Crabshack VF5 SMG in GTA 6",
+    "link": "https://www.polygon.com/gta-6-giant-crab-safe-code-crabshack-vf5-smg-how-to-get-pelican-valley-outpost/",
+    "creator": "Josh Broadwell",
+    "pubDate": "Sat, 21 Nov 2026 21:48:35 GMT",
+    "categories": [
+      "Guides",
+      "Grand Theft Auto 6"
+    ],
+    "description": "GTA 6's giant crab event takes you through Pelican Valley Outpost and rewards you with the Crabshack VF5 SMG standout weapon.",
+    "contentEncoded": "<p><em><a href=\"https://www.polygon.com/game/grand-theft-auto-6/40846/\" target=\"_blank\">Grand Theft Auto 6</a></em>has a<strong> giant crab</strong> haunting the swamps and, more importantly, the <strong>Crabshack VF5 SMG</strong>, a crab-themed gun, to help your future career prospects. It's all part of an optional event called Pelican Valley Outpost that sees you pick up the pieces of some questionable experiments carried out on behalf of a store chain. It's worth the trouble, even aside from the standout weapon. There's some cash to help reach your next family fund milestone and a free jet ski, too. Best of all, this little excursion is completely safe, assuming you don't run afoul of the local gator population.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/gta-6-giant-crab-crabshack-smg.jpg",
+      "type": "image/jpeg",
+      "length": "2065"
+    },
+    "decision": "toss",
+    "reason": "Rule: category \"Guides\"",
+    "decidedBy": "rule",
+    "firstSeen": "2026-11-21T23:45:21.965Z"
+  },
+  {
+    "guid": "https://www.polygon.com/gta-6-declasse-vamos-code-car-location/",
+    "title": "Declasse Vamos code location in GTA 6",
+    "link": "https://www.polygon.com/gta-6-declasse-vamos-code-car-location/",
+    "creator": "Johnny Yu",
+    "pubDate": "Sat, 21 Nov 2026 20:54:45 GMT",
+    "categories": [
+      "Guides",
+      "Grand Theft Auto 6"
+    ],
+    "description": "The Declasse Vamos is inside a locked garage in GTA 6. Here's where to find the keypad code and what it is.",
+    "contentEncoded": "<p>The <strong>Declasse Vamos</strong> is a car that you can steal for Moses in <a href=\"https://www.polygon.com/game/grand-theft-auto-6/40846/\" target=\"_blank\"><em>Grand Theft Auto 6</em></a>. However, when you find the Declasse Vamos, you realize that it's locked away inside a garage, and you need to find the door code to get to it.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/declasse-vamos_gta6.jpg",
+      "type": "image/jpeg",
+      "length": "658"
+    },
+    "decision": "toss",
+    "reason": "Rule: category \"Guides\"",
+    "decidedBy": "rule",
+    "firstSeen": "2026-11-21T23:45:21.965Z"
+  },
+  {
+    "guid": "https://www.polygon.com/video/is-immortality-a-curse-for-elves/",
+    "title": "Is immortality a curse for elves?",
+    "link": "https://www.polygon.com/video/is-immortality-a-curse-for-elves/",
+    "creator": "Corey Plante",
+    "pubDate": "Sat, 21 Nov 2026 20:00:17 GMT",
+    "categories": [
+      "No social",
+      "The Lord of the Rings: The Rings of Power"
+    ],
+    "description": "The Rings of Power star Jamie Campbell points out the downside of the elves' immortal lifespan in Amazon's Lord of the Rings show. #lordoftherings #lotr #ringsofpower #jamiecampbellbower #celeborn",
+    "contentEncoded": "<p>The Rings of Power star Jamie Campbell points out the downside of the elves' immortal lifespan in Amazon's Lord of the Rings show. #lordoftherings #lotr #ringsofpower #jamiecampbellbower #celeborn</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/is-immortality-a-curse-for-elves.png",
+      "type": "image/jpeg",
+      "length": "2059"
+    },
+    "decision": "toss",
+    "reason": "Generic TV show analysis piece lacking real substance.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-21T23:45:21.965Z"
+  },
+  {
     "guid": "https://www.polygon.com/gta-6-graphics-realism/",
     "title": "It’s Official, GTA 6’s Graphics Have Broken My Brain",
     "link": "https://www.polygon.com/gta-6-graphics-realism/",
