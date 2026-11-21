@@ -1,5 +1,141 @@
 [
   {
+    "guid": "https://www.polygon.com/pokemon-movie-collection-amazon-blu-ray-november-2026/",
+    "title": "Pokémon's 24-Part $399 Collection Officially Launches Next Week",
+    "link": "https://www.polygon.com/pokemon-movie-collection-amazon-blu-ray-november-2026/",
+    "creator": "Ashely Claudino",
+    "pubDate": "Sat, 21 Nov 2026 02:15:17 GMT",
+    "categories": [
+      "Movies",
+      "Pokemon",
+      "Pokémon"
+    ],
+    "description": "All 24 Pokémon animated movies are coming in one Blu-ray collection, thanks to Viz Media and Amazon.com.",
+    "contentEncoded": "<p>Viz Media is releasing an Amazon-exclusive, limited-edition set of all 24 <a href=\"https://www.polygon.com/pokemon/\" target=\"_blank\">Pokémon</a> p<a href=\"http://polygon.com/movies\" target=\"_blank\">http://polygon.com/movies</a> on Blu-ray. It's a beautiful collection that will catch the attention of any fan, but its eye-watering price tag might be the reason potential buyers end up skipping this purchase.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/pokemon-first-movie.jpg",
+      "type": "image/jpeg",
+      "length": "422"
+    },
+    "decision": "toss",
+    "reason": "Pokémon movie merchandise/retail news, not video game content.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-21T03:27:07.295Z"
+  },
+  {
+    "guid": "https://www.polygon.com/pokemon-go-pawniward-community-day-shiny-bisharp-moveset/",
+    "title": "Pokémon Go Pawniard Community Day event guide",
+    "link": "https://www.polygon.com/pokemon-go-pawniward-community-day-shiny-bisharp-moveset/",
+    "creator": "Julia Lee",
+    "pubDate": "Sat, 21 Nov 2026 02:01:17 GMT",
+    "categories": [
+      "Guides",
+      "Pokemon GO"
+    ],
+    "description": "Here's all you need to know for Pokémon Go's Pawniard Community Day event, including how to find a shiny Pawniard and evolve Bisharp into Kingambit.",
+    "contentEncoded": "<p><a href=\"https://www.polygon.com/game/pokemon-go/38713\" target=\"_blank\"><em>Pokémon Go</em></a> is having a <strong>Pawniard Community Day event</strong> on <strong>Saturday, Nov. 21 from 2-5 p.m. </strong>in your local time. This event is indeed running alongside the <a href=\"https://www.polygon.com/pokemon-go-dynamax-trails-eternatus-go-pass/\" target=\"_blank\">\"Dynamax Trails\" event</a>, and it begins right when Eternatus' stint in the morning ends.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/jlee_261116_1004_pogo_pawniard_cd.jpg",
+      "type": "image/jpeg",
+      "length": "1355"
+    },
+    "decision": "toss",
+    "reason": "Rule: category \"Guides\"",
+    "decidedBy": "rule",
+    "firstSeen": "2026-11-21T03:27:07.295Z"
+  },
+  {
+    "guid": "https://www.polygon.com/the-witcher-4-physical-release-cd-projekt-red-ps5/",
+    "title": "The Witcher 4 Gets Official Update on Physical Release",
+    "link": "https://www.polygon.com/the-witcher-4-physical-release-cd-projekt-red-ps5/",
+    "creator": "Tomas Franzese",
+    "pubDate": "Sat, 21 Nov 2026 01:28:17 GMT",
+    "categories": [
+      "News",
+      "The Witcher 4"
+    ],
+    "description": "CD Projekt Red is planning a The Witcher 4 physical release, even though it admits it has \"no influence\" over PS5 and Xbox disc production",
+    "contentEncoded": "<p>CD Projekt has confirmed that a physical version of <em><a href=\"https://www.polygon.com/game/witcher-4/529845/\" target=\"_blank\">The Witcher 4</a></em>will be released, even though the RPG is slated to launch after Sony Interactive Entertainment plans to stops producing physical games for PlayStation 5. Whether <em>The Witcher 4</em> will be released on a physical disc is another matter entirely.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/ciri-witcher-4.png",
+      "type": "image/jpeg",
+      "length": "4288"
+    },
+    "decision": "keep",
+    "reason": "Video game news about major release from established franchise.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-21T03:27:07.295Z"
+  },
+  {
+    "guid": "https://www.polygon.com/gta-7-release-setting/",
+    "title": "Everything We Know About GTA 7",
+    "link": "https://www.polygon.com/gta-7-release-setting/",
+    "creator": "Ari Notis",
+    "pubDate": "Sat, 21 Nov 2026 00:00:17 GMT",
+    "categories": [
+      "Analysis",
+      "Grand Theft Auto",
+      "Grand Theft Auto 6"
+    ],
+    "description": "GTA 7 is not much more than a hypothetical at this point, with GTA 6 having just been released, but there are some hints about GTA's future.",
+    "contentEncoded": "<p><a href=\"https://www.polygon.com/game/grand-theft-auto-6/40846/\" target=\"_blank\"><em>Grand Theft Auto 6</em></a> has only just been released, so it might seem a bit early to start thinking about <em>Grand Theft Auto 7</em>. I swear I’m not just writing an “Everything we know about GTA 7” article just so I can stuff a post with the “Everything we know about GTA 7” keyword and have Polygon own “Everything we know about GTA 7” search queries. That would be quite a gambit.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/jason_and_lucia_04.jpg",
+      "type": "image/jpeg",
+      "length": "943"
+    },
+    "decision": "keep",
+    "reason": "GTA video game series news and analysis about future projects.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-21T03:27:07.295Z"
+  },
+  {
+    "guid": "https://www.polygon.com/8-near-perfect-fantasy-miniseries-that-hook-you-in-the-first-episode/",
+    "title": "8 Near-Perfect Fantasy Miniseries That Hook You in the First Episode",
+    "link": "https://www.polygon.com/8-near-perfect-fantasy-miniseries-that-hook-you-in-the-first-episode/",
+    "creator": "Ryan Epps",
+    "pubDate": "Sat, 21 Nov 2026 00:00:17 GMT",
+    "categories": [
+      "Polygon Lists",
+      "Fantasy"
+    ],
+    "description": "From gothic castles to hidden London underworlds, these essential fantasy miniseries cast an instant spell on viewers from episode one.",
+    "contentEncoded": "<p>Fantasy <a href=\"https://www.polygon.com/tv/\" target=\"_blank\">television</a> has given us some of the most imaginative stories ever told, transporting viewers to magical kingdoms, mysterious alternate realities, and worlds filled with creatures that shouldn't exist. Shows like <a href=\"https://www.polygon.com/game-of-thrones/\" target=\"_blank\"><em>Game of Thrones</em></a> and <a href=\"https://www.polygon.com/lotr-rings-of-power/\" target=\"_blank\"><em>Rings of Power</em></a> dominate the conversation, pushing some of the genre's best storytelling to the forefront, but there’s something to be said of the smaller productions and shorter stories.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/jonathan-strange-mr-norrell-2015.jpg",
+      "type": "image/jpeg",
+      "length": "239"
+    },
+    "decision": "toss",
+    "reason": "Generic TV series list without prestige project or horror substance.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-21T03:27:07.295Z"
+  },
+  {
+    "guid": "https://www.polygon.com/netflix-steps-ending-explained/",
+    "title": "'Steps' Ending Explained: Director Reveals the True Meaning Behind Cinderella Adaptation",
+    "link": "https://www.polygon.com/netflix-steps-ending-explained/",
+    "creator": "Aimee Hart",
+    "pubDate": "Sat, 21 Nov 2026 00:00:17 GMT",
+    "categories": [
+      "Interview",
+      "Steps",
+      "Movies",
+      "Fantasy"
+    ],
+    "description": "The inclusive ending of Netflix's hottest animated hit 'Steps' is perfectly explained by its directors.",
+    "contentEncoded": "<p>Netflix’s newest animated sensation, directed by Alyce Tzue (<em>Soar</em>) and John Ripa (<em>Raya and the Last Dragon</em>), dares to ask: what if Cinderella’s ugly stepsisters weren’t so ugly and bad after all, but were instead besieged by a Western world that reacted to their East Asian heritage with distrust and unease?</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/cinderella-holds-a-glass-slipper-out-to-lilith-in-steps.jpg",
+      "type": "image/jpeg",
+      "length": "1098"
+    },
+    "decision": "toss",
+    "reason": "Generic animated series ending explainer without prestige or horror hooks.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-21T03:27:07.295Z"
+  },
+  {
     "guid": "https://www.polygon.com/gta-6-tenebrae-lux-jonathan-blow/",
     "title": "Who is Johannes Zuch supposed to be in GTA 6?",
     "link": "https://www.polygon.com/gta-6-tenebrae-lux-jonathan-blow/",
