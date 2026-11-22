@@ -1,5 +1,125 @@
 [
   {
+    "guid": "https://www.polygon.com/friday-the-13th-youtube-watch-free-november-2026/",
+    "title": "46 Years Later, the Most Influential Thriller of All Time Is Officially Free on YouTube",
+    "link": "https://www.polygon.com/friday-the-13th-youtube-watch-free-november-2026/",
+    "creator": "Aimee Hart",
+    "pubDate": "Sun, 22 Nov 2026 04:00:17 GMT",
+    "categories": [
+      "What to Watch",
+      "Friday the 13th",
+      "Movies",
+      "Horror"
+    ],
+    "description": "The start of Jason Voorhees's story, 'Friday the 13th,' is now available to watch for free.",
+    "contentEncoded": "<p>Over the years, corporations and filmmakers alike have eagerly <span>sought to revisit the origins</span> of horror classics (e.g., <em>Bates Motel</em> and <em>Psycho</em>, <em>Welcome to Derry</em> and <em>IT</em>, etc.) for modern audiences. It’s an easy way to <span>find success</span>when you already have an audience that loves the IP you’re reimagining</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/m8dfrth_ec020.jpg",
+      "type": "image/jpeg",
+      "length": "1388"
+    },
+    "decision": "toss",
+    "reason": "Rule: streaming clickbait headline",
+    "decidedBy": "rule",
+    "firstSeen": "2026-11-22T06:30:28.779Z"
+  },
+  {
+    "guid": "https://www.polygon.com/best-captain-kirk-quote-star-trek-original-series/",
+    "title": "58 Years Later, Captain Kirk's Best Star Trek Quote Is the Greatest Line in Sci-Fi History",
+    "link": "https://www.polygon.com/best-captain-kirk-quote-star-trek-original-series/",
+    "creator": "Terry Terrones",
+    "pubDate": "Sun, 22 Nov 2026 03:59:17 GMT",
+    "categories": [
+      "Opinion",
+      "Sci-Fi",
+      "Star Trek",
+      "TV"
+    ],
+    "description": "Captain Kirk's speech in 'Return to Tomorrow' says more about what Star Trek stands for than any other line in the original series.",
+    "contentEncoded": "<p>Some lines of dialogue become so famous they stop belonging to the movies and TV shows that produced them. “May the Force be with you.” “I’ll be back.” “You're gonna need a bigger boat.” You don't need to know the context. The words have long since transcended their original context and permeated the pop culture zeitgeist.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/captain-kirk-og.png",
+      "type": "image/jpeg",
+      "length": "159"
+    },
+    "decision": "toss",
+    "reason": "Nostalgia retrospective about old TV show; not substance-based news.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-22T06:30:28.779Z"
+  },
+  {
+    "guid": "https://www.polygon.com/kite-eating-tree-peanuts/",
+    "title": "61 Years Later, Charlie Brown's Greatest Enemy Is Still an Undefeated 'Peanuts' Icon",
+    "link": "https://www.polygon.com/kite-eating-tree-peanuts/",
+    "creator": "Thomas Hindmarch",
+    "pubDate": "Sun, 22 Nov 2026 03:00:28 GMT",
+    "categories": [
+      "Comics",
+      "Peanuts",
+      "comic strip"
+    ],
+    "description": "Charlie Brown's only real arch-rival was a malevolent tree. Chomp chomp chomp.",
+    "contentEncoded": "<p>Like many comics aimed at children, Charles Schulz's <em>Peanuts</em> doesn't have too many actual villains. It has a number of antagonists, such as <a href=\"https://www.polygon.com/lucy-peanuts-best-line/\" target=\"_blank\">Lucy Van Pelt</a>, various other kids, or the impersonal cloud of <a href=\"https://www.polygon.com/peanuts-inspirational-moment/\" target=\"_blank\">failure</a> that constantly hangs over Charlie Brown's head, but it's rare to see a genuinely malevolent force in <em>Peanuts</em> — with one exception.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/charlie-brown-011-1024.jpg",
+      "type": "image/jpeg",
+      "length": "52"
+    },
+    "decision": "toss",
+    "reason": "Nostalgia retrospective about comic strip; not Polygon's core focus.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-22T06:30:28.779Z"
+  },
+  {
+    "guid": "https://www.polygon.com/jrpgs-real-life-schedules/",
+    "title": "8 Must-Play JRPGs for People With Real-Life Schedules",
+    "link": "https://www.polygon.com/jrpgs-real-life-schedules/",
+    "creator": "Rebecca Corgan",
+    "pubDate": "Sun, 22 Nov 2026 01:00:17 GMT",
+    "categories": [
+      "Polygon Lists",
+      "Dragon Quest 11: Echoes Of An Elusive Age",
+      "Bravely Default",
+      "Final Fantasy",
+      "Octopath Traveler",
+      "FANTASIAN Neo Dimension",
+      "Chrono Trigger"
+    ],
+    "description": "Busy schedule, long JRPG backlog? These eight games fit short sessions with chapter breaks, adjustable battles, and easy saves.",
+    "contentEncoded": "<p>It’s 9:15 on a Wednesday night. The dishes are done. You have about 45 minutes before bed, and you’re a JRPG fan (or you were, when you had more time). JRPGs tend to demand dozens of hours from players — and they can make it very difficult to pause, as some of them will interrupt you with a battle every few steps.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/octopath-traveler-switch-2.jpg",
+      "type": "image/jpeg",
+      "length": "969"
+    },
+    "decision": "keep",
+    "reason": "Game recommendations and feature; plausible click for JRPG interest.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-22T06:30:28.779Z"
+  },
+  {
+    "guid": "https://www.polygon.com/star-trek-movie-reboot-crimson-tide-training-day/",
+    "title": "Star Trek Reboot Officially Teased as Crimson Tide Meets Training Day Sci-Fi Thriller",
+    "link": "https://www.polygon.com/star-trek-movie-reboot-crimson-tide-training-day/",
+    "creator": "Elijah Gonzalez",
+    "pubDate": "Sun, 22 Nov 2026 00:40:17 GMT",
+    "categories": [
+      "Star Trek",
+      "Star Trek"
+    ],
+    "description": "The next Star Trek movie has writers and a strong pitch: Crimson Tide meets Training Day meets Starfleet.",
+    "contentEncoded": "<p>After more than a decade of waiting, it seems we may finally get a new theatrically released <a href=\"https://www.polygon.com/star-trek/\" target=\"_blank\">Star Trek</a><a href=\"http://polygon.com/movies\" target=\"_blank\">movie</a>. While dedicated Trekkies have heard that before, the directors of the only known Star Trek movie in development recently shared details about their project. The pair helming the <a href=\"https://www.polygon.com/star-trek-movie-new-setting-san-diego-comic-con/\" target=\"_blank\">new Trek film</a>, Jonathan Goldstein and John Francis Daley, broke down the movie's influences in <a href=\"https://www.inverse.com/entertainment/exclusive-new-star-trek-movie-writers-tease-dark-story-john-francis-daley-and-jonathan-goldstein\" target=\"_blank\">an interview with Inverse</a>.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/01/mcdsttr_ec059.jpg",
+      "type": "image/jpeg",
+      "length": "826"
+    },
+    "decision": "keep",
+    "reason": "Star Trek movie news announcement with real development details.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-22T06:30:28.779Z"
+  },
+  {
     "guid": "https://www.polygon.com/dungeons-and-dragons-ravenloft-tv-show-netflix/",
     "title": "New Dungeons & Dragons Live-Action Series Officially Replaces Netflix's Forgotten Realms",
     "link": "https://www.polygon.com/dungeons-and-dragons-ravenloft-tv-show-netflix/",
