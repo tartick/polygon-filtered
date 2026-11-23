@@ -6,7 +6,19 @@
     <description>Polygon.com minus the shovelware.</description>
     <atom:link href="https://tartick.github.io/polygon-filtered/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-US</language>
-    <lastBuildDate>Sun, 22 Nov 2026 20:30:17 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 21:00:17 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[Sorry, Vice City, but You’re the Most Boring Part of GTA 6]]></title>
+      <link>https://www.polygon.com/gta-6-vice-city-boring/</link>
+      <guid isPermaLink="true">https://www.polygon.com/gta-6-vice-city-boring/</guid>
+      <dc:creator><![CDATA[Giovanni Colantonio]]></dc:creator>
+      <pubDate>Sun, 22 Nov 2026 21:00:17 GMT</pubDate>
+      <category><![CDATA[Opinion]]></category>
+      <category><![CDATA[Grand Theft Auto 6]]></category>
+      <enclosure url="https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/grand-theft-auto-6-vice-city-skyline-1.jpg" length="1942" type="image/jpeg"/>
+      <description><![CDATA[Grand Theft Auto 6's map is so well-designed that Vice City just might be the least exciting thing about Leonida.]]></description>
+      <content:encoded><![CDATA[<p>When <a href="https://www.polygon.com/gta-6-review/" target="_blank"><em>Grand Theft Auto 6</em></a> was first announced, fans were thrilled at the prospect of returning to Vice City. The Miami-inspired location has always been one of the series’ most memorable locations, its neon-lit streets standing in contrast to the grittiness of Liberty City. While I was as excited as anyone to go clubbing and spend some time on the beach, after 70 hours, <em>GTA 6</em> has struck me with one surprise thought: Vice City is the least interesting part of Leonida.</p>]]></content:encoded>
+    </item>
     <item>
       <title><![CDATA[GTA 6's T-shirts Are True Works of Art]]></title>
       <link>https://www.polygon.com/gta-6-t-shirts/</link>
@@ -640,18 +652,6 @@
       <enclosure url="https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/ultimate_edition_grotti_cheetah_02.jpg" length="1849" type="image/jpeg"/>
       <description><![CDATA[PS5 users are reporting widespread technical issues during GTA 6's window as millions try and download Rockstar's open-world shooter.]]></description>
       <content:encoded><![CDATA[<p>What happens when a potential 250 million people try logging into a server at the same time? Problems, that's what. Thursday, Nov. 19 is the official release day for <a href="https://www.polygon.com/game/grand-theft-auto-6/40846/" target="_blank"><em>Grand Theft Auto 6</em></a> on PlayStation 5 and Xbox Series X, and it appears Sony's platform, commonly known as PlayStation Network, is already buckling the day before under enormous demand for the world's most hyped game.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title><![CDATA[GTA 6's Completely Unrealistic Mountains Had to Be in the Game, Rockstar Says]]></title>
-      <link>https://www.polygon.com/gta-6-rockstar-lummox-county/</link>
-      <guid isPermaLink="true">https://www.polygon.com/gta-6-rockstar-lummox-county/</guid>
-      <dc:creator><![CDATA[Giovanni Colantonio]]></dc:creator>
-      <pubDate>Wed, 18 Nov 2026 19:28:46 GMT</pubDate>
-      <category><![CDATA[Analysis]]></category>
-      <category><![CDATA[Grand Theft Auto 6]]></category>
-      <enclosure url="https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/gta-6-kalaga-mountains.jpg" length="1244" type="image/jpeg"/>
-      <description><![CDATA[Much of Grand Theft Auto 6's Leonida is an accurate representation of Florida, except for one big geographical change.]]></description>
-      <content:encoded><![CDATA[<p>If you’ve ever spent time in and around Miami, <em><a href="https://www.polygon.com/gta-6-review/" target="_blank">Grand Theft Auto 6</a></em>is bound to delight you. Rockstar Games spared no expense in bringing the diverse world of Florida to life in digital form. Walk down the street in Vice City, and you’re sure to find an approximation of a <a href="https://www.polygon.com/gta-grand-theft-auto/597843/gta-6-clevelander-hotel-miami-vice-city/" target="_blank">bar you’ve actually been to</a>. Head to the Leonida Keys, and you’ll find rows of houses on stilts. The attention to detail is impressive, but it also makes one odd detail about the map a little odd.</p>]]></content:encoded>
     </item>
   </channel>
 </rss>
