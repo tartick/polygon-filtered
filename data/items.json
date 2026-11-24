@@ -1,5 +1,164 @@
 [
   {
+    "guid": "https://www.polygon.com/aliens-leaving-netflix-december-2026/",
+    "title": "James Cameron’s Sci-Fi Sequel Masterpiece Is Officially Being Removed from Netflix",
+    "link": "https://www.polygon.com/aliens-leaving-netflix-december-2026/",
+    "creator": "Brian VanHooker",
+    "pubDate": "Tue, 24 Nov 2026 05:00:18 GMT",
+    "categories": [
+      "What to Watch",
+      "Aliens",
+      "Movies",
+      "Sci-Fi",
+      "Horror"
+    ],
+    "description": "James Cameron’s 1986 film Aliens is about to leave Netflix. Watch is and relive the epicfinal battle with the alien queen",
+    "contentEncoded": "<p>In an action movie, there’s nothing worse than an underwhelming final battle. While <em>Shang-Chi and the Legend of the Ten Rings</em> was one of the best post-<em>Avengers: Endgame</em> movies of the <a href=\"https://www.polygon.com/marvel/\" target=\"_blank\">Marvel Cinematic Universe</a>, its final battle became a disconnected CGI fest that was hard to follow. For <em>Teenage Mutant Ninja Turtles: The Secret of the Ooze</em>, the sequel’s fun energy was undermined when a mutated Shredder died after collapsing a dock onto himself without a fight ever even starting.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24746482/1466578184.jpg",
+      "type": "image/jpeg",
+      "length": "1226267"
+    },
+    "decision": "toss",
+    "reason": "Streaming departure notice; James Cameron prestige doesn't override this format.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-24T05:53:56.905Z"
+  },
+  {
+    "guid": "https://www.polygon.com/gta-6-collateral-easter-egg-streaming-for-free/",
+    "title": "GTA 6's Best Easter Egg Is a Classic Tom Cruise Crime-Thriller You Can Stream For Free",
+    "link": "https://www.polygon.com/gta-6-collateral-easter-egg-streaming-for-free/",
+    "creator": "Corey Plante",
+    "pubDate": "Tue, 24 Nov 2026 02:30:17 GMT",
+    "categories": [
+      "What to Watch",
+      "Collateral",
+      "Grand Theft Auto 6",
+      "Movies"
+    ],
+    "description": "A GTA 6 taxi encounter echoes Michael Mann’s Collateral, starring Tom Cruise and Jamie Foxx. Watch it free on Pluto TV or stream it on Paramount Plus.",
+    "contentEncoded": "<p>One of <a href=\"https://www.polygon.com/game/grand-theft-auto-6/40846/\" target=\"_blank\"><em>Grand Theft Auto 6</em></a>’s strangest random encounters occurs when you’re offering taxi services, and a man with a beard wearing a dark suit and sunglasses climbs into the backseat with a gun. This can happen if you’re playing as either Jason or Lucia, but both scenes play out the same way: The man wants you to run a red light, ignore phone calls, and drive him to Harborside Park in Vice Beach. He also sounds an awful lot like Tom Cruise, with <span>a calm but forceful demeanor that seems almost sociopathic</span>. Several <a href=\"https://www.youtube.com/watch?v=FoiHVulSWSs\" target=\"_blank\">clips</a> of the sequence have already hit the internet, and to many people, it’s an obvious nod to <em>Collateral</em>, Michael Mann’s 2004 thriller about a hitman who takes a cab driver hostage.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/collateral-tom-cruise.jpg",
+      "type": "image/jpeg",
+      "length": "8345"
+    },
+    "decision": "keep",
+    "reason": "GTA 6 news with film connection; game-to-film adaptation angle.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-24T05:53:56.905Z"
+  },
+  {
+    "guid": "https://www.polygon.com/gta-3-retrospective-rockstar-games/",
+    "title": "25 Years Later, GTA 3 Is Still the Most Fascinating Open-World Experiment",
+    "link": "https://www.polygon.com/gta-3-retrospective-rockstar-games/",
+    "creator": "Ryan Epps",
+    "pubDate": "Tue, 24 Nov 2026 00:35:58 GMT",
+    "categories": [
+      "Analysis",
+      "Grand Theft Auto 3"
+    ],
+    "description": "Rockstar's 2001 GTA 3 changed the open-world game forever with its urban playground of Liberty City.",
+    "contentEncoded": "<p>The artwork’s nothing to write home about, just a collage of pictures in red, blue, and green hues, featuring obscure faces, a police chopper, and a car up in flames. Your instinct is to just go with your gut; <em>Silent Hill 2</em> is what you came here for, after all. But something’s telling you otherwise. Maybe it’s the store clerk going on about its open-world premise, or the name itself that strikes a chord within you. Whatever reason incites it, you make the ultimate decision. Little did you know, you’d be walking home with one of the greatest achievements in video game history.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/gta-3-4.jpg",
+      "type": "image/jpeg",
+      "length": "1218"
+    },
+    "decision": "toss",
+    "reason": "Nostalgia retrospective; '25 years later' format is tossable filler.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-24T05:53:56.905Z"
+  },
+  {
+    "guid": "https://www.polygon.com/gta-6-nickelback-cover/",
+    "title": "GTA 6 Is So Unstoppable It's Even Made Nickelback Go Viral",
+    "link": "https://www.polygon.com/gta-6-nickelback-cover/",
+    "creator": "Ari Notis",
+    "pubDate": "Tue, 24 Nov 2026 00:00:18 GMT",
+    "categories": [
+      "Opinion",
+      "Grand Theft Auto 6"
+    ],
+    "description": "GTA 6 features a radio station with alternate-language covers of pop songs, the best of which is the Greek Nickelback \"How You Remind Me\" cover.",
+    "contentEncoded": "<p>It's still a debate whether <a href=\"https://www.polygon.com/game/grand-theft-auto-6/40846/\" target=\"_blank\"><em>Grand Theft Auto 6</em></a> has the best gaming soundtrack of 2026, but it certainly has the<em> most</em> soundtrack of 2026. Rockstar Games' latest open-world crime epic features more than 800 songs, most of which you'll hear on its 26 genre-themed <a href=\"https://www.polygon.com/gta-6-radio-station-how-to-change/\" target=\"_blank\">radio stations</a>. Of all this breadth of wild music, you'd figure the most popular song on the soundtrack would be something that had overlap with a Fast and Furious OST. But it turns out the single best song in the <em>GTA 6</em> soundtrack is something by... Nickelback?</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/nickelback-photograph-gta-6.jpg",
+      "type": "image/jpeg",
+      "length": "135"
+    },
+    "decision": "keep",
+    "reason": "GTA 6 game feature analysis; legitimate game content.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-24T05:53:56.905Z"
+  },
+  {
+    "guid": "https://www.polygon.com/gta-6-myths-debunked/",
+    "title": "The 6 Most Outrageous GTA 6 Myths, Debunked",
+    "link": "https://www.polygon.com/gta-6-myths-debunked/",
+    "creator": "Giovanni Colantonio",
+    "pubDate": "Mon, 23 Nov 2026 23:01:27 GMT",
+    "categories": [
+      "Analysis",
+      "Grand Theft Auto 6"
+    ],
+    "description": "Grand Theft Auto 6 has sparked a flurry of misinformation, as players keep sharing false details about Rockstar's new game.",
+    "contentEncoded": "<p>After a wild opening weekend, <a href=\"https://www.polygon.com/gta-6-review/\" target=\"_blank\"><em>Grand Theft Auto 6</em></a> is off to the races. Millions are playing Rockstar’s enormous open-world game and discovering its complexities in real time. There’s a lot to unpack in a game that’s filled with intersecting gameplay systems across a long story, and some players are already taking advantage of that. At the same time, the opening days of <em>GTA 6</em>’s launch have been filled with misinformation, much of it fueled by culture warriors and content creators looking to turn outrage into clicks on social media platforms that incentivize such behavior.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/grand-theft-auto-6-boobie-ike.jpg",
+      "type": "image/jpeg",
+      "length": "1292"
+    },
+    "decision": "keep",
+    "reason": "GTA 6 news and game analysis; substantive game coverage.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-24T05:53:56.905Z"
+  },
+  {
+    "guid": "https://www.polygon.com/critical-role-aabria-iyengar-travis-willingham-returns-campaign-4/",
+    "title": "Legendary Critical Role Cast Members Officially Return With a Star-Studded New Guest Cast",
+    "link": "https://www.polygon.com/critical-role-aabria-iyengar-travis-willingham-returns-campaign-4/",
+    "creator": "Aimee Hart",
+    "pubDate": "Mon, 23 Nov 2026 22:52:35 GMT",
+    "categories": [
+      "News",
+      "Critical Role"
+    ],
+    "description": "A Critical Role cast reunion is on the horizon, with Travis Willingham and Aabria Iyengar returning for Campaign 4.",
+    "contentEncoded": "<p>It’s hard to believe the entire <a href=\"http://polygon.com/critical-role\" target=\"_blank\">Critical Role</a> table for <a href=\"https://www.polygon.com/critical-role-brennan-lee-mulligan-campaign-4/\" target=\"_blank\">Campaign 4</a> hasn’t been together since the Convergence arc in June. Since then, the Soldiers, Seekers, and Schemers tables <span>have remained separate</span>. Or, more accurately, the Seekers and Schemers tables have remained separate.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/critical-role-aabria-iyengar-travis-willingham.jpg",
+      "type": "image/jpeg",
+      "length": "187"
+    },
+    "decision": "keep",
+    "reason": "Critical Role game announcement; established keep from past decisions.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-24T05:53:56.905Z"
+  },
+  {
+    "guid": "https://www.polygon.com/gta-6-port-gellhorn-missing-tourists-where-to-find-serial-killer/",
+    "title": "Where to find the Port Gellhorn serial killer in GTA 6",
+    "link": "https://www.polygon.com/gta-6-port-gellhorn-missing-tourists-where-to-find-serial-killer/",
+    "creator": "Josh Broadwell",
+    "pubDate": "Mon, 23 Nov 2026 22:48:22 GMT",
+    "categories": [
+      "Guides",
+      "Grand Theft Auto 6"
+    ],
+    "description": "Finding Gelhorn's missing tourists in GTA 6 takes requires some careful sleuthing, but if you need help, here's where to look for the missing tourists",
+    "contentEncoded": "<p>Finding <strong>Port Gelhorn's missing tourists and the serial killer in <a href=\"https://www.polygon.com/game/grand-theft-auto-6/40846/\" target=\"_blank\"><em>Grand Theft Auto 6</em></a></strong> takes you on a twisted journey around the town, one with few guideposts and a lot of chances to get stuck. It's a macabre scavenger hunt with only a few pictures and knowledge of the surrounding area to go by, though the reward at the end is comparatively small. This is a quest where the storytelling, more than anything else, is the reward.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/gta-6-port-gelhorn-missing-tourists.jpg",
+      "type": "image/jpeg",
+      "length": "1541"
+    },
+    "decision": "toss",
+    "reason": "Rule: category \"Guides\"",
+    "decidedBy": "rule",
+    "firstSeen": "2026-11-24T05:53:56.905Z"
+  },
+  {
     "guid": "https://www.polygon.com/steam-awards-2026-game-of-the-year-nominations/",
     "title": "Steam Officially Launches Its 2026 Game of the Year Awards Voting",
     "link": "https://www.polygon.com/steam-awards-2026-game-of-the-year-nominations/",
@@ -18144,78 +18303,6 @@
     "decision": "toss",
     "reason": "Book quote retrospective, not games or horror content.",
     "decidedBy": "claude",
-    "firstSeen": "2026-10-25T12:13:32.517Z"
-  },
-  {
-    "guid": "https://www.polygon.com/war-of-worlds-streaming-free-youtube-october-2026/",
-    "title": "Forget Tom Cruise, Sci-Fi's Foundational 1950s Classic Movie Is Free to Watch on YouTube",
-    "link": "https://www.polygon.com/war-of-worlds-streaming-free-youtube-october-2026/",
-    "creator": "Thomas Hindmarch",
-    "pubDate": "Sun, 25 Oct 2026 04:01:20 GMT",
-    "categories": [
-      "What to Watch",
-      "War of the Worlds",
-      "Movies",
-      "Sci-Fi"
-    ],
-    "description": "Every little green man from space for 70 years owes his existence to this flick from 1953",
-    "contentEncoded": "<p>H.G. Wells' <em>The War of the Worlds</em> is a punchline now, and it's Amazon's fault. At time of writing, the newest adaptation of <em>The War of the Worlds</em> is a \"screenlife\" movie from 2025 that’s a frontrunner for the worst film of the 21st century.</p>",
-    "enclosure": {
-      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/ann-robinson-gene-barry-war-of-the-worlds-1953.jpg",
-      "type": "image/jpeg",
-      "length": "649"
-    },
-    "decision": "toss",
-    "reason": "Rule: streaming clickbait headline",
-    "decidedBy": "rule",
-    "firstSeen": "2026-10-25T12:13:32.517Z"
-  },
-  {
-    "guid": "https://www.polygon.com/best-star-trek-original-series-quote-captain-kirk/",
-    "title": "58 Years Later, Captain Kirk's Best Star Trek Quote Is the Greatest Line in Sci-Fi History",
-    "link": "https://www.polygon.com/best-star-trek-original-series-quote-captain-kirk/",
-    "creator": "Terry Terrones",
-    "pubDate": "Sun, 25 Oct 2026 01:20:18 GMT",
-    "categories": [
-      "Opinion",
-      "TV",
-      "Star Trek",
-      "Sci-Fi"
-    ],
-    "description": "Captain Kirk's speech in 'Return to Tomorrow' says more about what Star Trek stands for than any other line in the original series.",
-    "contentEncoded": "<p>Certain lines of dialogue become so famous they almost stop belonging to the movies and TV shows that produced them. “May the Force be with you.” “I’ll be back.” “You're gonna need a bigger boat.” You don't need to know the context. The words have long since transcended their original context.</p>",
-    "enclosure": {
-      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/captain-kirk-og.png",
-      "type": "image/jpeg",
-      "length": "159"
-    },
-    "decision": "toss",
-    "reason": "Nostalgia retrospective about old TV show quotes.",
-    "decidedBy": "claude",
-    "firstSeen": "2026-10-25T12:13:32.517Z"
-  },
-  {
-    "guid": "https://www.polygon.com/bloodsport-free-youtube/",
-    "title": "Jean-Claude Van Damme's First Action Classic is Streaming for Free",
-    "link": "https://www.polygon.com/bloodsport-free-youtube/",
-    "creator": "Thomas Hindmarch",
-    "pubDate": "Sun, 25 Oct 2026 01:00:18 GMT",
-    "categories": [
-      "What to Watch",
-      "Bloodsport",
-      "Movies",
-      "Action"
-    ],
-    "description": "Forged by fire, a beast in the night",
-    "contentEncoded": "<p>Jean-Claude Van Damme gets a bad rap. Due to when he got famous and the sorts of <a href=\"https://www.polygon.com/movies/\" target=\"_blank\">movies</a> that he usually makes, JCVD often gets lumped in with other B-tier '80s action stars like <a href=\"https://www.polygon.com/2017/9/27/16373096/blade-runner-2049-reactions-steven-seagal/\" target=\"_blank\">Steven Seagal</a> and <a href=\"https://www.polygon.com/oral-history-conan-obrien-walker-texas-ranger-lever-chuck-norris/\" target=\"_blank\">Chuck Norris</a>, which does Van Damme a disservice.</p>",
-    "enclosure": {
-      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/jean-claude-van-damme-bloodsport.jpg",
-      "type": "image/jpeg",
-      "length": "1351"
-    },
-    "decision": "toss",
-    "reason": "Rule: streaming clickbait headline",
-    "decidedBy": "rule",
     "firstSeen": "2026-10-25T12:13:32.517Z"
   }
 ]
