@@ -1,5 +1,237 @@
 [
   {
+    "guid": "https://www.polygon.com/blade-runn-2099-humans-vs-replicants/",
+    "title": "'Blade Runner 2099' Stars Reveal the Secret to Being \"More Human than Human\"",
+    "link": "https://www.polygon.com/blade-runn-2099-humans-vs-replicants/",
+    "creator": "Sam Nelson",
+    "pubDate": "Tue, 24 Nov 2026 17:01:38 GMT",
+    "categories": [
+      "Interview",
+      "Blade Runner 2099",
+      "Sci-Fi"
+    ],
+    "description": "Michelle Yeoh tells Polygon she wanted her Blade Runner 2099 character to be 'like a scary serpent'",
+    "contentEncoded": "<p><em>Blade Runner </em>left it ambiguous whether Rick Deckard (Harrison Ford) was human or Replicant, while <em>Blade Runner 2049 </em>focused on K (Ryan Gosling), a Replicant hunting his own kind. <a href=\"https://www.polygon.com/blade-runner-2099-review/\" target=\"_blank\"><em>Blade Runner 2099</em></a><em></em>puts a new spin on that formula with Cora (Hunter Schafer), a human fugitive pretending to be a Replicant Blade Runner so she can steal evidence from their headquarters.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/olwen-michelle-yeoh-a-blade-runner-in-blade-runner-2099-1.jpg",
+      "type": "image/jpeg",
+      "length": "458"
+    },
+    "decision": "keep",
+    "reason": "Prestige sci-fi film with notable cast; real substance interview content.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-24T17:29:16.203Z"
+  },
+  {
+    "guid": "https://www.polygon.com/disney-hexed-review/",
+    "title": "Disney’s Unwatchable New Fantasy Movie is a Sloppy Harry Potter-The Incredibles Mash-Up",
+    "link": "https://www.polygon.com/disney-hexed-review/",
+    "creator": "Sam Nelson",
+    "pubDate": "Tue, 24 Nov 2026 17:00:18 GMT",
+    "categories": [
+      "Reviews",
+      "Hexed",
+      "Animation",
+      "Disney",
+      "Fantasy"
+    ],
+    "description": "Hexed is packed with nods to better stories",
+    "contentEncoded": "<p><em>Hexed </em>kicks off with a standard exposition dump explaining that Hexe was formed as a sanctuary for persecuted witches and wizards. Their realm is protected by a magical spell meant to be empowered through a ritual that the extra-special “chosen witch” will complete during an upcoming lunar event. Billie Doe (Hailee Steinfeld) opened a portal to Hexe when she was a baby, and her overprotective mom Alice (Rashida Jones) has been suppressing her daughter’s powers ever since. But when Billie accidentally regains her abilities and travels to Hexe, she runs afoul of its villainous ruler Queen Celeste (Jodie Foster).</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/billie-stands-under-an-enchanted-sign-in-hexed.jpg",
+      "type": "image/jpeg",
+      "length": "477"
+    },
+    "decision": "toss",
+    "reason": "Generic animated film review; lacks prestige or genuine anticipation.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-24T17:29:16.203Z"
+  },
+  {
+    "guid": "https://www.polygon.com/gta-6-fake-looney-tunes-wall-where-is-map-location-car-crash-videos/",
+    "title": "This GTA 6 Moment Is A Trolling Master Class From Rockstar",
+    "link": "https://www.polygon.com/gta-6-fake-looney-tunes-wall-where-is-map-location-car-crash-videos/",
+    "creator": "Patricia Hernandez",
+    "pubDate": "Tue, 24 Nov 2026 16:56:17 GMT",
+    "categories": [
+      "News",
+      "Grand Theft Auto",
+      "Grand Theft Auto 6"
+    ],
+    "description": "GTA 6 keep crashing at the same place, and they're blaming Rockstar Games for tricking them",
+    "contentEncoded": "<p>Have you ever seen those classic <a href=\"https://www.polygon.com/tag/looney-tunes/\" target=\"_blank\">Looney Tunes </a>cartoons where the murderous Wile E. Coyote dashes after the infuriating Road Runner? Usually, <span>a high-speed chase ends with an unexpected comic twist</span>, <span>such as a bundle of dynamite exploding at the wrong time</span>. Perhaps the most famous gag from these <span>iconic animated shorts</span> is the one where the plotting Coyote is tricked into running headfirst into a canyon wall painted to look like the entry to a tunnel.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/gta6looney.JPG",
+      "type": "image/jpeg",
+      "length": "176"
+    },
+    "decision": "keep",
+    "reason": "GTA 6 news and development details; game announcement/update relevant.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-24T17:29:16.203Z"
+  },
+  {
+    "guid": "https://www.polygon.com/playstation-marathon-symbiosis-update-bishop-shell-trailer/",
+    "title": "Bungie Officially Shows Off Marathon’s Most Exciting Update Feature",
+    "link": "https://www.polygon.com/playstation-marathon-symbiosis-update-bishop-shell-trailer/",
+    "creator": "Willa Rowe",
+    "pubDate": "Tue, 24 Nov 2026 16:43:52 GMT",
+    "categories": [
+      "News",
+      "Marathon",
+      "PlayStation"
+    ],
+    "description": "PlayStation’s extraction shooter, Marathon shows off Bishop shell coming in massive Symbiosis update",
+    "contentEncoded": "<p><em>Marathon</em>'s big <a href=\"https://www.polygon.com/bungie-marathon-symbiosis-changes-pve-new-modes/\" target=\"_blank\"><em>Symbiosis </em>update</a> has been teased for weeks, but now it's almost here. Developer Bungie is set to release the major overhaul of its extraction shooter on Dec. 8, bringing plenty of new features such as dedicated PvE. One of the biggest additions, however, is an entirely new shell (think of these as <em>Marathon</em>'s character classes) called Bishop. Now Bungie has shared our best look at Bishop yet.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/marathon-_-official-announce-trailer-0-3-screenshot.png",
+      "type": "image/jpeg",
+      "length": "156"
+    },
+    "decision": "keep",
+    "reason": "Video game update and feature announcement for live service game.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-24T17:29:16.203Z"
+  },
+  {
+    "guid": "https://www.polygon.com/pokemon-go-twilight-wishes-pass-sun-moon-umbreon-espeon/",
+    "title": "Pokémon Go 'Twilight Wishes' event guide",
+    "link": "https://www.polygon.com/pokemon-go-twilight-wishes-pass-sun-moon-umbreon-espeon/",
+    "creator": "Julia Lee",
+    "pubDate": "Tue, 24 Nov 2026 16:21:31 GMT",
+    "categories": [
+      "Guides",
+      "Pokemon GO"
+    ],
+    "description": "Here's everything you need to know about Pokémon Go's \"Twilight Wishes\" event, including how to get the sun and moon crown Pikachu.",
+    "contentEncoded": "<p><a href=\"https://www.polygon.com/game/pokemon-go/38713/\" target=\"_blank\"><em>Pokémon Go</em></a>’s <strong>\"Twilight Wishes\"</strong> event is here to wrap up the \"Twilight Trails\" season. Running from <strong>Nov. 24-30</strong>, this event brings back the Pokémon featured in the previous events throughout the season, and marks the return of <strong>Espeon </strong>and <strong>Umbreon </strong>in their themed scarfs, as well as Pikachu in their sun and moon crowns.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/unnamed-4.jpg",
+      "type": "image/jpeg",
+      "length": "1938"
+    },
+    "decision": "toss",
+    "reason": "Rule: category \"Guides\"",
+    "decidedBy": "rule",
+    "firstSeen": "2026-11-24T17:29:16.203Z"
+  },
+  {
+    "guid": "https://www.polygon.com/xbox-project-helix-ditching-paid-multiplayer/",
+    "title": "New Xbox Was Originally Planned to Ditch Paid Multiplayer",
+    "link": "https://www.polygon.com/xbox-project-helix-ditching-paid-multiplayer/",
+    "creator": "Elijah Gonzalez",
+    "pubDate": "Tue, 24 Nov 2026 16:17:39 GMT",
+    "categories": [
+      "News",
+      "xbox",
+      "Xbox Series X/S"
+    ],
+    "description": "The new Xbox was reportedly originally planned as a device without subscription fees, but Microsoft is now reconsidering.",
+    "contentEncoded": "<p>All signs point to the next generation of console hardware being historically expensive. With rising component costs, the <a href=\"https://www.polygon.com/ps5-price-increase-sony-playstation-portal/\" target=\"_blank\">PS5</a> and <a href=\"https://www.polygon.com/xbox-price-hike-june-2026-what-is-new-cost-microsoft/\" target=\"_blank\">Xbox Series</a> are going for hundreds more than they did when they launched in 2020. In that context, it’s frightening to imagine the price of an even more powerful system, with one estimate placing potential manufacturing costs between <a href=\"https://www.polygon.com/next-gen-xbox-project-helix-price-release-date-2028/\" target=\"_blank\">$1,200 and $1,800</a>.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/xbox-new-logo.png",
+      "type": "image/jpeg",
+      "length": "875"
+    },
+    "decision": "keep",
+    "reason": "Xbox industry/business news about platform direction and policies.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-24T17:29:16.203Z"
+  },
+  {
+    "guid": "https://www.polygon.com/pokemon-november-countdown-music-video/",
+    "title": "Pokémon’s Hyped Countdown Might Be Leading to a Letdown",
+    "link": "https://www.polygon.com/pokemon-november-countdown-music-video/",
+    "creator": "Austin Manchester",
+    "pubDate": "Tue, 24 Nov 2026 16:02:36 GMT",
+    "categories": [
+      "News",
+      "Pokemon",
+      "Nintendo"
+    ],
+    "description": "Pokémon's social media has counting down toward something happening on Nov. 30, and it looks like the announcement will just be a music video.",
+    "contentEncoded": "<p>In October and early November, <a href=\"https://www.polygon.com/pokemon/\" target=\"_blank\">The Pokémon Company</a> started counting down toward the end of the month, as noted by <a href=\"https://bsky.app/profile/joemerrick.bsky.social/post/3myrl5m5aks2o\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">Serebii webmaster Joe Merrick</a>. Using <a href=\"https://www.polygon.com/pokemon-30-year-anniversary-logos-all-pokedex/\" rel=\"noopener noreferrer\" target=\"_blank\">Poké Ball-themed logos</a> created for the franchise's <a href=\"https://www.polygon.com/pokemon-30th-anniversary-special-issue/\" target=\"_blank\">30th anniversary</a>, Pokémon <a href=\"https://www.polygon.com/pokemon-logo-tease-november-2026-announcement/\" target=\"_blank\">teased some sort of announcement</a> for Nov. 30 at 14:00 UTC.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/untitled-design-2.png",
+      "type": "image/jpeg",
+      "length": "610"
+    },
+    "decision": "toss",
+    "reason": "Pokémon non-game news; music video announcement lacks substance.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-24T17:29:16.203Z"
+  },
+  {
+    "guid": "https://www.polygon.com/avengers-doomsday-marvel-skips-award-screenings-to-protect-spoilers/",
+    "title": "Avengers: Doomsday Officially Skips Awards Screenings to Avoid Spoiler Leaks",
+    "link": "https://www.polygon.com/avengers-doomsday-marvel-skips-award-screenings-to-protect-spoilers/",
+    "creator": "Willa Rowe",
+    "pubDate": "Tue, 24 Nov 2026 15:35:34 GMT",
+    "categories": [
+      "News",
+      "Marvel",
+      "Avengers: Doomsday"
+    ],
+    "description": "Marvel’s Avengers: Doomsday is skipping the BAFTAs and Golden Globes to preserve spoilers ahead of release",
+    "contentEncoded": "<p>Don't expect to see <a href=\"https://www.polygon.com/avengers-doomsday/\" target=\"_blank\"><em>Avengers: Doomsday</em></a> show up on the nomination lists at some of Hollywood's biggest awards shows in the coming months. That's because Disney and Marvel are taking extreme precautions to protect the intimate details of <span>their upcoming superhero blockbuster</span>, <span>going so far as to withhold screeners</span> in hopes of avoiding plot leaks. Still, this strategy won't dash all of Doomsday's award hopes.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/avengers_-doomsday-_-only-in-theaters-december-18-2026-0-52-screenshot.jpeg",
+      "type": "image/jpeg",
+      "length": "251"
+    },
+    "decision": "toss",
+    "reason": "Big-franchise Marvel churn; casting/set gossip tier content.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-24T17:29:16.203Z"
+  },
+  {
+    "guid": "https://www.polygon.com/wave-race-blue-storm-nintendo-switch-online/",
+    "title": "Nintendo Switch Online Adds Another GameCube Classic",
+    "link": "https://www.polygon.com/wave-race-blue-storm-nintendo-switch-online/",
+    "creator": "Jen Glennon",
+    "pubDate": "Tue, 24 Nov 2026 15:31:50 GMT",
+    "categories": [
+      "News",
+      "Nintendo",
+      "Nintendo Switch 2",
+      "Wave Race: Blue Storm"
+    ],
+    "description": "Nintendo just added the 2001 jetski racer Wave Race: Blue Storm to the Nintendo Switch Online + Expansion Pack library.",
+    "contentEncoded": "<p>Nintendo Switch Online's expansive library of retro games is a treasure trove of nostalgic experiences, and it just got a little bit better. That's because the 2001 GameCube racing game <em>Wave Race: Blue Storm</em> has just been added to the <a href=\"https://www.polygon.com/switch-online-missing-wii-games/\" target=\"_blank\">Nintendo Switch Online</a> Plus Expansion Pack library. With the chilly season fast approaching, it's the perfect excuse for a little tropical getaway from the comfort of your couch.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/06/Gamecube.jpg",
+      "type": "image/jpeg",
+      "length": "360134"
+    },
+    "decision": "keep",
+    "reason": "Nintendo/gaming news about classic game library expansion.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-24T17:29:16.203Z"
+  },
+  {
+    "guid": "https://www.polygon.com/mass-effect-universe-returning-squad-members-mass-effect-3-ending/",
+    "title": "Canceled Mass Effect Addressed Squad Members’ Fates, Writer Reveals",
+    "link": "https://www.polygon.com/mass-effect-universe-returning-squad-members-mass-effect-3-ending/",
+    "creator": "Elijah Gonzalez",
+    "pubDate": "Tue, 24 Nov 2026 15:28:58 GMT",
+    "categories": [
+      "News",
+      "Mass Effect: Universe",
+      "Mass Effect 3"
+    ],
+    "description": "A writer on the canceled Mass Effect: Universe hinted at how the game would handle returning characters and Mass Effect 3's ending.",
+    "contentEncoded": "<p>Following the cancellation of the fifth mainline <a href=\"https://www.polygon.com/game/mass-effect/2468/\" target=\"_blank\">Mass Effect</a> game, <a href=\"https://www.polygon.com/mass-effect-universe-parallel-universe-timeline-system/\" target=\"_blank\"><em>Mass Effect: Universe</em></a>, fans can't help but wonder what could have been. In a <a href=\"https://www.reddit.com/r/masseffect/comments/1y35n8q/comment/19t2w30lri1kw/?share_id=FX_uXMKgELK0lJJ3n6nWp&utm_content=share_button&utm_medium=web3x&utm_name=web3xcss&utm_source=share&utm_term=1\" target=\"_blank\">recent Reddit AMA</a>, <em>Universe </em>writer Cat Valente <span style=\"box-sizing:border-box; margin:0px; padding:0px\">answered questions about the sequel, including how it</span> would have addressed squad mates’ fates and <em>Mass Effect 3</em>’s controversial endings. Valente is an award-winning sci-fi and fantasy author and a Mass Effect series veteran, having previously written the 2018 novel <em>Mass Effect: Annihilation</em>. She worked on <em>Universe </em>for three years.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/me-universe-liara-16-9.jpg",
+      "type": "image/jpeg",
+      "length": "345"
+    },
+    "decision": "keep",
+    "reason": "Video game news about canceled Mass Effect project and lore details.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-24T17:29:16.203Z"
+  },
+  {
     "guid": "https://www.polygon.com/aliens-leaving-netflix-december-2026/",
     "title": "James Cameron’s Sci-Fi Sequel Masterpiece Is Officially Being Removed from Netflix",
     "link": "https://www.polygon.com/aliens-leaving-netflix-december-2026/",
@@ -17940,369 +18172,5 @@
     "reason": "Generic comics/graphic novel excerpt; not gaming or horror.",
     "decidedBy": "claude",
     "firstSeen": "2026-10-25T22:00:15.510Z"
-  },
-  {
-    "guid": "https://www.polygon.com/raya-and-the-last-dragon-perfect-disney-movie-for-avatar-seven-havens-fans/",
-    "title": "'Avatar: Seven Havens' Fans Need to Watch Disney’s Overlooked Apocalyptic Fantasy Adventure",
-    "link": "https://www.polygon.com/raya-and-the-last-dragon-perfect-disney-movie-for-avatar-seven-havens-fans/",
-    "creator": "Corey Plante",
-    "pubDate": "Sun, 25 Oct 2026 17:00:18 GMT",
-    "categories": [
-      "What to Watch",
-      "Disney",
-      "Raya and the Last Dragon",
-      "Avatar: Seven Havens"
-    ],
-    "description": "Raya and the Last Dragon has similar settings, characters, and dynamics as Avatar: Seven Havens, so it's a must-watch for fans.",
-    "contentEncoded": "<p>A young girl rides atop her trusted animal companion through the apocalyptic desert of her shattered world. What is she looking for? What happened to this world? Will she be the one to save it?</p>",
-    "enclosure": {
-      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/22369238/RAYA_ONLINE_USE_First_Look_CG_Final_RGB.jpg",
-      "type": "image/jpeg",
-      "length": "2469139"
-    },
-    "decision": "toss",
-    "reason": "Generic animated-series recommendation, not substantial film/TV news.",
-    "decidedBy": "claude",
-    "firstSeen": "2026-10-25T19:31:27.824Z"
-  },
-  {
-    "guid": "https://www.polygon.com/clayface-opening-weekend-box-office/",
-    "title": "Clayface Gives Skydance Its Second Box Office Weekend Win In A Row",
-    "link": "https://www.polygon.com/clayface-opening-weekend-box-office/",
-    "creator": "Tomas Franzese",
-    "pubDate": "Sun, 25 Oct 2026 16:02:01 GMT",
-    "categories": [
-      "DC",
-      "Clayface",
-      "You Can See Everything"
-    ],
-    "description": "Clayface held off You Can See Everything to top the box office this weekend",
-    "contentEncoded": "<p>Initial estimates for <a href=\"https://www.polygon.com/clayface/\" target=\"_blank\"><em>Clayface's</em></a> opening weekend box office are in, and the lower-budget horror film took the top spot with a $24.5 million gross. Its success means Skydance, the company created when Paramount and Warner Bros. merged, has topped the box office for two straight weeks.</p>",
-    "enclosure": {
-      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/clayface-movie-screenshot.webp",
-      "type": "image/jpeg",
-      "length": "153"
-    },
-    "decision": "toss",
-    "reason": "DC franchise box office churn; not prestige/genuinely anticipated",
-    "decidedBy": "claude",
-    "firstSeen": "2026-10-25T16:44:58.808Z"
-  },
-  {
-    "guid": "https://www.polygon.com/game-awards-sports-racing-forza-star-wars-galactic-racer/",
-    "title": "Forza Might Actually Lose at The Game Awards for the First Time in a Decade",
-    "link": "https://www.polygon.com/game-awards-sports-racing-forza-star-wars-galactic-racer/",
-    "creator": "Oli Welsh",
-    "pubDate": "Sun, 25 Oct 2026 16:00:18 GMT",
-    "categories": [
-      "GOTY Watch",
-      "Forza Horizon 6",
-      "Star Wars: Galactic Racer"
-    ],
-    "description": "Forza Horizon 6 faces a stiff challenge in the Sports/Racing category from Star Wars: Galactic Racer",
-    "contentEncoded": "<p>The Sports/Racing category has a number of almost inviolate rules, which are as follows:</p>",
-    "enclosure": {
-      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/assets_2026_01_1769110938_fh6_screenshots_11-city-car-meet.jpg",
-      "type": "image/jpeg",
-      "length": "4546"
-    },
-    "decision": "keep",
-    "reason": "Video game award news and competition coverage",
-    "decidedBy": "claude",
-    "firstSeen": "2026-10-25T16:44:58.808Z"
-  },
-  {
-    "guid": "https://www.polygon.com/mass-effect-universe-parallel-universe-timeline-system/",
-    "title": "Mass Effect Universe Director Reveals Canceled Game's Multiverse System",
-    "link": "https://www.polygon.com/mass-effect-universe-parallel-universe-timeline-system/",
-    "creator": "Ashely Claudino",
-    "pubDate": "Sun, 25 Oct 2026 15:38:08 GMT",
-    "categories": [
-      "Gaming",
-      "Mass Effect Trilogy",
-      "Mass Effect"
-    ],
-    "description": "BioWare's technical director reveals that Mass Effect Universe was set to feature a complex parallel-universe system with multiple timelines.",
-    "contentEncoded": "<p>BioWare's <a href=\"https://www.polygon.com/ea-bioware-closure-mass-efffect-5-canceled/\" target=\"_blank\">canceled Mass Effect</a><a href=\"http://polygon.com/gaming\" target=\"_blank\">game</a> would have been more than just one \"universe.\"</p>",
-    "enclosure": {
-      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/mass-effect-multiverse.jpg",
-      "type": "image/jpeg",
-      "length": "301"
-    },
-    "decision": "keep",
-    "reason": "Game news/analysis about canceled project's design system",
-    "decidedBy": "claude",
-    "firstSeen": "2026-10-25T16:44:58.808Z"
-  },
-  {
-    "guid": "https://www.polygon.com/the-legend-of-california-delay/",
-    "title": "Overwatch Co-Creator Pushes The Legend of California's Early Access Release To 2027",
-    "link": "https://www.polygon.com/the-legend-of-california-delay/",
-    "creator": "Tomas Franzese",
-    "pubDate": "Sun, 25 Oct 2026 15:08:49 GMT",
-    "categories": [
-      "News",
-      "The Legend of California"
-    ],
-    "description": "Jeff Kaplan's The Legend of California has shifted its early access launch from 2026 to 2027",
-    "contentEncoded": "<p>Former <em>Overwatch </em>developers <a href=\"https://www.polygon.com/overwatch-jeff-kaplan-blizzard-exit-interview/\" target=\"_blank\">Jeff Kaplan</a> and Tim Ford are currently working on a survival game called <em>The Legend of California</em> at their new studio Kintsugiyama. While the game was previously slated for a Steam Early Access release in 2026, a new <a href=\"https://www.reddit.com/r/pcgaming/comments/1xdjwxl/the_legend_of_california_ama_w_jeff_kaplan_tim/\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">r/pcgaming Reddit AMA</a> affirmed it has been pushed back to 2027.</p>",
-    "enclosure": {
-      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/legend-of-california.jpg",
-      "type": "image/jpeg",
-      "length": "859"
-    },
-    "decision": "keep",
-    "reason": "Video game release date update/announcement",
-    "decidedBy": "claude",
-    "firstSeen": "2026-10-25T16:44:58.808Z"
-  },
-  {
-    "guid": "https://www.polygon.com/elden-ring-movie-budget/",
-    "title": "Elden Ring Has Quietly Become A24's Most Expensive Movie Yet",
-    "link": "https://www.polygon.com/elden-ring-movie-budget/",
-    "creator": "Tomas Franzese",
-    "pubDate": "Sun, 25 Oct 2026 14:10:43 GMT",
-    "categories": [
-      "Elden Ring",
-      "Elden Ring",
-      "Elden Ring"
-    ],
-    "description": "A new report indicates that A24's Elden Ring adaptation from Alex Garland has a blockbuster budget higher than Marty Supreme's",
-    "contentEncoded": "<p>It's been a while since we've gotten any official updates on <a href=\"https://www.polygon.com/elden-ring-movie-release-date-cast-announced/\" target=\"_blank\">A24's <em>Elden Ring</em> movie</a>, but a new report has revealed that the film has a massive budget. Elden Ring is certainly more expensive than any other movie the <em><a href=\"https://www.polygon.com/backrooms-horror-tv-series-kane-parsons/\" target=\"_blank\">Backrooms</a></em>studio has made before, so it'll be A24's first true blockbuster.</p>",
-    "enclosure": {
-      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/09/elden-ring-switch-2.jpg",
-      "type": "image/jpeg",
-      "length": "540"
-    },
-    "decision": "keep",
-    "reason": "Game-to-film adaptation news with substance",
-    "decidedBy": "claude",
-    "firstSeen": "2026-10-25T16:44:58.808Z"
-  },
-  {
-    "guid": "https://www.polygon.com/dnd-most-broken-item-potion-healing-fix-dungeons-dragons/",
-    "title": "The Most Broken D&D Item Keeps Ruining Games. Here Are 3 Ways to Fix It",
-    "link": "https://www.polygon.com/dnd-most-broken-item-potion-healing-fix-dungeons-dragons/",
-    "creator": "Francesco Cacciatore",
-    "pubDate": "Sun, 25 Oct 2026 14:00:18 GMT",
-    "categories": [
-      "Opinion",
-      "Dungeons & Dragons"
-    ],
-    "description": "One of the most common magic items in D&D is way overpowered for its cost, but here are three easy ways to fix it.",
-    "contentEncoded": "<p>Magic items are an important component of the <a href=\"https://www.polygon.com/dnd-dungeons-dragons/\" target=\"_blank\">Dungeons & Dragons</a> experience; collecting and using wondrous artifacts is a given in a role-playing game of heroic fantasy. This is why, in D&D, every character class has access to <a href=\"https://www.polygon.com/dnd-arcana-unleashed-evolving-magic-items/\" target=\"_blank\">magic items</a>, starting at the very first level. However, one of these items is so powerful that it can easily turn the game’s balance upside down.</p>",
-    "enclosure": {
-      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/10/d-d-2024-phb-spellcaster.jpg",
-      "type": "image/jpeg",
-      "length": "493"
-    },
-    "decision": "keep",
-    "reason": "D&D analysis/opinion piece; related to gaming adjacent hobby",
-    "decidedBy": "claude",
-    "firstSeen": "2026-10-25T16:44:58.808Z"
-  },
-  {
-    "guid": "https://www.polygon.com/avengers-doomsday-mjolnir-trailer/",
-    "title": "Steve Rogers Wields Mjolnir in the Latest Avengers: Doomsday Trailer",
-    "link": "https://www.polygon.com/avengers-doomsday-mjolnir-trailer/",
-    "creator": "Tomas Franzese",
-    "pubDate": "Sun, 25 Oct 2026 13:43:26 GMT",
-    "categories": [
-      "Marvel",
-      "Avengers: Doomsday"
-    ],
-    "description": "Steve Rogers, Thor, Mjolnir, and the other Captain Americas take center stage in the latest trailer",
-    "contentEncoded": "<p>A new trailer for <a href=\"https://www.polygon.com/avengers-doomsday/\" target=\"_blank\"><em>Avengers: Doomsday</em></a> dropped on Oct. 24. While it's not very long, it shows a surprising amount of new footage rather than rehashing clips we've already seen. In particular, it has some great moments featuring Captain America (all three of them).</p>",
-    "enclosure": {
-      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/captain-america-mjolnir.jpg",
-      "type": "image/jpeg",
-      "length": "103"
-    },
-    "decision": "toss",
-    "reason": "Marvel franchise churn; casting/trailer gossip",
-    "decidedBy": "claude",
-    "firstSeen": "2026-10-25T16:44:58.808Z"
-  },
-  {
-    "guid": "https://www.polygon.com/gta-san-andreas-retrospective/",
-    "title": "GTA: San Andreas’ Most Frustrating MIssion Show How Far Rockstar Has Come in 22 Years",
-    "link": "https://www.polygon.com/gta-san-andreas-retrospective/",
-    "creator": "Paulo Kawanishi",
-    "pubDate": "Sun, 25 Oct 2026 13:00:18 GMT",
-    "categories": [
-      "Opinion",
-      "Grand Theft Auto: San Andreas – The Definitive Edition"
-    ],
-    "description": "Grand Theft Auto: San Andreas is a classic game with interesting missions, but its annoying controls just feel worse after 22 years.",
-    "contentEncoded": "<p>With the imminent release of <em>Grand Theft Auto 6</em>, I decided it was time to revisit what was probably the biggest game of my childhood: <em>Grand Theft Auto: San Andreas</em>. In 2005, <em>GTA: San Andreas</em> was one of the first four games I bought for the PlayStation 2, alongside <em>Final Fantasy X</em>, <em>Kingdom Hearts</em>, and <em>Devil May Cry 3</em>. Since I can no longer enjoy that version of the game I played so many times as a kid, I picked up the <em>Grand Theft Auto: The Trilogy — Definitive Edition</em>, which includes <em>San Andreas</em>, on Steam and booted up the game.</p>",
-    "enclosure": {
-      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/gtasanandreas_sweet_firing.jpg",
-      "type": "image/jpeg",
-      "length": "202"
-    },
-    "decision": "toss",
-    "reason": "Nostalgia retrospective about old game from 22 years ago",
-    "decidedBy": "claude",
-    "firstSeen": "2026-10-25T16:44:58.808Z"
-  },
-  {
-    "guid": "https://www.polygon.com/nintendo-super-mario-japan-award-biggest-series-innovation/",
-    "title": "Nintendo Legend Reveals Super Mario Bros.' Most Surprising Innovation",
-    "link": "https://www.polygon.com/nintendo-super-mario-japan-award-biggest-series-innovation/",
-    "creator": "Patricia Hernandez",
-    "pubDate": "Sun, 25 Oct 2026 12:05:18 GMT",
-    "categories": [
-      "News",
-      "Nintendo",
-      "Super Mario Bros."
-    ],
-    "description": "Nintendo designer Shigeru Miyamoto pinpoints the NES game's most notable invention, which remains unique 41 years after the original Super Mario Bros.",
-    "contentEncoded": "<p>The original side-scrolling <a href=\"https://www.polygon.com/features/2017/11/8/16621744/the-best-mario-games/\" target=\"_blank\"><em>Super Mario Bros.</em></a> is widely considered to be one of the best games of all time, and the list of reasons justifying that assertion is long. The NES game made <a href=\"https://www.polygon.com/nintendo/\" target=\"_blank\">Nintendo</a> into a household name, and <a href=\"https://www.polygon.com/tag/super-mario/\" target=\"_blank\">Mario</a> into a media icon as recognizable as Mickey Mouse. The 1985 video game helped bring games into the mainstream, and it defined platforming as a video game genre. <em>Super Mario Bros.</em> remains one of the best-selling games of all time. Yet if you ask series creator Shigeru Miyamoto, none of these things truly capture <em>SMB</em>'s biggest contribution to the world of video games.</p>",
-    "enclosure": {
-      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/09/mario-artwork-from-the-original-super-mario-bros-nes-box-art.jpg",
-      "type": "image/jpeg",
-      "length": "509146"
-    },
-    "decision": "keep",
-    "reason": "Video game news and analysis about Super Mario Bros. innovation.",
-    "decidedBy": "claude",
-    "firstSeen": "2026-10-25T12:13:32.517Z"
-  },
-  {
-    "guid": "https://www.polygon.com/patch-notes-bioware-closure/",
-    "title": "BioWare's Closure Is Just the Tip of the Iceberg",
-    "link": "https://www.polygon.com/patch-notes-bioware-closure/",
-    "creator": "Oli Welsh",
-    "pubDate": "Sun, 25 Oct 2026 12:00:18 GMT",
-    "categories": [
-      "Patch Notes",
-      "Mass Effect",
-      "Dragon Age"
-    ],
-    "description": "The Mass Effect and Dragon Age studio being shuttered by EA is a sign of a slow-motion industry crash that hasn't peaked",
-    "contentEncoded": "<p>We're in the middle of an outpouring of mourning for the studio, and for the <a href=\"https://www.polygon.com/mass-effect-5-trailer-universe-what-is-bioware-leak-development/\" target=\"_blank\"><em>Mass Effect Universe </em>we never got</a>. BioWare's talented developers will hopefully all go on to great things elsewhere, and many already have. (Who's looking forward to <a href=\"https://www.polygon.com/exodus-preview-hands-on/\" target=\"_blank\"><em>Exodus</em></a>?) Maybe Mass Effect and Dragon Age will return; in this age of zombie IP, it seems a safe bet that they will. What's really lost at a moment like this, though, is institutional knowledge and culture, the malleable but enduring practices and principles that survive the departure of founders and team leads and are nurtured by new hands. It's a terrible loss.</p>",
-    "enclosure": {
-      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/08/morrigan-from-dragon-age-origins.png",
-      "type": "image/jpeg",
-      "length": "3669"
-    },
-    "decision": "keep",
-    "reason": "Video game industry news about BioWare studio closure by EA.",
-    "decidedBy": "claude",
-    "firstSeen": "2026-10-25T12:13:32.517Z"
-  },
-  {
-    "guid": "https://www.polygon.com/best-nerdy-kid-far-side-comics/",
-    "title": "9 Near-Perfect 'Far Side' Comics Starring the Nerdy Kid",
-    "link": "https://www.polygon.com/best-nerdy-kid-far-side-comics/",
-    "creator": "Brian VanHooker",
-    "pubDate": "Sun, 25 Oct 2026 11:00:18 GMT",
-    "categories": [
-      "Analysis"
-    ],
-    "description": "Gary Larson's The Far Side didn't really have recurring characters, though some faces did appear more than once, like the Nerdy Kid",
-    "contentEncoded": "<p>One of the biggest differences between <a href=\"https://www.polygon.com/10-dark-far-side-jokes-clowns/\" target=\"_blank\"><em>The Far Side</em></a> and most other <a href=\"https://www.polygon.com/comics/\" target=\"_blank\">comic strips</a> is that <em>The Far Side</em> doesn’t have a recurring cast of characters. Charles Schulz’s <em>Peanuts</em>, for example, had Charlie Brown, Linus, Lucy, Snoopy, and the rest of the gang, while Jim Davis’ <em>Garfield</em> has Garfield, Odie, Jon, and a handful of other recurring characters. But Gary Larson’s <em>The Far Side</em>, with its non-sequitur, single-panel jokes, didn’t have regular characters, or at least not <em>really</em>.</p>",
-    "enclosure": {
-      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/screen-shot-2026-10-23-at-10-31-55-am.jpg",
-      "type": "image/jpeg",
-      "length": "90"
-    },
-    "decision": "toss",
-    "reason": "Comic retrospective, not games or Steven's stated interests.",
-    "decidedBy": "claude",
-    "firstSeen": "2026-10-25T12:13:32.517Z"
-  },
-  {
-    "guid": "https://www.polygon.com/halloween-horror-what-to-watch-vincent-price-abominable-dr-phibes/",
-    "title": "Vincent Price Is the Weirdest Serial Killer Ever in this '70s Cult Classic",
-    "link": "https://www.polygon.com/halloween-horror-what-to-watch-vincent-price-abominable-dr-phibes/",
-    "creator": "Oli Welsh",
-    "pubDate": "Sun, 25 Oct 2026 10:00:18 GMT",
-    "categories": [
-      "Halloween Countdown",
-      "Horror",
-      "Movies"
-    ],
-    "description": "The Abominable Dr. Phibes is a campy horror movie about an organist who murders surgeons",
-    "contentEncoded": "<p>We are 10 minutes into <em>The Abominable Dr. Phibes</em>, and nobody has spoken a word. Robert Fuest’s 1971 horror film is a surreal, kitsch, and intentionally funny murder-museum of a movie. But it's also dreamlike and deeply strange in a way that lingers after you've watched it.</p>",
-    "enclosure": {
-      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/mcdabdr_ec010_h.JPG",
-      "type": "image/jpeg",
-      "length": "1601"
-    },
-    "decision": "keep",
-    "reason": "Horror movie content aligns with horror preference.",
-    "decidedBy": "claude",
-    "firstSeen": "2026-10-25T12:13:32.517Z"
-  },
-  {
-    "guid": "https://www.polygon.com/best-psychological-thrillers-movies-streaming-free-online/",
-    "title": "5 Near-Perfect Psychological Thriller Movies Streaming for Free",
-    "link": "https://www.polygon.com/best-psychological-thrillers-movies-streaming-free-online/",
-    "creator": "Debopriyaa Dutta",
-    "pubDate": "Sun, 25 Oct 2026 08:54:46 GMT",
-    "categories": [
-      "What to Watch",
-      "Movies",
-      "Horror"
-    ],
-    "description": "These tense genre picks are well worth your time.",
-    "contentEncoded": "<p>Psychological thrillers trigger a fight-or-flight response within a controlled environment and entertain us at the same time. Interpersonal relationships become the source of anxiety, as there’s more at stake than someone’s physical safety — their very sanity is on the line. The novelty of great psychological thrillers like <a href=\"https://www.polygon.com/22969702/rear-window-board-game-funko-games-announcement-release-date-price/\" target=\"_blank\"><em>Rear Window</em></a> (1954), <a href=\"https://www.polygon.com/christopher-nolan-memento-25th-anniversary/\" target=\"_blank\"><em>Memento</em></a> (2000), or <a href=\"https://www.polygon.com/most-exciting-thrillers-all-time-ranked/\" target=\"_blank\"><em>Mulholland Drive</em></a> (2001) does not wear off after a first watch. There’s more to glean than suspense or twist, as catharsis is an integral part of the experience. Unfortunately, all those movies are locked up behind various streaming service subscriptions (if they're available to stream at all).</p>",
-    "enclosure": {
-      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/msdamps_ec010.jpg",
-      "type": "image/jpeg",
-      "length": "479"
-    },
-    "decision": "toss",
-    "reason": "Rule: streaming clickbait headline",
-    "decidedBy": "rule",
-    "firstSeen": "2026-10-25T12:13:32.517Z"
-  },
-  {
-    "guid": "https://www.polygon.com/buffy-vampire-slayer-best-spike-quote/",
-    "title": "23 Years Later, Spike's Best 'Buffy' Quote Is Still One of the Best Lines in TV History",
-    "link": "https://www.polygon.com/buffy-vampire-slayer-best-spike-quote/",
-    "creator": "Jake Kleinman",
-    "pubDate": "Sun, 25 Oct 2026 08:08:18 GMT",
-    "categories": [
-      "Opinion",
-      "Buffy The Vampire Slayer",
-      "TV"
-    ],
-    "description": "Spike's best quote sums up his arc as one of the main characters in Buffy the Vampire Slayer.",
-    "contentEncoded": "<p><em>Buffy</em>’s writers gave Spike some of the show’s sharpest one-liners — who could forget “Out. For. A. Walk. Bitch.”? But his best line comes in the series finale, “Chosen.” It’s the natural culmination of a character pulled between heroism and selfishness for most of his life, and it captures the complicated truth of his relationship with Buffy.</p>",
-    "enclosure": {
-      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/spike.jpeg",
-      "type": "image/jpeg",
-      "length": "62"
-    },
-    "decision": "toss",
-    "reason": "Nostalgia retrospective about old TV show, not new content.",
-    "decidedBy": "claude",
-    "firstSeen": "2026-10-25T12:13:32.517Z"
-  },
-  {
-    "guid": "https://www.polygon.com/paul-atreides-best-dune-quote/",
-    "title": "61 Years Later, Paul's Best Dune Line Is Still the Coldest Quote in Sci-Fi History",
-    "link": "https://www.polygon.com/paul-atreides-best-dune-quote/",
-    "creator": "Debopriyaa Dutta",
-    "pubDate": "Sun, 25 Oct 2026 08:00:18 GMT",
-    "categories": [
-      "Books",
-      "Dune",
-      "Sci-Fi",
-      "Books"
-    ],
-    "description": "This brilliant quote from Frank Herbert's Dune reveals an unsavory truth.",
-    "contentEncoded": "<p>That said, the phenomenal success of Denis Villeneuve’s <a href=\"https://www.polygon.com/reviews/24078649/dune-2-review-release-date-cast-zendaya-denis-villeneuve-part-two/\" target=\"_blank\"><em>Dune </em>movies</a> proves that the impossible is always within reach. So far, Villeneuve’s adaptation has captured the sheer scale of the books and also made some meaningful changes to the source material. This version of Paul Atreides (Timothée Chalamet) begins his journey with a hesitant vulnerability that feels more intense than in the books. This is also why his turn as a self-proclaimed messiah feels more ominous and devastating in <em>Dune: Part Two</em>.</p>",
-    "enclosure": {
-      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/l-intro-1739976137.jpg",
-      "type": "image/jpeg",
-      "length": "171"
-    },
-    "decision": "toss",
-    "reason": "Book quote retrospective, not games or horror content.",
-    "decidedBy": "claude",
-    "firstSeen": "2026-10-25T12:13:32.517Z"
   }
 ]
