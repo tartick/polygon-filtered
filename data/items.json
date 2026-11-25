@@ -1,5 +1,102 @@
 [
   {
+    "guid": "https://www.polygon.com/10-funniest-dogs-vs-mailmen-the-far-side/",
+    "title": "10 Funniest ‘Far Side’ Comics About Mailmen and Dogs",
+    "link": "https://www.polygon.com/10-funniest-dogs-vs-mailmen-the-far-side/",
+    "creator": "Brian VanHooker",
+    "pubDate": "Wed, 25 Nov 2026 10:00:17 GMT",
+    "categories": [
+      "Analysis",
+      "comic strip"
+    ],
+    "description": "One of Gary Larson’s best running jokes in The Far Side was his many comics about mailmen and dogs. Here are the 10 best.",
+    "contentEncoded": "<p>Dogs and mailmen are natural enemies that have been locked in battle for eons. The dogs view the mailmen as unwelcome invaders of their territory. Meanwhile, the mailmen view the dogs as vicious beasts preventing them from upholding their noble postal worker’s oath. It’s nearly as old as the struggle between good and evil — and just as epic.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/screen-shot-2026-11-21-at-7-26-14-pm.jpg",
+      "type": "image/jpeg",
+      "length": "44"
+    },
+    "decision": "toss",
+    "reason": "Generic nostalgia retrospective about old comic strip.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-25T10:23:16.070Z"
+  },
+  {
+    "guid": "https://www.polygon.com/lotr-rings-of-power-season-3-sauron-forges-one-ring-spoilers-interview/",
+    "title": "72 Years Later, Lord of the Rings Officially Reveals How Sauron Made the One Ring",
+    "link": "https://www.polygon.com/lotr-rings-of-power-season-3-sauron-forges-one-ring-spoilers-interview/",
+    "creator": "Corey Plante",
+    "pubDate": "Wed, 25 Nov 2026 09:30:17 GMT",
+    "categories": [
+      "Interview",
+      "The Lord of the Rings: The Rings of Power",
+      "Fantasy",
+      "TV"
+    ],
+    "description": "The Rings of Power showrunner Patrick McKay and Sauron actor Charlie Vickers explain how Sauron forged the One Ring and what it cost him in season 3.",
+    "contentEncoded": "<p>\"A theme throughout the earlier seasons of this show is the idea that creation requires sacrifice,\" series co-creator Patrick McKay tells Polygon. \"One of Sauron's challenges this season is that he needs to learn what that means. He needs to actually be willing to sacrifice something. But that also means that maybe there's a part of himself he can't get back after that.\"</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/the-rings-of-power-season-3-official-trailer-_-prime-video-1-51-screenshot.png",
+      "type": "image/jpeg",
+      "length": "140"
+    },
+    "decision": "keep",
+    "reason": "Genuine prestige fantasy TV news with substantial interview content.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-25T10:23:16.070Z"
+  },
+  {
+    "guid": "https://www.polygon.com/the-martian-ridley-scott-available-to-rent/",
+    "title": "Forget 'Blade Runner 2099,' Ridley Scott's Sci-Fi Survival Masterpiece Is Already on Streaming",
+    "link": "https://www.polygon.com/the-martian-ridley-scott-available-to-rent/",
+    "creator": "Brian VanHooker",
+    "pubDate": "Wed, 25 Nov 2026 09:00:17 GMT",
+    "categories": [
+      "What to Watch",
+      "Movies",
+      "Blade Runner 2099",
+      "The Martian",
+      "TV",
+      "Sci-Fi"
+    ],
+    "description": "Ridley Scott’s 205 sci-fi film The Martian is the perfect way to prep for Blade Runner 2099",
+    "contentEncoded": "<p>The long-awaited <a href=\"https://www.polygon.com/blade-runn-2099-humans-vs-replicants/\" target=\"_blank\"><em>Blade Runner</em><em>2099</em></a> arrives on Prime Video tonight at <span>9 p.m. Eastern time</span>, which, frankly, feels a bit late at night to drop eight episodes the night before a major holiday. Executive produced by original <em>Blade Runner</em> director Ridley Scott, the <span>sequel series takes place</span> in a future Los Angeles where the replicants have taken over and demoted humans to second-class citizens. It’s the kind of show that looks like it deserves a dedicated, <span>fully alert</span>, all-day binge session, not to be drowsily cut short so you can wake up early enough to begin preparing the stuffing tomorrow.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/the-martian-2.jpg",
+      "type": "image/jpeg",
+      "length": "141"
+    },
+    "decision": "toss",
+    "reason": "Streaming clickbait: \"is already on streaming\" type article.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-25T10:23:16.070Z"
+  },
+  {
+    "guid": "https://www.polygon.com/mst3k-turkey-day-2026/",
+    "title": "7 Funniest MST3K Episodes to Watch For Your Personal Turkey Day Marathon",
+    "link": "https://www.polygon.com/mst3k-turkey-day-2026/",
+    "creator": "Thomas Hindmarch",
+    "pubDate": "Wed, 25 Nov 2026 05:00:18 GMT",
+    "categories": [
+      "Polygon Lists",
+      "Mystery Science Theater 3000",
+      "Movies",
+      "Sci-Fi",
+      "Fantasy"
+    ],
+    "description": "It's 14 straight hours and it's called Turkey Day",
+    "contentEncoded": "<p><a href=\"https://www.polygon.com/23632168/mst3k-watch-pluto-tv-streaming-mystery-science-theater-3000-season-13/\" target=\"_blank\"><em>Mystery Science Theater 3000</em></a> fans have always had a special relationship with American Thanksgiving. The show originally premiered on Thanksgiving Day in 1988, back in its public access era on KTMA TV in Minneapolis. Three years later, Comedy Central ran the first \"Turkey Day\" <em>MST3K</em> marathon, as both an anniversary celebration for the show and a 30-hour Thanksgiving special.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24491191/unnamed.jpg",
+      "type": "image/jpeg",
+      "length": "252814"
+    },
+    "decision": "toss",
+    "reason": "Generic list of old TV episode recommendations, not substantive news.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-25T10:23:16.070Z"
+  },
+  {
     "guid": "https://www.polygon.com/gta-6-chapter-1-tragic-ending-home-sweet-home/",
     "title": "GTA 6's Most Heartbreaking Scene Is Exactly Why You Had To Do All Those Chores",
     "link": "https://www.polygon.com/gta-6-chapter-1-tragic-ending-home-sweet-home/",
@@ -18110,114 +18207,5 @@
     "reason": "Nostalgia retrospective about old TV show, despite horror tag.",
     "decidedBy": "claude",
     "firstSeen": "2026-10-26T11:28:44.286Z"
-  },
-  {
-    "guid": "https://www.polygon.com/fourth-wing-filming-start-date-location-vancouver/",
-    "title": "Amazon's Fourth Wing Show Reportedly Set to Start Filming Soon",
-    "link": "https://www.polygon.com/fourth-wing-filming-start-date-location-vancouver/",
-    "creator": "Ashely Claudino",
-    "pubDate": "Mon, 26 Oct 2026 10:15:12 GMT",
-    "categories": [
-      "News",
-      "Fourth Wing"
-    ],
-    "description": "Reports reveal the filming window and location for the Fourth Wing show, indicating it's nearly ready to move out of pre-production.",
-    "contentEncoded": "<p><a href=\"https://www.polygon.com/threshing-day-empyrean-series-comes-out-2-weeks/\" target=\"_blank\"><em>Fourth Wing</em></a> went viral on BookTok in 2023, amassing fans all over the world. These thousands of avid readers are anticipating Amazon's adaptation of their favorite <a href=\"https://www.polygon.com/23949277/books-like-fourth-wing-rebecca-yarros-read-buy-fantasy-romance/\" target=\"_blank\">romantasy series</a>. As more details come out, it's clear that it is close to leaving pre-production. Recent reports provide details about its filming window and location, allowing fans to speculate about the real-world location that will become Navarre and Basgiath War College.</p>",
-    "enclosure": {
-      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/threshing-day-fourth-wing.jpg",
-      "type": "image/jpeg",
-      "length": "682"
-    },
-    "decision": "toss",
-    "reason": "Generic TV adaptation news without substantial prestige credentials.",
-    "decidedBy": "claude",
-    "firstSeen": "2026-10-26T11:28:44.286Z"
-  },
-  {
-    "guid": "https://www.polygon.com/sword-world-rpg-crowdfunding-backerkit-success/",
-    "title": "D&D's Japanese Rival Sword World Crowdfunding Raises Over $2 million in a Day",
-    "link": "https://www.polygon.com/sword-world-rpg-crowdfunding-backerkit-success/",
-    "creator": "Francesco Cacciatore",
-    "pubDate": "Mon, 26 Oct 2026 09:59:38 GMT",
-    "categories": [
-      "News"
-    ],
-    "description": "Sword World RPG's first official English localization launched on BackerKit last week and raised over $2 million in a day.",
-    "contentEncoded": "<p>Japan's most popular fantasy tabletop role-playing game, <em>Sword World RPG</em>, is finally live <a href=\"https://www.backerkit.com/c/projects/mugen-gaming/sword-world#top\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">on BackerKit</a> with its first official English localization. Courtesy of Mugen Gaming, a company that specializes in localizing Japanese tabletop games, the <em>Sword World RPG</em> campaign is already off to a great start, raising over $2 million in one day.</p>",
-    "enclosure": {
-      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/sword-world-rpg-header.jpg",
-      "type": "image/jpeg",
-      "length": "1396"
-    },
-    "decision": "keep",
-    "reason": "RPG news with business/industry angle and crowdfunding announcement.",
-    "decidedBy": "claude",
-    "firstSeen": "2026-10-26T11:28:44.286Z"
-  },
-  {
-    "guid": "https://www.polygon.com/bugs-bunny-daffy-duck-actor-eric-bauza-death/",
-    "title": "Beloved Bugs Bunny and Daffy Duck Voice Eric Bauza Passes Away at 46",
-    "link": "https://www.polygon.com/bugs-bunny-daffy-duck-actor-eric-bauza-death/",
-    "creator": "Brian VanHooker",
-    "pubDate": "Mon, 26 Oct 2026 08:28:40 GMT",
-    "categories": [
-      "News"
-    ],
-    "description": "Voice actor Eric Bauza, known for voicing Bugs Bunny, Daffy Duck, and hundreds of other characters, has passed at age 46.",
-    "contentEncoded": "<p>On the evening of Oct. 25, it was announced that prolific, Emmy-winning voice actor Eric Bauza suddenly passed away at age 46 from hypertensive heart disease. A notice was posted to his Instagram reading:</p>",
-    "enclosure": {
-      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/eric-bauza-road-runner-picture-from-instagram.png",
-      "type": "image/jpeg",
-      "length": "629"
-    },
-    "decision": "toss",
-    "reason": "Celebrity death notice; not game/horror/film/Lego/MTG related.",
-    "decidedBy": "claude",
-    "firstSeen": "2026-10-26T11:28:44.286Z"
-  },
-  {
-    "guid": "https://www.polygon.com/best-star-trek-original-series-episodes-ranked/",
-    "title": "10 Best 'Star Trek: Original Series' Episodes of All Time, Ranked",
-    "link": "https://www.polygon.com/best-star-trek-original-series-episodes-ranked/",
-    "creator": "Terry Terrones",
-    "pubDate": "Mon, 26 Oct 2026 08:00:18 GMT",
-    "categories": [
-      "Polygon Lists",
-      "Star Trek",
-      "Star trek"
-    ],
-    "description": "From iconic villains to heartbreaking sacrifices, these 10 episodes show why the original Star Trek remains essential television.",
-    "contentEncoded": "<p>Ask 10 <a href=\"https://www.polygon.com/star-trek/\" target=\"_blank\">Star Trek</a> fans to name the best episodes from <em>The Original Series </em>, and you're likely to get 10 completely different lists. Some will prioritize the writing, others the performances or the science-fiction concepts. And inevitably, somebody will argue that <a href=\"https://www.polygon.com/star-trek-city-on-the-edge-of-forever/\" target=\"_blank\">\"The City on the Edge of Forever\"</a> belongs at No. 1. They might even be right.</p>",
-    "enclosure": {
-      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/star-trek-the-original-series.jpg",
-      "type": "image/jpeg",
-      "length": "679"
-    },
-    "decision": "toss",
-    "reason": "Generic TV retrospective ranking list without substance.",
-    "decidedBy": "claude",
-    "firstSeen": "2026-10-26T11:28:44.286Z"
-  },
-  {
-    "guid": "https://www.polygon.com/best-snes-games-nintendo-switch-online-classics/",
-    "title": "The 10 Best SNES Games to Play on Nintendo Switch Online",
-    "link": "https://www.polygon.com/best-snes-games-nintendo-switch-online-classics/",
-    "creator": "Oli Welsh",
-    "pubDate": "Mon, 26 Oct 2026 02:44:34 GMT",
-    "categories": [
-      "What to Play",
-      "Nintendo"
-    ],
-    "description": "From Super Mario World to The Legend of Zelda: A Link to the Past, these are the best games on the Super Nintendo collection on Nintendo Classics.",
-    "contentEncoded": "<p>The Super Nintendo Entertainment System has one of the finest game catalogs of any console ever released, and there's a strong selection of 77 games available on Nintendo Classics as part of Nintendo Switch Online. Sadly, most of the console's great third-party games aren't represented; you won't find <em>Chrono Trigger</em>, <em>Final Fantasy 6</em>, or <em>Street Fighter 2 Turbo </em>on the service.</p>",
-    "enclosure": {
-      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/snes-classics-2.jpg",
-      "type": "image/jpeg",
-      "length": "347"
-    },
-    "decision": "keep",
-    "reason": "Game recommendations and analysis; what to play piece.",
-    "decidedBy": "claude",
-    "firstSeen": "2026-10-26T05:12:41.458Z"
   }
 ]
