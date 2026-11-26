@@ -1,5 +1,143 @@
 [
   {
+    "guid": "https://www.polygon.com/ridley-scott-alien-leaving-netflix/",
+    "title": "Ridley Scott’s Sci-Fi Thriller Masterpiece Is Officially Being Removed From Netflix",
+    "link": "https://www.polygon.com/ridley-scott-alien-leaving-netflix/",
+    "creator": "Maria Loreto",
+    "pubDate": "Thu, 26 Nov 2026 00:01:17 GMT",
+    "categories": [
+      "What to Watch",
+      "Alien",
+      "Movies",
+      "Alien"
+    ],
+    "description": "Ridley Scott's Alien leaves Netflix on Dec. 1. Here's why the 1979 sci-fi horror classic's restraint still makes it the best movie in the franchise.",
+    "contentEncoded": "<p>Ridley Scott is one of those staple filmmakers. The 88-year-old English director has made countless noteworthy films, TV shows, and commercials over the course of his prolific career, dabbling in so many genres that it’s difficult to narrow down the parameters of his work. With the release of this year’s <a href=\"https://www.polygon.com/the-dog-stars-review-ridley-scott/\" target=\"_blank\"><em>The Dog Stars</em></a>, Scott has directed 31 feature films. They don’t all share the same characteristics, but broadly, his films are known for huge and immersive sets, battles on an epic scale, and big and heady concepts.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/alien_2.jpg",
+      "type": "image/jpeg",
+      "length": "143"
+    },
+    "decision": "keep",
+    "reason": "Horror film review/analysis of classic Alien; prestige project.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-26T02:46:53.086Z"
+  },
+  {
+    "guid": "https://www.polygon.com/gta-6-adrenaline-how-to-get/",
+    "title": "How to get adrenaline in GTA 6",
+    "link": "https://www.polygon.com/gta-6-adrenaline-how-to-get/",
+    "creator": "Josh Broadwell",
+    "pubDate": "Wed, 25 Nov 2026 22:57:40 GMT",
+    "categories": [
+      "Guides",
+      "Grand Theft Auto 6"
+    ],
+    "description": "You can get more adrenaline in GTA 6 by looking in specific places at robbery locations or in ambulances. Here's how to get adrenaline in GTA 6",
+    "contentEncoded": "<p><strong>Adrenaline</strong> acts as an emergency boost to all your stats in <a href=\"https://www.polygon.com/game/grand-theft-auto-6/40846/\" target=\"_blank\"><em>Grand Theft Auto 6</em></a>, as it temporarily negates health, stamina, and focus loss. It's meant to get you out of an emergency situation safely or help you burst into a tense situation and mop it up fast. Unlike Zombix and other restoratives, though, you can't buy adrenaline — not from anywhere we've found so far, at least — nor can you expect to find it in abundance throughout Leonida. There is, however, a small set of locations you can reliably get adrenaline from.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/gta-6-adrenaline.jpg",
+      "type": "image/jpeg",
+      "length": "500761"
+    },
+    "decision": "toss",
+    "reason": "Rule: category \"Guides\"",
+    "decidedBy": "rule",
+    "firstSeen": "2026-11-26T02:46:53.086Z"
+  },
+  {
+    "guid": "https://www.polygon.com/exoprimal-capcom-shutting-down-2027/",
+    "title": "Capcom Is Officially Killing Its 'Jurassic World Meets Overwatch' Shooter",
+    "link": "https://www.polygon.com/exoprimal-capcom-shutting-down-2027/",
+    "creator": "Michael McWhertor",
+    "pubDate": "Wed, 25 Nov 2026 22:23:21 GMT",
+    "categories": [
+      "Gaming",
+      "Exoprimal"
+    ],
+    "description": "Exoprimal, the not-Dino Crisis multiplayer shooter, is officially shutting down in 2027, four years after is PlayStation, Xbox, and PC launch.",
+    "contentEncoded": "<p>Four years after <a href=\"https://www.polygon.com/reviews/23802000/exoprimal-review-exosuits-dinosaurs-game-pass-ps5-pc-xbox/\" target=\"_blank\">the game's launch</a>, Capcom is officially shutting down <em><a href=\"https://www.polygon.com/game/exoprimal/40861/\" target=\"_blank\">Exoprimal</a></em>, the company's 5v5 action game about a futuristic dinosaur crisis. Capcom announced Tuesday that service for <em>Exoprimal</em> will be discontinued in September 2027 — meaning that <em>Exoprimal </em>will no longer be playable — and that the game will no longer be sold starting in March 2027.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/ss_e86abd66a1098f48451d0659216b16c2a75f1b84-1920x1080.jpg",
+      "type": "image/jpeg",
+      "length": "665"
+    },
+    "decision": "keep",
+    "reason": "Video game shutdown news; industry/business update.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-26T02:46:53.086Z"
+  },
+  {
+    "guid": "https://www.polygon.com/gta-6-peewees-billboard-location-challenge-waink/",
+    "title": "All Peewees Billboard locations in GTA 6",
+    "link": "https://www.polygon.com/gta-6-peewees-billboard-location-challenge-waink/",
+    "creator": "Johnny Yu",
+    "pubDate": "Wed, 25 Nov 2026 22:18:47 GMT",
+    "categories": [
+      "Guides",
+      "Grand Theft Auto 6"
+    ],
+    "description": "Peewees Billboards will lead you to a grand prize in GTA 6. Here's where you can find them all, how to solve the puzzle, and how to claim the reward.",
+    "contentEncoded": "<p><strong>Peewees Billboards</strong> are one of the many scannable WAiNK collectibles in <a href=\"https://www.polygon.com/game/grand-theft-auto-6/40846/\" target=\"_blank\"><em>Grand Theft Auto 6</em></a>, but they're also part of the Mr. Enigma X Peewees scavenger hunt. Mr. Enigma, a play on Dr. Pepper, and the Peewees, a play on Popeyes, have teamed up to create a challenge where you must find four Peewees billboards, and you'll earn a valuable reward.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/peewees-billboard_gta6.jpg",
+      "type": "image/jpeg",
+      "length": "371"
+    },
+    "decision": "toss",
+    "reason": "Rule: category \"Guides\"",
+    "decidedBy": "rule",
+    "firstSeen": "2026-11-26T02:46:53.086Z"
+  },
+  {
+    "guid": "https://www.polygon.com/avengers-doomsday-patrick-stewart-tribute/",
+    "title": "'Avengers: Doomsday' Is Making Sure Patrick Stewart Gets a Proper Sendoff",
+    "link": "https://www.polygon.com/avengers-doomsday-patrick-stewart-tribute/",
+    "creator": "Sam Hill",
+    "pubDate": "Wed, 25 Nov 2026 20:28:13 GMT",
+    "categories": [
+      "Movies",
+      "Avengers: Doomsday",
+      "Marvel",
+      "X-Men",
+      "Splinter"
+    ],
+    "description": "Marvel Studios president Kevin Feige confirms a Patrick Stewart tribute is being planned for Avengers: Doomsday.",
+    "contentEncoded": "<p>Patrick Stewart's final on-screen performance will arrive in December's <a href=\"https://www.polygon.com/avengers-doomsday/\" target=\"_blank\"><em>Avengers: Doomsday</em></a>, and <a href=\"http://polygon.com/marvel\" target=\"_blank\">Marvel</a> is making sure the late actor receives a fitting farewell.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/patrick-stewart-x-men.jpg",
+      "type": "image/jpeg",
+      "length": "3286"
+    },
+    "decision": "toss",
+    "reason": "Marvel franchise casting/set gossip; big-franchise churn.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-26T02:46:53.086Z"
+  },
+  {
+    "guid": "https://www.polygon.com/best-ps5-playstation-5-games/",
+    "title": "The 25 Best PS5 Games in 2026",
+    "link": "https://www.polygon.com/best-ps5-playstation-5-games/",
+    "creator": "Oli Welsh",
+    "pubDate": "Wed, 25 Nov 2026 20:23:05 GMT",
+    "categories": [
+      "What to Play",
+      "PlayStation 5",
+      "PlayStation"
+    ],
+    "description": "What are the best PlayStation 5 games? From GTA 6 to Star Wars: Galactic Racer, here are our favorite games to play on the Sony PS5.",
+    "contentEncoded": "<p>That aside, the PS5's library has grown to the extent that there's a lot to sort through, and new and old PS5 owners will be wondering what to play. So here’s our living list of the best video games we’ve played on the platform — influenced by the personal tastes of the Polygon team — to be updated as more games come out.</p>",
+    "enclosure": {
+      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/jason_and_lucia_20-1-1.jpg",
+      "type": "image/jpeg",
+      "length": "1368"
+    },
+    "decision": "keep",
+    "reason": "Video game recommendations and features; general keep.",
+    "decidedBy": "claude",
+    "firstSeen": "2026-11-26T02:46:53.086Z"
+  },
+  {
     "guid": "https://www.polygon.com/fortnite-pirate-shop-access-token-cheaters-crack-down/",
     "title": "Fortnite Cracks Down on Pirate Shop Token Cheaters and Teammates",
     "link": "https://www.polygon.com/fortnite-pirate-shop-access-token-cheaters-crack-down/",
@@ -17874,165 +18012,5 @@
     "reason": "Generic animated series news; Avatar falls under big-franchise churn.",
     "decidedBy": "claude",
     "firstSeen": "2026-10-27T06:47:01.716Z"
-  },
-  {
-    "guid": "https://www.polygon.com/phantom-blade-zero-release-time-when-edt-pdt/",
-    "title": "Phantom Blade Zero release time in your time zone",
-    "link": "https://www.polygon.com/phantom-blade-zero-release-time-when-edt-pdt/",
-    "creator": "Paulo Kawanishi",
-    "pubDate": "Tue, 27 Oct 2026 02:01:21 GMT",
-    "categories": [
-      "Guides",
-      "Phantom Blade Zero"
-    ],
-    "description": "Here you find Phantom Blade Zero release date and release time in different time zones, and all the pre-order bonuses you can receive.",
-    "contentEncoded": "<p>S-Game's <a href=\"https://www.polygon.com/phantom-blade-zero/\" target=\"_blank\"><em>Phantom Blade Zero</em></a> is a unique action game that lets you experience the Wuxia aesthetic and fight enemies as a true legendary swordmaster. The protagonist is Soul, a powerful member of the Order who has only 66 days to find a new heart. As he travels, Soul learns about a complex network of conspiracies.</p>",
-    "enclosure": {
-      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/phantombladezero_servicepost_head.jpg",
-      "type": "image/jpeg",
-      "length": "209"
-    },
-    "decision": "toss",
-    "reason": "Rule: category \"Guides\"",
-    "decidedBy": "rule",
-    "firstSeen": "2026-10-27T06:47:01.716Z"
-  },
-  {
-    "guid": "https://www.polygon.com/super-mario-sunshine-nintendo-switch-online/",
-    "title": "24 Years Later, Nintendo's Most Divisive Mario Game Is a Miracle on Switch 2",
-    "link": "https://www.polygon.com/super-mario-sunshine-nintendo-switch-online/",
-    "creator": "Giovanni Colantonio",
-    "pubDate": "Tue, 27 Oct 2026 01:06:52 GMT",
-    "categories": [
-      "What to Play",
-      "Super Mario Sunshine",
-      "Nintendo"
-    ],
-    "description": "Super Mario Sunshine was beloved at launch but grew to become one of the most divisive Mario games ever. Here's why it's worth playing in 2026.",
-    "contentEncoded": "<p>I can’t remember what I had for lunch yesterday, but I still remember the day<em><a href=\"https://www.polygon.com/game/super-mario-sunshine/7530/\" target=\"_blank\">Super Mario Sunshine</a></em> launched in 2002. It was a summer's day and I couldn’t wait to line up at the GameStop in the Natick Mall to pick up my pre-ordered copy. It was getting rave reviews — a 9.4 from IGN, a 9.75 from Game Informer, perfect marks from Nintendo Power! — so it felt like an instant classic. Players at the time seemed to agree, considering that the 3D platformer would go on to become the third best-selling GameCube game of all time. Everyone loved <em>Super Mario Sunshine.</em></p>",
-    "enclosure": {
-      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/02/mario-sports.jpg",
-      "type": "image/jpeg",
-      "length": "225"
-    },
-    "decision": "toss",
-    "reason": "Nostalgia retrospective; old game suddenly popular again pattern.",
-    "decidedBy": "claude",
-    "firstSeen": "2026-10-27T01:24:08.938Z"
-  },
-  {
-    "guid": "https://www.polygon.com/nintendo-switch-nx-reveal-october-2016/",
-    "title": "10 Years Later, Nintendo's Switch Reveal Is a Fascinating Time Capsule",
-    "link": "https://www.polygon.com/nintendo-switch-nx-reveal-october-2016/",
-    "creator": "Jen Glennon",
-    "pubDate": "Tue, 27 Oct 2026 01:00:17 GMT",
-    "categories": [
-      "Gaming",
-      "Nintendo",
-      "nintendo switch"
-    ],
-    "description": "Nintendo’s hybrid console was not a sure thing back in 2016",
-    "contentEncoded": "<p>It seems outlandish to think about now that it’s sold <a href=\"https://www.nintendo.co.jp/ir/en/finance/hard_soft/index.html\" target=\"_blank\">156 million units</a>, but there was a lot of skepticism about the <a href=\"https://www.polygon.com/nintendo-switch-2/\" target=\"_blank\">Nintendo Switch</a> in October 2016.</p>",
-    "enclosure": {
-      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/7312765/NintendoSwitch_hardware.0.jpg",
-      "type": "image/jpeg",
-      "length": "418347"
-    },
-    "decision": "toss",
-    "reason": "Nostalgia retrospective; 10 years later piece without new announcement.",
-    "decidedBy": "claude",
-    "firstSeen": "2026-10-27T01:24:08.938Z"
-  },
-  {
-    "guid": "https://www.polygon.com/marvel-guardians-galaxy-underrated-superhero-game/",
-    "title": "Marvel's Forgotten Mass Effect Clone Couldn't Escape the Avengers' Failure",
-    "link": "https://www.polygon.com/marvel-guardians-galaxy-underrated-superhero-game/",
-    "creator": "Austin Manchester",
-    "pubDate": "Tue, 27 Oct 2026 00:01:17 GMT",
-    "categories": [
-      "Gaming",
-      "Marvel's Guardians of the Galaxy",
-      "Marvel's Guardians of the Galaxy: Encore Edition"
-    ],
-    "description": "Marvel's Guardians of the Galaxy was released five years ago and is still one of the best superhero games around, no matter what Square Enix thinks.",
-    "contentEncoded": "<p>The Avengers are massively successful on the big screen, with four films collectively making nearly $8 billion at the worldwide box office. But that cinematic success hasn't carried over to the video game world. Crystal Dynamics’ 2020 <a href=\"https://www.polygon.com/game/marvels-avengers/40562/\" target=\"_blank\"><em>Marvel’s Avengers</em></a> was a disappointment, with a tepid response from critics and players both. While the character writing was on point, its combat was a repetitive grind built around superfluous live-service elements.</p>",
-    "enclosure": {
-      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/guardians-of-the-galaxy-team-lineup.jpg",
-      "type": "image/jpeg",
-      "length": "477"
-    },
-    "decision": "keep",
-    "reason": "Video game analysis and feature about notable game worth playing.",
-    "decidedBy": "claude",
-    "firstSeen": "2026-10-27T01:24:08.938Z"
-  },
-  {
-    "guid": "https://www.polygon.com/save-mass-effect-campaign-the-expanse-amazon/",
-    "title": "Mass Effect's Longshot #SaveMassEffect Campaign Actually Has a Chance",
-    "link": "https://www.polygon.com/save-mass-effect-campaign-the-expanse-amazon/",
-    "creator": "Ari Notis",
-    "pubDate": "Mon, 26 Oct 2026 21:00:17 GMT",
-    "categories": [
-      "Analysis",
-      "Mass Effect: Universe",
-      "Mass Effect: Legendary Edition",
-      "The Expanse"
-    ],
-    "description": "Mass Effect fans have rallied behind the #SaveMassEffect campaign, mirroring a similar fan campaign that rescued a beloved sci-fi series.",
-    "contentEncoded": "<p>On Oct. 21, <a href=\"https://www.polygon.com/ea-bioware-closure-mass-efffect-5-canceled/\" target=\"_blank\">EA officially announced the closure</a> of legendary RPG maker BioWare after 30 years of operation. With the shutdown, the next Mass Effect game is now trapped in EA IP purgatory. But over the past week, devoted fans of the series have rallied around a social media campaign to save the game, fittingly called <a href=\"https://www.change.org/p/savemasseffect\" target=\"_blank\">#SaveMassEffect</a>. And even though it's one hell of a longshot, there's historical precedent for success here.</p>",
-    "enclosure": {
-      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/mass-effect-universe.jpg",
-      "type": "image/jpeg",
-      "length": "56"
-    },
-    "decision": "keep",
-    "reason": "Mass Effect fan campaign news with substantive analysis and precedent.",
-    "decidedBy": "claude",
-    "firstSeen": "2026-10-26T21:50:39.662Z"
-  },
-  {
-    "guid": "https://www.polygon.com/emberville-early-access-launch-delay/",
-    "title": "Stardew Valley-inspired RPG Gets Shock Last-Minute Delay",
-    "link": "https://www.polygon.com/emberville-early-access-launch-delay/",
-    "creator": "Sam Hill",
-    "pubDate": "Mon, 26 Oct 2026 20:46:38 GMT",
-    "categories": [
-      "Gaming",
-      "Emberville",
-      "Stardew Valley"
-    ],
-    "description": "Emberville delays Early Access until January 2027 as developer works on combat improvements to the Stardew Valley-like PC RPG.",
-    "contentEncoded": "<p><em>Emberville</em>, a dark fantasy RPG blending <a href=\"https://www.polygon.com/game/stardew-valley/38933/\" target=\"_blank\"><em>Stardew Valley</em></a>-style farming with action-heavy dungeon crawling and <a href=\"https://www.polygon.com/emberville-voice-cast-full/\" target=\"_blank\">an all-star voice cast</a>, has delayed its launch just one day before its scheduled release.</p>",
-    "enclosure": {
-      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/emberville.jpg",
-      "type": "image/jpeg",
-      "length": "369"
-    },
-    "decision": "keep",
-    "reason": "Game release news and development updates are core content.",
-    "decidedBy": "claude",
-    "firstSeen": "2026-10-26T21:50:39.662Z"
-  },
-  {
-    "guid": "https://www.polygon.com/kpop-demon-hunters-new-video-how-its-done-netflix/",
-    "title": "Huntr/x Returns in Surprise New KPop Demon Hunters Short",
-    "link": "https://www.polygon.com/kpop-demon-hunters-new-video-how-its-done-netflix/",
-    "creator": "Michael McWhertor",
-    "pubDate": "Mon, 26 Oct 2026 20:43:40 GMT",
-    "categories": [
-      "News",
-      "KPop Demon Hunters"
-    ],
-    "description": "Netflix released an official new KPop Demon Hunters choreography video for \"How It's Done\" aimed a KPDH fans.",
-    "contentEncoded": "<p>While <em><a href=\"https://www.polygon.com/kpop-demon-hunters/\" target=\"_blank\">KPop Demon Hunters</a></em> fans patiently wait for the forthcoming sequel, Netflix is dropping new video content from 2025's breakout animated musical adventure, starting with footage that didn't appear in the film. On Monday, Netflix released a short video that reveals the full choreography for Huntr/x's \"How It's Done,\" promising that the new clip \"is just the opening act\" for new KPop Demon Hunters reveals.</p>",
-    "enclosure": {
-      "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/11/kpop-demon-hunters-huntrix-on-stage.jpg",
-      "type": "image/jpeg",
-      "length": "198"
-    },
-    "decision": "toss",
-    "reason": "Anime/animated series news outside game focus area.",
-    "decidedBy": "claude",
-    "firstSeen": "2026-10-26T21:50:39.662Z"
   }
 ]
